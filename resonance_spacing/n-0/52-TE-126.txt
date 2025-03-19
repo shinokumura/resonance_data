@@ -11,12 +11,12 @@
 #
 # Data Table
 ## Experimental Data
-# EXFOR ID          First Author            Year   En_min[MeV]  En_max [MeV] Data [keV]   dData [keV]       Momentum L   SPIN J       PARITY
-20120-043-0         H.Tellier               1970          NAN   1.7700E-02   2.0690E-01          NAN        0.0          NAN          NAN
+# EXFOR ID          First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L   SPIN J       PARITY
+20120-043-0         H.Tellier               1970          NAN   1.7700E-02   2.0690E+02          NAN        0.0          NAN          NAN
 
 
 
 ## RIPL3 Data
-# ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [keV]   dData [keV]       Momentum L
-RIPL-3 D0           A.V. Ignatyuk           2009          NAN          NAN   6.4000E-01   1.7000E-01        0.0
+# ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L
+RIPL-3 D0           A.V. Ignatyuk           2009          NAN          NAN   6.4000E+02   1.7000E+02        0.0
 RIPL-3 D1           A.V. Ignatyuk           2009          NAN          NAN   2.0000E-01   5.0000E-02        1.0

@@ -11,16 +11,16 @@
 #
 # Data Table
 ## Experimental Data
-# EXFOR ID          First Author            Year   En_min[MeV]  En_max [MeV] Data [keV]   dData [keV]       Momentum L   SPIN J       PARITY
-11948-012-0         J.S.Desjardins          1960          NAN          NAN   1.5800E-02          NAN        NAN          NAN          NAN
-11948-012-0         J.S.Desjardins          1960          NAN          NAN   1.6800E-02          NAN        NAN          NAN          NAN
-11329-105-2         J.H.Gibbons             1961   1.0000E-02   2.0000E-01   1.7100E-02          NAN        NAN          NAN          NAN
-40778-089-0         S.P.Kapchigashev        1966          NAN   5.0000E-02   1.6700E-01   5.0000E-02        NAN          NAN          NAN
-41330-011-0         V.S.Shorin              1975   5.0000E-03   8.0000E-02   1.2300E-02          NAN        NAN          NAN          NAN
+# EXFOR ID          First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L   SPIN J       PARITY
+11948-012-0         J.S.Desjardins          1960          NAN          NAN   1.5800E+01          NAN        NAN          NAN          NAN
+11948-012-0         J.S.Desjardins          1960          NAN          NAN   1.6800E+01          NAN        NAN          NAN          NAN
+11329-105-2         J.H.Gibbons             1961   1.0000E-02   2.0000E-01   1.7100E+01          NAN        NAN          NAN          NAN
+40778-089-0         S.P.Kapchigashev        1966          NAN   5.0000E-02   1.6700E+02   5.0000E+01        NAN          NAN          NAN
+41330-011-0         V.S.Shorin              1975   5.0000E-03   8.0000E-02   1.2300E+01          NAN        NAN          NAN          NAN
 
 
 
 ## RIPL3 Data
-# ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [keV]   dData [keV]       Momentum L
-RIPL-3 D0           A.V. Ignatyuk           2009          NAN          NAN   1.5500E-02   8.0000E-04        0.0
+# ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L
+RIPL-3 D0           A.V. Ignatyuk           2009          NAN          NAN   1.5500E+01   8.0000E-01        0.0
 RIPL-3 D1           A.V. Ignatyuk           2009          NAN          NAN          NAN          NAN        1.0

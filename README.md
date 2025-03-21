@@ -2,7 +2,7 @@
 
 This repository contains (and will contain) resonance parameters, resonance spacing (D0, D1), resonance integral, level density, and strength function datasets extracted from the [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) using the [EXFOR Parser](https://github.com/IAEA-NDS/exforparser).  
 
-The data in this repository is subject to change and will be updated irregularly based on updates to the [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) and the [EXFOR Parser](https://github.com/IAEA-NDS/exforparser).  
+The data in this repository is under testing, so they are subject to change. The repository will be updated irregularly based on updates to the [EXFOR Master Files](https://github.com/IAEA-NDS/exfor_master) and the [EXFOR Parser](https://github.com/IAEA-NDS/exforparser).  
 
 ---
 
@@ -26,7 +26,17 @@ Example: [(57-LA-139(N,G),,SIG) at ~30 keV](https://github.com/shinokumura/param
 
 ---
 
-### **3. Resonance Spacing**  
+### **3. Gamma_gamma (Averaged capture width)**  
+Example: [(73-TA-181(N,G),,WID,,AV)](https://github.com/shinokumura/resonance_data/blob/main/gamma_gamma/n-g/73-TA-181.txt)  
+
+- **EXFOR Entry #10577040**  
+   - [EXFOR Master File](https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10577.x4)  
+   - [EXFOR Data Explorer](https://nds.iaea.org/dataexplorer/exfor/entry/10577-040-3)  
+
+
+---
+
+### **4. Resonance Spacing**  
 Example: [(94-PU-239(N,0),,D)](https://github.com/shinokumura/parameters_data/blob/main/resonance_spacing/n-0/94-PU-239.txt)  
 
 - **EXFOR Entry #40104007**  

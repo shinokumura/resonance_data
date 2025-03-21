@@ -1,0 +1,29 @@
+# Header: 
+#   title: 80-HG-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 80 
+#   A: 0 
+#   Nuclide: 80-HG-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.4500e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.66429E-01  |   5.66594E-02   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.40137E-01 +/-  8.13319E-03   (N = 7)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40374-018-0         T.S.Belanova            1958   2.4000E-02   3.0000E-03   2.3000E-01   1.0000E-02                
+11778-015-0         H.W.Schmitt             1960   2.4000E-02   2.2000E-03   3.8000E-01   1.0000E-01                
+11329-069-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   2.9500E-01   2.6550E-02                
+20024-006-0         I.Bergqvist             1963   3.4500E-02   0.0000E+00   2.2000E-01   5.0000E-02                
+40072-015-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.3300E-01   3.0000E-02                
+40072-033-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.7100E-01   3.2000E-02                
+40072-033-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.3600E-01   3.0000E-02                

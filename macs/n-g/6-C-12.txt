@@ -1,0 +1,31 @@
+# Header: 
+#   title: 6-C-12(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 6 
+#   A: 12 
+#   Nuclide: 6-C-12 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 7.66500E-06  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 1.68000E-05  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14127-002-0         R.L.Macklin             1990   3.0000E-02   0.0000E+00   7.6650E-06   0.0000E+00     MXW        
+22271-007-0         Y.Nagai                 1991   3.0000E-02   0.0000E+00   1.6800E-05   2.1000E-06     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+23002-004-0         T.Ohsaki                1994   3.0000E-02   0.0000E+00   1.5400E-05   1.0000E-06     MXW   DERIV
+V0102-007-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.5400E-05   1.0000E-06     MXW   RECOM
+V1001-027-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.5400E-05   1.0000E-06     MXW   RECOM

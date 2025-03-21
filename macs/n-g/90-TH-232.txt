@@ -1,0 +1,50 @@
+# Header: 
+#   title: 90-TH-232(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 90 
+#   A: 232 
+#   Nuclide: 90-TH-232 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.4600e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.56438E-01  |   9.76777E-02  (N = 16)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.74773E-01 +/-  3.62175E-03  (N = 16)
+#   AV Simple Mean            |  Simple Stdev        : 5.30785E-01  |   6.14296E-02   (N = 7)
+#   AV Weighted Mean         +/- Weighted Error      : 5.46694E-01 +/-  5.89066E-03   (N = 7)
+#   SDT Simple Mean           |  Simple Stdev        : 3.90000E-01  |           NAN   (N = 1)
+#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11945-011-0         G.A.Linenberger         1946   3.3000E-02   0.0000E+00   5.7400E-01   0.0000E+00                
+11399-051-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   5.0000E-01   1.0000E-01                
+40374-020-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   4.5700E-01   4.0000E-03                
+40642-005-0         Ju.Ya.Stavisskiy        1961   3.0000E-02   0.0000E+00   6.0000E-01   0.0000E+00                
+12115-009-0         J.A.Miskel              1962   3.2000E-02   9.0000E-03   8.1900E-01   0.0000E+00                
+40803-002-0         V.A.Tolstikov           1963   3.0000E-02   0.0000E+00   6.2000E-01   0.0000E+00                
+30063-012-0         A.K.Chaubey             1965   2.4000E-02   0.0000E+00   4.8000E-01   5.0000E-02                
+40072-018-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   6.1500E-01   2.5000E-02                
+40072-036-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   6.5800E-01   2.9000E-02                
+40072-036-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   6.1000E-01   2.4000E-02                
+21334-002-0         M.C.Moxon               1968   3.0300E-02   0.0000E+00   4.2500E-01   8.5000E-02                
+10735-004-0         W.P.Poenitz             1978   3.0000E-02   0.0000E+00   4.6400E-01   2.8000E-02                
+10793-003-0         R.E.Chrien              1979   2.4000E-02   0.0000E+00   5.4000E-01   1.4000E-02                
+20871-002-0         K.Kobayashi             1979   2.8750E-02   0.0000E+00   4.9100E-01   0.0000E+00                
+21748-003-0         K.Kobayashi             1981   2.4000E-02   0.0000E+00   5.2000E-01   4.8700E-02                
+32918-002-0         Jincheng Wang           2023   2.8715E-02   0.0000E+00   5.3000E-01   2.3744E-02                
+10250-004-0         L.Forman                1971   2.9500E-02   0.0000E+00   6.3200E-01   0.0000E+00      AV        
+10554-002-0         R.L.Macklin             1977   3.0000E-02   0.0000E+00   4.3740E-01   0.0000E+00      AV        
+21748-002-0         K.Kobayashi             1981   2.8750E-02   0.0000E+00   4.9200E-01   4.9100E-02      AV        
+22654-003-0         K.Wisshak               2001   2.7500E-02   0.0000E+00   5.2540E-01   8.9318E-03      AV        
+22699-002-0         G.Lobo                  2002   2.7500E-02   0.0000E+00   5.4440E-01   1.6331E-02      AV        
+22875-002-0         A.Borella               2006   2.5000E-02   0.0000E+00   5.7130E-01   9.0837E-03      AV        
+22931-002-0         G.Aerts                 2006   3.0003E-02   0.0000E+00   5.1300E-01   0.0000E+00      AV        
+40105-007-0         V.B.Chelnokov           1972   3.4600E-02   0.0000E+00   3.9000E-01   5.0000E-02     SDT        

@@ -1,0 +1,36 @@
+# Header: 
+#   title: 70-YB-174(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 70 
+#   A: 174 
+#   Nuclide: 70-YB-174 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.94000E-01  |   1.41421E-03   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.94385E-01 +/-  1.49769E-02   (N = 2)
+#   AV Simple Mean            |  Simple Stdev        : 1.64400E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40274-005-0         V.S.Shorin              1975   2.9000E-02   0.0000E+00   1.9500E-01   1.8000E-02                
+41225-018-0         M.V.Bokhovko            1993   3.0000E-02   0.0000E+00   1.9300E-01   2.7000E-02                
+22499-012-0         K.Wisshak               2000   2.7500E-02   0.0000E+00   1.6440E-01   2.1372E-03      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+41177-054-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   1.7300E-01   1.4000E-02     MXW   DERIV
+22499-018-0         K.Wisshak               2000   3.0000E-02   0.0000E+00   1.5050E-01   1.8000E-03     MXW   DERIV
+23267-012-0         J.Marganiec             2014   3.0000E-02   0.0000E+00   1.5750E-01   5.7000E-03     MXW   DERIV
+23267-046-0         J.Marganiec             2014   3.0000E-02   0.0000E+00   1.6730E-01   5.8000E-03     MXW   DERIV
+V0102-388-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.5100E-01   2.0000E-03     MXW   RECOM
+V0102-389-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.5100E-01   1.7000E-03     MXW   RECOM
+V1002-342-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.2530E-01   1.4000E-03     MXW   RECOM

@@ -1,0 +1,25 @@
+# Header: 
+#   title: 46-PD-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 46 
+#   A: 0 
+#   Nuclide: 46-PD-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.9800e-02 MeV - 3.1200e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.45333E-01  |   1.41539E-02   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.53551E-01 +/-  3.03410E-02   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-026-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   4.5400E-01   4.0860E-02                
+11329-027-0         J.H.Gibbons             1961   3.1200E-02   0.0000E+00   4.2900E-01   0.0000E+00                
+20358-008-0         D.Kompe                 1969   2.9800E-02   0.0000E+00   4.5300E-01   4.5300E-02                

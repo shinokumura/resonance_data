@@ -1,0 +1,23 @@
+# Header: 
+#   title: 92-U-233(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 92 
+#   A: 233 
+#   Nuclide: 92-U-233 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.25000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12331-003-0         J.C.Hopkins             1962   3.0000E-02   1.0000E-02   4.2500E-01   9.2000E-02                

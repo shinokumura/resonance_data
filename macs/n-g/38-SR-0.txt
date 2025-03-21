@@ -1,0 +1,26 @@
+# Header: 
+#   title: 38-SR-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 38 
+#   A: 0 
+#   Nuclide: 38-SR-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 9.72500E-02  |   5.57517E-02   (N = 4)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.24734E-02 +/-  2.82127E-03   (N = 4)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-019-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.5500E-01   1.5500E-02                
+40072-038-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.0500E-01   1.3000E-02                
+40717-002-0         T.S.Belanova            1966   2.4000E-02   0.0000E+00   1.0800E-01   1.5000E-02                
+30506-006-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   2.1000E-02   3.0000E-03                

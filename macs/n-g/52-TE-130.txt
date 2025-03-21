@@ -1,0 +1,38 @@
+# Header: 
+#   title: 52-TE-130(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 52 
+#   A: 130 
+#   Nuclide: 52-TE-130 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.3000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.26143E-02  |   2.22679E-02   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.33442E-02 +/-  2.14034E-03   (N = 7)
+#   MXW Simple Mean           |  Simple Stdev        : 1.40000E-02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SDT Simple Mean           |  Simple Stdev        : 1.35000E-02  |           NAN   (N = 1)
+#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11679-017-0         R.L.Macklin             1967   3.0000E-02   1.0000E-02   1.7800E-02   7.1000E-03                
+11679-017-0         R.L.Macklin             1967   3.0000E-02   1.0000E-02   1.0000E-02   6.9000E-03                
+30086-006-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   2.2000E-02   8.0000E-03                
+30086-007-0         A.K.Chaubey             1968   2.4000E-02   0.0000E+00   7.2000E-02   1.2000E-02                
+40006-003-0         A.G.Dovbenko            1968   2.4000E-02   0.0000E+00   1.4100E-02   4.7799E-03                
+40292-008-0         A.A.Bergman             1975   3.3000E-02   0.0000E+00   1.4400E-02   0.0000E+00                
+30390-012-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   8.0000E-03   3.0000E-03                
+14322-028-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   1.4000E-02   5.0000E-03     MXW        
+40718-006-0         A.A.Bergman             1965   3.0000E-02   0.0000E+00   1.3500E-02   0.0000E+00     SDT        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-262-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.4700E-02   2.8000E-03     MXW   RECOM

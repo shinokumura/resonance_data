@@ -1,0 +1,44 @@
+# Header: 
+#   title: 71-LU-176(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 71 
+#   A: 176 
+#   Nuclide: 71-LU-176 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0281e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.09280E+00  |   2.16092E-01   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.24216E+00 +/-  1.69040E-01   (N = 2)
+#   AV Simple Mean            |  Simple Stdev        : 1.63367E+00  |   3.43123E-02   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 1.63900E+00  |   0.00000E+00   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.63900E+00 +/-  4.70871E-03   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 1.98200E+00  |   8.06102E-02   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.98571E+00 +/-  6.49501E-02   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11679-021-0         R.L.Macklin             1967   3.0000E-02   1.0000E-02   2.2456E+00   1.7000E-01                
+14244-004-0         O.Roig                  2016   3.0281E-02   0.0000E+00   1.9400E+00   1.5930E+00                
+12880-004-0         H.Beer                  1984   2.5000E-02   0.0000E+00   1.5970E+00   0.0000E+00      AV        
+22483-007-0         H.Beer                  1984   2.5000E-02   0.0000E+00   1.6390E+00   0.0000E+00      AV        
+22917-009-0         K.Wisshak               2006   2.7500E-02   0.0000E+00   1.6650E+00   0.0000E+00      AV        
+22917-011-0         K.Wisshak               2006   3.0000E-02   0.0000E+00   1.6390E+00   1.4000E-02     MXW        
+14244-002-0         O.Roig                  2016   3.0000E-02   0.0000E+00   1.6390E+00   5.0000E-03     MXW        
+21647-006-0         H.Beer                  1980   2.5000E-02   0.0000E+00   1.9250E+00   9.5000E-02     SPA        
+21647-017-2         H.Beer                  1980   2.5000E-02   0.0000E+00   2.0390E+00   8.9000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+21647-011-0         H.Beer                  1980   3.0000E-02   0.0000E+00   1.7180E+00   8.5000E-02     MXW   DERIV
+21647-022-0         H.Beer                  1980   3.0000E-02   0.0000E+00   1.8200E+00   7.9000E-02     MXW   DERIV
+V0102-397-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.5320E+00   6.9000E-02     MXW   RECOM
+V0102-398-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.6390E+00   1.4000E-02     MXW   RECOM
+V1002-355-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.6000E+00   2.8000E-02     MXW   RECOM

@@ -1,0 +1,35 @@
+# Header: 
+#   title: 64-GD-154(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 64 
+#   A: 154 
+#   Nuclide: 64-GD-154 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.18000E+00  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 9.61945E-01  |   7.05864E-02   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      : 1.03156E+00 +/-  1.28619E-02   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 8.80000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40222-004-0         V.S.Shorin              1974   2.9800E-02   0.0000E+00   1.1800E+00   1.4000E-01                
+12964-003-0         H.Beer                  1988   2.5000E-02   0.0000E+00   9.1400E-01   0.0000E+00      AV        
+22386-009-0         K.Wisshak               1995   2.7500E-02   0.0000E+00   1.0430E+00   1.3559E-02      AV        
+23459-003-0         A.Mazzone               2020   2.8383E-02   0.0000E+00   9.2884E-01   4.0636E-02      AV        
+23459-006-0         A.Mazzone               2020   3.0000E-02   0.0000E+00   8.8000E-01   5.0000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22386-015-0         K.Wisshak               1995   3.0000E-02   0.0000E+00   1.0280E+00   1.2000E-02     MXW   DERIV
+V0102-353-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.0280E+00   1.2000E-02     MXW   RECOM

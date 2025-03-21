@@ -1,0 +1,43 @@
+# Header: 
+#   title: 52-TE-126(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 52 
+#   A: 126 
+#   Nuclide: 52-TE-126 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.3000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.27000E-02  |   1.09725E-02   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 8.28114E-02 +/-  2.17359E-03   (N = 5)
+#   AV Simple Mean            |  Simple Stdev        : 9.78500E-02  |   2.14253E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 8.38667E-02  |   4.44560E-03   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 8.13334E-02 +/-  9.87801E-04   (N = 3)
+#   SDT Simple Mean           |  Simple Stdev        : 8.10000E-02  |           NAN   (N = 1)
+#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+30063-007-0         A.K.Chaubey             1965   2.4000E-02   0.0000E+00   6.6000E-02   1.1000E-02                
+11679-015-0         R.L.Macklin             1967   3.0000E-02   1.0000E-02   9.4300E-02   1.1300E-02                
+11679-015-0         R.L.Macklin             1967   3.0000E-02   1.0000E-02   9.0500E-02   1.0500E-02                
+40292-006-0         A.A.Bergman             1975   3.3000E-02   0.0000E+00   8.0000E-02   0.0000E+00                
+22285-011-0         K.Wisshak               1991   2.7500E-02   0.0000E+00   8.2700E-02   2.3156E-03                
+13167-006-0         R.L.Macklin             1989   2.5000E-02   0.0000E+00   1.1300E-01   0.0000E+00      AV        
+22372-011-0         K.Wisshak               1992   2.7500E-02   0.0000E+00   8.2700E-02   1.9848E-03      AV        
+14322-026-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   8.9000E-02   1.5000E-02     MXW        
+22285-016-0         K.Wisshak               1991   3.0000E-02   0.0000E+00   8.1300E-02   1.4000E-03     MXW        
+22372-016-0         K.Wisshak               1992   3.0000E-02   0.0000E+00   8.1300E-02   1.4000E-03     MXW        
+40718-004-0         A.A.Bergman             1965   3.0000E-02   0.0000E+00   8.1000E-02   0.0000E+00     SDT        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-259-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   8.1300E-02   1.4000E-03     MXW   RECOM
+V1002-025-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   8.8300E-02   3.2000E-03     MXW   RECOM

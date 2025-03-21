@@ -1,0 +1,39 @@
+# Header: 
+#   title: 50-SN-117(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 50 
+#   A: 117 
+#   Nuclide: 50-SN-117 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.0400e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.32000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 3.51600E-01  |   2.47443E-02   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      : 3.65051E-01 +/-  5.51017E-03   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 3.68400E-01  |   7.01450E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 3.19094E-01 +/-  4.79288E-03   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 3.90000E-01  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11981-003-0         R.L.Macklin             1962   2.8800E-02   0.0000E+00   4.3200E-01   0.0000E+00                
+40960-006-0         V.M.Timokhov            1988   3.0000E-02   0.0000E+00   3.2400E-01   1.7000E-02      AV        
+22377-019-0         K.Wisshak               1996   2.7500E-02   0.0000E+00   3.7180E-01   6.3206E-03      AV        
+22982-007-0         J.Nishiyama             2008   3.0000E-02   0.0000E+00   3.5900E-01   1.5000E-02      AV        
+14322-003-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   4.1800E-01   8.8000E-02     MXW        
+22377-025-0         K.Wisshak               1996   3.0000E-02   0.0000E+00   3.1880E-01   4.8000E-03     MXW        
+11958-004-0         R.L.Macklin             1962   3.0400E-02   1.6000E-02   3.9000E-01   8.2000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40960-077-0         V.M.Timokhov            1988   3.0000E-02   0.0000E+00   3.0800E-01   1.5000E-02     MXW   DERIV
+V0102-236-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.1880E-01   4.8000E-03     MXW   RECOM

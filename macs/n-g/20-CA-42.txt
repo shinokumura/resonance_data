@@ -1,0 +1,27 @@
+# Header: 
+#   title: 20-CA-42(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 20 
+#   A: 42 
+#   Nuclide: 20-CA-42 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.5000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 1.75000E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+30356-003-0         A.R.De L.Musgrove       1977   3.5000E-02   0.0000E+00   1.7500E-02   2.5000E-03      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-054-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.5600E-02   2.0000E-03     MXW   RECOM
+V1001-135-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.5600E-02   2.0000E-03     MXW   RECOM

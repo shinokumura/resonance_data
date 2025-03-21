@@ -1,0 +1,33 @@
+# Header: 
+#   title: 70-YB-172(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 70 
+#   A: 172 
+#   Nuclide: 70-YB-172 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.09500E-01  |   2.33345E-02   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.09500E-01 +/-  2.33345E-02   (N = 2)
+#   AV Simple Mean            |  Simple Stdev        : 3.55600E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40274-003-0         V.S.Shorin              1975   2.9000E-02   0.0000E+00   3.9300E-01   3.3000E-02                
+41225-016-0         M.V.Bokhovko            1993   3.0000E-02   0.0000E+00   4.2600E-01   3.3000E-02                
+22499-010-0         K.Wisshak               2000   2.7500E-02   0.0000E+00   3.5560E-01   3.5560E-03      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+41177-045-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   4.2000E-01   2.5000E-02     MXW   DERIV
+22499-016-0         K.Wisshak               2000   3.0000E-02   0.0000E+00   3.4130E-01   3.0000E-03     MXW   DERIV
+V0102-386-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.4100E-01   3.0000E-03     MXW   RECOM
+V1002-336-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.4130E-01   3.0000E-03     MXW   RECOM

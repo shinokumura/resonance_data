@@ -1,0 +1,28 @@
+# Header: 
+#   title: 73-TA-180-M(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 73 
+#   A: 180 
+#   Nuclide: 73-TA-180-M 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 1.43100E+00  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22801-005-0         K.Wisshak               2004   2.7500E-02   0.0000E+00   1.4310E+00   2.2900E-01      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22801-007-0         K.Wisshak               2004   3.0000E-02   0.0000E+00   1.4650E+00   1.0000E-01     MXW   DERIV
+V0102-416-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.6400E+00   2.6000E-01     MXW   RECOM
+V0102-417-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.4650E+00   1.0000E-01     MXW   RECOM

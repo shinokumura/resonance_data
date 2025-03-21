@@ -1,0 +1,25 @@
+# Header: 
+#   title: 78-PT-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 78 
+#   A: 0 
+#   Nuclide: 78-PT-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.0100e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.45333E-01  |   3.46458E-02   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.28746E-01 +/-  2.75541E-02   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-064-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   3.3000E-01   2.9700E-02                
+11329-065-0         J.H.Gibbons             1961   3.0100E-02   0.0000E+00   3.8500E-01   0.0000E+00                
+11380-012-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   3.2100E-01   7.3830E-02                

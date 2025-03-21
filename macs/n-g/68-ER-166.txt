@@ -1,0 +1,26 @@
+# Header: 
+#   title: 68-ER-166(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 68 
+#   A: 166 
+#   Nuclide: 68-ER-166 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 6.36000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40520-024-0         V.N.Kononov             1977   3.0000E-02   0.0000E+00   6.3600E-01   5.4000E-02                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-374-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   5.6300E-01   5.6000E-02     MXW   RECOM

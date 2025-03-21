@@ -1,0 +1,53 @@
+# Header: 
+#   title: 53-I-127(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 53 
+#   A: 127 
+#   Nuclide: 53-I-127 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.3000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.81272E-01  |   3.48887E-01  (N = 18)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 8.30766E-01 +/-  1.52754E-02  (N = 18)
+#   AV Simple Mean            |  Simple Stdev        : 7.80250E-01  |   1.13253E-01   (N = 4)
+#   AV Weighted Mean         +/- Weighted Error      : 7.08875E-01 +/-  2.48574E-02   (N = 4)
+#   SPA Simple Mean           |  Simple Stdev        : 7.30000E-01  |   9.89949E-02   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 6.91468E-01 +/-  6.16330E-02   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11945-008-0         G.A.Linenberger         1946   3.3000E-02   0.0000E+00   1.0500E+00   0.0000E+00                
+11010-014-0         V.Hummel                1951   2.4000E-02   0.0000E+00   2.2000E+00   4.4000E-01                
+11399-033-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   8.2000E-01   6.0000E-02                
+40374-015-0         T.S.Belanova            1958   2.4000E-02   3.0000E-03   9.9000E-01   4.0000E-02                
+11098-010-0         F.Gabbard               1959   2.5000E-02   0.0000E+00   7.1000E-01   1.5000E-01                
+11778-011-0         H.W.Schmitt             1960   2.4000E-02   2.2000E-03   8.8500E-01   9.0000E-02                
+11778-012-0         H.W.Schmitt             1960   2.4000E-02   2.2000E-03   7.6800E-01   9.0000E-02                
+11818-010-0         L.W.Weston              1960   3.0000E-02   0.0000E+00   6.5000E-01   0.0000E+00                
+11329-036-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   7.3300E-01   6.5970E-02                
+11329-037-0         J.H.Gibbons             1961   3.0500E-02   0.0000E+00   7.2000E-01   0.0000E+00                
+40640-002-0         Yu.Ya.Stavisskii        1961   2.8000E-02   1.2000E-02   1.0100E+00   0.0000E+00                
+40797-008-0         Ju.P.Popov              1962   3.3000E-02   0.0000E+00   8.0000E-01   0.0000E+00                
+21150-002-0         J.C.Robertson           1965   2.4000E-02   0.0000E+00   8.3200E-01   2.6000E-02                
+30493-007-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   6.3800E-01   0.0000E+00                
+10434-005-0         K.Rimawi                1975   2.4300E-02   0.0000E+00   7.6700E-01   0.0000E+00                
+20432-004-0         N.Yamamuro              1975   2.4000E-02   4.0000E-04   7.8000E-01   4.0000E-02                
+22869-005-0         G.Noguere               2004   2.9500E-02   0.0000E+00   7.9040E-01   4.2700E-02                
+22869-006-0         G.Noguere               2004   2.6500E-02   0.0000E+00   7.1950E-01   7.0050E-02                
+41330-002-0         V.S.Shorin              1975   2.9000E-02   0.0000E+00   9.2300E-01   7.8000E-02      AV        
+21466-003-0         N.Yamamuro              1980   2.7500E-02   0.0000E+00   7.9700E-01   5.4000E-02      AV        
+12806-003-0         R.L.Macklin             1983   2.5000E-02   0.0000E+00   7.5100E-01   0.0000E+00      AV        
+22948-014-0         G.Noguere               2006   3.2850E-02   0.0000E+00   6.5000E-01   3.0000E-02      AV        
+41635-012-0         Yu.Ya.Stavisskii        1965   3.0000E-02   0.0000E+00   6.6000E-01   7.0000E-02     SPA        
+41635-016-0         Yu.Ya.Stavisskii        1965   3.0000E-02   0.0000E+00   8.0000E-01   1.3000E-01     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-263-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   6.3500E-01   3.0000E-02     MXW   RECOM

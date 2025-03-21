@@ -1,0 +1,31 @@
+# Header: 
+#   title: 64-GD-156(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 64 
+#   A: 156 
+#   Nuclide: 64-GD-156 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 6.06000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 5.77600E-01  |   4.75176E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      : 6.07417E-01 +/-  5.93746E-03   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40520-021-0         V.N.Kononov             1977   3.0000E-02   0.0000E+00   6.0600E-01   5.0000E-02                
+22386-011-0         K.Wisshak               1995   2.7500E-02   0.0000E+00   6.1120E-01   6.1120E-03      AV        
+23080-002-0         W.-Ch.Chung             2007   3.0000E-02   0.0000E+00   5.4400E-01   2.5024E-02      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22386-017-0         K.Wisshak               1995   3.0000E-02   0.0000E+00   6.1520E-01   5.1000E-03     MXW   DERIV
+V0102-355-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   6.1500E-01   5.0000E-03     MXW   RECOM

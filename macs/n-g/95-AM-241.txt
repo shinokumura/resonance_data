@@ -1,0 +1,28 @@
+# Header: 
+#   title: 95-AM-241(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 95 
+#   A: 241 
+#   Nuclide: 95-AM-241 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0030e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.32710E+00  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 2.71913E+00  |   2.36089E-01   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+21978-003-0         G.Vanpraet              1986   3.0030E-02   0.0000E+00   2.3271E+00   0.0000E+00                
+21978-002-0         G.Vanpraet              1986   2.5000E-02   0.0000E+00   2.4530E+00   0.0000E+00      AV        
+14209-005-0         M.Jandel                2008   2.8250E-02   0.0000E+00   2.8010E+00   4.7300E-01      AV        
+23237-008-0         K.Fraval                2014   2.9205E-02   0.0000E+00   2.9034E+00   0.0000E+00      AV        

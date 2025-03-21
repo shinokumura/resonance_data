@@ -1,0 +1,29 @@
+# Header: 
+#   title: 32-GE-72(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 32 
+#   A: 72 
+#   Nuclide: 32-GE-72 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.0202e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.68367E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 5.80000E-02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14791-003-0         A.Laminack              2022   3.0202E-02   0.0000E+00   5.6837E-02   0.0000E+00                
+14791-004-0         A.Laminack              2022   3.0000E-02   0.0000E+00   5.8000E-02   5.0000E-03     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-108-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   7.3000E-02   7.0000E-03     MXW   RECOM

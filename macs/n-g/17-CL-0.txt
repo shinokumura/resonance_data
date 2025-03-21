@@ -1,0 +1,26 @@
+# Header: 
+#   title: 17-CL-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 17 
+#   A: 0 
+#   Nuclide: 17-CL-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.0003e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.10000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   TTA Simple Mean           |  Simple Stdev        : 6.08650E-03  |           NAN   (N = 1)
+#   TTA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11331-008-0         R.L.Macklin             1963   3.0000E-02   7.0000E-03   1.1000E-02   4.0000E-03                
+14090-004-0         K.H.Guber               2002   3.0003E-02   0.0000E+00   6.0865E-03   0.0000E+00     TTA        

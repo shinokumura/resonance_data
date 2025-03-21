@@ -1,0 +1,25 @@
+# Header: 
+#   title: 56-BA-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 56 
+#   A: 0 
+#   Nuclide: 56-BA-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 7.40000E-02  |   2.97153E-02   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 5.68592E-02 +/-  3.81307E-03   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+13028-005-0         C.Kimball               1953   2.4000E-02   0.0000E+00   5.3000E-02   5.3000E-03                
+40374-016-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   1.0800E-01   0.0000E+00                
+11331-023-0         R.L.Macklin             1963   3.0000E-02   7.0000E-03   6.1000E-02   5.4900E-03                

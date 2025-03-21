@@ -1,0 +1,55 @@
+# Header: 
+#   title: 57-LA-139(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 57 
+#   A: 139 
+#   Nuclide: 57-LA-139 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0251e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.33528E-02  |   1.38077E-02   (N = 9)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.15710E-02 +/-  1.54961E-03   (N = 9)
+#   AV Simple Mean            |  Simple Stdev        : 4.30000E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 3.67543E-02  |   3.96686E-03   (N = 7)
+#   MXW Weighted Mean        +/- Weighted Error      : 3.68494E-02 +/-  5.24922E-04   (N = 7)
+#   SPA Simple Mean           |  Simple Stdev        : 3.42500E-02  |   1.48492E-03   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.50843E-02 +/-  2.34068E-04   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11399-035-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   5.0000E-02   7.0000E-03                
+11429-023-0         R.Booth                 1958   2.4000E-02   5.0000E-03   4.9000E-02   1.3000E-02                
+11329-038-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   5.5000E-02   1.0000E-02                
+40799-002-0         V.A.Konks               1964   2.9000E-02   0.0000E+00   5.0000E-02   0.0000E+00                
+30079-028-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   5.0000E-02   1.0000E-02                
+11624-007-0         D.C.Stupegia            1968   2.4000E-02   7.0000E-03   5.3000E-02   5.0000E-03                
+30493-008-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   1.3000E-02   0.0000E+00                
+30390-018-0         R.P.Anand               1979   2.5000E-02   5.0000E-03   2.9000E-02   4.0000E-03                
+23042-002-0         M.Igashira              2007   3.0251E-02   0.0000E+00   4.1175E-02   1.9330E-03                
+30384-004-0         A.R.De L.Musgrove       1977   2.5000E-02   0.0000E+00   4.3000E-02   0.0000E+00      AV        
+30384-005-0         A.R.De L.Musgrove       1977   3.0000E-02   0.0000E+00   3.6000E-02   5.0000E-03     MXW        
+22009-002-0         H.Beer                  1986   2.5000E-02   0.0000E+00   4.4100E-02   2.9000E-03     MXW        
+22009-003-0         H.Beer                  1986   3.0000E-02   0.0000E+00   3.8400E-02   2.7000E-03     MXW        
+32536-004-0         Xia Yijun               1990   2.4000E-02   0.0000E+00   3.2780E-02   3.1000E-03     MXW        
+22879-003-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.5700E-02   8.0000E-04     MXW        
+22879-006-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.7900E-02   8.0000E-04     MXW        
+22930-007-0         R.Terlizzi              2007   3.0000E-02   0.0000E+00   3.2400E-02   3.1000E-03     MXW        
+22879-002-0         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.3200E-02   7.3040E-04     SPA        
+22879-005-2         S.O'Brien               2003   2.5000E-02   0.0000E+00   3.5300E-02   2.4710E-04     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22879-004-0         S.O'Brien               2003   3.0000E-02   0.0000E+00   3.1600E-02   8.0000E-04     MXW   DERIV
+22879-007-0         S.O'Brien               2003   3.0000E-02   0.0000E+00   3.3600E-02   8.0000E-04     MXW   DERIV
+22978-009-0         G.Tagliente             2007   3.0000E-02   0.0000E+00   3.2400E-02   3.0000E-03     MXW   DERIV
+V0102-299-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.8400E-02   2.7000E-03     MXW   RECOM
+V0102-300-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.2400E-02   3.1000E-03     MXW   RECOM
+V1002-118-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.3600E-02   1.6000E-03     MXW   RECOM

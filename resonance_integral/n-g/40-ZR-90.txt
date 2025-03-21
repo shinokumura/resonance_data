@@ -1,0 +1,26 @@
+# Header: 
+#   title: 40-ZR-90(N,G) resonance_integral cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 1.5045e-01 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Resonance Integral Simple Mean  |  Simple Stdev        : 2.00000E-01  |           NAN   (N = 1)
+#   Resonance Integral Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40034-005-0         S.P.Kapchigashev        1965   2.5000E-02   0.0000E+00   2.0000E-01   3.0000E-02                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V1001-368-0         S.F.Mughabghab          2006   1.5045E-01   0.0000E+00   1.7000E-01   2.0000E-02     LIM    CALC

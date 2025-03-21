@@ -1,0 +1,38 @@
+# Header: 
+#   title: 72-HF-176(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 72 
+#   A: 176 
+#   Nuclide: 72-HF-176 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.63800E+00  |   2.92224E+00   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 5.76829E-01 +/-  3.55889E-02   (N = 3)
+#   AV Simple Mean            |  Simple Stdev        : 5.39500E-01  |   9.40452E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 5.94000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22360-031-1         M.C.Moxon               1974   2.9878E-02   0.0000E+00   4.2130E+00   3.2000E-01                
+22360-031-2         M.C.Moxon               1974   2.9878E-02   0.0000E+00   6.2300E+00   3.5000E-01                
+41225-020-0         M.V.Bokhovko            1993   3.0000E-02   0.0000E+00   4.7100E-01   3.6000E-02                
+12880-005-0         H.Beer                  1984   2.5000E-02   0.0000E+00   4.7300E-01   0.0000E+00      AV        
+22926-014-0         K.Wisshak               2006   2.7500E-02   0.0000E+00   6.0600E-01   0.0000E+00      AV        
+22926-019-0         K.Wisshak               2006   3.0000E-02   0.0000E+00   5.9400E-01   0.0000E+00     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+41177-060-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   4.4900E-01   2.7000E-02     MXW   DERIV
+V0102-401-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   4.5500E-01   2.0000E-02     MXW   RECOM
+V0102-402-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   6.2600E-01   1.1000E-02     MXW   RECOM
+V1002-366-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   4.4900E-01   4.7000E-02     MXW   RECOM

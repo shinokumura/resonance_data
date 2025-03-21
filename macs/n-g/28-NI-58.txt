@@ -1,0 +1,49 @@
+# Header: 
+#   title: 28-NI-58(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 28 
+#   A: 58 
+#   Nuclide: 28-NI-58 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0040e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 3.41000E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 3.65333E-02  |   5.34540E-03   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   RAW Simple Mean           |  Simple Stdev        : 1.20316E-02  |           NAN   (N = 1)
+#   RAW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 2.97400E-02  |   1.83793E-03   (N = 5)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 5)
+#   TTA Simple Mean           |  Simple Stdev        : 1.78950E-03  |   3.50371E-03   (N = 2)
+#   TTA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12972-009-0         C.M.Perey               1993   2.8350E-02   0.0000E+00   3.4100E-02   5.1000E-03      AV        
+21882-008-0         K.Wisshak               1984   3.0000E-02   0.0000E+00   3.9000E-02   2.5000E-03     MXW        
+12972-010-0         C.M.Perey               1993   3.0000E-02   0.0000E+00   4.0200E-02   0.0000E+00     MXW        
+22971-005-0         G.Rugel                 2007   3.0000E-02   0.0000E+00   3.0400E-02   0.0000E+00     MXW        
+14246-004-0         K.H.Guber               2010   3.0006E-02   0.0000E+00   1.2032E-02   0.0000E+00     RAW        
+22971-002-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   2.7200E-02   2.1000E-03     SPA        
+22971-004-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   3.0400E-02   0.0000E+00     SPA        
+22971-004-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   2.9000E-02   0.0000E+00     SPA        
+22971-004-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   3.2200E-02   0.0000E+00     SPA        
+22971-004-0         G.Rugel                 2007   2.5000E-02   5.0000E-04   2.9900E-02   0.0000E+00     SPA        
+20370-011-0         A.Ernst                 1970   3.0040E-02   0.0000E+00  -6.8800E-04  -2.8490E-03     TTA        
+20370-012-0         A.Ernst                 1970   2.9940E-02   0.0000E+00   4.2670E-03   4.0152E-03     TTA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+20374-030-0         H.Beer                  1975   3.0000E-02   0.0000E+00   4.0000E-02   0.0000E+00     MXW   DERIV
+23210-007-0         P.Zugec                 2014   3.0000E-02   0.0000E+00   3.4200E-02   0.0000E+00     MXW   DERIV
+V0102-084-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   4.1000E-02   2.0000E-03     MXW   RECOM
+V0102-085-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.8700E-02   1.5000E-03     MXW   RECOM
+V1001-225-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   4.0200E-02   2.5000E-03     MXW   RECOM

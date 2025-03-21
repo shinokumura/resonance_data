@@ -1,0 +1,30 @@
+# Header: 
+#   title: 81-TL-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 81 
+#   A: 0 
+#   Nuclide: 81-TL-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.8000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 7.10000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SDT Simple Mean           |  Simple Stdev        : 6.05000E-02  |   9.19239E-03   (N = 2)
+#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-070-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   7.1000E-02   6.3900E-03                
+40805-004-0         V.A.Konks               1965   2.8000E-02   0.0000E+00   5.4000E-02   0.0000E+00     SDT        
+40805-005-0         V.A.Konks               1965   2.9500E-02   0.0000E+00   6.7000E-02   0.0000E+00     SDT        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+21005-003-0         D.Kompe                 1970   3.0000E-02   0.0000E+00   8.3000E-02   9.0000E-03     MXW   DERIV

@@ -1,0 +1,36 @@
+# Header: 
+#   title: 42-MO-95(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 42 
+#   A: 95 
+#   Nuclide: 42-MO-95 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.40000E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 4.26000E-01  |   5.65685E-03   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      : 4.25919E-01 +/-  3.49964E-02   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.15557E+02  |   1.99569E+02   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 2.92141E-01 +/-  1.99840E-03   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+41233-002-0         S.P.Kapchigashev        1964   3.0000E-02   0.0000E+00   4.4000E-01   0.0000E+00                
+30357-010-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   4.3000E-01   5.0000E-02      AV        
+30357-041-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   4.2200E-01   4.9000E-02      AV        
+30357-024-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   3.8000E-01   5.0000E-02     MXW        
+30357-031-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   2.9200E-01   2.0000E-03     MXW        
+14797-006-0         P.E.Koehler             2022   3.0000E-02   0.0000E+00   3.4600E+02   0.0000E+00     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-173-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.9200E-01   1.2000E-02     MXW   RECOM
+V1001-395-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.9200E-01   2.0000E-03     MXW   RECOM

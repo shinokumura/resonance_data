@@ -1,0 +1,29 @@
+# Header: 
+#   title: 23-V-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 23 
+#   A: 0 
+#   Nuclide: 23-V-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0056e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.00000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 4.36000E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   TTA Simple Mean           |  Simple Stdev        : 2.40000E-02  |           NAN   (N = 1)
+#   TTA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-009-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   3.0000E-02   8.0000E-03                
+10074-054-0         R.G.Stieglitz           1971   2.5000E-02   0.0000E+00   4.3600E-02   0.0000E+00      AV        
+10074-042-0         R.G.Stieglitz           1971   3.0056E-02   0.0000E+00   2.4000E-02   0.0000E+00     TTA        

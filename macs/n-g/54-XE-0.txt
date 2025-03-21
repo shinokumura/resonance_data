@@ -1,0 +1,23 @@
+# Header: 
+#   title: 54-XE-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 54 
+#   A: 0 
+#   Nuclide: 54-XE-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 4.16000E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22621-003-0         B.Leugers               1980   2.5000E-02   0.0000E+00   4.1600E-01   0.0000E+00      AV        

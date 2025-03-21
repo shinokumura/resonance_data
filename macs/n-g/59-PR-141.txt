@@ -1,0 +1,44 @@
+# Header: 
+#   title: 59-PR-141(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 59 
+#   A: 141 
+#   Nuclide: 59-PR-141 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.2530e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.18430E-01  |   2.60536E-02  (N = 10)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.13116E-01 +/-  3.77458E-03  (N = 10)
+#   AV Simple Mean            |  Simple Stdev        : 1.26150E-01  |   1.95869E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      : 1.12604E-01 +/-  1.67524E-03   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.11000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11399-038-0         R.L.Macklin             1957   2.4000E-02   0.0000E+00   1.5500E-01   1.5000E-02                
+11429-024-0         R.Booth                 1958   2.4000E-02   5.0000E-03   1.7000E-01   4.0000E-02                
+11329-040-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.1500E-01   1.0350E-02                
+11329-041-0         J.H.Gibbons             1961   2.9500E-02   0.0000E+00   1.2500E-01   0.0000E+00                
+40799-003-0         V.A.Konks               1964   2.6000E-02   0.0000E+00   1.1500E-01   0.0000E+00                
+30079-030-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   1.0000E-01   1.5000E-02                
+30493-009-0         S.N.Chaturvedi          1970   2.4000E-02   3.0000E-03   8.2000E-02   0.0000E+00                
+23016-003-0         S.Harnood               2000   3.0000E-02   0.0000E+00   1.0980E-01   4.5000E-03                
+22865-002-0         K.Kobayashi             2002   3.2530E-02   0.0000E+00   1.0430E-01   2.2610E-02                
+31574-002-0         J.Yoon                  2006   3.2527E-02   0.0000E+00   1.0820E-01   0.0000E+00                
+30490-004-0         R.B.Taylor              1979   2.5000E-02   0.0000E+00   1.4000E-01   1.6000E-02      AV        
+22498-008-0         F.Voss                  1999   2.7500E-02   0.0000E+00   1.1230E-01   1.6845E-03      AV        
+30490-005-0         R.B.Taylor              1979   3.0000E-02   0.0000E+00   1.1100E-01   1.5000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22498-014-0         F.Voss                  1999   3.0000E-02   0.0000E+00   1.1140E-01   1.4000E-03     MXW   DERIV
+V0102-313-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1140E-01   1.4000E-03     MXW   RECOM
+V1002-141-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.1140E-01   2.8000E-03     MXW   RECOM

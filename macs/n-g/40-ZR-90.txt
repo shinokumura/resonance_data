@@ -1,0 +1,39 @@
+# Header: 
+#   title: 40-ZR-90(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 40 
+#   A: 90 
+#   Nuclide: 40-ZR-90 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.4000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.25000E-02  |   3.04138E-03   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.07978E-02 +/-  2.54411E-04   (N = 3)
+#   AV Simple Mean            |  Simple Stdev        : 1.25000E-02  |   7.07107E-04   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      : 1.25000E-02 +/-  7.07107E-04   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.40000E-02  |   4.24264E-03   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.64000E-02 +/-  9.48683E-04   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11845-002-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   1.1000E-02   3.0000E-03                
+40034-002-0         S.P.Kapchigashev        1965   3.4000E-02   0.0000E+00   1.0500E-02   2.6250E-04                
+22960-010-0         K.Ohgama                2005   2.5000E-02   0.0000E+00   1.6000E-02   1.1000E-03                
+30329-004-0         J.W.Boldeman            1975   2.5000E-02   0.0000E+00   1.3000E-02   1.0000E-03      AV        
+30329-006-0         J.W.Boldeman            1975   2.5000E-02   0.0000E+00   1.2000E-02   1.0000E-03      AV        
+14322-017-0         R.L.Macklin             1967   3.0000E-02   0.0000E+00   1.1000E-02   3.0000E-03     MXW        
+30329-005-0         J.W.Boldeman            1975   3.0000E-02   0.0000E+00   1.7000E-02   1.0000E-03     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22978-004-0         G.Tagliente             2007   3.0000E-02   0.0000E+00   1.8100E-02   1.0000E-03     MXW   DERIV
+23329-004-0         G.Tagliente             2008   3.0000E-02   0.0000E+00   1.9300E-02   9.0000E-04     MXW   DERIV
+V0102-157-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.1000E-02   2.0000E-03     MXW   RECOM
+V0102-158-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.9300E-02   9.0000E-04     MXW   RECOM

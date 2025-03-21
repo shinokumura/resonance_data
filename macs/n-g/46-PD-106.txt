@@ -1,0 +1,29 @@
+# Header: 
+#   title: 46-PD-106(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 46 
+#   A: 106 
+#   Nuclide: 46-PD-106 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 3.06450E-01  |   7.70746E-03   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+10868-009-0         R.L.Macklin             1979   2.5000E-02   0.0000E+00   3.1190E-01   0.0000E+00      AV        
+21810-004-0         E.Cornelis              1982   2.5000E-02   0.0000E+00   3.0100E-01   3.0100E-02      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+10868-024-0         R.L.Macklin             1979   3.0000E-02   0.0000E+00   3.8200E-01   0.0000E+00           DERIV
+V0102-196-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.5200E-01   2.5000E-02     MXW   RECOM
+V1001-454-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.8200E-01   1.9000E-02     MXW   RECOM

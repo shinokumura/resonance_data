@@ -1,0 +1,44 @@
+# Header: 
+#   title: 16-S-34(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 16 
+#   A: 34 
+#   Nuclide: 16-S-34 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.3537e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.55000E-04  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 1.55333E-04  |   1.52753E-06   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.55118E-04 +/-  5.25486E-06   (N = 3)
+#   MXW/AV Simple Mean        |  Simple Stdev        : 1.54000E-04  |           NAN   (N = 1)
+#   MXW/AV Weighted Mean     +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 1.86333E-04  |   1.52753E-06   (N = 3)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.86202E-04 +/-  7.21462E-06   (N = 3)
+#   SPA/AV Simple Mean        |  Simple Stdev        : 1.85000E-04  |           NAN   (N = 1)
+#   SPA/AV Weighted Mean     +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12886-003-0         R.F.Carlton             1984   3.3537E-02   0.0000E+00   2.5500E-04   0.0000E+00                
+22424-002-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.5700E-04   9.0000E-06     MXW        
+22424-002-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.5500E-04   1.7000E-05     MXW        
+22424-002-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.5400E-04   7.0000E-06     MXW        
+22424-002-2         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.5400E-04   6.0000E-06  MXW/AV        
+22424-009-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.8800E-04   1.2000E-05     SPA        
+22424-009-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.8600E-04   2.1000E-05     SPA        
+22424-009-1         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.8500E-04   1.0000E-05     SPA        
+22424-009-2         R.Reifarth              2000   2.5000E-02   0.0000E+00   1.8500E-04   9.0000E-06  SPA/AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22424-008-0         R.Reifarth              2000   3.0000E-02   0.0000E+00   2.2600E-04   0.0000E+00     MXW   DERIV
+22424-010-0         R.Reifarth              2000   3.0000E-02   0.0000E+00   2.7100E-04   0.0000E+00     MXW   DERIV
+V0102-036-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.2600E-04   1.0000E-05     MXW   RECOM

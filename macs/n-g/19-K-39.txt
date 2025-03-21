@@ -1,0 +1,27 @@
+# Header: 
+#   title: 19-K-39(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 19 
+#   A: 39 
+#   Nuclide: 19-K-39 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   TTA Simple Mean           |  Simple Stdev        :-1.20298E-02  |           NAN   (N = 1)
+#   TTA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14155-006-0         K.H.Guber               2007   3.0000E-02   0.0000E+00  -1.2030E-02   0.0000E+00     TTA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12920-004-0         R.L.Macklin             1984   3.0000E-02   0.0000E+00   1.1800E-02   4.0000E-04     MXW   DERIV
+V0102-048-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1800E-02   4.0000E-04     MXW   RECOM

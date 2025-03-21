@@ -1,0 +1,42 @@
+# Header: 
+#   title: 24-CR-52(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 24 
+#   A: 52 
+#   Nuclide: 24-CR-52 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.1000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.00000E-03  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 2.53000E-02  |   1.17380E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 9.10000E-03  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   RAW Simple Mean           |  Simple Stdev        : 7.48400E-03  |           NAN   (N = 1)
+#   RAW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   TTA Simple Mean           |  Simple Stdev        : 3.20000E-02  |           NAN   (N = 1)
+#   TTA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40684-006-0         S.P.Kapchigashev        1964   3.1000E-02   0.0000E+00   4.0000E-03   0.0000E+00                
+10074-057-0         R.G.Stieglitz           1971   2.5000E-02   0.0000E+00   3.3600E-02   0.0000E+00      AV        
+30393-012-0         M.J.Kenny               1977   2.5000E-02   0.0000E+00   1.7000E-02   4.5200E-03      AV        
+30393-013-0         M.J.Kenny               1977   3.0000E-02   0.0000E+00   9.1000E-03   2.1000E-03     MXW        
+20374-005-0         H.Beer                  1975   3.0030E-02   0.0000E+00   7.4840E-03   4.0488E-03     RAW        
+10074-046-0         R.G.Stieglitz           1971   3.0056E-02   0.0000E+00   3.2000E-02   0.0000E+00     TTA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+20374-024-0         H.Beer                  1975   3.0000E-02   0.0000E+00   8.3000E-03   0.0000E+00     MXW   DERIV
+30288-011-0         B.J.Allen               1975   3.0000E-02   0.0000E+00   7.3000E-03   0.0000E+00     MXW   DERIV
+V0102-070-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   8.8000E-03   2.3000E-03     MXW   RECOM
+V1001-185-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   9.1000E-03   2.1000E-03     MXW   RECOM

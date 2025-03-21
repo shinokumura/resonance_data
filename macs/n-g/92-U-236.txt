@@ -1,0 +1,31 @@
+# Header: 
+#   title: 92-U-236(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 92 
+#   A: 236 
+#   Nuclide: 92-U-236 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.4000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.72408E-01  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   AV Simple Mean            |  Simple Stdev        : 5.95800E-01  |   2.33006E-02   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      : 5.92656E-01 +/-  8.81871E-03   (N = 3)
+#   EPI Simple Mean           |  Simple Stdev        : 5.48000E-01  |           NAN   (N = 1)
+#   EPI Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14481-002-0         B.Baramsai              2017   2.9628E-02   0.0000E+00   5.7241E-01   1.3542E-02                
+40625-002-0         A.A.Bergman             1982   2.7500E-02   0.0000E+00   5.7240E-01   1.8317E-02      AV        
+40890-002-0         L.E.Kazakov             1985   2.9000E-02   0.0000E+00   6.1900E-01   2.9000E-02      AV        
+40987-002-0         Yu.V.Adamchuk           1988   2.5000E-02   0.0000E+00   5.9600E-01   1.0728E-02      AV        
+40987-005-0         Yu.V.Adamchuk           1988   3.4000E-02   0.0000E+00   5.4800E-01   0.0000E+00     EPI        

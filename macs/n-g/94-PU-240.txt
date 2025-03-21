@@ -1,0 +1,28 @@
+# Header: 
+#   title: 94-PU-240(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 94 
+#   A: 240 
+#   Nuclide: 94-PU-240 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 2.9898e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.59000E-01  |   5.16188E-01   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   AV Simple Mean            |  Simple Stdev        : 8.20000E-01  |   4.24264E-02   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+10127-007-0         R.W.Hockenbury          1972   2.9898E-02   0.0000E+00   9.2400E-01   0.0000E+00                
+10127-008-0         R.W.Hockenbury          1972   2.9893E-02   0.0000E+00   1.9400E-01   0.0000E+00                
+10127-006-0         R.W.Hockenbury          1972   2.7000E-02   0.0000E+00   8.5000E-01   6.8000E-02      AV        
+10766-002-0         L.W.Weston              1977   2.5000E-02   0.0000E+00   7.9000E-01   0.0000E+00      AV        

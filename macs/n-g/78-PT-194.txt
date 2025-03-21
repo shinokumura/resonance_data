@@ -1,0 +1,31 @@
+# Header: 
+#   title: 78-PT-194(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 78 
+#   A: 194 
+#   Nuclide: 78-PT-194 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7130e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 2.34800E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   RTE/AV Simple Mean        |  Simple Stdev        : 3.88330E+01  |           NAN   (N = 1)
+#   RTE/AV Weighted Mean     +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14372-004-0         P.E.Koehler             2013   2.7500E-02   0.0000E+00   2.3480E-01   0.0000E+00      AV        
+14321-007-0         P.E.Koehler             2008   2.7130E-02   0.0000E+00   3.8833E+01   0.0000E+00  RTE/AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+14372-011-0         P.E.Koehler             2013   3.0000E-02   0.0000E+00   2.8250E-01   8.4000E-03     MXW   DERIV
+V0102-454-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.6500E-01   8.5000E-02     MXW   RECOM
+V0102-455-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.7000E-02   2.0000E-03     MXW   RECOM

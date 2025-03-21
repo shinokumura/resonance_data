@@ -1,0 +1,32 @@
+# Header: 
+#   title: 62-SM-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 62 
+#   A: 0 
+#   Nuclide: 62-SM-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.7500e-02 MeV - 3.1267e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.73659E-01  |   9.20287E-02   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 9.05464E-01 +/-  4.25412E-02   (N = 7)
+#   AV Simple Mean            |  Simple Stdev        : 5.77000E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-042-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   8.7500E-01   7.8750E-02                
+11329-051-0         J.H.Gibbons             1961   2.9300E-02   0.0000E+00   9.5000E-01   0.0000E+00                
+30233-002-0         J.R.D.Lepine            1972   3.0000E-02   6.0000E-03   7.7000E-01   1.1000E-01                
+20352-016-0         J.-C.Chou               1973   3.1267E-02   0.0000E+00   7.9361E-01   0.0000E+00                
+20352-018-0         J.-C.Chou               1973   3.0000E-02   0.0000E+00   8.9000E-01   8.0000E-02                
+20352-019-0         J.-C.Chou               1973   3.1000E-02   0.0000E+00   8.1000E-01   0.0000E+00                
+40520-005-0         V.N.Kononov             1977   3.0000E-02   0.0000E+00   1.0270E+00   8.1000E-02                
+22916-009-0         K.Wisshak               2006   2.7500E-02   0.0000E+00   5.7700E-01   0.0000E+00      AV        

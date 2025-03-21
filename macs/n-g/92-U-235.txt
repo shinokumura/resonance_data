@@ -1,0 +1,41 @@
+# Header: 
+#   title: 92-U-235(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 92 
+#   A: 235 
+#   Nuclide: 92-U-235 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.1500e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.36154E-01  |   1.74467E-01   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 7.97337E-01 +/-  4.38696E-02   (N = 5)
+#   AV Simple Mean            |  Simple Stdev        : 8.19667E-01  |   2.40375E-01   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      : 9.01786E-01 +/-  6.81013E-02   (N = 3)
+#   SPA Simple Mean           |  Simple Stdev        : 6.48500E-01  |   3.53553E-03   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 6.48762E-01 +/-  2.67586E-02   (N = 2)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40350-007-0         P.E.Spivak              1956   3.0000E-02   0.0000E+00   7.3099E-01   0.0000E+00                
+40385-006-0         V.N.Andreev             1958   2.4000E-02   0.0000E+00   6.4200E-01   0.0000E+00                
+12331-004-0         J.C.Hopkins             1962   3.0000E-02   1.0000E-02   1.0310E+00   1.2900E-01                
+40550-004-0         G.V.Muradyan            1977   2.5000E-02   0.0000E+00   1.0100E+00   0.0000E+00                
+14149-007-2         M.Jandel                2012   2.8371E-02   0.0000E+00   7.6678E-01   4.6650E-02                
+40070-039-2         Yu.V.Ryabov             1970   2.7500E-02   0.0000E+00   1.0900E+00   1.0000E-01      AV        
+40412-004-0         V.N.Kononov             1975   2.5000E-02   0.0000E+00   7.3900E-01   9.3000E-02      AV        
+21777-003-2         F.Corvi                 1983   3.1500E-02   0.0000E+00   6.3000E-01   0.0000E+00      AV        
+23170-002-0         A.Wallner               2014   2.5000E-02   0.0000E+00   6.4600E-01   4.0000E-02     SPA        
+23170-008-0         A.Wallner               2014   2.5000E-02   0.0000E+00   6.5100E-01   3.6000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22630-003-0         F.Corvi                 1975   2.6700E-02   0.0000E+00   8.4000E-01   9.0000E-02      AV   DERIV
+10267-007-0         R.Gwin                  1976   2.5000E-02   0.0000E+00   8.2000E-01   0.0000E+00      AV   DERIV
+V0038-002-0         Cao Zhong               1978   2.5000E-02   0.0000E+00   8.5100E-01   6.0000E-02            EVAL

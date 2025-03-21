@@ -1,0 +1,37 @@
+# Header: 
+#   title: 94-PU-239(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 94 
+#   A: 239 
+#   Nuclide: 94-PU-239 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0010e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 6.61798E-01  |   1.40578E-01   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 6.11704E-01 +/-  5.32547E-02   (N = 5)
+#   AV Simple Mean            |  Simple Stdev        : 5.44500E-01  |   7.77817E-03   (N = 2)
+#   AV Weighted Mean         +/- Weighted Error      : 5.42687E-01 +/-  5.78922E-02   (N = 2)
+#   RAW Simple Mean           |  Simple Stdev        : 9.78100E-01  |           NAN   (N = 1)
+#   RAW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40350-006-0         P.E.Spivak              1956   3.0000E-02   0.0000E+00   8.4199E-01   0.0000E+00                
+40385-007-0         V.N.Andreev             1958   2.4000E-02   0.0000E+00   6.4800E-01   0.0000E+00                
+12331-006-0         J.C.Hopkins             1962   3.0000E-02   1.0000E-02   7.6000E-01   1.0400E-01                
+12331-008-0         J.C.Hopkins             1962   3.0000E-02   0.0000E+00   5.5900E-01   6.2000E-02                
+14794-002-0         S.Mosby                 2018   2.9850E-02   0.0000E+00   5.0000E-01   0.0000E+00                
+20476-002-0         M.G.Schomberg           1970   2.7500E-02   0.0000E+00   5.5000E-01   1.0000E-01      AV        
+40412-007-0         V.N.Kononov             1975   2.5000E-02   0.0000E+00   5.3900E-01   7.1000E-02      AV        
+10326-004-0         J.A.Farrell             1970   3.0010E-02   0.0000E+00   9.7810E-01   0.0000E+00     RAW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+23769-003-0         R.Perez Sanchez         2020   2.9200E-02   0.0000E+00   6.5700E-01   0.0000E+00           DERIV

@@ -1,0 +1,30 @@
+# Header: 
+#   title: 40-ZR-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 40 
+#   A: 0 
+#   Nuclide: 40-ZR-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.5000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.96000E-02  |   4.15933E-03   (N = 5)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.77489E-02 +/-  2.01318E-03   (N = 5)
+#   AV Simple Mean            |  Simple Stdev        : 3.80700E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11329-021-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.4000E-02   3.0000E-03                
+40034-012-0         S.P.Kapchigashev        1965   3.5000E-02   0.0000E+00   2.5000E-02   5.0000E-03                
+40072-005-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.9000E-02   5.0000E-03                
+40072-023-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.2000E-02   8.0000E-03                
+40072-023-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.8000E-02   5.0000E-03                
+41550-004-0         Yu.V.Grigoriev          2004   3.3906E-02   1.2600E-04   3.8070E-02   0.0000E+00      AV        

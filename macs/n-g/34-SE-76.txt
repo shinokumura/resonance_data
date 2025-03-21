@@ -1,0 +1,30 @@
+# Header: 
+#   title: 34-SE-76(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 34 
+#   A: 76 
+#   Nuclide: 34-SE-76 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   MXW Simple Mean           |  Simple Stdev        : 1.64000E-01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 1.71000E-01  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22256-002-0         H.Beer                  1992   3.0000E-02   0.0000E+00   1.6400E-01   8.0000E-03     MXW        
+23065-006-0         M.Igashira              2011   3.0000E-02   0.0000E+00   1.7100E-01   7.1820E-03     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-118-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.6400E-01   8.0000E-03     MXW   RECOM
+V1001-290-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.3500E-01   0.0000E+00     MXW   RECOM

@@ -1,0 +1,42 @@
+# Header: 
+#   title: 39-Y-89(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 39 
+#   A: 89 
+#   Nuclide: 39-Y-89 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.3000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.35833E-02  |   7.98384E-03   (N = 6)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.17988E-02 +/-  7.73936E-04   (N = 6)
+#   AV Simple Mean            |  Simple Stdev        : 3.30000E-02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 2.12333E-02  |   1.20139E-03   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 2.18332E-02 +/-  4.13042E-04   (N = 3)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+11429-013-0         R.Booth                 1958   2.4000E-02   5.0000E-03   2.8000E-02   7.0000E-03                
+11329-020-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.3500E-02   3.0000E-03                
+11380-006-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   1.7500E-02   4.3000E-03                
+40056-002-0         A.A.Bergman             1966   3.3000E-02   0.0000E+00   2.1500E-02   8.6000E-04                
+11624-005-0         D.C.Stupegia            1968   2.6000E-02   5.0000E-03   3.6000E-02   3.3000E-03                
+30077-008-0         S.S.Hasan               1968   2.4000E-02   0.0000E+00   2.5000E-02   5.0000E-03                
+30391-006-0         J.W.Boldeman            1977   2.5000E-02   0.0000E+00   3.3000E-02   4.0000E-03      AV        
+30391-005-0         J.W.Boldeman            1977   3.0000E-02   0.0000E+00   2.0000E-02   3.0000E-03     MXW        
+22177-002-1         F.Kaeppeler             1990   2.5000E-02   0.0000E+00   2.1300E-02   6.0000E-04     MXW        
+22177-005-2         F.Kaeppeler             1990   2.5000E-02   0.0000E+00   2.2400E-02   5.8000E-04     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22177-002-2         F.Kaeppeler             1990   3.0000E-02   0.0000E+00   1.9000E-02   6.0000E-04     MXW   DERIV
+22177-005-3         F.Kaeppeler             1990   3.0000E-02   0.0000E+00   2.0000E-02   5.9000E-04     MXW   DERIV
+V0102-156-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.9000E-02   6.0000E-04     MXW   RECOM
+V1001-362-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.3000E-02   1.3000E-03     MXW   RECOM

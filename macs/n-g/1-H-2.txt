@@ -1,0 +1,26 @@
+# Header: 
+#   title: 1-H-2(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 1 
+#   A: 2 
+#   Nuclide: 1-H-2 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0000e-02 MeV - 3.0500e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   SPA Simple Mean           |  Simple Stdev        : 2.23000E-06  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+22943-002-0         Y.Nagai                 2006   3.0500E-02   0.0000E+00   2.2300E-06   3.4000E-07     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+V0102-003-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.0000E-06   2.0000E-07     MXW   RECOM

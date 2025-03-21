@@ -1,0 +1,28 @@
+# Header: 
+#   title: 80-HG-199(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 80 
+#   A: 199 
+#   Nuclide: 80-HG-199 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   AV Simple Mean            |  Simple Stdev        : 3.50200E-01  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12879-003-0         H.Beer                  1985   2.5000E-02   0.0000E+00   3.5020E-01   0.0000E+00      AV        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+12879-025-0         H.Beer                  1985   3.0000E-02   0.0000E+00   3.7400E-01   2.3000E-02     MXW   DERIV
+V0102-471-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.7400E-01   2.3000E-02     MXW   RECOM
+V1002-500-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.7400E-01   2.3000E-02     MXW   RECOM

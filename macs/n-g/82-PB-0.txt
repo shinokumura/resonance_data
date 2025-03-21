@@ -1,0 +1,30 @@
+# Header: 
+#   title: 82-PB-0(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 82 
+#   A: 0 
+#   Nuclide: 82-PB-0 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.18750E-02  |   2.16032E-02   (N = 8)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.10501E-02 +/-  1.68856E-03   (N = 8)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+40374-019-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   1.3000E-02   3.0000E-03                
+11778-016-0         H.W.Schmitt             1960   2.4000E-02   2.2000E-03   3.0000E-03   9.0000E-03                
+11329-071-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   3.0000E-03   3.0000E-03                
+40072-016-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   4.3000E-02   7.0000E-03                
+40072-034-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   5.0000E-02   9.0000E-03                
+40072-034-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   4.5000E-02   6.0000E-03                
+40072-034-3         T.S.Belanova            1965   2.4000E-02   0.0000E+00   4.5000E-02   8.0000E-03                
+40072-034-4         T.S.Belanova            1965   2.4000E-02   0.0000E+00   5.3000E-02   5.0000E-03                

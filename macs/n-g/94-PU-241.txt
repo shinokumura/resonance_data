@@ -1,0 +1,23 @@
+# Header: 
+#   title: 94-PU-241(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-03-21 
+# Target: 
+#   Z: 94 
+#   A: 241 
+#   Nuclide: 94-PU-241 
+# Reaction: 
+#   Type: N,G 
+#   Incident energy       : 3.0030e-02 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        :-9.50500E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#
+# Data Table
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+10768-002-0         L.W.Weston              1978   3.0030E-02   0.0000E+00  -9.5050E-02   0.0000E+00                

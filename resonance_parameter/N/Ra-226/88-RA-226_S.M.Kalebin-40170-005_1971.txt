@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 88-RA-226 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.M.Kalebin 
+#   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference             : (J,YF,14,22,1971) 
+#   Year                  : 1971 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 88 
+#   A                     : 226 
+#   Nuclide               : 88-RA-226 
+# Reaction: 
+#   entry-subent-pointer  :{5: '40170-005-0', 6: '40170-005-0', 7: '40170-005-0', 8: '40170-005-0', 9: '40170-005-0', 10: '40170-005-0', 11: '40170-005-0'} 
+#   EXFOR reaction        :{5: '(88-RA-226(N,EL),,WID)', 6: '(88-RA-226(N,EL),,WID)', 7: '(88-RA-226(N,EL),,WID)', 8: '(88-RA-226(N,EL),,WID)', 9: '(88-RA-226(N,EL),,WID)', 10: '(88-RA-226(N,EL),,WID)', 11: '(88-RA-226(N,EL),,WID)'} 
+#   incident energy       : 5.3900e-07 eV - 2.9300e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40170.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40170
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.3900E-07        4.0000E-09               NAN               NAN               NAN               NAN        1.5000E-05        1.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9600E-05        4.0000E-07               NAN               NAN               NAN               NAN        4.0000E-04        4.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        5.5700E-05        6.0000E-07               NAN               NAN               NAN               NAN        6.5000E-03        4.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8400E-05        1.2000E-06               NAN               NAN               NAN               NAN        1.8300E-02        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3800E-04        5.0000E-06               NAN               NAN               NAN               NAN        1.2900E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6200E-04        6.0000E-06               NAN               NAN               NAN               NAN        1.2700E-02        2.9000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9300E-04        7.0000E-06               NAN               NAN               NAN               NAN        7.7000E-02        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN

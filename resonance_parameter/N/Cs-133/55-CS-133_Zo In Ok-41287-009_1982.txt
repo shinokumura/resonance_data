@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 55-CS-133 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Zo In Ok 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,82ANTWER,,758,1982) 
+#   Year                  : 1982 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 55 
+#   A                     : 133 
+#   Nuclide               : 55-CS-133 
+# Reaction: 
+#   entry-subent-pointer  :{317: '41287-009-2', 318: '41287-009-2', 319: '41287-009-2', 320: '41287-009-2', 321: '41287-009-2', 322: '41287-009-2', 323: '41287-009-2', 324: '41287-009-2', 325: '41287-009-2', 326: '41287-009-2', 327: '41287-009-2', 328: '41287-009-2', 329: '41287-009-2', 330: '41287-009-2', 331: '41287-009-2'} 
+#   EXFOR reaction        :{317: '(55-CS-133(N,G),,WID)', 318: '(55-CS-133(N,G),,WID)', 319: '(55-CS-133(N,G),,WID)', 320: '(55-CS-133(N,G),,WID)', 321: '(55-CS-133(N,G),,WID)', 322: '(55-CS-133(N,G),,WID)', 323: '(55-CS-133(N,G),,WID)', 324: '(55-CS-133(N,G),,WID)', 325: '(55-CS-133(N,G),,WID)', 326: '(55-CS-133(N,G),,WID)', 327: '(55-CS-133(N,G),,WID)', 328: '(55-CS-133(N,G),,WID)', 329: '(55-CS-133(N,G),,WID)', 330: '(55-CS-133(N,G),,WID)', 331: '(55-CS-133(N,G),,WID)'} 
+#   incident energy       : 2.2500e+01 eV - 2.0150e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41287.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41287
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.2500E+01        5.0000E-02               NAN               NAN        1.3400E-01        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7600E+01        1.0000E-01               NAN               NAN        1.1000E-01        9.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8180E+02        1.0000E-01               NAN               NAN        1.0100E-01        3.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0150E+02        2.0000E-01               NAN               NAN        1.0000E-01        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

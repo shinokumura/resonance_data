@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 32-GE-74 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kh.Maletski 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,SJA,24,207,1968) 
+#   Year                  : 1968 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 32 
+#   A                     : 74 
+#   Nuclide               : 32-GE-74 
+# Reaction: 
+#   entry-subent-pointer  :{3: '40023-020-0', 4: '40023-020-0', 5: '40023-020-0', 6: '40023-020-0', 7: '40023-020-0', 8: '40023-020-0', 9: '40023-020-0', 10: '40023-020-0', 11: '40023-020-0', 12: '40023-020-0'} 
+#   EXFOR reaction        :{3: '(32-GE-74(N,EL),,WID)', 4: '(32-GE-74(N,EL),,WID)', 5: '(32-GE-74(N,EL),,WID)', 6: '(32-GE-74(N,EL),,WID)', 7: '(32-GE-74(N,EL),,WID)', 8: '(32-GE-74(N,EL),,WID)', 9: '(32-GE-74(N,EL),,WID)', 10: '(32-GE-74(N,EL),,WID)', 11: '(32-GE-74(N,EL),,WID)', 12: '(32-GE-74(N,EL),,WID)'} 
+#   incident energy       : 2.8460e-03 eV - 6.1040e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40023.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40023
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.8460E-03        8.0000E-06               NAN               NAN               NAN               NAN        8.0000E+00        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0350E-03        1.2000E-05               NAN               NAN               NAN               NAN        1.0000E+00        6.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1700E-03        2.5000E-05               NAN               NAN               NAN               NAN        6.4000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9900E-03        3.0000E-05               NAN               NAN               NAN               NAN        9.4000E+01        1.3000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2030E-02        7.0000E-05               NAN               NAN               NAN               NAN        2.4000E+01        1.3000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9450E-02        1.5000E-04               NAN               NAN               NAN               NAN        1.2000E+02        2.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1910E-02        2.0000E-04               NAN               NAN               NAN               NAN        5.0000E+01        1.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5100E-02        2.5000E-04               NAN               NAN               NAN               NAN        4.4000E+01        2.1000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2800E-02        5.0000E-04               NAN               NAN               NAN               NAN        5.0000E+02        1.1000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1040E-02        9.0000E-04               NAN               NAN               NAN               NAN        8.1000E+02        2.8000E+02               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 36-KR-82 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.P.Mann 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,116,1516,59) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 36 
+#   A                     : 82 
+#   Nuclide               : 36-KR-82 
+# Reaction: 
+#   entry-subent-pointer  :{0: '11868-005-2'} 
+#   EXFOR reaction        :{0: '(36-KR-82(N,EL),,WID)'} 
+#   incident energy       : 3.9800e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11868.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11868
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.9800E+01        5.0000E-01               NAN               NAN               NAN               NAN        8.8000E-02        1.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN

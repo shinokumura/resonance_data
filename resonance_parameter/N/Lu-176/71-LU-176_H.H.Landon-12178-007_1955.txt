@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 71-LU-176 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.H.Landon 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,100,1414,5512) 
+#   Year                  : 1955 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 71 
+#   A                     : 176 
+#   Nuclide               : 71-LU-176 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12178-007-3', 1: '12178-007-5'} 
+#   EXFOR reaction        :{0: '(71-LU-176(N,TOT),,WID)', 1: '(71-LU-176(N,G),,WID)'} 
+#   incident energy       : 2.6040e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12178.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12178
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.6040E+00        1.0000E-02        5.9000E-02        1.0000E-03        5.0000E-02        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 63-EU-151 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Tassan 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,NSE,10,169,61) 
+#   Year                  : 1961 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 63 
+#   A                     : 151 
+#   Nuclide               : 63-EU-151 
+# Reaction: 
+#   entry-subent-pointer  :{29: '12151-003-3', 30: '12151-003-3', 31: '12151-003-4', 32: '12151-003-4'} 
+#   EXFOR reaction        :{29: '(63-EU-151(N,TOT),,WID)', 30: '(63-EU-151(N,TOT),,WID)', 31: '(63-EU-151(N,G),,WID)', 32: '(63-EU-151(N,G),,WID)'} 
+#   incident energy       : 3.2100e-01 eV - 4.6000e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12151.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12151
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.2100E-01        1.0000E-03        7.9600E-02        2.0000E-03        7.9500E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6000E-01        1.0000E-03        8.8000E-02        2.0000E-03        8.7000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

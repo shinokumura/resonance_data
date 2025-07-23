@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 74-W-180 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Jung 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (P,ORNL-3924,30,6605) 
+#   Year                  : 1966 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 74 
+#   A                     : 180 
+#   Nuclide               : 74-W-180 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12161-002-2', 1: '12161-002-2', 2: '12161-002-2', 3: '12161-002-2', 4: '12161-002-2'} 
+#   EXFOR reaction        :{0: '(74-W-180(N,EL),,WID)', 1: '(74-W-180(N,EL),,WID)', 2: '(74-W-180(N,EL),,WID)', 3: '(74-W-180(N,EL),,WID)', 4: '(74-W-180(N,EL),,WID)'} 
+#   incident energy       : 1.5900e+01 eV - 8.7400e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12161.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12161
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.5900E+01        1.0000E-01               NAN               NAN               NAN               NAN        1.2500E-02        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9300E+01        1.0000E-01               NAN               NAN               NAN               NAN        6.2000E-03        7.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2700E+01        2.0000E-01               NAN               NAN               NAN               NAN        1.4000E-03        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        7.5200E+01        2.0000E-01               NAN               NAN               NAN               NAN        3.5000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        8.7400E+01        3.0000E-01               NAN               NAN               NAN               NAN        7.3000E-03        5.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

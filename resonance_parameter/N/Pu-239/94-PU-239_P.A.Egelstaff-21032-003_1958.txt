@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.A.Egelstaff 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE,6,303,58) 
+#   Year                  : 1958 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :{191: '21032-003-1', 192: '21032-003-1', 193: '21032-003-1', 194: '21032-003-1', 195: '21032-003-1', 196: '21032-003-1', 197: '21032-003-1', 198: '21032-003-1', 199: '21032-003-1', 200: '21032-003-1', 201: '21032-003-1', 202: '21032-003-1', 203: '21032-003-1', 204: '21032-003-1', 205: '21032-003-1', 206: '21032-003-1'} 
+#   EXFOR reaction        :{191: '(94-PU-239(N,TOT),,WID)', 192: '(94-PU-239(N,TOT),,WID)', 193: '(94-PU-239(N,TOT),,WID)', 194: '(94-PU-239(N,TOT),,WID)', 195: '(94-PU-239(N,TOT),,WID)', 196: '(94-PU-239(N,TOT),,WID)', 197: '(94-PU-239(N,TOT),,WID)', 198: '(94-PU-239(N,TOT),,WID)', 199: '(94-PU-239(N,TOT),,WID)', 200: '(94-PU-239(N,TOT),,WID)', 201: '(94-PU-239(N,TOT),,WID)', 202: '(94-PU-239(N,TOT),,WID)', 203: '(94-PU-239(N,TOT),,WID)', 204: '(94-PU-239(N,TOT),,WID)', 205: '(94-PU-239(N,TOT),,WID)', 206: '(94-PU-239(N,TOT),,WID)'} 
+#   incident energy       : 2.9600e-07 eV - 2.2350e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21032.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21032
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9600E-07        2.0000E-09        8.9000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.8500E-06        3.0000E-08        7.7000E-02        1.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0950E-05        5.0000E-08        1.4600E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1950E-05        5.0000E-08        1.1000E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4300E-05        2.0000E-07        1.2000E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4800E-05        2.0000E-07        3.9000E-02        8.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7750E-05        1.0000E-07        1.0000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2350E-05        1.0000E-07        7.5000E-02        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

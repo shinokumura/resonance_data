@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 70-YB-174 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.I.Liou 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,7,823,197302) 
+#   Year                  : 1973 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 70 
+#   A                     : 174 
+#   Nuclide               : 70-YB-174 
+# Reaction: 
+#   entry-subent-pointer  :{2: '10081-019-0', 3: '10081-019-0'} 
+#   EXFOR reaction        :{2: '(70-YB-174(N,G),,WID)', 3: '(70-YB-174(N,G),,WID)'} 
+#   incident energy       : 3.4270e-04 eV - 5.8542e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10081.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10081
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.4270E-04        3.5000E-07               NAN               NAN        9.0000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8542E-04        3.9000E-07               NAN               NAN        7.6000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

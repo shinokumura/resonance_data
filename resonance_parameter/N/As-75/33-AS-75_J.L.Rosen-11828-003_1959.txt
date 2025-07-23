@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 33-AS-75 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.L.Rosen 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,BAP,4,473(A9),59) 
+#   Year                  : 1959 
+#   Facility              : None 
+# Target: 
+#   Z                     : 33 
+#   A                     : 75 
+#   Nuclide               : 33-AS-75 
+# Reaction: 
+#   entry-subent-pointer  :{38: '11828-003-3', 39: '11828-003-3'} 
+#   EXFOR reaction        :{38: '(33-AS-75(N,TOT),,WID)', 39: '(33-AS-75(N,TOT),,WID)'} 
+#   incident energy       : 9.2200e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11828.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11828
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.2200E+01        2.0000E-01        3.2400E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

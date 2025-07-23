@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 73-TA-181 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.W.K.Firk 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,NP,9,198,5812) 
+#   Year                  : 1958 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 73 
+#   A                     : 181 
+#   Nuclide               : 73-TA-181 
+# Reaction: 
+#   entry-subent-pointer  :{80: '21015-005-1', 81: '21015-005-1', 82: '21015-005-1', 83: '21015-005-1', 84: '21015-005-1', 85: '21015-005-1', 86: '21015-005-1', 87: '21015-005-1', 88: '21015-005-1', 89: '21015-005-1', 90: '21015-005-1', 91: '21015-005-1', 92: '21015-005-1', 93: '21015-005-3', 94: '21015-005-3', 95: '21015-005-3', 96: '21015-005-3', 97: '21015-005-3', 98: '21015-005-3', 99: '21015-005-3', 100: '21015-005-3', 101: '21015-005-3', 102: '21015-005-3', 103: '21015-005-3', 104: '21015-005-3', 105: '21015-005-3'} 
+#   EXFOR reaction        :{80: '(73-TA-181(N,TOT),,WID)', 81: '(73-TA-181(N,TOT),,WID)', 82: '(73-TA-181(N,TOT),,WID)', 83: '(73-TA-181(N,TOT),,WID)', 84: '(73-TA-181(N,TOT),,WID)', 85: '(73-TA-181(N,TOT),,WID)', 86: '(73-TA-181(N,TOT),,WID)', 87: '(73-TA-181(N,TOT),,WID)', 88: '(73-TA-181(N,TOT),,WID)', 89: '(73-TA-181(N,TOT),,WID)', 90: '(73-TA-181(N,TOT),,WID)', 91: '(73-TA-181(N,TOT),,WID)', 92: '(73-TA-181(N,TOT),,WID)', 93: '(73-TA-181(N,G),,WID)', 94: '(73-TA-181(N,G),,WID)', 95: '(73-TA-181(N,G),,WID)', 96: '(73-TA-181(N,G),,WID)', 97: '(73-TA-181(N,G),,WID)', 98: '(73-TA-181(N,G),,WID)', 99: '(73-TA-181(N,G),,WID)', 100: '(73-TA-181(N,G),,WID)', 101: '(73-TA-181(N,G),,WID)', 102: '(73-TA-181(N,G),,WID)', 103: '(73-TA-181(N,G),,WID)', 104: '(73-TA-181(N,G),,WID)', 105: '(73-TA-181(N,G),,WID)'} 
+#   incident energy       : 2.0200e-05 eV - 9.8800e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21015.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21015
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.0200E-05        2.0000E-07        6.0000E-02        1.1000E-02        5.9000E-02        1.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2700E-05        2.0000E-07        5.1000E-02        2.0000E-02        5.1000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9000E-05        3.0000E-07        1.0200E-01        1.0000E-02        5.1000E-02        1.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2900E-05        5.0000E-07        7.3000E-02        2.0000E-02        6.7000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.8800E-05        1.0000E-06        1.7000E-01        3.0000E-02        5.4000E-02        3.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

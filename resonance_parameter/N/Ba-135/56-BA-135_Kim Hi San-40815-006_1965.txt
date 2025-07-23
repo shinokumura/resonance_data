@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 56-BA-135 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kim Hi San 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,65ANTWERP,,572(188),1965) 
+#   Year                  : 1965 
+#   Facility              : None 
+# Target: 
+#   Z                     : 56 
+#   A                     : 135 
+#   Nuclide               : 56-BA-135 
+# Reaction: 
+#   entry-subent-pointer  :{26: '40815-006-0', 27: '40815-006-0', 28: '40815-006-0', 29: '40815-006-0'} 
+#   EXFOR reaction        :{26: '(56-BA-135(N,TOT),,WID)', 27: '(56-BA-135(N,TOT),,WID)', 28: '(56-BA-135(N,TOT),,WID)', 29: '(56-BA-135(N,TOT),,WID)'} 
+#   incident energy       : 2.4300e-05 eV - 2.8600e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40815.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40815
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.4300E-05        1.0000E-07        1.3500E-01        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1300E-05        6.0000E-07        2.4000E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.6800E-05        8.0000E-07        1.7000E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8600E-04        4.0000E-06        3.7000E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

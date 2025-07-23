@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 40-ZR-92 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Z.M.Bartolome 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,37,137,196907) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 92 
+#   Nuclide               : 40-ZR-92 
+# Reaction: 
+#   entry-subent-pointer  :{31: '10002-023-3', 32: '10002-023-3', 33: '10002-023-3', 34: '10002-023-3', 35: '10002-023-3', 36: '10002-023-3', 37: '10002-023-3', 38: '10002-023-3', 39: '10002-023-3', 40: '10002-023-3'} 
+#   EXFOR reaction        :{31: '(40-ZR-92(N,G),,WID)', 32: '(40-ZR-92(N,G),,WID)', 33: '(40-ZR-92(N,G),,WID)', 34: '(40-ZR-92(N,G),,WID)', 35: '(40-ZR-92(N,G),,WID)', 36: '(40-ZR-92(N,G),,WID)', 37: '(40-ZR-92(N,G),,WID)', 38: '(40-ZR-92(N,G),,WID)', 39: '(40-ZR-92(N,G),,WID)', 40: '(40-ZR-92(N,G),,WID)'} 
+#   incident energy       : 2.7300e+03 eV - 9.1080e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10002.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10002
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7300E+03        4.0000E+00               NAN               NAN        1.5000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1600E+03        9.0000E+00               NAN               NAN        5.0000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7800E+03        1.1000E+01               NAN               NAN        2.6000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0230E+03        1.2000E+01               NAN               NAN        2.4000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9100E+03        1.9000E+01               NAN               NAN        6.0000E-01        8.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8220E+03        2.8000E+01               NAN               NAN        2.7000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.1080E+03        2.9000E+01               NAN               NAN        2.3000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

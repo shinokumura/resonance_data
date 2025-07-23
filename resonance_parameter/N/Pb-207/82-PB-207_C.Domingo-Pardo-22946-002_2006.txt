@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 82-PB-207 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Domingo-Pardo 
+#   Institute             : (2FR FR ): France 
+#   Reference             : (J,PR/C,74,055802,2006) 
+#   Year                  : 2006 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 82 
+#   A                     : 207 
+#   Nuclide               : 82-PB-207 
+# Reaction: 
+#   entry-subent-pointer  :{254: '22946-002-2', 255: '22946-002-2', 256: '22946-002-2', 257: '22946-002-2', 258: '22946-002-2', 259: '22946-002-2', 260: '22946-002-2', 261: '22946-002-2', 262: '22946-002-2', 263: '22946-002-2', 264: '22946-002-2', 265: '22946-002-2', 266: '22946-002-2', 267: '22946-002-2', 268: '22946-002-2', 269: '22946-002-2', 270: '22946-002-3', 271: '22946-002-3', 272: '22946-002-3', 273: '22946-002-3', 274: '22946-002-3', 275: '22946-002-3', 276: '22946-002-3', 277: '22946-002-3', 278: '22946-002-3', 279: '22946-002-3', 280: '22946-002-3', 281: '22946-002-3', 282: '22946-002-3', 283: '22946-002-3', 284: '22946-002-3', 285: '22946-002-3'} 
+#   EXFOR reaction        :{254: '(82-PB-207(N,EL),,WID)', 255: '(82-PB-207(N,EL),,WID)', 256: '(82-PB-207(N,EL),,WID)', 257: '(82-PB-207(N,EL),,WID)', 258: '(82-PB-207(N,EL),,WID)', 259: '(82-PB-207(N,EL),,WID)', 260: '(82-PB-207(N,EL),,WID)', 261: '(82-PB-207(N,EL),,WID)', 262: '(82-PB-207(N,EL),,WID)', 263: '(82-PB-207(N,EL),,WID)', 264: '(82-PB-207(N,EL),,WID)', 265: '(82-PB-207(N,EL),,WID)', 266: '(82-PB-207(N,EL),,WID)', 267: '(82-PB-207(N,EL),,WID)', 268: '(82-PB-207(N,EL),,WID)', 269: '(82-PB-207(N,EL),,WID)', 270: '(82-PB-207(N,G),,WID)', 271: '(82-PB-207(N,G),,WID)', 272: '(82-PB-207(N,G),,WID)', 273: '(82-PB-207(N,G),,WID)', 274: '(82-PB-207(N,G),,WID)', 275: '(82-PB-207(N,G),,WID)', 276: '(82-PB-207(N,G),,WID)', 277: '(82-PB-207(N,G),,WID)', 278: '(82-PB-207(N,G),,WID)', 279: '(82-PB-207(N,G),,WID)', 280: '(82-PB-207(N,G),,WID)', 281: '(82-PB-207(N,G),,WID)', 282: '(82-PB-207(N,G),,WID)', 283: '(82-PB-207(N,G),,WID)', 284: '(82-PB-207(N,G),,WID)', 285: '(82-PB-207(N,G),,WID)'} 
+#   incident energy       : 3.0647e+03 eV - 1.8151e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22946
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0647E+03        3.0000E-03               NAN               NAN        1.4500E-01        9.0000E-04        1.1100E-01        8.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0191E+04        4.0000E-02               NAN               NAN        1.4520E-01        1.2000E-03        6.5600E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6173E+04        1.0000E-01               NAN               NAN        2.7500E-01        3.0000E-03        1.3950E+00        1.2600E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0486E+04        5.0000E-01               NAN               NAN        5.9200E-01        5.0000E-02        6.0800E-01        4.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7751E+04        3.0000E+00               NAN               NAN        8.4300E-01        4.0000E-02        5.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1149E+04        4.6000E+01               NAN               NAN        3.9700E+00        1.6000E-01        1.2200E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.8410E+04        2.0000E+00               NAN               NAN        2.3000E-01        2.0000E-02        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.2990E+04        1.2000E+01               NAN               NAN        3.6000E-01        3.0000E-02        2.9000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.0228E+04        2.4000E+01               NAN               NAN        1.6150E+00        1.0000E-01        2.7200E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8151E+05        6.0000E+00               NAN               NAN        1.4709E+01        5.0000E-01        5.7300E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

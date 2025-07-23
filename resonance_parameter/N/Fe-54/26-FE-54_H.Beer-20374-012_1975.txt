@@ -1,0 +1,35 @@
+# Header: 
+#   Title                 : 26-FE-54 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Beer 
+#   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference             : (J,NP/A,240,29,1975) 
+#   Year                  : 1975 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 26 
+#   A                     : 54 
+#   Nuclide               : 26-FE-54 
+# Reaction: 
+#   entry-subent-pointer  :{94: '20374-012-2', 95: '20374-012-2', 96: '20374-012-2', 97: '20374-012-2', 98: '20374-012-2', 99: '20374-012-2', 100: '20374-012-2', 101: '20374-012-2', 102: '20374-012-2', 103: '20374-012-2', 104: '20374-012-2', 105: '20374-012-2', 106: '20374-012-3', 107: '20374-012-3', 108: '20374-012-3', 109: '20374-012-3', 110: '20374-012-3', 111: '20374-012-3', 112: '20374-012-3', 113: '20374-012-3', 114: '20374-012-3', 115: '20374-012-3', 116: '20374-012-3', 117: '20374-012-3'} 
+#   EXFOR reaction        :{94: '(26-FE-54(N,EL),,WID)', 95: '(26-FE-54(N,EL),,WID)', 96: '(26-FE-54(N,EL),,WID)', 97: '(26-FE-54(N,EL),,WID)', 98: '(26-FE-54(N,EL),,WID)', 99: '(26-FE-54(N,EL),,WID)', 100: '(26-FE-54(N,EL),,WID)', 101: '(26-FE-54(N,EL),,WID)', 102: '(26-FE-54(N,EL),,WID)', 103: '(26-FE-54(N,EL),,WID)', 104: '(26-FE-54(N,EL),,WID)', 105: '(26-FE-54(N,EL),,WID)', 106: '(26-FE-54(N,G),,WID)', 107: '(26-FE-54(N,G),,WID)', 108: '(26-FE-54(N,G),,WID)', 109: '(26-FE-54(N,G),,WID)', 110: '(26-FE-54(N,G),,WID)', 111: '(26-FE-54(N,G),,WID)', 112: '(26-FE-54(N,G),,WID)', 113: '(26-FE-54(N,G),,WID)', 114: '(26-FE-54(N,G),,WID)', 115: '(26-FE-54(N,G),,WID)', 116: '(26-FE-54(N,G),,WID)', 117: '(26-FE-54(N,G),,WID)'} 
+#   incident energy       : 7.6700e+03 eV - 2.4570e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20374.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20374
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.6700E+03        2.0000E+01               NAN               NAN               NAN               NAN        1.0100E+03        1.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2780E+04        1.8000E+02               NAN               NAN        1.8000E+00        3.0000E-01        2.1600E+03        2.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1860E+04        2.5000E+02               NAN               NAN        8.0000E-01        2.0000E-01        1.7700E+03        3.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        9.8500E+04        4.0000E+02               NAN               NAN        3.2000E+00        5.0000E-01        5.1000E+02        5.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2960E+05        5.0000E+02               NAN               NAN        3.0000E+00        6.0000E-01        3.0000E+03        9.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4710E+05        7.0000E+02               NAN               NAN        3.0000E+00        6.0000E-01        2.7500E+03        1.1000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5900E+05        8.0000E+02               NAN               NAN        3.9000E+00        8.0000E-01        1.8000E+02        9.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7390E+05        8.0000E+02               NAN               NAN        2.4000E+00        5.0000E-01        2.8000E+03        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9120E+05        1.0000E+03               NAN               NAN               NAN               NAN        4.2400E+04        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2280E+05        1.2000E+03               NAN               NAN               NAN               NAN        1.5700E+03        1.4000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3020E+05        1.2000E+03               NAN               NAN               NAN               NAN        2.6000E+02        1.4000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4570E+05        1.3000E+03               NAN               NAN               NAN               NAN        2.4600E+04        6.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN

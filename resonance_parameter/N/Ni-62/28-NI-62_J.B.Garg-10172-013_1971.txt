@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 28-NI-62 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.B.Garg 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,3,2447,197106) 
+#   Year                  : 1971 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 28 
+#   A                     : 62 
+#   Nuclide               : 28-NI-62 
+# Reaction: 
+#   entry-subent-pointer  :{60: '10172-013-2', 61: '10172-013-2', 62: '10172-013-2', 63: '10172-013-2', 64: '10172-013-2'} 
+#   EXFOR reaction        :{60: '(28-NI-62(N,EL),,WID)', 61: '(28-NI-62(N,EL),,WID)', 62: '(28-NI-62(N,EL),,WID)', 63: '(28-NI-62(N,EL),,WID)', 64: '(28-NI-62(N,EL),,WID)'} 
+#   incident energy       : 4.5400e+03 eV - 1.4850e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10172.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10172
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5400E+03        5.0000E+01               NAN               NAN               NAN               NAN        1.3400E+03        9.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9300E+04        3.5000E+02               NAN               NAN               NAN               NAN        2.5000E+02        1.2000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        9.5500E+04        4.0000E+02               NAN               NAN               NAN               NAN        1.6200E+03        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0450E+05        5.0000E+02               NAN               NAN               NAN               NAN        3.8500E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4850E+05        8.0000E+02               NAN               NAN               NAN               NAN        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

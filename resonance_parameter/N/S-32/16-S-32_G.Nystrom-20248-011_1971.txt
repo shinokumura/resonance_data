@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 16-S-32 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Nystrom 
+#   Institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 
+#   Reference             : (J,PS,4,95,1971) 
+#   Year                  : 1971 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 16 
+#   A                     : 32 
+#   Nuclide               : 16-S-32 
+# Reaction: 
+#   entry-subent-pointer  :{7: '20248-011-0', 8: '20248-011-0'} 
+#   EXFOR reaction        :{7: '(16-S-32(N,G),,WID)', 8: '(16-S-32(N,G),,WID)'} 
+#   incident energy       : 2.9400e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20248.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20248
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9400E-02        8.0000E-04               NAN               NAN        4.0000E-01        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

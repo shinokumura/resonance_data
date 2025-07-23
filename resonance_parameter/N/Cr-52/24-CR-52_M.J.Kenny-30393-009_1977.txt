@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 24-CR-52 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.J.Kenny 
+#   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
+#   Reference             : (R,AAEC/E-400,1977) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 24 
+#   A                     : 52 
+#   Nuclide               : 24-CR-52 
+# Reaction: 
+#   entry-subent-pointer  :{171: '30393-009-6', 172: '30393-009-6', 173: '30393-009-6', 174: '30393-009-6', 175: '30393-009-6', 176: '30393-009-6', 177: '30393-009-6', 178: '30393-009-6', 179: '30393-009-6', 180: '30393-009-6', 181: '30393-009-6', 182: '30393-009-6', 183: '30393-009-6', 184: '30393-009-6', 185: '30393-009-6', 186: '30393-009-6', 187: '30393-009-6', 188: '30393-009-6', 189: '30393-009-6', 190: '30393-009-6', 191: '30393-009-6', 192: '30393-009-6', 193: '30393-009-6', 194: '30393-009-6', 195: '30393-009-6', 196: '30393-009-6', 197: '30393-009-6', 198: '30393-009-6', 199: '30393-009-6', 200: '30393-009-6', 201: '30393-009-6', 202: '30393-009-6', 203: '30393-009-6', 204: '30393-009-6', 205: '30393-009-6', 206: '30393-009-6', 207: '30393-009-6', 208: '30393-009-6', 209: '30393-009-6', 210: '30393-009-6', 211: '30393-009-6', 212: '30393-009-6', 213: '30393-009-6', 214: '30393-009-6'} 
+#   EXFOR reaction        :{171: '(24-CR-52(N,EL),,WID)', 172: '(24-CR-52(N,EL),,WID)', 173: '(24-CR-52(N,EL),,WID)', 174: '(24-CR-52(N,EL),,WID)', 175: '(24-CR-52(N,EL),,WID)', 176: '(24-CR-52(N,EL),,WID)', 177: '(24-CR-52(N,EL),,WID)', 178: '(24-CR-52(N,EL),,WID)', 179: '(24-CR-52(N,EL),,WID)', 180: '(24-CR-52(N,EL),,WID)', 181: '(24-CR-52(N,EL),,WID)', 182: '(24-CR-52(N,EL),,WID)', 183: '(24-CR-52(N,EL),,WID)', 184: '(24-CR-52(N,EL),,WID)', 185: '(24-CR-52(N,EL),,WID)', 186: '(24-CR-52(N,EL),,WID)', 187: '(24-CR-52(N,EL),,WID)', 188: '(24-CR-52(N,EL),,WID)', 189: '(24-CR-52(N,EL),,WID)', 190: '(24-CR-52(N,EL),,WID)', 191: '(24-CR-52(N,EL),,WID)', 192: '(24-CR-52(N,EL),,WID)', 193: '(24-CR-52(N,EL),,WID)', 194: '(24-CR-52(N,EL),,WID)', 195: '(24-CR-52(N,EL),,WID)', 196: '(24-CR-52(N,EL),,WID)', 197: '(24-CR-52(N,EL),,WID)', 198: '(24-CR-52(N,EL),,WID)', 199: '(24-CR-52(N,EL),,WID)', 200: '(24-CR-52(N,EL),,WID)', 201: '(24-CR-52(N,EL),,WID)', 202: '(24-CR-52(N,EL),,WID)', 203: '(24-CR-52(N,EL),,WID)', 204: '(24-CR-52(N,EL),,WID)', 205: '(24-CR-52(N,EL),,WID)', 206: '(24-CR-52(N,EL),,WID)', 207: '(24-CR-52(N,EL),,WID)', 208: '(24-CR-52(N,EL),,WID)', 209: '(24-CR-52(N,EL),,WID)', 210: '(24-CR-52(N,EL),,WID)', 211: '(24-CR-52(N,EL),,WID)', 212: '(24-CR-52(N,EL),,WID)', 213: '(24-CR-52(N,EL),,WID)', 214: '(24-CR-52(N,EL),,WID)'} 
+#   incident energy       : 1.3042e+05 eV - 3.4531e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30393.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30393
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3042E+05        1.6000E+02               NAN               NAN               NAN               NAN        1.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3935E+05        1.7000E+02               NAN               NAN               NAN               NAN        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4333E+05        1.8000E+02               NAN               NAN               NAN               NAN        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4268E+05        3.5000E+02               NAN               NAN               NAN               NAN        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.4531E+05        5.5000E+02               NAN               NAN               NAN               NAN        3.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

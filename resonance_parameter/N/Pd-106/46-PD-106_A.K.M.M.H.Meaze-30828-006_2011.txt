@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 46-PD-106 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.K.M.M.H.Meaze 
+#   Institute             : (3BANBAN): Bangladesh 
+#   Reference             : (J,IJP,85,329,2011) 
+#   Year                  : 2011 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 46 
+#   A                     : 106 
+#   Nuclide               : 46-PD-106 
+# Reaction: 
+#   entry-subent-pointer  :{24: '30828-006-2', 25: '30828-006-3'} 
+#   EXFOR reaction        :{24: '(46-PD-106(N,G),,WID)', 25: '(46-PD-106(N,EL),,WID)'} 
+#   incident energy       : 6.3240e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30828.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30828
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.3240E+01        4.0000E-02               NAN               NAN        1.0654E-01        1.0680E-02        6.9000E-06        7.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN

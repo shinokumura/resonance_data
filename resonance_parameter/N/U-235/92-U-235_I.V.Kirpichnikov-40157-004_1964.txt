@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 92-U-235 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.V.Kirpichnikov 
+#   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference             : (J,AE,16,211,1964) 
+#   Year                  : 1964 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 92 
+#   A                     : 235 
+#   Nuclide               : 92-U-235 
+# Reaction: 
+#   entry-subent-pointer  :{396: '40157-004-0', 397: '40157-004-0', 398: '40157-004-0', 399: '40157-004-0', 400: '40157-004-0', 401: '40157-004-0'} 
+#   EXFOR reaction        :{396: '(92-U-235(N,G),,WID)', 397: '(92-U-235(N,G),,WID)', 398: '(92-U-235(N,G),,WID)', 399: '(92-U-235(N,G),,WID)', 400: '(92-U-235(N,G),,WID)', 401: '(92-U-235(N,G),,WID)'} 
+#   incident energy       : 3.0000e-07 eV - 3.6000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40157.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40157
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0000E-07        1.0000E-08               NAN               NAN        3.6000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1400E-06        1.0000E-08               NAN               NAN        3.8000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0400E-06        1.0000E-08               NAN               NAN        3.8000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1400E-06        2.0000E-08               NAN               NAN        4.4000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6000E-06        2.0000E-08               NAN               NAN        4.0000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

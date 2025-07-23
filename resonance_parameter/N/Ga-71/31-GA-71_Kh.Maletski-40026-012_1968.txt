@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 31-GA-71 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kh.Maletski 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-4152,1968) 
+#   Year                  : 1968 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 31 
+#   A                     : 71 
+#   Nuclide               : 31-GA-71 
+# Reaction: 
+#   entry-subent-pointer  :{15: '40026-012-1', 16: '40026-012-1', 17: '40026-012-1', 18: '40026-012-1', 19: '40026-012-1', 20: '40026-012-1', 21: '40026-012-1', 22: '40026-012-1', 23: '40026-012-1'} 
+#   EXFOR reaction        :{15: '(31-GA-71(N,G),,WID)', 16: '(31-GA-71(N,G),,WID)', 17: '(31-GA-71(N,G),,WID)', 18: '(31-GA-71(N,G),,WID)', 19: '(31-GA-71(N,G),,WID)', 20: '(31-GA-71(N,G),,WID)', 21: '(31-GA-71(N,G),,WID)', 22: '(31-GA-71(N,G),,WID)', 23: '(31-GA-71(N,G),,WID)'} 
+#   incident energy       : 9.5800e-05 eV - 3.3110e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40026.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40026
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.5800E-05        4.0000E-07               NAN               NAN        2.6000E-01        6.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8750E-04        1.7000E-06               NAN               NAN        2.4000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7600E-04        8.0000E-07               NAN               NAN        2.4000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0500E-04        2.0000E-06               NAN               NAN        2.3000E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5250E-03        7.0000E-06               NAN               NAN        2.2000E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9300E-03        1.0000E-05               NAN               NAN        2.2000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4000E-03        1.2000E-05               NAN               NAN        2.5000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7840E-03        1.6000E-05               NAN               NAN        2.3000E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3110E-03        2.0000E-05               NAN               NAN        2.4000E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

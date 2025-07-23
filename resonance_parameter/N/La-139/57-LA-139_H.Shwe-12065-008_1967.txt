@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 57-LA-139 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Shwe 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,159,1050,67) 
+#   Year                  : 1967 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 57 
+#   A                     : 139 
+#   Nuclide               : 57-LA-139 
+# Reaction: 
+#   entry-subent-pointer  :{4: '12065-008-3', 5: '12065-008-3', 6: '12065-008-3', 7: '12065-008-3', 8: '12065-008-4', 9: '12065-008-4', 10: '12065-008-4', 11: '12065-008-4'} 
+#   EXFOR reaction        :{4: '(57-LA-139(N,TOT),,WID)', 5: '(57-LA-139(N,TOT),,WID)', 6: '(57-LA-139(N,TOT),,WID)', 7: '(57-LA-139(N,TOT),,WID)', 8: '(57-LA-139(N,G),,WID)', 9: '(57-LA-139(N,G),,WID)', 10: '(57-LA-139(N,G),,WID)', 11: '(57-LA-139(N,G),,WID)'} 
+#   incident energy       : 7.3400e-01 eV - 1.1820e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12065.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12065
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.3400E-01        5.0000E-03        4.0000E-02        5.0000E-03        4.0000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2300E+01        1.0000E-01        8.8000E-02        1.0000E-03        5.6500E-02        1.7000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1770E+02        9.0000E-01        8.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1820E+03        2.0000E+00        1.8970E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

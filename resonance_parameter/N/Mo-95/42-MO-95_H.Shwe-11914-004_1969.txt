@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 42-MO-95 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Shwe 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,179,1148,69) 
+#   Year                  : 1969 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 42 
+#   A                     : 95 
+#   Nuclide               : 42-MO-95 
+# Reaction: 
+#   entry-subent-pointer  :{24: '11914-004-3', 25: '11914-004-3', 26: '11914-004-3', 27: '11914-004-3', 28: '11914-004-3', 29: '11914-004-3', 30: '11914-004-3', 31: '11914-004-3', 32: '11914-004-3', 33: '11914-004-3', 34: '11914-004-3'} 
+#   EXFOR reaction        :{24: '(42-MO-95(N,G),,WID)', 25: '(42-MO-95(N,G),,WID)', 26: '(42-MO-95(N,G),,WID)', 27: '(42-MO-95(N,G),,WID)', 28: '(42-MO-95(N,G),,WID)', 29: '(42-MO-95(N,G),,WID)', 30: '(42-MO-95(N,G),,WID)', 31: '(42-MO-95(N,G),,WID)', 32: '(42-MO-95(N,G),,WID)', 33: '(42-MO-95(N,G),,WID)', 34: '(42-MO-95(N,G),,WID)'} 
+#   incident energy       : 1.1790e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11914.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11914
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.1790E+02        3.0000E-01               NAN               NAN        2.0000E-01        1.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

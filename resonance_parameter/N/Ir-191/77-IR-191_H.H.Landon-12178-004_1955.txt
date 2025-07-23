@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 77-IR-191 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.H.Landon 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,100,1414,5512) 
+#   Year                  : 1955 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 77 
+#   A                     : 191 
+#   Nuclide               : 77-IR-191 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12178-004-3', 1: '12178-004-3', 2: '12178-004-5', 3: '12178-004-5'} 
+#   EXFOR reaction        :{0: '(77-IR-191(N,TOT),,WID)', 1: '(77-IR-191(N,TOT),,WID)', 2: '(77-IR-191(N,G),,WID)', 3: '(77-IR-191(N,G),,WID)'} 
+#   incident energy       : 6.5400e-01 eV - 5.3600e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12178.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12178
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.5400E-01        2.0000E-03        7.4000E-02        1.0000E-03        7.3500E-02        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3600E+00        4.0000E-02        7.4000E-02        5.0000E-03        6.7000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

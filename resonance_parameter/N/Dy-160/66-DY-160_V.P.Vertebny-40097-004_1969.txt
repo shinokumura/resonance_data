@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 66-DY-160 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : V.P.Vertebny 
+#   Institute             : (4UKRIFU): Institute Fiziki Ukrainskoi A.N., Kiev 
+#   Reference             : (J,UFZ,14,1810,1969) 
+#   Year                  : 1969 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 66 
+#   A                     : 160 
+#   Nuclide               : 66-DY-160 
+# Reaction: 
+#   entry-subent-pointer  :{0: '40097-004-0', 1: '40097-004-0', 2: '40097-004-0', 3: '40097-004-0'} 
+#   EXFOR reaction        :{0: '(66-DY-160(N,EL),,WID)', 1: '(66-DY-160(N,EL),,WID)', 2: '(66-DY-160(N,EL),,WID)', 3: '(66-DY-160(N,EL),,WID)'} 
+#   incident energy       : 1.8800e-06 eV - 8.5000e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40097.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40097
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.8800E-06        2.0000E-08               NAN               NAN               NAN               NAN        4.0000E-04        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0400E-05        5.0000E-08               NAN               NAN               NAN               NAN        1.9300E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0500E-05        1.0000E-07               NAN               NAN               NAN               NAN        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5000E-05        1.3000E-06               NAN               NAN               NAN               NAN        9.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

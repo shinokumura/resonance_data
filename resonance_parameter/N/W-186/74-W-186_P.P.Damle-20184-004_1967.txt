@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 74-W-186 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.P.Damle 
+#   Institute             : (2BLGMOL): SCK CEN (Belgian Nuclear Research Centre), Mol 
+#   Reference             : (P,EANDC(E)-76,107(2),6701) 
+#   Year                  : 1967 
+#   Facility              : None 
+# Target: 
+#   Z                     : 74 
+#   A                     : 186 
+#   Nuclide               : 74-W-186 
+# Reaction: 
+#   entry-subent-pointer  :{70: '20184-004-0'} 
+#   EXFOR reaction        :{70: '(74-W-186(N,G),,WID)'} 
+#   incident energy       : 1.8835e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20184.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20184
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.8835E-05        2.0000E-08               NAN               NAN        5.3000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

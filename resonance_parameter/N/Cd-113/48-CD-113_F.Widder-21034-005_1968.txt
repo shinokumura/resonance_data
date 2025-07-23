@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 48-CD-113 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.Widder 
+#   Institute             : (2SWTWUR): Eidgenossisches Institute fuer Reakt.Forsch., Wuerenlingen 
+#   Reference             : (J,NUK,11,297,1968) 
+#   Year                  : 1968 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 48 
+#   A                     : 113 
+#   Nuclide               : 48-CD-113 
+# Reaction: 
+#   entry-subent-pointer  :{52: '21034-005-1', 53: '21034-005-2'} 
+#   EXFOR reaction        :{52: '(48-CD-113(N,TOT),,WID)', 53: '(48-CD-113(N,EL),,WID)'} 
+#   incident energy       : 1.7760e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21034.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21034
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.7760E-07        6.0000E-10        1.1430E-01        6.0000E-04               NAN               NAN        6.1800E-04        3.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN

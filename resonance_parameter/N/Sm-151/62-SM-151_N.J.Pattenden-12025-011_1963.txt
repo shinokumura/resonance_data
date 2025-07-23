@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 62-SM-151 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.J.Pattenden 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NSE,17,371,1963) 
+#   Year                  : 1963 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 62 
+#   A                     : 151 
+#   Nuclide               : 62-SM-151 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12025-011-2', 1: '12025-011-2', 2: '12025-011-2', 3: '12025-011-2'} 
+#   EXFOR reaction        :{0: '(62-SM-151(N,TOT),,WID)', 1: '(62-SM-151(N,TOT),,WID)', 2: '(62-SM-151(N,TOT),,WID)', 3: '(62-SM-151(N,TOT),,WID)'} 
+#   incident energy       : -1.5000e-02 eV - 2.0470e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12025.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12025
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -1.5000E-02        1.5000E-02        1.2000E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1030E+00        2.0000E-03        8.0000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7110E+00        4.0000E-03        6.0000E-02        1.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0470E+00        3.0000E-03        6.9000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.E.Lynn 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (C,55GENEVA,4,210,1955) 
+#   Year                  : 1955 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   entry-subent-pointer  :{29: '21027-006-1', 30: '21027-006-1', 31: '21027-006-1', 32: '21027-006-1', 33: '21027-006-1', 34: '21027-006-1', 35: '21027-006-1', 36: '21027-006-2', 37: '21027-006-2', 38: '21027-006-2', 39: '21027-006-2', 40: '21027-006-2', 41: '21027-006-2', 42: '21027-006-2', 43: '21027-006-3', 44: '21027-006-3', 45: '21027-006-3', 46: '21027-006-3', 47: '21027-006-3', 48: '21027-006-3', 49: '21027-006-3'} 
+#   EXFOR reaction        :{29: '(92-U-238(N,TOT),,WID)', 30: '(92-U-238(N,TOT),,WID)', 31: '(92-U-238(N,TOT),,WID)', 32: '(92-U-238(N,TOT),,WID)', 33: '(92-U-238(N,TOT),,WID)', 34: '(92-U-238(N,TOT),,WID)', 35: '(92-U-238(N,TOT),,WID)', 36: '(92-U-238(N,EL),,WID)', 37: '(92-U-238(N,EL),,WID)', 38: '(92-U-238(N,EL),,WID)', 39: '(92-U-238(N,EL),,WID)', 40: '(92-U-238(N,EL),,WID)', 41: '(92-U-238(N,EL),,WID)', 42: '(92-U-238(N,EL),,WID)', 43: '(92-U-238(N,G),,WID)', 44: '(92-U-238(N,G),,WID)', 45: '(92-U-238(N,G),,WID)', 46: '(92-U-238(N,G),,WID)', 47: '(92-U-238(N,G),,WID)', 48: '(92-U-238(N,G),,WID)', 49: '(92-U-238(N,G),,WID)'} 
+#   incident energy       : 6.6700e-06 eV - 1.1750e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21027.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21027
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.6700E-06        4.0000E-08        2.7500E-02        1.5000E-03        2.6100E-02        1.5000E-03        1.4000E-03        1.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1000E-05        3.0000E-07        3.7500E-02        2.3000E-03        3.2000E-02        2.0000E-03        8.7000E-03        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6800E-05        1.5000E-07        5.3500E-02        3.9000E-03        2.4900E-02        4.2000E-03        2.8600E-02        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        6.6200E-05        4.0000E-07        4.1200E-02        2.3000E-03        1.8600E-02        2.7000E-03        2.2600E-02        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1100E-05        5.0000E-07               NAN               NAN               NAN               NAN        1.8000E-03        6.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0330E-04        7.0000E-07        8.3000E-02        4.5000E-03        1.5500E-02        5.4000E-03        6.7500E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1750E-04        8.0000E-07        3.6800E-02        4.5000E-03        1.3600E-02        4.8000E-03        2.3200E-02        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN

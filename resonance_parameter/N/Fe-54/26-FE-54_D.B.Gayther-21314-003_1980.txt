@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 26-FE-54 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.B.Gayther 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (P,AERE-PR/NP-27,11,1980) 
+#   Year                  : 1980 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 54 
+#   Nuclide               : 26-FE-54 
+# Reaction: 
+#   entry-subent-pointer  :{151: '21314-003-2', 152: '21314-003-2', 153: '21314-003-2', 154: '21314-003-2', 155: '21314-003-2', 156: '21314-003-2', 157: '21314-003-2', 158: '21314-003-2', 159: '21314-003-2'} 
+#   EXFOR reaction        :{151: '(26-FE-54(N,G),,WID)', 152: '(26-FE-54(N,G),,WID)', 153: '(26-FE-54(N,G),,WID)', 154: '(26-FE-54(N,G),,WID)', 155: '(26-FE-54(N,G),,WID)', 156: '(26-FE-54(N,G),,WID)', 157: '(26-FE-54(N,G),,WID)', 158: '(26-FE-54(N,G),,WID)', 159: '(26-FE-54(N,G),,WID)'} 
+#   incident energy       : 7.6571e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21314.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21314
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.6571E-03        2.7400E-05               NAN               NAN        1.5180E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 75-RE-187 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Ideno 
+#   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference             : (J,NST,9,(5),261,7205) 
+#   Year                  : 1972 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 75 
+#   A                     : 187 
+#   Nuclide               : 75-RE-187 
+# Reaction: 
+#   entry-subent-pointer  :{27: '20702-004-2', 28: '20702-004-2', 29: '20702-004-2', 30: '20702-004-2', 31: '20702-004-2', 32: '20702-004-2', 33: '20702-004-2', 34: '20702-004-2', 35: '20702-004-2', 36: '20702-004-2', 37: '20702-004-2', 38: '20702-004-2', 39: '20702-004-2', 40: '20702-004-2', 41: '20702-004-2', 42: '20702-004-2', 43: '20702-004-2', 44: '20702-004-2', 45: '20702-004-2', 46: '20702-004-2', 47: '20702-004-2', 48: '20702-004-2', 49: '20702-004-2', 50: '20702-004-2', 51: '20702-004-2', 52: '20702-004-2'} 
+#   EXFOR reaction        :{27: '(75-RE-187(N,G),,WID)', 28: '(75-RE-187(N,G),,WID)', 29: '(75-RE-187(N,G),,WID)', 30: '(75-RE-187(N,G),,WID)', 31: '(75-RE-187(N,G),,WID)', 32: '(75-RE-187(N,G),,WID)', 33: '(75-RE-187(N,G),,WID)', 34: '(75-RE-187(N,G),,WID)', 35: '(75-RE-187(N,G),,WID)', 36: '(75-RE-187(N,G),,WID)', 37: '(75-RE-187(N,G),,WID)', 38: '(75-RE-187(N,G),,WID)', 39: '(75-RE-187(N,G),,WID)', 40: '(75-RE-187(N,G),,WID)', 41: '(75-RE-187(N,G),,WID)', 42: '(75-RE-187(N,G),,WID)', 43: '(75-RE-187(N,G),,WID)', 44: '(75-RE-187(N,G),,WID)', 45: '(75-RE-187(N,G),,WID)', 46: '(75-RE-187(N,G),,WID)', 47: '(75-RE-187(N,G),,WID)', 48: '(75-RE-187(N,G),,WID)', 49: '(75-RE-187(N,G),,WID)', 50: '(75-RE-187(N,G),,WID)', 51: '(75-RE-187(N,G),,WID)', 52: '(75-RE-187(N,G),,WID)'} 
+#   incident energy       : 4.4200e+00 eV - 6.9500e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20702.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20702
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.4200E+00        1.0000E-02               NAN               NAN        5.8000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1140E+01        3.0000E-02               NAN               NAN        6.1000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2100E+01        1.0000E-01               NAN               NAN        8.5000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9500E+01        2.0000E-01               NAN               NAN        5.5000E-02        9.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

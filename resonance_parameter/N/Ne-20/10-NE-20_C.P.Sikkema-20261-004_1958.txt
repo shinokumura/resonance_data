@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 10-NE-20 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.P.Sikkema 
+#   Institute             : (2NEDGRN): Groningen 
+#   Reference             : (C,58PARIS,,541,1958) 
+#   Year                  : 1958 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 10 
+#   A                     : 20 
+#   Nuclide               : 10-NE-20 
+# Reaction: 
+#   entry-subent-pointer  :{0: '20261-004-2', 1: '20261-004-2', 2: '20261-004-3', 3: '20261-004-3'} 
+#   EXFOR reaction        :{0: '(10-NE-20(N,TOT),,WID)', 1: '(10-NE-20(N,TOT),,WID)', 2: '(10-NE-20(N,EL),,WID)', 3: '(10-NE-20(N,EL),,WID)'} 
+#   incident energy       : 1.9400e+06 eV - 2.0000e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20261.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20261
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.9400E+06        1.5000E+04        3.2000E+04        1.0000E+04               NAN               NAN        6.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0000E+06        1.5000E+04        4.8000E+04        1.0000E+04               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

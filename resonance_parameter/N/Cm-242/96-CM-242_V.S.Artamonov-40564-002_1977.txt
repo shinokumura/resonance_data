@@ -1,0 +1,35 @@
+# Header: 
+#   Title                 : 96-CM-242 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : V.S.Artamonov 
+#   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference             : ((C,77KIEV,2,257,1977)=(R,INDC(CCP)-118,(2),257,1977)) 
+#   Year                  : 1977 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 96 
+#   A                     : 242 
+#   Nuclide               : 96-CM-242 
+# Reaction: 
+#   entry-subent-pointer  :{0: '40564-002-2', 1: '40564-002-2', 2: '40564-002-2', 3: '40564-002-2', 4: '40564-002-2', 5: '40564-002-2', 6: '40564-002-2', 7: '40564-002-2', 8: '40564-002-2', 9: '40564-002-2', 10: '40564-002-2', 11: '40564-002-2', 12: '40564-002-3', 13: '40564-002-3', 14: '40564-002-3', 15: '40564-002-3', 16: '40564-002-3', 17: '40564-002-3', 18: '40564-002-3', 19: '40564-002-3', 20: '40564-002-3', 21: '40564-002-3', 22: '40564-002-3', 23: '40564-002-3'} 
+#   EXFOR reaction        :{0: '(96-CM-242(N,TOT),,WID)', 1: '(96-CM-242(N,TOT),,WID)', 2: '(96-CM-242(N,TOT),,WID)', 3: '(96-CM-242(N,TOT),,WID)', 4: '(96-CM-242(N,TOT),,WID)', 5: '(96-CM-242(N,TOT),,WID)', 6: '(96-CM-242(N,TOT),,WID)', 7: '(96-CM-242(N,TOT),,WID)', 8: '(96-CM-242(N,TOT),,WID)', 9: '(96-CM-242(N,TOT),,WID)', 10: '(96-CM-242(N,TOT),,WID)', 11: '(96-CM-242(N,TOT),,WID)', 12: '(96-CM-242(N,EL),,WID)', 13: '(96-CM-242(N,EL),,WID)', 14: '(96-CM-242(N,EL),,WID)', 15: '(96-CM-242(N,EL),,WID)', 16: '(96-CM-242(N,EL),,WID)', 17: '(96-CM-242(N,EL),,WID)', 18: '(96-CM-242(N,EL),,WID)', 19: '(96-CM-242(N,EL),,WID)', 20: '(96-CM-242(N,EL),,WID)', 21: '(96-CM-242(N,EL),,WID)', 22: '(96-CM-242(N,EL),,WID)', 23: '(96-CM-242(N,EL),,WID)'} 
+#   incident energy       : 1.3620e+01 eV - 2.6500e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40564.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40564
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3620E+01        6.0000E-02        3.6000E-02        6.0000E-03               NAN               NAN        1.8200E-03        5.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0330E+01        1.3000E-01        5.8000E-02        2.4000E-02               NAN               NAN        3.1000E-03        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7490E+01        1.5000E-01        8.1000E-02        2.2000E-02               NAN               NAN        4.4000E-03        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0100E+01        1.8000E-01               NAN               NAN               NAN               NAN        2.3600E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9300E+01        3.0000E-01               NAN               NAN               NAN               NAN        1.2500E-02        3.4000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0340E+02        4.0000E-01               NAN               NAN               NAN               NAN        5.4000E-03        1.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3030E+02        6.0000E-01               NAN               NAN               NAN               NAN        3.6000E-03        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4870E+02        7.0000E-01               NAN               NAN               NAN               NAN        2.4000E-02        8.3000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5460E+02        7.0000E-01               NAN               NAN               NAN               NAN        1.1500E-02        3.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3520E+02        1.0000E+00               NAN               NAN               NAN               NAN        5.1000E-02        2.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4530E+02        1.1000E+00               NAN               NAN               NAN               NAN        7.1000E-02        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6500E+02        1.1000E+00               NAN               NAN               NAN               NAN        6.8000E-02        3.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN

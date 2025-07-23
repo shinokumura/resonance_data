@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 14-SI-29 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.W.Boldeman 
+#   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
+#   Reference             : (J,NP/A,252,62,197511) 
+#   Year                  : 1975 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 14 
+#   A                     : 29 
+#   Nuclide               : 14-SI-29 
+# Reaction: 
+#   entry-subent-pointer  :{0: '30330-004-1', 1: '30330-004-1', 2: '30330-004-1', 3: '30330-004-1', 4: '30330-004-1', 5: '30330-004-1', 6: '30330-004-1', 7: '30330-004-1', 8: '30330-004-2', 9: '30330-004-2', 10: '30330-004-2', 11: '30330-004-2', 12: '30330-004-2', 13: '30330-004-2', 14: '30330-004-2', 15: '30330-004-2'} 
+#   EXFOR reaction        :{0: '(14-SI-29(N,EL),,WID)', 1: '(14-SI-29(N,EL),,WID)', 2: '(14-SI-29(N,EL),,WID)', 3: '(14-SI-29(N,EL),,WID)', 4: '(14-SI-29(N,EL),,WID)', 5: '(14-SI-29(N,EL),,WID)', 6: '(14-SI-29(N,EL),,WID)', 7: '(14-SI-29(N,EL),,WID)', 8: '(14-SI-29(N,G),,WID)', 9: '(14-SI-29(N,G),,WID)', 10: '(14-SI-29(N,G),,WID)', 11: '(14-SI-29(N,G),,WID)', 12: '(14-SI-29(N,G),,WID)', 13: '(14-SI-29(N,G),,WID)', 14: '(14-SI-29(N,G),,WID)', 15: '(14-SI-29(N,G),,WID)'} 
+#   incident energy       : 3.8820e-02 eV - 6.6300e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30330.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30330
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.8820E-02        8.0000E-05               NAN               NAN        2.3100E+00               NAN        1.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5950E-01        3.0000E-04               NAN               NAN               NAN               NAN        8.0000E+01        1.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        5.4900E-01        1.0000E-03               NAN               NAN               NAN               NAN        2.5000E+03        1.5000E+03               NAN               NAN               NAN               NAN               NAN               NAN
+        6.6300E-01        1.0000E-03               NAN               NAN               NAN               NAN        3.0000E+03        1.5000E+03               NAN               NAN               NAN               NAN               NAN               NAN

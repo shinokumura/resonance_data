@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 3-LI-6 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.H.Johnson 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,96,985,195411) 
+#   Year                  : 1954 
+#   Facility              : None 
+# Target: 
+#   Z                     : 3 
+#   A                     : 6 
+#   Nuclide               : 3-LI-6 
+# Reaction: 
+#   entry-subent-pointer  :{1: '11082-003-2'} 
+#   EXFOR reaction        :{1: '(3-LI-6(N,EL),,WID)'} 
+#   incident energy       : 2.5500e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11082.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11082
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5500E-01        1.0000E-02               NAN               NAN               NAN               NAN        1.1400E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 56-BA-133 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.M.Masyanov 
+#   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
+#   Reference             : (J,SJA,69,799,1990) 
+#   Year                  : 1990 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 56 
+#   A                     : 133 
+#   Nuclide               : 56-BA-133 
+# Reaction: 
+#   entry-subent-pointer  :{0: '41103-003-2', 1: '41103-003-2', 2: '41103-003-2', 3: '41103-003-2', 4: '41103-003-2', 5: '41103-003-2'} 
+#   EXFOR reaction        :{0: '(56-BA-133(N,TOT),,WID)', 1: '(56-BA-133(N,TOT),,WID)', 2: '(56-BA-133(N,TOT),,WID)', 3: '(56-BA-133(N,TOT),,WID)', 4: '(56-BA-133(N,TOT),,WID)', 5: '(56-BA-133(N,TOT),,WID)'} 
+#   incident energy       : 2.5300e+01 eV - 9.4100e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41103.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41103
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5300E+01        2.0000E-01        1.1200E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9800E+01        2.0000E-01        1.8000E-01        2.9000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3200E+01        1.0000E-01        1.1000E-01        1.5000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4100E+01        2.0000E-01        6.4000E-01        1.8000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

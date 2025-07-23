@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 42-MO-98 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kim-Khi-San 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,ZET,49,410,196508) 
+#   Year                  : 1965 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 42 
+#   A                     : 98 
+#   Nuclide               : 42-MO-98 
+# Reaction: 
+#   entry-subent-pointer  :{22: '41211-010-1'} 
+#   EXFOR reaction        :{22: '(42-MO-98(N,G),,WID)'} 
+#   incident energy       : 1.2150e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41211.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41211
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2150E-05        3.0000E-08               NAN               NAN        2.1000E-01        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

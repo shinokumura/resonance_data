@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 48-CD-114 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Freitag 
+#   Institute             : (2GERKIG): GKSS, Geesthacht 
+#   Reference             : (C,76LOWELL,2,1390,7607) 
+#   Year                  : 1976 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 48 
+#   A                     : 114 
+#   Nuclide               : 48-CD-114 
+# Reaction: 
+#   entry-subent-pointer  :{14: '20722-004-0', 15: '20722-004-0', 16: '20722-004-0'} 
+#   EXFOR reaction        :{14: '(48-CD-114(N,EL),,WID)', 15: '(48-CD-114(N,EL),,WID)', 16: '(48-CD-114(N,EL),,WID)'} 
+#   incident energy       : 5.6000e-05 eV - 3.9100e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20722.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20722
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.6000E-05        2.0000E-07               NAN               NAN               NAN               NAN        8.6000E-04        1.8000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1970E-04        8.0000E-07               NAN               NAN               NAN               NAN        4.8000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9100E-04        4.0000E-06               NAN               NAN               NAN               NAN        8.9000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN

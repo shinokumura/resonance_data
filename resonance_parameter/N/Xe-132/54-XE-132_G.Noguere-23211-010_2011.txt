@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 54-XE-132 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Noguere 
+#   Institute             : (2FR CAD): CEA/Cadarache 
+#   Reference             : (J,NP/A,870-871,131,2011) 
+#   Year                  : 2011 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 54 
+#   A                     : 132 
+#   Nuclide               : 54-XE-132 
+# Reaction: 
+#   entry-subent-pointer  :{10: '23211-010-2', 11: '23211-010-2', 12: '23211-010-2', 13: '23211-010-2', 14: '23211-010-2', 15: '23211-010-3', 16: '23211-010-3', 17: '23211-010-3', 18: '23211-010-3', 19: '23211-010-3'} 
+#   EXFOR reaction        :{10: '(54-XE-132(N,G),,WID)', 11: '(54-XE-132(N,G),,WID)', 12: '(54-XE-132(N,G),,WID)', 13: '(54-XE-132(N,G),,WID)', 14: '(54-XE-132(N,G),,WID)', 15: '(54-XE-132(N,EL),,WID)', 16: '(54-XE-132(N,EL),,WID)', 17: '(54-XE-132(N,EL),,WID)', 18: '(54-XE-132(N,EL),,WID)', 19: '(54-XE-132(N,EL),,WID)'} 
+#   incident energy       : 6.4354e+02 eV - 3.8560e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23211.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23211
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.4354E+02        5.3000E-01               NAN               NAN        6.5700E-02        1.8000E-03        2.4631E+00        9.8500E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1326E+03        1.7400E+00               NAN               NAN        6.9100E-02        6.2000E-03        4.0060E-01        3.2700E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8490E+03        2.3100E+00               NAN               NAN        6.9100E-02        6.2000E-03        1.3000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0325E+03        2.4600E+00               NAN               NAN        6.9100E-02        6.2000E-03        5.4450E-01        5.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8560E+03        3.1200E+00               NAN               NAN        6.9100E-02        6.2000E-03        1.1286E+00        1.0660E-01               NAN               NAN               NAN               NAN               NAN               NAN

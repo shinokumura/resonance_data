@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 81-TL-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.I.Liou 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,12,102,197507) 
+#   Year                  : 1975 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 81 
+#   A                     : 0 
+#   Nuclide               : 81-TL-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: '10535-006-2', 1: '10535-006-2', 2: '10535-006-2', 3: '10535-006-2', 4: '10535-006-2', 5: '10535-006-2', 6: '10535-006-2', 7: '10535-006-2', 8: '10535-006-2', 9: '10535-006-2'} 
+#   EXFOR reaction        :{0: '(81-TL-0(N,TOT),,WID)', 1: '(81-TL-0(N,TOT),,WID)', 2: '(81-TL-0(N,TOT),,WID)', 3: '(81-TL-0(N,TOT),,WID)', 4: '(81-TL-0(N,TOT),,WID)', 5: '(81-TL-0(N,TOT),,WID)', 6: '(81-TL-0(N,TOT),,WID)', 7: '(81-TL-0(N,TOT),,WID)', 8: '(81-TL-0(N,TOT),,WID)', 9: '(81-TL-0(N,TOT),,WID)'} 
+#   incident energy       : 2.4035e+04 eV - 8.3990e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10535.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10535
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.4035E+04        2.1000E+01        3.2000E+01        1.4000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9366E+04        2.8000E+01        5.0000E+01        2.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9728E+04        2.8000E+01        4.8000E+01        1.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2633E+04        3.3000E+01        1.0000E+02        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2877E+04        3.3000E+01        9.5000E+01        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7474E+04        5.7000E+01        1.2000E+02        7.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2345E+04        8.6000E+01        4.5000E+02        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.5302E+04        9.2000E+01        5.5000E+02        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.8950E+04        1.0000E+02        2.8000E+02        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3990E+04        1.4000E+02        5.0000E+02        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

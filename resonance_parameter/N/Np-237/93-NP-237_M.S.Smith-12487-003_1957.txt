@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 93-NP-237 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.S.Smith 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,PR,107,525,57) 
+#   Year                  : 1957 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 93 
+#   A                     : 237 
+#   Nuclide               : 93-NP-237 
+# Reaction: 
+#   entry-subent-pointer  :{2: '12487-003-3', 3: '12487-003-3', 4: '12487-003-3'} 
+#   EXFOR reaction        :{2: '(93-NP-237(N,TOT),,WID)', 3: '(93-NP-237(N,TOT),,WID)', 4: '(93-NP-237(N,TOT),,WID)'} 
+#   incident energy       : 4.8900e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12487.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12487
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.8900E-01        1.7000E-03        3.2000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

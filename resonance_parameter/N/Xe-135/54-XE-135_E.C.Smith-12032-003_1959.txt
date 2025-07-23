@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 54-XE-135 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.C.Smith 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,115,1693,1959) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 54 
+#   A                     : 135 
+#   Nuclide               : 54-XE-135 
+# Reaction: 
+#   entry-subent-pointer  :{2: '12032-003-2', 3: '12032-003-2', 4: '12032-003-3', 5: '12032-003-3'} 
+#   EXFOR reaction        :{2: '(54-XE-135(N,EL),,WID)', 3: '(54-XE-135(N,EL),,WID)', 4: '(54-XE-135(N,G),,WID)', 5: '(54-XE-135(N,G),,WID)'} 
+#   incident energy       : 8.4150e-02 eV - 8.4720e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12032.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12032
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        8.4150E-02        2.8000E-04               NAN               NAN        9.4930E-02        7.1000E-04        2.0570E-02        1.2000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        8.4720E-02        2.7000E-04               NAN               NAN        8.3030E-02        6.2000E-04        3.4770E-02        2.1000E-04               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 68-ER-168 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.F.Wang 
+#   Institute             : (3KORKNU): Kyungpook National University, Daegu 
+#   Reference             : (J,NIM/B,268,106,2010) 
+#   Year                  : 2010 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 68 
+#   A                     : 168 
+#   Nuclide               : 68-ER-168 
+# Reaction: 
+#   entry-subent-pointer  :{133: '31688-006-2'} 
+#   EXFOR reaction        :{133: '(68-ER-168(N,G),,WID)'} 
+#   incident energy       : 7.9896e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31688.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/31688
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.9896E+01        1.3700E-01               NAN               NAN        8.1180E-02        8.1000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

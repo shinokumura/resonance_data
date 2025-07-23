@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 20-CA-43 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.C.Moxon 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR/C,48,553,1993) 
+#   Year                  : 1993 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 20 
+#   A                     : 43 
+#   Nuclide               : 20-CA-43 
+# Reaction: 
+#   entry-subent-pointer  :{52: '13588-002-3', 53: '13588-002-3', 54: '13588-002-3', 55: '13588-002-3', 56: '13588-002-3', 57: '13588-002-3', 58: '13588-002-3', 59: '13588-002-3'} 
+#   EXFOR reaction        :{52: '(20-CA-43(N,EL),,WID)', 53: '(20-CA-43(N,EL),,WID)', 54: '(20-CA-43(N,EL),,WID)', 55: '(20-CA-43(N,EL),,WID)', 56: '(20-CA-43(N,EL),,WID)', 57: '(20-CA-43(N,EL),,WID)', 58: '(20-CA-43(N,EL),,WID)', 59: '(20-CA-43(N,EL),,WID)'} 
+#   incident energy       : 1.5000e+03 eV - 1.9150e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13588.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13588
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.5000E+03        2.0000E+00               NAN               NAN               NAN               NAN        2.0500E+02        3.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3270E+03        4.0000E+00               NAN               NAN               NAN               NAN        9.2000E+01        7.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        5.1790E+03        8.0000E+00               NAN               NAN               NAN               NAN        8.5000E+01        1.3000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2020E+03        4.0000E+00               NAN               NAN               NAN               NAN        8.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9650E+03        6.0000E+00               NAN               NAN               NAN               NAN        2.9000E+01        1.1000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8600E+03        1.8000E+01               NAN               NAN               NAN               NAN        2.8500E+02        3.7000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3970E+04        4.0000E+01               NAN               NAN               NAN               NAN        3.7000E+02        9.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9150E+04        8.0000E+01               NAN               NAN               NAN               NAN        6.2000E+02        1.8000E+02               NAN               NAN               NAN               NAN               NAN               NAN

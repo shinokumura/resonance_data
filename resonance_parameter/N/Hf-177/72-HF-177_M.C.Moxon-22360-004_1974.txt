@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 72-HF-177 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.C.Moxon 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (R,AERE-R-7864,197412) 
+#   Year                  : 1974 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 72 
+#   A                     : 177 
+#   Nuclide               : 72-HF-177 
+# Reaction: 
+#   entry-subent-pointer  :{112: '22360-004-2', 113: '22360-004-2', 114: '22360-004-2', 115: '22360-004-2', 116: '22360-004-2', 117: '22360-004-2', 118: '22360-004-2', 119: '22360-004-2', 120: '22360-004-2', 121: '22360-004-2', 122: '22360-004-2', 123: '22360-004-2', 124: '22360-004-2', 125: '22360-004-3', 126: '22360-004-3', 127: '22360-004-3', 128: '22360-004-3', 129: '22360-004-3', 130: '22360-004-3', 131: '22360-004-3', 132: '22360-004-3', 133: '22360-004-3', 134: '22360-004-3', 135: '22360-004-3', 136: '22360-004-3', 137: '22360-004-3'} 
+#   EXFOR reaction        :{112: '(72-HF-177(N,EL),,WID)', 113: '(72-HF-177(N,EL),,WID)', 114: '(72-HF-177(N,EL),,WID)', 115: '(72-HF-177(N,EL),,WID)', 116: '(72-HF-177(N,EL),,WID)', 117: '(72-HF-177(N,EL),,WID)', 118: '(72-HF-177(N,EL),,WID)', 119: '(72-HF-177(N,EL),,WID)', 120: '(72-HF-177(N,EL),,WID)', 121: '(72-HF-177(N,EL),,WID)', 122: '(72-HF-177(N,EL),,WID)', 123: '(72-HF-177(N,EL),,WID)', 124: '(72-HF-177(N,EL),,WID)', 125: '(72-HF-177(N,G),,WID)', 126: '(72-HF-177(N,G),,WID)', 127: '(72-HF-177(N,G),,WID)', 128: '(72-HF-177(N,G),,WID)', 129: '(72-HF-177(N,G),,WID)', 130: '(72-HF-177(N,G),,WID)', 131: '(72-HF-177(N,G),,WID)', 132: '(72-HF-177(N,G),,WID)', 133: '(72-HF-177(N,G),,WID)', 134: '(72-HF-177(N,G),,WID)', 135: '(72-HF-177(N,G),,WID)', 136: '(72-HF-177(N,G),,WID)', 137: '(72-HF-177(N,G),,WID)'} 
+#   incident energy       : 1.0964e+00 eV - 2.7063e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22360.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22360
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0964E+00        1.5000E-03               NAN               NAN        6.5640E-02        2.8600E-03        2.2320E-03        1.3000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3837E+00        2.0000E-04               NAN               NAN        6.1740E-02        7.4000E-04        8.0628E-03        6.8000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8937E+00        9.0000E-04               NAN               NAN        6.5470E-02        3.3400E-03        5.3480E-03        1.2700E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        6.5691E+00        1.4000E-03               NAN               NAN        6.4960E-02        1.7600E-03        8.0490E-03        4.8000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8388E+00        8.2000E-04               NAN               NAN        6.4970E-02        1.7300E-03        5.7050E-03        8.8000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0941E+01        8.5000E-03               NAN               NAN        7.5520E-02        9.4200E-03        4.9700E-04        1.3000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3687E+01        1.8000E-03               NAN               NAN        6.4820E-02        6.5600E-03        5.4300E-04        3.1000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3971E+01        2.5000E-03               NAN               NAN        7.4560E-02        4.7900E-03        3.0640E-03        7.3000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2005E+01        1.4000E-03               NAN               NAN        6.7340E-02        5.2400E-03        1.5650E-03        4.1000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2312E+01        6.1000E-03               NAN               NAN        1.0260E-01        1.2200E-02        7.5900E-04        4.7000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3520E+01        8.0000E-03               NAN               NAN        8.4600E-02        1.0000E-02        1.5900E-03        6.4000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5665E+01        1.2000E-03               NAN               NAN        6.3300E-02               NAN        4.7300E-04        3.7000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7063E+01        1.2000E-03               NAN               NAN        8.8100E-02        1.1000E-02        2.7800E-03        1.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN

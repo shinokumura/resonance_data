@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 34-SE-78 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Malecki 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,9,1129,1969) 
+#   Year                  : 1969 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 34 
+#   A                     : 78 
+#   Nuclide               : 34-SE-78 
+# Reaction: 
+#   entry-subent-pointer  :{16: '40022-010-0', 17: '40022-010-0', 18: '40022-010-0', 19: '40022-010-0'} 
+#   EXFOR reaction        :{16: '(34-SE-78(N,G),,WID)', 17: '(34-SE-78(N,G),,WID)', 18: '(34-SE-78(N,G),,WID)', 19: '(34-SE-78(N,G),,WID)'} 
+#   incident energy       : 3.8400e-04 eV - 6.8570e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40022.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40022
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.8400E-04        8.0000E-07               NAN               NAN        1.8000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2270E-03        2.0000E-05               NAN               NAN        2.6000E-01        5.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6730E-03        4.7000E-05               NAN               NAN        2.3000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.8570E-03        6.3000E-05               NAN               NAN        2.2000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

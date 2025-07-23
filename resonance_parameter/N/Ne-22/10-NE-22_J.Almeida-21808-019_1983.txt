@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 10-NE-22 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Almeida 
+#   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference             : (J,AJ,265,417,1983) 
+#   Year                  : 1983 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 10 
+#   A                     : 22 
+#   Nuclide               : 10-NE-22 
+# Reaction: 
+#   entry-subent-pointer  :{10: '21808-019-4', 11: '21808-019-4', 12: '21808-019-4', 13: '21808-019-4', 14: '21808-019-4', 15: '21808-019-4', 16: '21808-019-4'} 
+#   EXFOR reaction        :{10: '(10-NE-22(N,EL),,WID)', 11: '(10-NE-22(N,EL),,WID)', 12: '(10-NE-22(N,EL),,WID)', 13: '(10-NE-22(N,EL),,WID)', 14: '(10-NE-22(N,EL),,WID)', 15: '(10-NE-22(N,EL),,WID)', 16: '(10-NE-22(N,EL),,WID)'} 
+#   incident energy       : 2.7200e+05 eV - 8.0200e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21808.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21808
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7200E+05        3.0000E+02               NAN               NAN               NAN               NAN        8.2260E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9070E+05        3.0000E+02               NAN               NAN               NAN               NAN        2.8609E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2710E+05        5.0000E+02               NAN               NAN               NAN               NAN        8.2040E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9310E+05        5.0000E+02               NAN               NAN               NAN               NAN        1.1880E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6410E+05        6.0000E+02               NAN               NAN               NAN               NAN        5.1000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9040E+05        7.0000E+02               NAN               NAN               NAN               NAN        3.7457E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.0200E+05        5.0000E+03               NAN               NAN               NAN               NAN        2.7184E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

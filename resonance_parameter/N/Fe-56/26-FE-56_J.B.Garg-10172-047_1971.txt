@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 26-FE-56 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.B.Garg 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,3,2447,197106) 
+#   Year                  : 1971 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 26 
+#   A                     : 56 
+#   Nuclide               : 26-FE-56 
+# Reaction: 
+#   entry-subent-pointer  :{268: '10172-047-2', 269: '10172-047-2', 270: '10172-047-2', 271: '10172-047-2', 272: '10172-047-2', 273: '10172-047-2', 274: '10172-047-2', 275: '10172-047-2', 276: '10172-047-2', 277: '10172-047-4', 278: '10172-047-4', 279: '10172-047-4', 280: '10172-047-4', 281: '10172-047-4', 282: '10172-047-4', 283: '10172-047-4', 284: '10172-047-4', 285: '10172-047-4'} 
+#   EXFOR reaction        :{268: '(26-FE-56(N,EL),,WID)', 269: '(26-FE-56(N,EL),,WID)', 270: '(26-FE-56(N,EL),,WID)', 271: '(26-FE-56(N,EL),,WID)', 272: '(26-FE-56(N,EL),,WID)', 273: '(26-FE-56(N,EL),,WID)', 274: '(26-FE-56(N,EL),,WID)', 275: '(26-FE-56(N,EL),,WID)', 276: '(26-FE-56(N,EL),,WID)', 277: '(26-FE-56(N,G),,WID)', 278: '(26-FE-56(N,G),,WID)', 279: '(26-FE-56(N,G),,WID)', 280: '(26-FE-56(N,G),,WID)', 281: '(26-FE-56(N,G),,WID)', 282: '(26-FE-56(N,G),,WID)', 283: '(26-FE-56(N,G),,WID)', 284: '(26-FE-56(N,G),,WID)', 285: '(26-FE-56(N,G),,WID)'} 
+#   incident energy       : 2.7660e+04 eV - 1.8700e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10172.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10172
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7660E+04        1.0000E+02               NAN               NAN               NAN               NAN        1.5200E+03        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3900E+04        3.0000E+02               NAN               NAN               NAN               NAN        5.4000E+02        7.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3600E+04        4.0000E+02               NAN               NAN               NAN               NAN        1.0300E+03        8.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2250E+05        6.0000E+02               NAN               NAN               NAN               NAN        1.4000E+01        5.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2960E+05        6.0000E+02               NAN               NAN               NAN               NAN        6.6000E+02        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3990E+05        8.0000E+02               NAN               NAN               NAN               NAN        2.2700E+03        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6870E+05        1.0000E+03               NAN               NAN               NAN               NAN        7.6000E+02        1.1000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8700E+05        1.0000E+03               NAN               NAN               NAN               NAN        3.2000E+03        2.3000E+02               NAN               NAN               NAN               NAN               NAN               NAN

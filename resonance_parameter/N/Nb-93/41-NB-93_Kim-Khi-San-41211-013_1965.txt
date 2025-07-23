@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 41-NB-93 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kim-Khi-San 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,ZET,49,410,196508) 
+#   Year                  : 1965 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 41 
+#   A                     : 93 
+#   Nuclide               : 41-NB-93 
+# Reaction: 
+#   entry-subent-pointer  :{307: '41211-013-2', 308: '41211-013-2', 309: '41211-013-2', 310: '41211-013-2', 311: '41211-013-2', 312: '41211-013-2'} 
+#   EXFOR reaction        :{307: '(41-NB-93(N,G),,WID)', 308: '(41-NB-93(N,G),,WID)', 309: '(41-NB-93(N,G),,WID)', 310: '(41-NB-93(N,G),,WID)', 311: '(41-NB-93(N,G),,WID)', 312: '(41-NB-93(N,G),,WID)'} 
+#   incident energy       : 9.4000e+01 eV - 3.7900e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41211.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41211
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.4000E+01        4.0000E-01               NAN               NAN        1.8500E-01        6.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1900E+02        6.0000E-01               NAN               NAN        1.8300E-01        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9400E+02        1.2000E+00               NAN               NAN        1.8900E-01        1.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4400E+02        2.0000E+00               NAN               NAN        2.2800E-01        8.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3400E+02        3.0000E+00               NAN               NAN        1.8500E-01        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7900E+02        4.0000E+00               NAN               NAN        2.1400E-01        3.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

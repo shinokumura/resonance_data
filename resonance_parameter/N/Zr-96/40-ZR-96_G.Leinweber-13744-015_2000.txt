@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 40-ZR-96 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Leinweber 
+#   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
+#   Reference             : (J,NSE,134,50,2000) 
+#   Year                  : 2000 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 96 
+#   Nuclide               : 40-ZR-96 
+# Reaction: 
+#   entry-subent-pointer  :{116: '13744-015-4', 117: '13744-015-5'} 
+#   EXFOR reaction        :{116: '(40-ZR-96(N,G),,WID)', 117: '(40-ZR-96(N,EL),,WID)'} 
+#   incident energy       : 3.0110e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13744.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13744
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0110E+02        1.0000E-01               NAN               NAN        1.4330E-01        7.0000E-03        2.2160E-01        2.7000E-03               NAN               NAN               NAN               NAN               NAN               NAN

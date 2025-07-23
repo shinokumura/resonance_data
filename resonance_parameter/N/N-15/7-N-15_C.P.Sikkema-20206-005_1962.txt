@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 7-N-15 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.P.Sikkema 
+#   Institute             : (2NEDGRN): Groningen 
+#   Reference             : (J,NP,32,470,6205) 
+#   Year                  : 1962 
+#   Facility              : (CCW  ): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 7 
+#   A                     : 15 
+#   Nuclide               : 7-N-15 
+# Reaction: 
+#   entry-subent-pointer  :{1: '20206-005-1', 2: '20206-005-1', 3: '20206-005-1', 4: '20206-005-1', 5: '20206-005-1', 6: '20206-005-1', 7: '20206-005-1'} 
+#   EXFOR reaction        :{1: '(7-N-15(N,TOT),,WID)', 2: '(7-N-15(N,TOT),,WID)', 3: '(7-N-15(N,TOT),,WID)', 4: '(7-N-15(N,TOT),,WID)', 5: '(7-N-15(N,TOT),,WID)', 6: '(7-N-15(N,TOT),,WID)', 7: '(7-N-15(N,TOT),,WID)'} 
+#   incident energy       : 1.9600e+00 eV - 3.0100e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20206.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20206
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.9600E+00        2.0000E-02        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0500E+00        2.0000E-02        7.0000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4500E+00        2.0000E-02        9.0000E+04        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6500E+00        1.0000E-01        1.1000E+06        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7400E+00        3.0000E-02        5.0000E+04        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8200E+00        3.0000E-02        4.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0100E+00        5.0000E-02        2.6000E+05        4.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

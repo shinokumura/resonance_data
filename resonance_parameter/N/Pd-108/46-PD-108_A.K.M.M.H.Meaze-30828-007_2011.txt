@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 46-PD-108 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.K.M.M.H.Meaze 
+#   Institute             : (3BANBAN): Bangladesh 
+#   Reference             : (J,IJP,85,329,2011) 
+#   Year                  : 2011 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 46 
+#   A                     : 108 
+#   Nuclide               : 46-PD-108 
+# Reaction: 
+#   entry-subent-pointer  :{92: '30828-007-2', 93: '30828-007-2', 94: '30828-007-2', 95: '30828-007-3', 96: '30828-007-3', 97: '30828-007-3'} 
+#   EXFOR reaction        :{92: '(46-PD-108(N,G),,WID)', 93: '(46-PD-108(N,G),,WID)', 94: '(46-PD-108(N,G),,WID)', 95: '(46-PD-108(N,EL),,WID)', 96: '(46-PD-108(N,EL),,WID)', 97: '(46-PD-108(N,EL),,WID)'} 
+#   incident energy       : 2.9636e+00 eV - 9.0590e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30828.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30828
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9636E+00        8.0000E-04               NAN               NAN        3.2379E-01        2.3030E-03        5.1000E-06        1.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3030E+01        2.0000E-02               NAN               NAN        1.4036E+00        1.5200E-02        2.0605E-02        2.7000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        9.0590E+01        4.2000E-01               NAN               NAN        7.4544E-01        6.0000E-03        3.5152E-02        3.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN

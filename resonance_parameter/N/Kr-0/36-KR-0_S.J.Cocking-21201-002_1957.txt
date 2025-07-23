@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 36-KR-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.J.Cocking 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE,6,113,1957) 
+#   Year                  : 1957 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 36 
+#   A                     : 0 
+#   Nuclide               : 36-KR-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: '21201-002-1', 1: '21201-002-1'} 
+#   EXFOR reaction        :{0: '(36-KR-0(N,TOT),,WID)', 1: '(36-KR-0(N,TOT),,WID)'} 
+#   incident energy       : 2.8300e-05 eV - 4.1100e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21201.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21201
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.8300E-05        3.0000E-07        1.4000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1100E-05        5.0000E-07        1.9000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,38 @@
+# Header: 
+#   Title                 : 66-DY-162 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.G.Shin 
+#   Institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
+#   Reference             : (J,EPJ/A,53,203,2017) 
+#   Year                  : 2017 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 66 
+#   A                     : 162 
+#   Nuclide               : 66-DY-162 
+# Reaction: 
+#   entry-subent-pointer  :{175: '14514-004-2', 176: '14514-004-2', 177: '14514-004-2', 178: '14514-004-2', 179: '14514-004-2', 180: '14514-004-2', 181: '14514-004-2', 182: '14514-004-2', 183: '14514-004-2', 184: '14514-004-2', 185: '14514-004-2', 186: '14514-004-2', 187: '14514-004-2', 188: '14514-004-2', 189: '14514-004-2', 190: '14514-004-3', 191: '14514-004-3', 192: '14514-004-3', 193: '14514-004-3', 194: '14514-004-3', 195: '14514-004-3', 196: '14514-004-3', 197: '14514-004-3', 198: '14514-004-3', 199: '14514-004-3', 200: '14514-004-3', 201: '14514-004-3', 202: '14514-004-3', 203: '14514-004-3', 204: '14514-004-3'} 
+#   EXFOR reaction        :{175: '(66-DY-162(N,G),,WID)', 176: '(66-DY-162(N,G),,WID)', 177: '(66-DY-162(N,G),,WID)', 178: '(66-DY-162(N,G),,WID)', 179: '(66-DY-162(N,G),,WID)', 180: '(66-DY-162(N,G),,WID)', 181: '(66-DY-162(N,G),,WID)', 182: '(66-DY-162(N,G),,WID)', 183: '(66-DY-162(N,G),,WID)', 184: '(66-DY-162(N,G),,WID)', 185: '(66-DY-162(N,G),,WID)', 186: '(66-DY-162(N,G),,WID)', 187: '(66-DY-162(N,G),,WID)', 188: '(66-DY-162(N,G),,WID)', 189: '(66-DY-162(N,G),,WID)', 190: '(66-DY-162(N,EL),,WID)', 191: '(66-DY-162(N,EL),,WID)', 192: '(66-DY-162(N,EL),,WID)', 193: '(66-DY-162(N,EL),,WID)', 194: '(66-DY-162(N,EL),,WID)', 195: '(66-DY-162(N,EL),,WID)', 196: '(66-DY-162(N,EL),,WID)', 197: '(66-DY-162(N,EL),,WID)', 198: '(66-DY-162(N,EL),,WID)', 199: '(66-DY-162(N,EL),,WID)', 200: '(66-DY-162(N,EL),,WID)', 201: '(66-DY-162(N,EL),,WID)', 202: '(66-DY-162(N,EL),,WID)', 203: '(66-DY-162(N,EL),,WID)', 204: '(66-DY-162(N,EL),,WID)'} 
+#   incident energy       : 7.1100e+01 eV - 9.5160e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14514.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14514
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.1100E+01        4.0000E-03               NAN               NAN        7.1100E-02        3.5000E-03        4.4880E-01        5.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1720E+02        7.0000E-03               NAN               NAN        1.1720E-01               NAN        1.2000E-02        4.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0810E+02        1.0000E-02               NAN               NAN        2.0800E-01        1.0500E-02        2.5000E-02        9.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2350E+02        1.0000E-02               NAN               NAN        2.2330E-01        1.0500E-02        4.1100E-02        1.9000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6940E+02        1.0000E-02               NAN               NAN        2.6940E-01        4.9000E-03        7.0840E-01        2.0500E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5740E+02        3.0000E-02               NAN               NAN        3.5700E-01        1.0000E-02        2.5000E-02        1.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1320E+02        2.0000E-02               NAN               NAN        4.1280E-01        5.8000E-03        1.5270E-01        1.3300E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7040E+02        1.0000E-01               NAN               NAN        4.7030E-01               NAN        9.0000E-03        8.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3000E+02        3.0000E-02               NAN               NAN        5.2980E-01        3.9000E-03        3.1460E-01        2.9900E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3300E+02        1.0000E-01               NAN               NAN        6.3280E-01        5.4000E-03        1.6921E+00        1.0850E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        6.8640E+02        5.0000E-02               NAN               NAN        6.8600E-01        5.5000E-03        4.8620E-01        4.4800E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1710E+02        1.0000E-01               NAN               NAN        7.1650E-01        5.6000E-03        6.1380E-01        5.4700E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        7.6680E+02        1.0000E-01               NAN               NAN        7.6640E-01        5.3000E-03        8.6150E-01        7.3100E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        8.6680E+02        1.0000E-01               NAN               NAN        8.6600E-01        7.3000E-03        2.7207E+00        1.5750E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        9.5160E+02        2.0000E-02               NAN               NAN        9.5210E-01        6.0000E-03        1.8620E-01        1.7300E-02               NAN               NAN               NAN               NAN               NAN               NAN

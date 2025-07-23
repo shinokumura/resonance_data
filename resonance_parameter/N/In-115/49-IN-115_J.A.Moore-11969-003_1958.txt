@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 49-IN-115 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.A.Moore 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,109,417,5801) 
+#   Year                  : 1958 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 49 
+#   A                     : 115 
+#   Nuclide               : 49-IN-115 
+# Reaction: 
+#   entry-subent-pointer  :{24: '11969-003-3', 25: '11969-003-3', 26: '11969-003-3', 27: '11969-003-4', 28: '11969-003-4', 29: '11969-003-4', 30: '11969-003-5', 31: '11969-003-5', 32: '11969-003-5'} 
+#   EXFOR reaction        :{24: '(49-IN-115(N,TOT),,WID)', 25: '(49-IN-115(N,TOT),,WID)', 26: '(49-IN-115(N,TOT),,WID)', 27: '(49-IN-115(N,EL),,WID)', 28: '(49-IN-115(N,EL),,WID)', 29: '(49-IN-115(N,EL),,WID)', 30: '(49-IN-115(N,G),,WID)', 31: '(49-IN-115(N,G),,WID)', 32: '(49-IN-115(N,G),,WID)'} 
+#   incident energy       : 1.4560e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11969.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11969
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4560E+00        2.0000E-03        7.5000E-02        2.0000E-03        7.2000E-02        2.0000E-03        3.0000E-03        1.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

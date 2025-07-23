@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 42-MO-98 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Shwe 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,179,1148,69) 
+#   Year                  : 1969 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 42 
+#   A                     : 98 
+#   Nuclide               : 42-MO-98 
+# Reaction: 
+#   entry-subent-pointer  :{23: '11914-013-2', 24: '11914-013-2', 25: '11914-013-2', 26: '11914-013-2', 27: '11914-013-2', 28: '11914-013-2', 29: '11914-013-3', 30: '11914-013-3', 31: '11914-013-3', 32: '11914-013-3', 33: '11914-013-3', 34: '11914-013-3'} 
+#   EXFOR reaction        :{23: '(42-MO-98(N,EL),,WID)', 24: '(42-MO-98(N,EL),,WID)', 25: '(42-MO-98(N,EL),,WID)', 26: '(42-MO-98(N,EL),,WID)', 27: '(42-MO-98(N,EL),,WID)', 28: '(42-MO-98(N,EL),,WID)', 29: '(42-MO-98(N,G),,WID)', 30: '(42-MO-98(N,G),,WID)', 31: '(42-MO-98(N,G),,WID)', 32: '(42-MO-98(N,G),,WID)', 33: '(42-MO-98(N,G),,WID)', 34: '(42-MO-98(N,G),,WID)'} 
+#   incident energy       : 1.2100e+01 eV - 1.1090e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11914.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11914
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2100E+01        1.0000E-01               NAN               NAN        1.1000E-01        1.5000E-02        6.1000E-05        6.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2890E+02        1.1000E+00               NAN               NAN        1.7000E-01        8.0000E-02        7.9000E-02        1.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6740E+02        1.2000E+00               NAN               NAN               NAN               NAN        6.9500E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1240E+02        1.8000E+00               NAN               NAN               NAN               NAN        4.0000E-02        8.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1740E+02        2.9000E+00               NAN               NAN               NAN               NAN        1.4800E-01        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1090E+03        1.3000E+01               NAN               NAN               NAN               NAN        3.1000E+00        4.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 24-CR-54 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.G.Bilpuch 
+#   Institute             : (1USADKE): Duke University, Durham, NC 
+#   Reference             : (J,AP,14,387,1961) 
+#   Year                  : 1961 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 24 
+#   A                     : 54 
+#   Nuclide               : 24-CR-54 
+# Reaction: 
+#   entry-subent-pointer  :{0: '11599-011-2', 1: '11599-011-2', 2: '11599-011-2'} 
+#   EXFOR reaction        :{0: '(24-CR-54(N,EL),,WID)', 1: '(24-CR-54(N,EL),,WID)', 2: '(24-CR-54(N,EL),,WID)'} 
+#   incident energy       : 2.3500e+04 eV - 1.1900e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11599.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11599
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.3500E+04        5.0000E+02               NAN               NAN               NAN               NAN        4.9000E+02        5.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6500E+04        5.0000E+02               NAN               NAN               NAN               NAN        5.0000E+02        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1900E+05        1.5000E+04               NAN               NAN               NAN               NAN        2.2000E+03        7.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN

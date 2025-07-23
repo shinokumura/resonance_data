@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.Lister 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,143,745,66) 
+#   Year                  : 1966 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :{62: '11334-005-3', 63: '11334-005-3', 64: '11334-005-3', 65: '11334-005-3', 66: '11334-005-3'} 
+#   EXFOR reaction        :{62: '(8-O-16(N,TOT),,WID)', 63: '(8-O-16(N,TOT),,WID)', 64: '(8-O-16(N,TOT),,WID)', 65: '(8-O-16(N,TOT),,WID)', 66: '(8-O-16(N,TOT),,WID)'} 
+#   incident energy       : 3.2900e+06 eV - 4.1750e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11334.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11334
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.2900E+06        2.0000E+04               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7700E+06        2.0000E+04               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7800E+06        1.0000E+04        2.3000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9200E+06        2.0000E+04               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1750E+06        1.0000E+05               NAN        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

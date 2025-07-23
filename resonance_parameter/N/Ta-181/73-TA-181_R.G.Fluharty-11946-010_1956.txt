@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 73-TA-181 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.G.Fluharty 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,PR,103,1778,56) 
+#   Year                  : 1956 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 73 
+#   A                     : 181 
+#   Nuclide               : 73-TA-181 
+# Reaction: 
+#   entry-subent-pointer  :{19: '11946-010-4', 20: '11946-010-4', 21: '11946-010-4', 22: '11946-010-4', 23: '11946-010-4', 24: '11946-010-4', 25: '11946-010-4', 26: '11946-010-4', 27: '11946-010-4', 28: '11946-010-4', 29: '11946-010-4', 30: '11946-010-4', 31: '11946-010-4', 32: '11946-010-4', 33: '11946-010-4', 34: '11946-010-4', 35: '11946-010-4', 36: '11946-010-4', 37: '11946-010-4', 38: '11946-010-4', 39: '11946-010-4', 40: '11946-010-4', 41: '11946-010-4'} 
+#   EXFOR reaction        :{19: '(73-TA-181(N,G),,WID)', 20: '(73-TA-181(N,G),,WID)', 21: '(73-TA-181(N,G),,WID)', 22: '(73-TA-181(N,G),,WID)', 23: '(73-TA-181(N,G),,WID)', 24: '(73-TA-181(N,G),,WID)', 25: '(73-TA-181(N,G),,WID)', 26: '(73-TA-181(N,G),,WID)', 27: '(73-TA-181(N,G),,WID)', 28: '(73-TA-181(N,G),,WID)', 29: '(73-TA-181(N,G),,WID)', 30: '(73-TA-181(N,G),,WID)', 31: '(73-TA-181(N,G),,WID)', 32: '(73-TA-181(N,G),,WID)', 33: '(73-TA-181(N,G),,WID)', 34: '(73-TA-181(N,G),,WID)', 35: '(73-TA-181(N,G),,WID)', 36: '(73-TA-181(N,G),,WID)', 37: '(73-TA-181(N,G),,WID)', 38: '(73-TA-181(N,G),,WID)', 39: '(73-TA-181(N,G),,WID)', 40: '(73-TA-181(N,G),,WID)', 41: '(73-TA-181(N,G),,WID)'} 
+#   incident energy       : 1.4000e+01 eV - 3.9300e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11946
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4000E+01        1.5000E-01               NAN               NAN        4.8000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0500E+01        2.0000E-01               NAN               NAN        5.2000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4300E+01        3.0000E-01               NAN               NAN        5.0000E-02        2.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9300E+01        6.0000E-01               NAN               NAN        4.0000E-02        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

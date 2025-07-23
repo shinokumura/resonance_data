@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 66-DY-164 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.F.Mughabghab 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR/C,1,1850,197005) 
+#   Year                  : 1970 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 66 
+#   A                     : 164 
+#   Nuclide               : 66-DY-164 
+# Reaction: 
+#   entry-subent-pointer  :{2: '10052-011-2', 3: '10052-011-2', 4: '10052-011-2', 5: '10052-011-2', 6: '10052-011-2', 7: '10052-011-2', 8: '10052-011-2', 9: '10052-011-3', 10: '10052-011-3', 11: '10052-011-3', 12: '10052-011-3', 13: '10052-011-3', 14: '10052-011-3', 15: '10052-011-3'} 
+#   EXFOR reaction        :{2: '(66-DY-164(N,EL),,WID)', 3: '(66-DY-164(N,EL),,WID)', 4: '(66-DY-164(N,EL),,WID)', 5: '(66-DY-164(N,EL),,WID)', 6: '(66-DY-164(N,EL),,WID)', 7: '(66-DY-164(N,EL),,WID)', 8: '(66-DY-164(N,EL),,WID)', 9: '(66-DY-164(N,G),,WID)', 10: '(66-DY-164(N,G),,WID)', 11: '(66-DY-164(N,G),,WID)', 12: '(66-DY-164(N,G),,WID)', 13: '(66-DY-164(N,G),,WID)', 14: '(66-DY-164(N,G),,WID)', 15: '(66-DY-164(N,G),,WID)'} 
+#   incident energy       : 1.4540e+02 eV - 1.3160e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10052.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10052
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4540E+02        1.5000E+00               NAN               NAN        6.0000E-02               NAN        8.6800E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5000E+02        9.0000E+00               NAN               NAN               NAN               NAN        4.5000E-02        1.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3400E+02        1.1000E+01               NAN               NAN               NAN               NAN        5.1000E-02        1.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5500E+02        2.3000E+01               NAN               NAN               NAN               NAN        5.0000E-01        1.8000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0530E+03        3.1000E+01               NAN               NAN               NAN               NAN        3.1000E-02        1.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1900E+03        3.8000E+01               NAN               NAN               NAN               NAN        4.8000E-01        1.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3160E+03        4.4000E+01               NAN               NAN               NAN               NAN        8.2000E-01        3.3000E-01               NAN               NAN               NAN               NAN               NAN               NAN

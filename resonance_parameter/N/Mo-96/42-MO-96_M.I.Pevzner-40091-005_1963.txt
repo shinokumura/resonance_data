@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 42-MO-96 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.I.Pevzner 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,JET,17,803,1963) 
+#   Year                  : 1963 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 42 
+#   A                     : 96 
+#   Nuclide               : 42-MO-96 
+# Reaction: 
+#   entry-subent-pointer  :{2: '40091-005-2', 3: '40091-005-2', 4: '40091-005-2', 5: '40091-005-2'} 
+#   EXFOR reaction        :{2: '(42-MO-96(N,EL),,WID)', 3: '(42-MO-96(N,EL),,WID)', 4: '(42-MO-96(N,EL),,WID)', 5: '(42-MO-96(N,EL),,WID)'} 
+#   incident energy       : -3.3000e+03 eV - 1.1450e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40091.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40091
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -3.3000E+03        3.0000E+01               NAN               NAN               NAN               NAN        1.4800E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+       -2.3710E+03        1.7000E+01               NAN               NAN               NAN               NAN        5.0000E+00        5.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1450E+02        2.0000E+00               NAN               NAN               NAN               NAN        7.5000E-04        2.5000E-04               NAN               NAN               NAN               NAN               NAN               NAN

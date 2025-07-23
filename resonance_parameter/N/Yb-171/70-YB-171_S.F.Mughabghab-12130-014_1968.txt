@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.F.Mughabghab 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,174,1400,1968) 
+#   Year                  : 1968 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :{5: '12130-014-3', 6: '12130-014-3', 7: '12130-014-3', 8: '12130-014-3', 9: '12130-014-3', 10: '12130-014-3', 11: '12130-014-3', 12: '12130-014-3', 13: '12130-014-3', 14: '12130-014-3', 15: '12130-014-3', 16: '12130-014-3', 17: '12130-014-3', 18: '12130-014-3', 19: '12130-014-3', 20: '12130-014-3', 21: '12130-014-3', 22: '12130-014-3', 23: '12130-014-3', 24: '12130-014-3', 25: '12130-014-3', 26: '12130-014-3', 27: '12130-014-3', 28: '12130-014-3', 29: '12130-014-3', 30: '12130-014-3', 31: '12130-014-3'} 
+#   EXFOR reaction        :{5: '(70-YB-171(N,G),,WID)', 6: '(70-YB-171(N,G),,WID)', 7: '(70-YB-171(N,G),,WID)', 8: '(70-YB-171(N,G),,WID)', 9: '(70-YB-171(N,G),,WID)', 10: '(70-YB-171(N,G),,WID)', 11: '(70-YB-171(N,G),,WID)', 12: '(70-YB-171(N,G),,WID)', 13: '(70-YB-171(N,G),,WID)', 14: '(70-YB-171(N,G),,WID)', 15: '(70-YB-171(N,G),,WID)', 16: '(70-YB-171(N,G),,WID)', 17: '(70-YB-171(N,G),,WID)', 18: '(70-YB-171(N,G),,WID)', 19: '(70-YB-171(N,G),,WID)', 20: '(70-YB-171(N,G),,WID)', 21: '(70-YB-171(N,G),,WID)', 22: '(70-YB-171(N,G),,WID)', 23: '(70-YB-171(N,G),,WID)', 24: '(70-YB-171(N,G),,WID)', 25: '(70-YB-171(N,G),,WID)', 26: '(70-YB-171(N,G),,WID)', 27: '(70-YB-171(N,G),,WID)', 28: '(70-YB-171(N,G),,WID)', 29: '(70-YB-171(N,G),,WID)', 30: '(70-YB-171(N,G),,WID)', 31: '(70-YB-171(N,G),,WID)'} 
+#   incident energy       : 7.9300e+00 eV - 2.8000e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12130.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12130
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.9300E+00        6.0000E-02               NAN               NAN        6.2000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3100E+01        1.0000E-01               NAN               NAN        8.4000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8000E+01        1.0000E-01               NAN               NAN        7.2000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

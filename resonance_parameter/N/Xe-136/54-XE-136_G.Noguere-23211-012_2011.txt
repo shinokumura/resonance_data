@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 54-XE-136 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Noguere 
+#   Institute             : (2FR CAD): CEA/Cadarache 
+#   Reference             : (J,NP/A,870-871,131,2011) 
+#   Year                  : 2011 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 54 
+#   A                     : 136 
+#   Nuclide               : 54-XE-136 
+# Reaction: 
+#   entry-subent-pointer  :{1: '23211-012-2', 2: '23211-012-3'} 
+#   EXFOR reaction        :{1: '(54-XE-136(N,G),,WID)', 2: '(54-XE-136(N,EL),,WID)'} 
+#   incident energy       : 2.1512e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23211.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23211
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.1512E+03        1.7600E+00               NAN               NAN        2.5000E-02        7.2000E-03        7.3800E-01        6.1100E-02               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 28-NI-59 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.A.Harvey 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (P,ORNL-5137,2,197605) 
+#   Year                  : 1976 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 28 
+#   A                     : 59 
+#   Nuclide               : 28-NI-59 
+# Reaction: 
+#   entry-subent-pointer  :{3: '10680-004-2', 4: '10680-004-2', 5: '10680-004-2', 6: '10680-004-2', 7: '10680-004-2', 8: '10680-004-2', 9: '10680-004-2', 10: '10680-004-2', 11: '10680-004-2', 12: '10680-004-2', 13: '10680-004-2', 14: '10680-004-2', 15: '10680-004-2', 16: '10680-004-3', 17: '10680-004-3', 18: '10680-004-3', 19: '10680-004-3', 20: '10680-004-3', 21: '10680-004-3', 22: '10680-004-3', 23: '10680-004-3', 24: '10680-004-3', 25: '10680-004-3', 26: '10680-004-3', 27: '10680-004-3', 28: '10680-004-3', 29: '10680-004-5', 30: '10680-004-5', 31: '10680-004-5', 32: '10680-004-5', 33: '10680-004-5', 34: '10680-004-5', 35: '10680-004-5', 36: '10680-004-5', 37: '10680-004-5', 38: '10680-004-5', 39: '10680-004-5', 40: '10680-004-5', 41: '10680-004-5'} 
+#   EXFOR reaction        :{3: '(28-NI-59(N,TOT),,WID)', 4: '(28-NI-59(N,TOT),,WID)', 5: '(28-NI-59(N,TOT),,WID)', 6: '(28-NI-59(N,TOT),,WID)', 7: '(28-NI-59(N,TOT),,WID)', 8: '(28-NI-59(N,TOT),,WID)', 9: '(28-NI-59(N,TOT),,WID)', 10: '(28-NI-59(N,TOT),,WID)', 11: '(28-NI-59(N,TOT),,WID)', 12: '(28-NI-59(N,TOT),,WID)', 13: '(28-NI-59(N,TOT),,WID)', 14: '(28-NI-59(N,TOT),,WID)', 15: '(28-NI-59(N,TOT),,WID)', 16: '(28-NI-59(N,EL),,WID)', 17: '(28-NI-59(N,EL),,WID)', 18: '(28-NI-59(N,EL),,WID)', 19: '(28-NI-59(N,EL),,WID)', 20: '(28-NI-59(N,EL),,WID)', 21: '(28-NI-59(N,EL),,WID)', 22: '(28-NI-59(N,EL),,WID)', 23: '(28-NI-59(N,EL),,WID)', 24: '(28-NI-59(N,EL),,WID)', 25: '(28-NI-59(N,EL),,WID)', 26: '(28-NI-59(N,EL),,WID)', 27: '(28-NI-59(N,EL),,WID)', 28: '(28-NI-59(N,EL),,WID)', 29: '(28-NI-59(N,G),,WID)', 30: '(28-NI-59(N,G),,WID)', 31: '(28-NI-59(N,G),,WID)', 32: '(28-NI-59(N,G),,WID)', 33: '(28-NI-59(N,G),,WID)', 34: '(28-NI-59(N,G),,WID)', 35: '(28-NI-59(N,G),,WID)', 36: '(28-NI-59(N,G),,WID)', 37: '(28-NI-59(N,G),,WID)', 38: '(28-NI-59(N,G),,WID)', 39: '(28-NI-59(N,G),,WID)', 40: '(28-NI-59(N,G),,WID)', 41: '(28-NI-59(N,G),,WID)'} 
+#   incident energy       : 2.0340e+02 eV - 1.1530e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10680.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10680
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.0340E+02        2.0000E-01        1.3300E+01        2.0000E-01        3.1000E+00        3.0000E-01        9.6000E+00        2.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2030E+03        3.0000E+00        1.0000E+01        4.0000E+00        8.0000E-01        2.0000E-01        1.1200E+01        1.5000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2110E+03        6.0000E+00        1.9800E+02        1.4000E+01        3.7000E+00        1.0000E+00        1.8300E+02        1.2000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2300E+03        2.0000E+01               NAN               NAN        2.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2760E+03        1.0000E+01        2.8800E+02        2.3000E+01        9.0000E-01        4.0000E-01        2.6500E+02        2.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3600E+03        2.0000E+01               NAN               NAN        2.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.1030E+03        2.0000E+01        5.0000E+01        2.0000E+01        1.1000E+00               NAN        6.4000E+01        2.7000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        9.2270E+03        2.0000E+01        3.0000E+01        1.5000E+01        1.7000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.8500E+03        3.0000E+01        2.0000E+01               NAN        4.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1100E+04        3.0000E+01        4.0000E+01        2.0000E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1530E+04        3.0000E+01        6.0000E+01        3.0000E+01        1.4000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,35 @@
+# Header: 
+#   Title                 : 68-ER-164 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.F.Mughabghab 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,162,1130,67) 
+#   Year                  : 1967 
+#   Facility              : None 
+# Target: 
+#   Z                     : 68 
+#   A                     : 164 
+#   Nuclide               : 68-ER-164 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12120-005-2', 1: '12120-005-2', 2: '12120-005-2', 3: '12120-005-2', 4: '12120-005-2', 5: '12120-005-2', 6: '12120-005-2', 7: '12120-005-2', 8: '12120-005-2', 9: '12120-005-2', 10: '12120-005-2', 11: '12120-005-2'} 
+#   EXFOR reaction        :{0: '(68-ER-164(N,EL),,WID)', 1: '(68-ER-164(N,EL),,WID)', 2: '(68-ER-164(N,EL),,WID)', 3: '(68-ER-164(N,EL),,WID)', 4: '(68-ER-164(N,EL),,WID)', 5: '(68-ER-164(N,EL),,WID)', 6: '(68-ER-164(N,EL),,WID)', 7: '(68-ER-164(N,EL),,WID)', 8: '(68-ER-164(N,EL),,WID)', 9: '(68-ER-164(N,EL),,WID)', 10: '(68-ER-164(N,EL),,WID)', 11: '(68-ER-164(N,EL),,WID)'} 
+#   incident energy       : 7.9200e+00 eV - 2.2520e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12120.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12120
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.9200E+00        2.0000E-02               NAN               NAN               NAN               NAN        7.3000E-04        1.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0500E+01        2.0000E-01               NAN               NAN               NAN               NAN        4.4000E-03        4.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9700E+01        4.0000E-01               NAN               NAN               NAN               NAN        5.4000E-03        4.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3800E+01        4.0000E-01               NAN               NAN               NAN               NAN        2.3000E-03        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6700E+01        4.0000E-01               NAN               NAN               NAN               NAN        6.6000E-03        5.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0810E+02        1.0000E+00               NAN               NAN               NAN               NAN        5.7000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3080E+02        1.4000E+00               NAN               NAN               NAN               NAN        1.0400E-01        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3650E+02        1.4000E+00               NAN               NAN               NAN               NAN        9.9000E-03        2.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6090E+02        1.9000E+00               NAN               NAN               NAN               NAN        6.1000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9420E+02        2.5000E+00               NAN               NAN               NAN               NAN        6.6000E-02        8.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1170E+02        2.9000E+00               NAN               NAN               NAN               NAN        3.1000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2520E+02        3.1000E+00               NAN               NAN               NAN               NAN        9.0000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN

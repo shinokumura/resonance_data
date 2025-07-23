@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Wang Nai-Yang 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,3,48,1966) 
+#   Year                  : 1966 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :{1: '40030-004-0', 2: '40030-004-0', 3: '40030-004-0', 4: '40030-004-0'} 
+#   EXFOR reaction        :{1: '(70-YB-171(N,TOT),,WID)', 2: '(70-YB-171(N,TOT),,WID)', 3: '(70-YB-171(N,TOT),,WID)', 4: '(70-YB-171(N,TOT),,WID)'} 
+#   incident energy       : 1.3130e-05 eV - 6.0400e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40030.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40030
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3130E-05        7.0000E-08        9.3000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8200E-05        1.0000E-07        7.0000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1500E-05        2.0000E-07        1.6800E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0400E-05        4.0000E-07        1.4300E-01        3.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

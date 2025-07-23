@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 62-SM-147 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.N.Karzhavina 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,INDC(CCP)-30,42,1972) 
+#   Year                  : 1972 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 62 
+#   A                     : 147 
+#   Nuclide               : 62-SM-147 
+# Reaction: 
+#   entry-subent-pointer  :{72: '40071-005-0', 73: '40071-005-0', 74: '40071-005-0', 75: '40071-005-0', 76: '40071-005-0', 77: '40071-005-0', 78: '40071-005-0'} 
+#   EXFOR reaction        :{72: '(62-SM-147(N,G),,WID)', 73: '(62-SM-147(N,G),,WID)', 74: '(62-SM-147(N,G),,WID)', 75: '(62-SM-147(N,G),,WID)', 76: '(62-SM-147(N,G),,WID)', 77: '(62-SM-147(N,G),,WID)', 78: '(62-SM-147(N,G),,WID)'} 
+#   incident energy       : 2.9700e-05 eV - 1.0470e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40071.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40071
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9700E-05        1.0000E-07               NAN               NAN        6.1000E-02        1.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2100E-05        1.0000E-07               NAN               NAN        7.8000E-02        2.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9300E-05        2.0000E-07               NAN               NAN        4.9000E-02        1.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7900E-05        2.0000E-07               NAN               NAN        4.1000E-02        9.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.6000E-05        2.0000E-07               NAN               NAN        3.9000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3400E-05        2.0000E-07               NAN               NAN        3.5000E-02        9.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0470E-04        3.0000E-07               NAN               NAN        2.0000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

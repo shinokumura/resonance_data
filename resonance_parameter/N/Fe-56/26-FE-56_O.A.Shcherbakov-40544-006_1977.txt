@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 26-FE-56 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : O.A.Shcherbakov 
+#   Institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference             : ((P,YK-25,51,1977)=(R,INDC(CCP)-115,51,1977)) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 56 
+#   Nuclide               : 26-FE-56 
+# Reaction: 
+#   entry-subent-pointer  :{585: '40544-006-2', 586: '40544-006-2'} 
+#   EXFOR reaction        :{585: '(26-FE-56(N,G),,WID)', 586: '(26-FE-56(N,G),,WID)'} 
+#   incident energy       : -2.6400e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40544.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40544
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -2.6400E+03        1.5000E+02               NAN               NAN        8.0000E-01        1.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

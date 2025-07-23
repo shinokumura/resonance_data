@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 26-FE-54 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.C.Moxon 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (S,EANDC-50-S,(1),(88),1965) 
+#   Year                  : 1965 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 54 
+#   Nuclide               : 26-FE-54 
+# Reaction: 
+#   entry-subent-pointer  :{82: '21493-002-2', 83: '21493-002-2'} 
+#   EXFOR reaction        :{82: '(26-FE-54(N,G),,WID)', 83: '(26-FE-54(N,G),,WID)'} 
+#   incident energy       : 7.2500e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21493.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21493
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.2500E+03        2.0000E+02               NAN               NAN        3.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

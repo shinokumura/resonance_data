@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 54-XE-129 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : V.R.Skoy 
+#   Institute             : (3KORKNU): Kyungpook National University, Daegu 
+#   Reference             : (J,NIM/B,267,2351,2009) 
+#   Year                  : 2009 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 54 
+#   A                     : 129 
+#   Nuclide               : 54-XE-129 
+# Reaction: 
+#   entry-subent-pointer  :{111: '31675-005-2'} 
+#   EXFOR reaction        :{111: '(54-XE-129(N,G),,WID)'} 
+#   incident energy       : 9.6600e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31675.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/31675
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.6600E+00        1.0000E-02               NAN               NAN        1.4366E-01        1.0380E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

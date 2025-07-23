@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 12-MG-26 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Massimi 
+#   Institute             : (2FR FR ): France 
+#   Reference             : (J,PR/C,85,044615,2012) 
+#   Year                  : 2012 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 12 
+#   A                     : 26 
+#   Nuclide               : 12-MG-26 
+# Reaction: 
+#   entry-subent-pointer  :{28: '23163-007-2', 29: '23163-007-2', 30: '23163-007-2', 31: '23163-007-2', 32: '23163-007-2', 33: '23163-007-2', 34: '23163-007-2', 35: '23163-007-3', 36: '23163-007-3', 37: '23163-007-3', 38: '23163-007-3', 39: '23163-007-3', 40: '23163-007-3', 41: '23163-007-3'} 
+#   EXFOR reaction        :{28: '(12-MG-26(N,G),,WID)', 29: '(12-MG-26(N,G),,WID)', 30: '(12-MG-26(N,G),,WID)', 31: '(12-MG-26(N,G),,WID)', 32: '(12-MG-26(N,G),,WID)', 33: '(12-MG-26(N,G),,WID)', 34: '(12-MG-26(N,G),,WID)', 35: '(12-MG-26(N,EL),,WID)', 36: '(12-MG-26(N,EL),,WID)', 37: '(12-MG-26(N,EL),,WID)', 38: '(12-MG-26(N,EL),,WID)', 39: '(12-MG-26(N,EL),,WID)', 40: '(12-MG-26(N,EL),,WID)', 41: '(12-MG-26(N,EL),,WID)'} 
+#   incident energy       : 6.8529e+04 eV - 5.0050e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23163.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23163
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.8529E+04        1.0000E+00               NAN               NAN        9.0000E-02        2.0000E-02        4.8000E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1940E+05        2.0000E+00               NAN               NAN        1.1000E+00        6.0000E-02        8.0000E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0234E+05        1.0000E+02               NAN               NAN        6.3000E+00        9.0000E-01        6.1200E+04        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2723E+05        2.0000E+01               NAN               NAN        2.7000E+00        5.0000E-01        9.0000E+01        2.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3859E+05        9.0000E+01               NAN               NAN        3.4000E+00        9.0000E-01        1.1900E+04        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0050E+05        1.0000E+01               NAN               NAN        4.8000E-01        8.0000E-02        2.6000E+02        1.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN

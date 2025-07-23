@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 46-PD-110 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.A.Smith 
+#   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference             : (J,PR/C,65,024607,2002) 
+#   Year                  : 2002 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 46 
+#   A                     : 110 
+#   Nuclide               : 46-PD-110 
+# Reaction: 
+#   entry-subent-pointer  :{0: '13784-009-4', 1: '13784-009-4', 2: '13784-009-4', 3: '13784-009-4', 4: '13784-009-4', 5: '13784-009-4', 6: '13784-009-4', 7: '13784-009-4', 8: '13784-009-4', 9: '13784-009-4', 10: '13784-009-4', 11: '13784-009-4', 12: '13784-009-4', 13: '13784-009-4', 14: '13784-009-4', 15: '13784-009-4', 16: '13784-009-4', 17: '13784-009-4'} 
+#   EXFOR reaction        :{0: '(46-PD-110(N,G),,WID)', 1: '(46-PD-110(N,G),,WID)', 2: '(46-PD-110(N,G),,WID)', 3: '(46-PD-110(N,G),,WID)', 4: '(46-PD-110(N,G),,WID)', 5: '(46-PD-110(N,G),,WID)', 6: '(46-PD-110(N,G),,WID)', 7: '(46-PD-110(N,G),,WID)', 8: '(46-PD-110(N,G),,WID)', 9: '(46-PD-110(N,G),,WID)', 10: '(46-PD-110(N,G),,WID)', 11: '(46-PD-110(N,G),,WID)', 12: '(46-PD-110(N,G),,WID)', 13: '(46-PD-110(N,G),,WID)', 14: '(46-PD-110(N,G),,WID)', 15: '(46-PD-110(N,G),,WID)', 16: '(46-PD-110(N,G),,WID)', 17: '(46-PD-110(N,G),,WID)'} 
+#   incident energy       : 8.6230e+01 eV - 1.7664e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13784.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13784
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        8.6230E+01        5.0000E-02               NAN               NAN        1.0800E-01        1.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7664E+02        7.0000E-02               NAN               NAN        8.8000E-02        1.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

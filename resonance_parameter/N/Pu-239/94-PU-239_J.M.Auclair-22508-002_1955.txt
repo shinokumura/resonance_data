@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.M.Auclair 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,JNE,1,306,1955) 
+#   Year                  : 1955 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :{23: '22508-002-2'} 
+#   EXFOR reaction        :{23: '(94-PU-239(N,TOT),,WID)'} 
+#   incident energy       : 2.9700e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22508.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22508
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9700E-07        3.0000E-09        1.0000E-01        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

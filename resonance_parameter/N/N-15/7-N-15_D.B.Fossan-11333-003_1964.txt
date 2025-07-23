@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 7-N-15 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.B.Fossan 
+#   Institute             : (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
+#   Reference             : (J,PR,135,B1347,1964) 
+#   Year                  : 1964 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 15 
+#   Nuclide               : 7-N-15 
+# Reaction: 
+#   entry-subent-pointer  :{8: '11333-003-3', 9: '11333-003-3', 10: '11333-003-3', 11: '11333-003-3', 12: '11333-003-3'} 
+#   EXFOR reaction        :{8: '(7-N-15(N,TOT),,WID)', 9: '(7-N-15(N,TOT),,WID)', 10: '(7-N-15(N,TOT),,WID)', 11: '(7-N-15(N,TOT),,WID)', 12: '(7-N-15(N,TOT),,WID)'} 
+#   incident energy       : 9.3000e-01 eV - 2.0200e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11333.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11333
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.3000E-01        2.0000E-02        3.0000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1100E+00        2.0000E-02        2.0000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5700E+00        2.0000E-02        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9200E+00        2.0000E-02        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0200E+00        2.0000E-02        5.5000E+04        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

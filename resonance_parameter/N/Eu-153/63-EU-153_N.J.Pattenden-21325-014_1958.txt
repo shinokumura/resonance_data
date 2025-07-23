@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 63-EU-153 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.J.Pattenden 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (C,58GENEVA,16,44,5809) 
+#   Year                  : 1958 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 63 
+#   A                     : 153 
+#   Nuclide               : 63-EU-153 
+# Reaction: 
+#   entry-subent-pointer  :{3: '21325-014-1'} 
+#   EXFOR reaction        :{3: '(63-EU-153(N,TOT),,WID)'} 
+#   incident energy       : 4.5700e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21325.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21325
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5700E-07        5.0000E-09        5.7000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

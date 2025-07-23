@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 42-MO-98 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Leinweber 
+#   Institute             : (1USAUSA): United States of America 
+#   Reference             : (J,NSE,164,287,2010) 
+#   Year                  : 2010 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 42 
+#   A                     : 98 
+#   Nuclide               : 42-MO-98 
+# Reaction: 
+#   entry-subent-pointer  :{152: '14263-002-2', 153: '14263-002-2', 154: '14263-002-2', 155: '14263-002-2', 156: '14263-002-2', 157: '14263-002-2', 158: '14263-002-2', 159: '14263-002-2', 160: '14263-002-2', 161: '14263-002-2', 162: '14263-002-3', 163: '14263-002-3', 164: '14263-002-3', 165: '14263-002-3', 166: '14263-002-3', 167: '14263-002-3', 168: '14263-002-3', 169: '14263-002-3', 170: '14263-002-3', 171: '14263-002-3'} 
+#   EXFOR reaction        :{152: '(42-MO-98(N,G),,WID)', 153: '(42-MO-98(N,G),,WID)', 154: '(42-MO-98(N,G),,WID)', 155: '(42-MO-98(N,G),,WID)', 156: '(42-MO-98(N,G),,WID)', 157: '(42-MO-98(N,G),,WID)', 158: '(42-MO-98(N,G),,WID)', 159: '(42-MO-98(N,G),,WID)', 160: '(42-MO-98(N,G),,WID)', 161: '(42-MO-98(N,G),,WID)', 162: '(42-MO-98(N,EL),,WID)', 163: '(42-MO-98(N,EL),,WID)', 164: '(42-MO-98(N,EL),,WID)', 165: '(42-MO-98(N,EL),,WID)', 166: '(42-MO-98(N,EL),,WID)', 167: '(42-MO-98(N,EL),,WID)', 168: '(42-MO-98(N,EL),,WID)', 169: '(42-MO-98(N,EL),,WID)', 170: '(42-MO-98(N,EL),,WID)', 171: '(42-MO-98(N,EL),,WID)'} 
+#   incident energy       : 1.2070e+01 eV - 1.9275e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14263.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14263
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2070E+01        1.0000E-03               NAN               NAN        1.2000E-01        3.0000E-02        3.0900E-05        2.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0144E+02        5.0000E-02               NAN               NAN        1.2000E-01        3.0000E-02        1.3800E-03        8.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2920E+02        7.0000E-03               NAN               NAN        1.1300E-01        5.0000E-03        6.7500E-02        8.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5750E+02        3.0000E-01               NAN               NAN               NAN               NAN        2.2000E-03        5.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6745E+02        7.0000E-03               NAN               NAN        8.8500E-02        7.0000E-04        7.8200E-01        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1225E+02        9.0000E-02               NAN               NAN        1.2000E-01        1.0000E-02        6.0000E-02        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1776E+02        3.0000E-02               NAN               NAN        1.2000E-01        3.0000E-02        5.9000E-02        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1222E+03        2.0000E-01               NAN               NAN        1.2000E-01        3.0000E-02        9.5000E-03        8.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5264E+03        2.0000E-01               NAN               NAN        7.0000E-02        3.0000E-02        1.3900E+00        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9275E+03        3.0000E-01               NAN               NAN        1.2000E-01        3.0000E-02        1.1000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN

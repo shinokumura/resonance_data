@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 72-HF-177 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.Fuketa 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (P,ORNL-3778,38,6505) 
+#   Year                  : 1965 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 72 
+#   A                     : 177 
+#   Nuclide               : 72-HF-177 
+# Reaction: 
+#   entry-subent-pointer  :{94: '11372-008-2', 95: '11372-008-2', 96: '11372-008-3', 97: '11372-008-3', 98: '11372-008-4', 99: '11372-008-4'} 
+#   EXFOR reaction        :{94: '(72-HF-177(N,EL),,WID)', 95: '(72-HF-177(N,EL),,WID)', 96: '(72-HF-177(N,TOT),,WID)', 97: '(72-HF-177(N,TOT),,WID)', 98: '(72-HF-177(N,G),,WID)', 99: '(72-HF-177(N,G),,WID)'} 
+#   incident energy       : 1.0990e+00 eV - 2.3840e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11372.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11372
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0990E+00        1.0000E-03        6.8300E-02        1.0000E-03        6.6400E-02        1.0000E-03        1.9200E-03        3.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3840E+00        2.0000E-03        7.0200E-02        1.5000E-03        6.1300E-02        1.5000E-03        8.9000E-03        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

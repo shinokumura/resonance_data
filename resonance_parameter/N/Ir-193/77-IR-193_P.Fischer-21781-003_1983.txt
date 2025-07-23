@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 77-IR-193 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Fischer 
+#   Institute             : (2GERKIG): GKSS, Geesthacht 
+#   Reference             : (J,AKE,42,203,1983) 
+#   Year                  : 1983 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 77 
+#   A                     : 193 
+#   Nuclide               : 77-IR-193 
+# Reaction: 
+#   entry-subent-pointer  :{18: '21781-003-2'} 
+#   EXFOR reaction        :{18: '(77-IR-193(N,G),,WID)'} 
+#   incident energy       : 1.2980e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21781.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21781
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2980E+00        1.0000E-03               NAN               NAN        8.3200E-02        8.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

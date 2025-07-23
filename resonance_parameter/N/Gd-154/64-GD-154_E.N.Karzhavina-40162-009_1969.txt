@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 64-GD-154 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.N.Karzhavina 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,SNP,9,523,1969) 
+#   Year                  : 1969 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 64 
+#   A                     : 154 
+#   Nuclide               : 64-GD-154 
+# Reaction: 
+#   entry-subent-pointer  :{3: '40162-009-0', 4: '40162-009-0', 5: '40162-009-0'} 
+#   EXFOR reaction        :{3: '(64-GD-154(N,G),,WID)', 4: '(64-GD-154(N,G),,WID)', 5: '(64-GD-154(N,G),,WID)'} 
+#   incident energy       : 6.5000e-05 eV - 1.6490e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40162.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40162
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.5000E-05        1.0000E-07               NAN               NAN        5.7000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0050E-04        2.0000E-07               NAN               NAN        1.0000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6490E-04        5.0000E-07               NAN               NAN        6.9000E-02        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

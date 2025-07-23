@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 20-CA-41 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Vermote 
+#   Institute             : (2BLGGHT): Universiteit Gent, Gent 
+#   Reference             : (J,PR/C,85,015803,2012) 
+#   Year                  : 2012 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 20 
+#   A                     : 41 
+#   Nuclide               : 20-CA-41 
+# Reaction: 
+#   entry-subent-pointer  :{12: '23124-004-2', 13: '23124-004-2', 14: '23124-004-2', 15: '23124-004-2', 16: '23124-004-2', 17: '23124-004-2', 18: '23124-004-2', 19: '23124-004-2', 20: '23124-004-2', 21: '23124-004-2', 22: '23124-004-2', 23: '23124-004-2', 24: '23124-004-2', 25: '23124-004-2'} 
+#   EXFOR reaction        :{12: '(20-CA-41(N,TOT),,WID)', 13: '(20-CA-41(N,TOT),,WID)', 14: '(20-CA-41(N,TOT),,WID)', 15: '(20-CA-41(N,TOT),,WID)', 16: '(20-CA-41(N,TOT),,WID)', 17: '(20-CA-41(N,TOT),,WID)', 18: '(20-CA-41(N,TOT),,WID)', 19: '(20-CA-41(N,TOT),,WID)', 20: '(20-CA-41(N,TOT),,WID)', 21: '(20-CA-41(N,TOT),,WID)', 22: '(20-CA-41(N,TOT),,WID)', 23: '(20-CA-41(N,TOT),,WID)', 24: '(20-CA-41(N,TOT),,WID)', 25: '(20-CA-41(N,TOT),,WID)'} 
+#   incident energy       : 4.5000e+03 eV - 6.1830e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23124.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23124
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5000E+03        2.0000E+00        3.6000E+01        4.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1830E+03        5.0000E+00        2.4500E+02        1.3000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

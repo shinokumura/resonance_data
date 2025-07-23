@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 48-CD-113 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : U.Harz 
+#   Institute             : (2GERKIL): University of Kiel, Kiel 
+#   Reference             : (R,GKSS-74-E-39,7408) 
+#   Year                  : 1974 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 48 
+#   A                     : 113 
+#   Nuclide               : 48-CD-113 
+# Reaction: 
+#   entry-subent-pointer  :{103: '20417-003-2', 104: '20417-003-3'} 
+#   EXFOR reaction        :{103: '(48-CD-113(N,TOT),,WID)', 104: '(48-CD-113(N,EL),,WID)'} 
+#   incident energy       : 1.7830e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20417.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20417
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.7830E-01        2.0000E-04        1.1350E-01        5.0000E-04               NAN               NAN        6.5000E-04        5.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN

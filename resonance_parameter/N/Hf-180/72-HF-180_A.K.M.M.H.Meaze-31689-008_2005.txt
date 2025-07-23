@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 72-HF-180 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.K.M.M.H.Meaze 
+#   Institute             : (3KORKNU): Kyungpook National University, Daegu 
+#   Reference             : (J,KPS,46,401,2005) 
+#   Year                  : 2005 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 72 
+#   A                     : 180 
+#   Nuclide               : 72-HF-180 
+# Reaction: 
+#   entry-subent-pointer  :{88: '31689-008-2', 89: '31689-008-3'} 
+#   EXFOR reaction        :{88: '(72-HF-180(N,G),,WID)', 89: '(72-HF-180(N,EL),,WID)'} 
+#   incident energy       : -4.7354e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31689.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/31689
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -4.7354E+01        4.4000E-02               NAN               NAN        4.2287E-02        5.9360E-03        1.2140E-01        2.7970E-03               NAN               NAN               NAN               NAN               NAN               NAN

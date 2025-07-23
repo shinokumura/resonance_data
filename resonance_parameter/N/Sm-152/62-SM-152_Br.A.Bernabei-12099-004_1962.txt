@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 62-SM-152 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : Br.A.Bernabei 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,NSE,12,63,1962) 
+#   Year                  : 1962 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 62 
+#   A                     : 152 
+#   Nuclide               : 62-SM-152 
+# Reaction: 
+#   entry-subent-pointer  :{3: '12099-004-3', 4: '12099-004-4', 5: '12099-004-5'} 
+#   EXFOR reaction        :{3: '(62-SM-152(N,TOT),,WID)', 4: '(62-SM-152(N,G),,WID)', 5: '(62-SM-152(N,EL),,WID)'} 
+#   incident energy       : 8.0360e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12099.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12099
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        8.0360E+00        1.0000E-02        2.0100E-01        8.0000E-03        7.1000E-02        1.0000E-02        1.3000E-01        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN

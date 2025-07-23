@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 68-ER-168 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.N.Karzhavina 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,7,225,1968) 
+#   Year                  : 1968 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 68 
+#   A                     : 168 
+#   Nuclide               : 68-ER-168 
+# Reaction: 
+#   entry-subent-pointer  :{8: '40147-021-0', 9: '40147-021-0', 10: '40147-021-0', 11: '40147-021-0'} 
+#   EXFOR reaction        :{8: '(68-ER-168(N,TOT),,WID)', 9: '(68-ER-168(N,TOT),,WID)', 10: '(68-ER-168(N,TOT),,WID)', 11: '(68-ER-168(N,TOT),,WID)'} 
+#   incident energy       : 8.0000e-05 eV - 5.2900e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40147.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40147
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        8.0000E-05        3.0000E-07        1.3700E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8930E-04        9.0000E-07        1.5400E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4500E-04        1.0000E-06        8.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2900E-04        3.0000E-06        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

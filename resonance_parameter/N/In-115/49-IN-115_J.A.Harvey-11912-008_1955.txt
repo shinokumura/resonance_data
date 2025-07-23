@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 49-IN-115 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.A.Harvey 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,99,10,5507) 
+#   Year                  : 1955 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 49 
+#   A                     : 115 
+#   Nuclide               : 49-IN-115 
+# Reaction: 
+#   entry-subent-pointer  :{2: '11912-008-0', 3: '11912-008-0', 4: '11912-008-0'} 
+#   EXFOR reaction        :{2: '(49-IN-115(N,G),,WID)', 3: '(49-IN-115(N,G),,WID)', 4: '(49-IN-115(N,G),,WID)'} 
+#   incident energy       : 9.1000e-06 eV - 3.9900e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11912.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11912
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.1000E-06        9.0000E-08               NAN               NAN        8.0000E-02        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2100E-05        1.0000E-07               NAN               NAN        1.4000E-01        6.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9900E-05        5.0000E-07               NAN               NAN        1.4000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

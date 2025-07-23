@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 48-CD-113 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Kopecky 
+#   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference             : (J,NIM/B,267,2345,2009) 
+#   Year                  : 2009 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 48 
+#   A                     : 113 
+#   Nuclide               : 48-CD-113 
+# Reaction: 
+#   entry-subent-pointer  :{129: '23077-005-2', 130: '23077-005-2', 131: '23077-005-2', 132: '23077-005-3', 133: '23077-005-3', 134: '23077-005-3'} 
+#   EXFOR reaction        :{129: '(48-CD-113(N,G),,WID)', 130: '(48-CD-113(N,G),,WID)', 131: '(48-CD-113(N,G),,WID)', 132: '(48-CD-113(N,EL),,WID)', 133: '(48-CD-113(N,EL),,WID)', 134: '(48-CD-113(N,EL),,WID)'} 
+#   incident energy       : 1.7850e-01 eV - 1.7880e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23077.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23077
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.7850E-01        3.0000E-04               NAN               NAN        1.1450E-01        1.0000E-03        6.4300E-04        6.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7860E-01        2.0000E-04               NAN               NAN        1.1340E-01        2.0000E-04        6.3800E-04        3.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7880E-01        2.0000E-04               NAN               NAN        1.1360E-01        3.0000E-04        6.4200E-04        3.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN

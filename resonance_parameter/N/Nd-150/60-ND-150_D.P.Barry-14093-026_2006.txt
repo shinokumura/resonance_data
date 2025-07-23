@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 60-ND-150 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.P.Barry 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,153,8,2006) 
+#   Year                  : 2006 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 60 
+#   A                     : 150 
+#   Nuclide               : 60-ND-150 
+# Reaction: 
+#   entry-subent-pointer  :{47: '14093-026-0', 48: '14093-026-0', 49: '14093-026-0', 50: '14093-026-0', 51: '14093-026-0'} 
+#   EXFOR reaction        :{47: '(60-ND-150(N,G),,WID)', 48: '(60-ND-150(N,G),,WID)', 49: '(60-ND-150(N,G),,WID)', 50: '(60-ND-150(N,G),,WID)', 51: '(60-ND-150(N,G),,WID)'} 
+#   incident energy       : 7.8920e-05 eV - 4.8640e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14093.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14093
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.8920E-05        7.0000E-09               NAN               NAN        4.5000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6590E-04        6.0000E-08               NAN               NAN        5.2000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1362E-04        5.0000E-08               NAN               NAN        5.5000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5890E-04        6.0000E-07               NAN               NAN        5.2000E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.8640E-04        1.0000E-07               NAN               NAN        5.6000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

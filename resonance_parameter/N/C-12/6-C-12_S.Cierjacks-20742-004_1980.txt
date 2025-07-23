@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 6-C-12 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-23 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Cierjacks 
+#   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference             : (J,NIM,169,185,198004) 
+#   Year                  : 1980 
+#   Facility              : (ISOCY): Isochronous cyclotron 
+# Target: 
+#   Z                     : 6 
+#   A                     : 12 
+#   Nuclide               : 6-C-12 
+# Reaction: 
+#   entry-subent-pointer  :{37: '20742-004-2', 38: '20742-004-2', 39: '20742-004-2', 40: '20742-004-2', 41: '20742-004-2', 42: '20742-004-2'} 
+#   EXFOR reaction        :{37: '(6-C-12(N,TOT),,WID)', 38: '(6-C-12(N,TOT),,WID)', 39: '(6-C-12(N,TOT),,WID)', 40: '(6-C-12(N,TOT),,WID)', 41: '(6-C-12(N,TOT),,WID)', 42: '(6-C-12(N,TOT),,WID)'} 
+#   incident energy       : 4.9371e+06 eV - 7.7268e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20742.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20742
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.9371E+06        9.0000E+01        1.8700E+03        8.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3652E+06        1.8000E+02        2.5700E+04        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2971E+06        3.2000E+02        5.5200E+04        6.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3611E+06        6.0000E+02        1.9600E+04        1.1000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.6467E+06        2.0000E+02        4.3000E+03        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.7268E+06        2.1000E+03        8.8300E+04        3.6000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

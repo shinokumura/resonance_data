@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 6-C-12 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K-U.Kettner 
+#   Institute             : (2GERGER): Germany 
+#   Reference             : (J,PR/C,108,035805,2023) 
+#   Year                  : 2023 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 6 
+#   A                     : 12 
+#   Nuclide               : 6-C-12 
+# Reaction: 
+#   entry-subent-pointer  :{11: 'C2972-007-2', 12: 'C2972-007-2', 13: 'C2972-007-2', 14: 'C2972-007-2', 15: 'C2972-007-2'} 
+#   EXFOR reaction        :{11: '(6-C-12(P,G),,WID)', 12: '(6-C-12(P,G),,WID)', 13: '(6-C-12(P,G),,WID)', 14: '(6-C-12(P,G),,WID)', 15: '(6-C-12(P,G),,WID)'} 
+#   incident energy       : nan eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C29/C2972.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2972
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+               NAN               NAN               NAN               NAN        3.9004E+04        2.7000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5

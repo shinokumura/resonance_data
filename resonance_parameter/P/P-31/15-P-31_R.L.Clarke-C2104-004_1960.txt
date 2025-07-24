@@ -1,0 +1,47 @@
+# Header: 
+#   Title                 : 15-P-31 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Clarke 
+#   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference             : (J,NP,14,(3),472,1960) 
+#   Year                  : 1960 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 15 
+#   A                     : 31 
+#   Nuclide               : 15-P-31 
+# Reaction: 
+#   entry-subent-pointer  :{9: 'C2104-004-3', 10: 'C2104-004-3', 11: 'C2104-004-3', 12: 'C2104-004-3', 13: 'C2104-004-3', 14: 'C2104-004-3', 15: 'C2104-004-3', 16: 'C2104-004-3', 17: 'C2104-004-3', 18: 'C2104-004-3', 19: 'C2104-004-3', 20: 'C2104-004-3', 21: 'C2104-004-3', 22: 'C2104-004-3', 23: 'C2104-004-3', 24: 'C2104-004-3', 25: 'C2104-004-3', 26: 'C2104-004-3', 27: 'C2104-004-3', 28: 'C2104-004-3', 29: 'C2104-004-3', 30: 'C2104-004-3', 31: 'C2104-004-3', 32: 'C2104-004-3'} 
+#   EXFOR reaction        :{9: '(15-P-31(P,TOT),,WID)', 10: '(15-P-31(P,TOT),,WID)', 11: '(15-P-31(P,TOT),,WID)', 12: '(15-P-31(P,TOT),,WID)', 13: '(15-P-31(P,TOT),,WID)', 14: '(15-P-31(P,TOT),,WID)', 15: '(15-P-31(P,TOT),,WID)', 16: '(15-P-31(P,TOT),,WID)', 17: '(15-P-31(P,TOT),,WID)', 18: '(15-P-31(P,TOT),,WID)', 19: '(15-P-31(P,TOT),,WID)', 20: '(15-P-31(P,TOT),,WID)', 21: '(15-P-31(P,TOT),,WID)', 22: '(15-P-31(P,TOT),,WID)', 23: '(15-P-31(P,TOT),,WID)', 24: '(15-P-31(P,TOT),,WID)', 25: '(15-P-31(P,TOT),,WID)', 26: '(15-P-31(P,TOT),,WID)', 27: '(15-P-31(P,TOT),,WID)', 28: '(15-P-31(P,TOT),,WID)', 29: '(15-P-31(P,TOT),,WID)', 30: '(15-P-31(P,TOT),,WID)', 31: '(15-P-31(P,TOT),,WID)', 32: '(15-P-31(P,TOT),,WID)'} 
+#   incident energy       : 1.0240e+06 eV - 3.1190e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2104.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2104
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.0240E+06        1.0000E+04        3.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1610E+06        1.0000E+04        4.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4040E+06        1.0000E+04        6.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4740E+06        1.0000E+04        2.4000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5140E+06        1.0000E+04        7.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6400E+06        1.0000E+04        4.2000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7100E+06        1.0000E+04        5.5000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8110E+06        1.0000E+04        4.7000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8920E+06        1.0000E+04        2.7000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9760E+06        1.0000E+04        2.8000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9900E+06        1.0000E+04        3.6000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0180E+06        1.0000E+04        3.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0290E+06        1.0000E+04        1.8000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0310E+06        1.0000E+04        6.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0410E+06        1.0000E+04        6.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1090E+06        1.0000E+04        4.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4340E+06        1.0000E+04        1.7000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6440E+06        1.0000E+04        5.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7790E+06        1.0000E+04        8.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8050E+06        1.0000E+04        1.7000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8740E+06        1.0000E+04        5.0000E+03        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9220E+06        1.0000E+04        1.0000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0080E+06        1.0000E+04        7.5000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1190E+06        1.0000E+04        2.0000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

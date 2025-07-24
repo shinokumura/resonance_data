@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 7-N-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : Ding Furong 
+#   Institute             : (3CPRBJG): Peking University , Beijing 
+#   Reference             : (J,CPL,9,176,1992) 
+#   Year                  : 1992 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 0 
+#   Nuclide               : 7-N-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'S0070-003-1', 1: 'S0070-003-1', 2: 'S0070-003-1', 3: 'S0070-003-1', 4: 'S0070-003-1', 5: 'S0070-003-1', 6: 'S0070-003-2', 7: 'S0070-003-2', 8: 'S0070-003-2', 9: 'S0070-003-2', 10: 'S0070-003-2', 11: 'S0070-003-2'} 
+#   EXFOR reaction        :{0: '(7-N-0(A,EL),,WID)', 1: '(7-N-0(A,EL),,WID)', 2: '(7-N-0(A,EL),,WID)', 3: '(7-N-0(A,EL),,WID)', 4: '(7-N-0(A,EL),,WID)', 5: '(7-N-0(A,EL),,WID)', 6: '(7-N-0(A,EL),,WID)', 7: '(7-N-0(A,EL),,WID)', 8: '(7-N-0(A,EL),,WID)', 9: '(7-N-0(A,EL),,WID)', 10: '(7-N-0(A,EL),,WID)', 11: '(7-N-0(A,EL),,WID)'} 
+#   incident energy       : 3.5730e+00 eV - 4.9460e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S00/S0070.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/S0070
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        3.5730E+00               NAN               NAN               NAN               NAN               NAN        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6950E+00               NAN               NAN               NAN               NAN               NAN        6.7500E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9680E+00               NAN               NAN               NAN               NAN               NAN        6.7500E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0100E+00               NAN               NAN               NAN               NAN               NAN        6.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4480E+00               NAN               NAN               NAN               NAN               NAN        3.6500E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9460E+00               NAN               NAN               NAN               NAN               NAN        7.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

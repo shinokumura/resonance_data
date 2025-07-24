@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 52-TE-128 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.L.Foster 
+#   Institute             : (1USATEX): University of Texas, Austin, TX 
+#   Reference             : (J,PR,175,1498,1968) 
+#   Year                  : 1968 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 52 
+#   A                     : 128 
+#   Nuclide               : 52-TE-128 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C2691-007-5', 1: 'C2691-007-5', 2: 'C2691-007-5', 3: 'C2691-007-5', 4: 'C2691-007-5', 5: 'C2691-007-5', 6: 'C2691-007-5', 7: 'C2691-007-5', 8: 'C2691-007-5', 9: 'C2691-007-5', 10: 'C2691-007-5', 11: 'C2691-007-5', 12: 'C2691-007-5', 13: 'C2691-007-6', 14: 'C2691-007-6', 15: 'C2691-007-6', 16: 'C2691-007-6', 17: 'C2691-007-6', 18: 'C2691-007-6', 19: 'C2691-007-6', 20: 'C2691-007-6', 21: 'C2691-007-6', 22: 'C2691-007-6', 23: 'C2691-007-6', 24: 'C2691-007-6', 25: 'C2691-007-6'} 
+#   EXFOR reaction        :{0: '(52-TE-128(P,EL),,WID)', 1: '(52-TE-128(P,EL),,WID)', 2: '(52-TE-128(P,EL),,WID)', 3: '(52-TE-128(P,EL),,WID)', 4: '(52-TE-128(P,EL),,WID)', 5: '(52-TE-128(P,EL),,WID)', 6: '(52-TE-128(P,EL),,WID)', 7: '(52-TE-128(P,EL),,WID)', 8: '(52-TE-128(P,EL),,WID)', 9: '(52-TE-128(P,EL),,WID)', 10: '(52-TE-128(P,EL),,WID)', 11: '(52-TE-128(P,EL),,WID)', 12: '(52-TE-128(P,EL),,WID)', 13: '(52-TE-128(P,TOT),,WID)', 14: '(52-TE-128(P,TOT),,WID)', 15: '(52-TE-128(P,TOT),,WID)', 16: '(52-TE-128(P,TOT),,WID)', 17: '(52-TE-128(P,TOT),,WID)', 18: '(52-TE-128(P,TOT),,WID)', 19: '(52-TE-128(P,TOT),,WID)', 20: '(52-TE-128(P,TOT),,WID)', 21: '(52-TE-128(P,TOT),,WID)', 22: '(52-TE-128(P,TOT),,WID)', 23: '(52-TE-128(P,TOT),,WID)', 24: '(52-TE-128(P,TOT),,WID)', 25: '(52-TE-128(P,TOT),,WID)'} 
+#   incident energy       : 7.8540e+06 eV - 1.0800e+07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2691.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2691
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        7.8540E+06               NAN        5.1000E+04               NAN               NAN               NAN        6.2000E+03               NAN               NAN               NAN               NAN               NAN               1.5               2.0
+        8.0480E+06               NAN        4.8000E+04               NAN               NAN               NAN        9.9000E+03               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        9.9390E+06               NAN        5.8000E+04               NAN               NAN               NAN        6.5000E+03               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        1.0049E+07               NAN        5.6000E+04               NAN               NAN               NAN        4.7000E+03               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        1.0116E+07               NAN        3.0000E+04               NAN               NAN               NAN        1.0000E+03               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        1.0172E+07               NAN        1.0300E+05               NAN               NAN               NAN        1.3000E+04               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        1.0531E+07               NAN        1.1000E+05               NAN               NAN               NAN        1.7000E+04               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        1.0684E+07               NAN        8.9000E+04               NAN               NAN               NAN        1.1000E+03               NAN               NAN               NAN               NAN               NAN               2.5               3.0
+        1.0800E+07               NAN        5.1000E+04               NAN               NAN               NAN        6.2000E+03               NAN               NAN               NAN               NAN               NAN               1.5               3.0

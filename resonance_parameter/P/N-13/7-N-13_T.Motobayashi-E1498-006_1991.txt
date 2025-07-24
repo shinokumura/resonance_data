@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 7-N-13 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.Motobayashi 
+#   Institute             : (2JPNYOK): Rikkyo (St.Paul) University , Yokosuka and Tokyo 
+#   Reference             : (J,PL/B,264,(3-4),259,199108) 
+#   Year                  : 1991 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 7 
+#   A                     : 13 
+#   Nuclide               : 7-N-13 
+# Reaction: 
+#   entry-subent-pointer  :{7: 'E1498-006-0'} 
+#   EXFOR reaction        :{7: '(7-N-13(P,G),,WID,,,DERIV)'} 
+#   incident energy       : 5.1700e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E14/E1498.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/E1498
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        5.1700E+00        5.1700E-02               NAN               NAN        3.1000E+00        6.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

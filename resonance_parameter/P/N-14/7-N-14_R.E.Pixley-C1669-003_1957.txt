@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 7-N-14 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.E.Pixley 
+#   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference             : (T,PIXLEY,1957) 
+#   Year                  : 1957 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 14 
+#   Nuclide               : 7-N-14 
+# Reaction: 
+#   entry-subent-pointer  :{13: 'C1669-003-2'} 
+#   EXFOR reaction        :{13: '(7-N-14(P,G),,WID)'} 
+#   incident energy       : 2.7814e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1669.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1669
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.7814E+05        5.3000E+02               NAN               NAN        1.9000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

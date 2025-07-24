@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 16-S-32 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.F.Wilkerson 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (J,NP/A,549,223,1992) 
+#   Year                  : 1992 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 16 
+#   A                     : 32 
+#   Nuclide               : 16-S-32 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'T0066-024-1', 1: 'T0066-024-1', 2: 'T0066-024-1', 3: 'T0066-024-2', 4: 'T0066-024-2', 5: 'T0066-024-2'} 
+#   EXFOR reaction        :{0: '(16-S-32(P,TOT),,WID)', 1: '(16-S-32(P,TOT),,WID)', 2: '(16-S-32(P,TOT),,WID)', 3: '(16-S-32(P,EL),,WID)', 4: '(16-S-32(P,EL),,WID)', 5: '(16-S-32(P,EL),,WID)'} 
+#   incident energy       : 3.3740e+00 eV - 5.2730e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0066.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/T0066
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        3.3740E+00               NAN        1.0000E+02        9.0000E+00               NAN               NAN        9.8000E+01        9.0000E+00               NAN               NAN               NAN               NAN               0.5               NAN
+        4.7170E+00               NAN        3.5600E+02        1.4500E+02               NAN               NAN        1.0000E+02        1.5000E+01               NAN               NAN               NAN               NAN               1.5               NAN
+        5.2730E+00               NAN        1.0800E+02        7.0000E+00               NAN               NAN        9.6000E+01        2.0000E+00               NAN               NAN               NAN               NAN               2.5               NAN

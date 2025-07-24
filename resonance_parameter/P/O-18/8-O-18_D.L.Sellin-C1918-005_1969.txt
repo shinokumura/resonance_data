@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-18 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.L.Sellin 
+#   Institute             : (1USADKE): Duke University, Durham, NC 
+#   Reference             : (J,AP,51,(3),461,1969) 
+#   Year                  : 1969 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 18 
+#   Nuclide               : 8-O-18 
+# Reaction: 
+#   entry-subent-pointer  :{42: 'C1918-005-4', 43: 'C1918-005-4', 44: 'C1918-005-4', 45: 'C1918-005-5', 46: 'C1918-005-5', 47: 'C1918-005-5', 48: 'C1918-005-6', 49: 'C1918-005-6', 50: 'C1918-005-6'} 
+#   EXFOR reaction        :{42: '(8-O-18(P,EL),,WID)', 43: '(8-O-18(P,EL),,WID)', 44: '(8-O-18(P,EL),,WID)', 45: '(8-O-18(P,A),,WID)', 46: '(8-O-18(P,A),,WID)', 47: '(8-O-18(P,A),,WID)', 48: '(8-O-18(P,G),,WID)', 49: '(8-O-18(P,G),,WID)', 50: '(8-O-18(P,G),,WID)'} 
+#   incident energy       : 1.9280e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1918.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1918
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.9280E+00               NAN               NAN               NAN        2.6667E+01               NAN        1.0167E+02               NAN               NAN               NAN        8.0000E+01               NAN               2.5               NAN

@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 7-N-15 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Smotrich 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,122,232,1961) 
+#   Year                  : 1961 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 15 
+#   Nuclide               : 7-N-15 
+# Reaction: 
+#   entry-subent-pointer  :{16: 'C0755-009-2', 17: 'C0755-009-2', 18: 'C0755-009-2', 19: 'C0755-009-2', 20: 'C0755-009-2', 21: 'C0755-009-2', 22: 'C0755-009-2', 23: 'C0755-009-2', 24: 'C0755-009-2', 25: 'C0755-009-2', 26: 'C0755-009-2', 27: 'C0755-009-2', 28: 'C0755-009-2', 29: 'C0755-009-2', 30: 'C0755-009-2'} 
+#   EXFOR reaction        :{16: '(7-N-15(A,EL),,WID)', 17: '(7-N-15(A,EL),,WID)', 18: '(7-N-15(A,EL),,WID)', 19: '(7-N-15(A,EL),,WID)', 20: '(7-N-15(A,EL),,WID)', 21: '(7-N-15(A,EL),,WID)', 22: '(7-N-15(A,EL),,WID)', 23: '(7-N-15(A,EL),,WID)', 24: '(7-N-15(A,EL),,WID)', 25: '(7-N-15(A,EL),,WID)', 26: '(7-N-15(A,EL),,WID)', 27: '(7-N-15(A,EL),,WID)', 28: '(7-N-15(A,EL),,WID)', 29: '(7-N-15(A,EL),,WID)', 30: '(7-N-15(A,EL),,WID)'} 
+#   incident energy       : 4.1270e+06 eV - 5.4810e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0755.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0755
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        4.1270E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2200E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4900E+06               NAN               NAN               NAN               NAN               NAN        9.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7000E+06               NAN               NAN               NAN               NAN               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7800E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9300E+06               NAN               NAN               NAN               NAN               NAN        2.6000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0050E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0180E+06               NAN               NAN               NAN               NAN               NAN        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.1160E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2030E+06               NAN               NAN               NAN               NAN               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2320E+06               NAN               NAN               NAN               NAN               NAN        6.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2500E+06               NAN               NAN               NAN               NAN               NAN        6.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2840E+06               NAN               NAN               NAN               NAN               NAN        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.4810E+06               NAN               NAN               NAN               NAN               NAN        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

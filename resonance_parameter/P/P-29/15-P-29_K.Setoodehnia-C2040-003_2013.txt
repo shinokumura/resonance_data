@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 15-P-29 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Setoodehnia 
+#   Institute             : (1CANMCM): McMaster University, Hamilton, Ontario 
+#   Reference             : (J,PR/C,87,065801,2013) 
+#   Year                  : 2013 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 15 
+#   A                     : 29 
+#   Nuclide               : 15-P-29 
+# Reaction: 
+#   entry-subent-pointer  :{14: 'C2040-003-4', 15: 'C2040-003-4', 16: 'C2040-003-4', 17: 'C2040-003-4', 18: 'C2040-003-4', 19: 'C2040-003-4', 20: 'C2040-003-4', 21: 'C2040-003-4', 22: 'C2040-003-5', 23: 'C2040-003-5', 24: 'C2040-003-5', 25: 'C2040-003-5', 26: 'C2040-003-5', 27: 'C2040-003-5', 28: 'C2040-003-5', 29: 'C2040-003-5'} 
+#   EXFOR reaction        :{14: '(15-P-29(P,EL),,WID)', 15: '(15-P-29(P,EL),,WID)', 16: '(15-P-29(P,EL),,WID)', 17: '(15-P-29(P,EL),,WID)', 18: '(15-P-29(P,EL),,WID)', 19: '(15-P-29(P,EL),,WID)', 20: '(15-P-29(P,EL),,WID)', 21: '(15-P-29(P,EL),,WID)', 22: '(15-P-29(P,G),,WID)', 23: '(15-P-29(P,G),,WID)', 24: '(15-P-29(P,G),,WID)', 25: '(15-P-29(P,G),,WID)', 26: '(15-P-29(P,G),,WID)', 27: '(15-P-29(P,G),,WID)', 28: '(15-P-29(P,G),,WID)', 29: '(15-P-29(P,G),,WID)'} 
+#   incident energy       : 2.9320e+05 eV - 1.5510e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2040.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2040
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.9320E+05        8.0000E+02               NAN               NAN               NAN               NAN        1.7000E-02               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        4.1490E+05        9.0000E+02               NAN               NAN               NAN               NAN        3.7000E+00               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        7.3770E+05        1.1000E+03               NAN               NAN        2.3000E-01               NAN        2.3000E-01               NAN               NAN               NAN               NAN               NAN               4.0               NAN
+        8.2600E+05        2.0000E+03               NAN               NAN        1.9000E+04               NAN        1.9000E+04               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        9.1900E+05        4.0000E+03               NAN               NAN        9.7000E+00               NAN        1.1000E+03               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        9.9600E+05        2.0000E+03               NAN               NAN        1.9000E+01               NAN        2.8000E+03               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        1.4520E+06        2.0000E+03               NAN               NAN        1.8000E+01               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        1.5510E+06        3.0000E+03               NAN               NAN        1.8000E+02               NAN        1.8000E+02               NAN               NAN               NAN               NAN               NAN               4.0               NAN

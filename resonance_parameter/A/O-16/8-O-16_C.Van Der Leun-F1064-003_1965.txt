@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Van Der Leun 
+#   Institute             : (2NEDUTR): University of Utrecht 
+#   Reference             : (J,PL,18,134,1965) 
+#   Year                  : 1965 
+#   Facility              : None 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :{18: 'F1064-003-2', 19: 'F1064-003-2', 20: 'F1064-003-2'} 
+#   EXFOR reaction        :{18: '(8-O-16(A,G),,WID)', 19: '(8-O-16(A,G),,WID)', 20: '(8-O-16(A,G),,WID)'} 
+#   incident energy       : 1.1160e+00 eV - 2.4900e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1064.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F1064
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        1.1160E+00        4.0000E-03               NAN               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3190E+00        3.0000E-03               NAN               NAN        4.0000E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4900E+00        8.0000E-03               NAN               NAN        3.3000E+07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 38-SR-88 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.Kaubler 
+#   Institute             : (2GERKLN): Universitaet zu Koeln, Koeln 
+#   Reference             : (J,PR/C,70,064307,2004) 
+#   Year                  : 2004 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 38 
+#   A                     : 88 
+#   Nuclide               : 38-SR-88 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'M0775-002-4', 1: 'M0775-002-4', 2: 'M0775-002-4', 3: 'M0775-002-4'} 
+#   EXFOR reaction        :{0: '(38-SR-88(G,TOT),,WID)', 1: '(38-SR-88(G,TOT),,WID)', 2: '(38-SR-88(G,TOT),,WID)', 3: '(38-SR-88(G,TOT),,WID)'} 
+#   incident energy       : 4.0362e+06 eV - 6.7100e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0775.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/M0775
+#
+#        E_in(eV)          dE_in(eV)    data(G,TOT)(eV)       ddata(G,TOT)       data(G,G)         ddata(G,G)        data(G,EL)       ddata(G,EL)        data(G,F)        ddata(G,F)         data(G,A)        ddata(G,A)            spin_j        momentum_l
+        4.0362E+06               NAN        3.4000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        4.7438E+06               NAN        1.7300E-01        2.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               NAN
+        6.2136E+06               NAN        1.9200E+00        4.8000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.7100E+06               NAN        1.7500E-01        8.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               NAN

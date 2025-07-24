@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 14-SI-28 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.A.Belote 
+#   Institute             : (1USARIC): Rice University, Houston, TX 
+#   Reference             : (J,PR,122,920,1961) 
+#   Year                  : 1961 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 14 
+#   A                     : 28 
+#   Nuclide               : 14-SI-28 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C2095-002-5', 1: 'C2095-002-5', 2: 'C2095-002-5', 3: 'C2095-002-5', 4: 'C2095-002-5', 5: 'C2095-002-5', 6: 'C2095-002-5', 7: 'C2095-002-5', 8: 'C2095-002-5', 9: 'C2095-002-5', 10: 'C2095-002-5', 11: 'C2095-002-8', 12: 'C2095-002-8', 13: 'C2095-002-8', 14: 'C2095-002-8', 15: 'C2095-002-8', 16: 'C2095-002-8', 17: 'C2095-002-8', 18: 'C2095-002-8', 19: 'C2095-002-8', 20: 'C2095-002-8', 21: 'C2095-002-8'} 
+#   EXFOR reaction        :{0: '(14-SI-28(P,TOT),,WID)', 1: '(14-SI-28(P,TOT),,WID)', 2: '(14-SI-28(P,TOT),,WID)', 3: '(14-SI-28(P,TOT),,WID)', 4: '(14-SI-28(P,TOT),,WID)', 5: '(14-SI-28(P,TOT),,WID)', 6: '(14-SI-28(P,TOT),,WID)', 7: '(14-SI-28(P,TOT),,WID)', 8: '(14-SI-28(P,TOT),,WID)', 9: '(14-SI-28(P,TOT),,WID)', 10: '(14-SI-28(P,TOT),,WID)', 11: '(14-SI-28(P,EL),,WID)', 12: '(14-SI-28(P,EL),,WID)', 13: '(14-SI-28(P,EL),,WID)', 14: '(14-SI-28(P,EL),,WID)', 15: '(14-SI-28(P,EL),,WID)', 16: '(14-SI-28(P,EL),,WID)', 17: '(14-SI-28(P,EL),,WID)', 18: '(14-SI-28(P,EL),,WID)', 19: '(14-SI-28(P,EL),,WID)', 20: '(14-SI-28(P,EL),,WID)', 21: '(14-SI-28(P,EL),,WID)'} 
+#   incident energy       : 2.0800e+06 eV - 4.8840e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2095.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2095
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.0800E+06        5.0000E+03        1.6200E+04        1.2960E+03               NAN               NAN        1.6200E+04               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        2.8800E+06        2.0000E+04        4.0000E+05        3.2000E+04               NAN               NAN        4.0000E+05               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        3.0950E+06        5.0000E+03        1.2900E+04        1.0320E+03               NAN               NAN        3.9000E+03               NAN               NAN               NAN               NAN               NAN               2.5               3.0
+        3.3340E+06        5.0000E+03        8.4000E+03        6.7200E+02               NAN               NAN        6.4000E+03               NAN               NAN               NAN               NAN               NAN               1.5               2.0
+        3.5710E+06        5.0000E+03        9.8000E+04        7.8400E+03               NAN               NAN        2.0000E+04               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        3.7100E+06        5.0000E+03        7.4000E+04        5.9200E+03               NAN               NAN        1.8000E+04               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        3.9800E+06        5.0000E+03        2.0000E+05        1.6000E+04               NAN               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        4.2350E+06        5.0000E+03        4.9000E+03        3.9200E+02               NAN               NAN        2.9000E+03               NAN               NAN               NAN               NAN               NAN               1.5               2.0
+        4.3600E+06        5.0000E+03        1.2000E+05        9.6000E+03               NAN               NAN        1.2000E+05               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        4.4300E+06        5.0000E+03        1.0000E+05        8.0000E+03               NAN               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        4.8840E+06        1.0000E+04        8.4000E+03        6.7200E+02               NAN               NAN        2.9000E+03               NAN               NAN               NAN               NAN               NAN               2.5               3.0

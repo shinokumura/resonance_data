@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 7-N-14 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.W.Phillips 
+#   Institute             : (1USATEX): University of Texas, Austin, TX 
+#   Reference             : (J,PR/C,5,(2),297,1972) 
+#   Year                  : 1972 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 14 
+#   Nuclide               : 7-N-14 
+# Reaction: 
+#   entry-subent-pointer  :{47: 'C2029-006-2', 48: 'C2029-006-2', 49: 'C2029-006-2', 50: 'C2029-006-2', 51: 'C2029-006-2', 52: 'C2029-006-2', 53: 'C2029-006-2', 54: 'C2029-006-2', 55: 'C2029-006-2', 56: 'C2029-006-2', 57: 'C2029-006-2', 58: 'C2029-006-2', 59: 'C2029-006-2', 60: 'C2029-006-2', 61: 'C2029-006-3', 62: 'C2029-006-3', 63: 'C2029-006-3', 64: 'C2029-006-3', 65: 'C2029-006-3', 66: 'C2029-006-3', 67: 'C2029-006-3', 68: 'C2029-006-3', 69: 'C2029-006-3', 70: 'C2029-006-3', 71: 'C2029-006-3', 72: 'C2029-006-3', 73: 'C2029-006-3', 74: 'C2029-006-3', 75: 'C2029-006-4', 76: 'C2029-006-4', 77: 'C2029-006-4', 78: 'C2029-006-4', 79: 'C2029-006-4', 80: 'C2029-006-4', 81: 'C2029-006-4', 82: 'C2029-006-4', 83: 'C2029-006-4', 84: 'C2029-006-4', 85: 'C2029-006-4', 86: 'C2029-006-4', 87: 'C2029-006-4', 88: 'C2029-006-4'} 
+#   EXFOR reaction        :{47: '(7-N-14(P,TOT),,WID)', 48: '(7-N-14(P,TOT),,WID)', 49: '(7-N-14(P,TOT),,WID)', 50: '(7-N-14(P,TOT),,WID)', 51: '(7-N-14(P,TOT),,WID)', 52: '(7-N-14(P,TOT),,WID)', 53: '(7-N-14(P,TOT),,WID)', 54: '(7-N-14(P,TOT),,WID)', 55: '(7-N-14(P,TOT),,WID)', 56: '(7-N-14(P,TOT),,WID)', 57: '(7-N-14(P,TOT),,WID)', 58: '(7-N-14(P,TOT),,WID)', 59: '(7-N-14(P,TOT),,WID)', 60: '(7-N-14(P,TOT),,WID)', 61: '(7-N-14(P,EL),,WID)', 62: '(7-N-14(P,EL),,WID)', 63: '(7-N-14(P,EL),,WID)', 64: '(7-N-14(P,EL),,WID)', 65: '(7-N-14(P,EL),,WID)', 66: '(7-N-14(P,EL),,WID)', 67: '(7-N-14(P,EL),,WID)', 68: '(7-N-14(P,EL),,WID)', 69: '(7-N-14(P,EL),,WID)', 70: '(7-N-14(P,EL),,WID)', 71: '(7-N-14(P,EL),,WID)', 72: '(7-N-14(P,EL),,WID)', 73: '(7-N-14(P,EL),,WID)', 74: '(7-N-14(P,EL),,WID)', 75: '(7-N-14(P,G),,WID)', 76: '(7-N-14(P,G),,WID)', 77: '(7-N-14(P,G),,WID)', 78: '(7-N-14(P,G),,WID)', 79: '(7-N-14(P,G),,WID)', 80: '(7-N-14(P,G),,WID)', 81: '(7-N-14(P,G),,WID)', 82: '(7-N-14(P,G),,WID)', 83: '(7-N-14(P,G),,WID)', 84: '(7-N-14(P,G),,WID)', 85: '(7-N-14(P,G),,WID)', 86: '(7-N-14(P,G),,WID)', 87: '(7-N-14(P,G),,WID)', 88: '(7-N-14(P,G),,WID)'} 
+#   incident energy       : 3.9030e+06 eV - 6.1410e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2029.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2029
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        3.9030E+06               NAN        9.9000E+04               NAN        1.4000E+01        3.0000E+00        3.9000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9960E+06               NAN        2.5000E+04               NAN        1.4000E+00        4.0000E-01        2.1000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2030E+06               NAN        4.0000E+04        4.0000E+03        5.2000E+00        4.0000E-01        4.0000E+04        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5800E+06               NAN        2.0000E+04        1.5000E+04        7.0000E-01        2.0000E-01        2.0000E+04        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6300E+06               NAN        8.0000E+04        5.0000E+04               NAN               NAN        8.0000E+04        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7720E+06               NAN        9.9000E+04               NAN               NAN               NAN        9.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.8770E+06               NAN        6.5000E+04               NAN               NAN               NAN        6.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0300E+06               NAN        2.0000E+04        5.0000E+03               NAN               NAN        2.0000E+04        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN
+        5.1800E+06               NAN        2.0000E+05        5.0000E+04               NAN               NAN        2.0000E+05        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2800E+06               NAN        1.0000E+05        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.5470E+06               NAN        7.7000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9360E+06               NAN        1.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1230E+06               NAN        2.1500E+05        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1410E+06               NAN        4.0000E+04        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

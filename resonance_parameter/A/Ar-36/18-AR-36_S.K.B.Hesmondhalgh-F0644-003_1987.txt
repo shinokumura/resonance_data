@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 18-AR-36 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.K.B.Hesmondhalgh 
+#   Institute             : (2UK OXF): University of Oxford, Oxford 
+#   Reference             : (J,PL/B,183,35,1987) 
+#   Year                  : 1987 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 18 
+#   A                     : 36 
+#   Nuclide               : 18-AR-36 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'F0644-003-1', 1: 'F0644-003-1', 2: 'F0644-003-2', 3: 'F0644-003-2'} 
+#   EXFOR reaction        :{0: '(18-AR-36(A,TOT),,WID)', 1: '(18-AR-36(A,TOT),,WID)', 2: '(18-AR-36(A,EL),,WID)', 3: '(18-AR-36(A,EL),,WID)'} 
+#   incident energy       : 1.0519e-02 eV - 1.0520e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0644.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0644
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        1.0519E-02               NAN        8.1000E+01        1.0000E+01               NAN               NAN        8.0000E+01        1.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0520E-02               NAN        1.2800E+03        2.3000E+02               NAN               NAN        1.1000E+02        1.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN

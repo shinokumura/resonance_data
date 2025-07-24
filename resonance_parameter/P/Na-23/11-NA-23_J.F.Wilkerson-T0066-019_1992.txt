@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 11-NA-23 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.F.Wilkerson 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (J,NP/A,549,223,1992) 
+#   Year                  : 1992 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 11 
+#   A                     : 23 
+#   Nuclide               : 11-NA-23 
+# Reaction: 
+#   entry-subent-pointer  :{160: 'T0066-019-1', 161: 'T0066-019-2', 162: 'T0066-019-3'} 
+#   EXFOR reaction        :{160: '(11-NA-23(P,TOT),,WID)', 161: '(11-NA-23(P,EL),,WID)', 162: '(11-NA-23(P,A),,WID)'} 
+#   incident energy       : 3.9050e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0066.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/T0066
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        3.9050E+00               NAN        3.4500E+02        5.0000E+01               NAN               NAN        2.0700E+02        3.1000E+01               NAN               NAN        1.9000E+01        4.0000E+00               1.5               NAN

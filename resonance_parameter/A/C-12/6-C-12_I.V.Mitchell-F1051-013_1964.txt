@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 6-C-12 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.V.Mitchell 
+#   Institute             : (3AULCBR): Australian National University, Canberra 
+#   Reference             : (J,NP,58,529,1964) 
+#   Year                  : 1964 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 6 
+#   A                     : 12 
+#   Nuclide               : 6-C-12 
+# Reaction: 
+#   entry-subent-pointer  :{1: 'F1051-013-2'} 
+#   EXFOR reaction        :{1: '(6-C-12(A,G),,WID)'} 
+#   incident energy       : 8.1450e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F10/F1051.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F1051
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        8.1450E+06        2.0000E+04               NAN               NAN        8.0000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.Berthoumieux 
+#   Institute             : (2FR SAT): Laboratoire National SATURNE, Saclay 
+#   Reference             : (J,NIM/B,136-138,55,1998) 
+#   Year                  : 1998 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :{215: 'F0587-003-2', 216: 'F0587-003-2', 217: 'F0587-003-2'} 
+#   EXFOR reaction        :{215: '(8-O-16(A,TOT),,WID)', 216: '(8-O-16(A,TOT),,WID)', 217: '(8-O-16(A,TOT),,WID)'} 
+#   incident energy       : 3.0320e+06 eV - 3.3620e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0587.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0587
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        3.0320E+06               NAN        1.0900E+04        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0750E+06               NAN        2.9000E+03        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3620E+06               NAN        8.7000E+03        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

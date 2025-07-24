@@ -1,0 +1,41 @@
+# Header: 
+#   Title                 : 14-SI-29 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.P.Poirier 
+#   Institute             : (1USAARL): Aerospace Research Labs, Wright-Patterson A.F. Base, OH 
+#   Reference             : (J,PR/C,1,1982,1970) 
+#   Year                  : 1970 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 14 
+#   A                     : 29 
+#   Nuclide               : 14-SI-29 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C2612-014-5', 1: 'C2612-014-5', 2: 'C2612-014-5', 3: 'C2612-014-5', 4: 'C2612-014-5', 5: 'C2612-014-5', 6: 'C2612-014-5', 7: 'C2612-014-5', 8: 'C2612-014-5', 9: 'C2612-014-5', 10: 'C2612-014-5', 11: 'C2612-014-5', 12: 'C2612-014-5', 13: 'C2612-014-5', 14: 'C2612-014-5', 15: 'C2612-014-5', 16: 'C2612-014-5', 17: 'C2612-014-5', 18: 'C2612-014-5', 19: 'C2612-014-5', 20: 'C2612-014-5', 21: 'C2612-014-5', 22: 'C2612-014-5', 23: 'C2612-014-5', 24: 'C2612-014-5', 25: 'C2612-014-5', 26: 'C2612-014-5', 27: 'C2612-014-7', 28: 'C2612-014-7', 29: 'C2612-014-7', 30: 'C2612-014-7', 31: 'C2612-014-7', 32: 'C2612-014-7', 33: 'C2612-014-7', 34: 'C2612-014-7', 35: 'C2612-014-7', 36: 'C2612-014-7', 37: 'C2612-014-7', 38: 'C2612-014-7', 39: 'C2612-014-7', 40: 'C2612-014-7', 41: 'C2612-014-7', 42: 'C2612-014-7', 43: 'C2612-014-7', 44: 'C2612-014-7', 45: 'C2612-014-7', 46: 'C2612-014-7', 47: 'C2612-014-7', 48: 'C2612-014-7', 49: 'C2612-014-7', 50: 'C2612-014-7', 51: 'C2612-014-7', 52: 'C2612-014-7', 53: 'C2612-014-7'} 
+#   EXFOR reaction        :{0: '(14-SI-29(P,EL),,WID)', 1: '(14-SI-29(P,EL),,WID)', 2: '(14-SI-29(P,EL),,WID)', 3: '(14-SI-29(P,EL),,WID)', 4: '(14-SI-29(P,EL),,WID)', 5: '(14-SI-29(P,EL),,WID)', 6: '(14-SI-29(P,EL),,WID)', 7: '(14-SI-29(P,EL),,WID)', 8: '(14-SI-29(P,EL),,WID)', 9: '(14-SI-29(P,EL),,WID)', 10: '(14-SI-29(P,EL),,WID)', 11: '(14-SI-29(P,EL),,WID)', 12: '(14-SI-29(P,EL),,WID)', 13: '(14-SI-29(P,EL),,WID)', 14: '(14-SI-29(P,EL),,WID)', 15: '(14-SI-29(P,EL),,WID)', 16: '(14-SI-29(P,EL),,WID)', 17: '(14-SI-29(P,EL),,WID)', 18: '(14-SI-29(P,EL),,WID)', 19: '(14-SI-29(P,EL),,WID)', 20: '(14-SI-29(P,EL),,WID)', 21: '(14-SI-29(P,EL),,WID)', 22: '(14-SI-29(P,EL),,WID)', 23: '(14-SI-29(P,EL),,WID)', 24: '(14-SI-29(P,EL),,WID)', 25: '(14-SI-29(P,EL),,WID)', 26: '(14-SI-29(P,EL),,WID)', 27: '(14-SI-29(P,TOT),,WID)', 28: '(14-SI-29(P,TOT),,WID)', 29: '(14-SI-29(P,TOT),,WID)', 30: '(14-SI-29(P,TOT),,WID)', 31: '(14-SI-29(P,TOT),,WID)', 32: '(14-SI-29(P,TOT),,WID)', 33: '(14-SI-29(P,TOT),,WID)', 34: '(14-SI-29(P,TOT),,WID)', 35: '(14-SI-29(P,TOT),,WID)', 36: '(14-SI-29(P,TOT),,WID)', 37: '(14-SI-29(P,TOT),,WID)', 38: '(14-SI-29(P,TOT),,WID)', 39: '(14-SI-29(P,TOT),,WID)', 40: '(14-SI-29(P,TOT),,WID)', 41: '(14-SI-29(P,TOT),,WID)', 42: '(14-SI-29(P,TOT),,WID)', 43: '(14-SI-29(P,TOT),,WID)', 44: '(14-SI-29(P,TOT),,WID)', 45: '(14-SI-29(P,TOT),,WID)', 46: '(14-SI-29(P,TOT),,WID)', 47: '(14-SI-29(P,TOT),,WID)', 48: '(14-SI-29(P,TOT),,WID)', 49: '(14-SI-29(P,TOT),,WID)', 50: '(14-SI-29(P,TOT),,WID)', 51: '(14-SI-29(P,TOT),,WID)', 52: '(14-SI-29(P,TOT),,WID)', 53: '(14-SI-29(P,TOT),,WID)'} 
+#   incident energy       : 1.3022e+09 eV - 2.4950e+09 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2612.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2612
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.3022E+09        5.0000E+05        1.7000E+01        5.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               0.0
+        1.3267E+09        5.0000E+05        4.0000E+03        2.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               1.0
+        1.3728E+09        5.0000E+05        5.6000E+03        6.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               1.0
+        1.4723E+09        5.0000E+05        4.8000E+02        2.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               1.0
+        1.5058E+09        3.0000E+05        1.5000E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               4.0               3.0
+        1.5065E+09        3.0000E+05        2.2000E+01        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               4.0               3.0
+        1.6412E+09        5.0000E+05        2.0000E+04        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               1.0
+        1.6860E+09        2.0000E+06        5.0000E+03        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               1.0
+        1.7899E+09        5.0000E+05        1.8000E+04        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               1.0
+        1.9686E+09        5.0000E+05               NAN               NAN               NAN               NAN        2.6900E+03        5.0000E+01               NAN               NAN               NAN               NAN               1.0               0.0
+        2.0838E+09        5.0000E+05               NAN               NAN               NAN               NAN        1.4000E+02        4.0000E+01               NAN               NAN               NAN               NAN               3.0               2.0
+        2.2290E+09        1.0000E+06               NAN               NAN               NAN               NAN        5.3000E+04        3.0000E+03               NAN               NAN               NAN               NAN               1.0               1.0
+        2.2341E+09        5.0000E+05               NAN               NAN               NAN               NAN        8.5000E+02        4.0000E+01               NAN               NAN               NAN               NAN               0.0               0.0
+        2.3370E+09        2.0000E+06               NAN               NAN               NAN               NAN        1.5000E+04        7.0000E+03               NAN               NAN               NAN               NAN               0.0               0.0
+        2.3670E+09        2.0000E+06               NAN               NAN               NAN               NAN        8.7000E+04        3.0000E+03               NAN               NAN               NAN               NAN               2.0               1.0
+        2.4180E+09        2.0000E+06        2.9000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0               0.0
+        2.4920E+09        2.0000E+06        2.8000E+02        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0               0.0
+        2.4950E+09        2.0000E+06               NAN               NAN               NAN               NAN        6.3000E+03        4.0000E+02               NAN               NAN               NAN               NAN               1.0               1.0

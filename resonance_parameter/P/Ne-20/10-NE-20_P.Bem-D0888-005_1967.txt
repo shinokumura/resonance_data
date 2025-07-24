@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 10-NE-20 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Bem 
+#   Institute             : (3CZRUJV): Research Centre Rez, Husinec-Rez 
+#   Reference             : (J,NP/A,96,529,1967) 
+#   Year                  : 1967 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 10 
+#   A                     : 20 
+#   Nuclide               : 10-NE-20 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'D0888-005-4', 1: 'D0888-005-4', 2: 'D0888-005-4', 3: 'D0888-005-4'} 
+#   EXFOR reaction        :{0: '(10-NE-20(P,EL),,WID)', 1: '(10-NE-20(P,EL),,WID)', 2: '(10-NE-20(P,EL),,WID)', 3: '(10-NE-20(P,EL),,WID)'} 
+#   incident energy       : 4.2800e+06 eV - 5.0000e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D08/D0888.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D0888
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        4.2800E+06        5.0000E+04               NAN               NAN               NAN               NAN        2.2000E+05        5.0000E+04               NAN               NAN               NAN               NAN               1.5               NAN
+        4.7000E+06        5.0000E+04               NAN               NAN               NAN               NAN        1.0000E+05        5.0000E+04               NAN               NAN               NAN               NAN               1.5               NAN
+        5.0000E+06        5.0000E+04               NAN               NAN               NAN               NAN        3.2000E+05        5.0000E+04               NAN               NAN               NAN               NAN               0.5               NAN

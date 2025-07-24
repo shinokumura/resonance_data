@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 22-TI-50 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Maripuu 
+#   Institute             : (2NEDUTR): University of Utrecht 
+#   Reference             : (J,NP/A,153,183,1970) 
+#   Year                  : 1970 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 22 
+#   A                     : 50 
+#   Nuclide               : 22-TI-50 
+# Reaction: 
+#   entry-subent-pointer  :{3: 'F0946-007-0', 4: 'F0946-007-0', 5: 'F0946-007-0'} 
+#   EXFOR reaction        :{3: '(22-TI-50(P,G),,WID)', 4: '(22-TI-50(P,G),,WID)', 5: '(22-TI-50(P,G),,WID)'} 
+#   incident energy       : 1.3660e+00 eV - 1.3770e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0946
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.3660E+00        2.0000E-03               NAN               NAN        1.5000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3710E+00        2.0000E-03               NAN               NAN        7.2000E+00        2.4000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3770E+00        2.0000E-03               NAN               NAN        1.0000E+00        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

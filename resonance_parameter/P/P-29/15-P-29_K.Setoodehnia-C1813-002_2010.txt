@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 15-P-29 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Setoodehnia 
+#   Institute             : (1CANMCM): McMaster University, Hamilton, Ontario 
+#   Reference             : (J,PR/C,82,022801,2010) 
+#   Year                  : 2010 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 15 
+#   A                     : 29 
+#   Nuclide               : 15-P-29 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C1813-002-2', 1: 'C1813-002-2', 2: 'C1813-002-2', 3: 'C1813-002-2', 4: 'C1813-002-2', 5: 'C1813-002-2', 6: 'C1813-002-2', 7: 'C1813-002-3', 8: 'C1813-002-3', 9: 'C1813-002-3', 10: 'C1813-002-3', 11: 'C1813-002-3', 12: 'C1813-002-3', 13: 'C1813-002-3'} 
+#   EXFOR reaction        :{0: '(15-P-29(P,EL),,WID)', 1: '(15-P-29(P,EL),,WID)', 2: '(15-P-29(P,EL),,WID)', 3: '(15-P-29(P,EL),,WID)', 4: '(15-P-29(P,EL),,WID)', 5: '(15-P-29(P,EL),,WID)', 6: '(15-P-29(P,EL),,WID)', 7: '(15-P-29(P,G),,WID)', 8: '(15-P-29(P,G),,WID)', 9: '(15-P-29(P,G),,WID)', 10: '(15-P-29(P,G),,WID)', 11: '(15-P-29(P,G),,WID)', 12: '(15-P-29(P,G),,WID)', 13: '(15-P-29(P,G),,WID)'} 
+#   incident energy       : 3.0000e+05 eV - 9.9200e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1813.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1813
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        3.0000E+05               NAN               NAN               NAN        4.9000E-03               NAN        2.3000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1500E+05               NAN               NAN               NAN        4.8000E-03               NAN        3.7000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3700E+05               NAN               NAN               NAN        1.1000E-02               NAN        2.3000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.6900E+05               NAN               NAN               NAN        4.8000E-03               NAN        3.5000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1900E+05               NAN               NAN               NAN        6.4000E-03               NAN        1.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.1500E+05               NAN               NAN               NAN        9.7000E-03               NAN        9.9000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.9200E+05               NAN               NAN               NAN        1.8000E-02               NAN        6.8000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 8-O-17 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.J.Holt 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR/C,18,1962,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 17 
+#   Nuclide               : 8-O-17 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'L0196-003-3', 1: 'L0196-003-3', 2: 'L0196-003-3', 3: 'L0196-003-3', 4: 'L0196-003-3', 5: 'L0196-003-3'} 
+#   EXFOR reaction        :{0: '(8-O-17(G,EL),,WID)', 1: '(8-O-17(G,EL),,WID)', 2: '(8-O-17(G,EL),,WID)', 3: '(8-O-17(G,EL),,WID)', 4: '(8-O-17(G,EL),,WID)', 5: '(8-O-17(G,EL),,WID)'} 
+#   incident energy       : 4.5490e+06 eV - 5.3780e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0196.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/L0196
+#
+#        E_in(eV)          dE_in(eV)    data(G,TOT)(eV)       ddata(G,TOT)       data(G,G)         ddata(G,G)        data(G,EL)       ddata(G,EL)        data(G,F)        ddata(G,F)         data(G,A)        ddata(G,A)            spin_j        momentum_l
+        4.5490E+06               NAN               NAN               NAN               NAN               NAN        4.2000E-01               NAN               NAN               NAN               NAN               NAN               1.5               NAN
+        5.0770E+06               NAN               NAN               NAN               NAN               NAN        1.0000E+00               NAN               NAN               NAN               NAN               NAN               1.5               NAN
+        5.3780E+06               NAN               NAN               NAN               NAN               NAN        6.0000E-02               NAN               NAN               NAN               NAN               NAN               1.5               NAN

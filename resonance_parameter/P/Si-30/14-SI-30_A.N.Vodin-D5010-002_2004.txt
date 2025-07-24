@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 14-SI-30 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.N.Vodin 
+#   Institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference             : (J,BAS,68,218,2004) 
+#   Year                  : 2004 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 14 
+#   A                     : 30 
+#   Nuclide               : 14-SI-30 
+# Reaction: 
+#   entry-subent-pointer  :{1: 'D5010-002-2', 2: 'D5010-002-2', 3: 'D5010-002-2', 4: 'D5010-002-2', 5: 'D5010-002-2', 6: 'D5010-002-2', 7: 'D5010-002-2'} 
+#   EXFOR reaction        :{1: '(14-SI-30(P,G),,WID)', 2: '(14-SI-30(P,G),,WID)', 3: '(14-SI-30(P,G),,WID)', 4: '(14-SI-30(P,G),,WID)', 5: '(14-SI-30(P,G),,WID)', 6: '(14-SI-30(P,G),,WID)', 7: '(14-SI-30(P,G),,WID)'} 
+#   incident energy       : 1.7700e+00 eV - 1.8960e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5010.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D5010
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.7700E+00        1.0000E-03               NAN               NAN        4.7000E-01        1.4000E-01               NAN               NAN               NAN               NAN               NAN               NAN               2.5               NAN
+        1.8080E+00        1.0000E-03               NAN               NAN        1.1000E+00        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN               1.5               NAN
+        1.8300E+00        1.0000E-03               NAN               NAN        5.7000E-01        1.8000E-01               NAN               NAN               NAN               NAN               NAN               NAN               2.5               NAN
+        1.8780E+00        1.0000E-03               NAN               NAN        1.2000E-01        1.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               3.5               NAN
+        1.8800E+00        1.0000E-03               NAN               NAN        8.3000E-01        2.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               2.5               NAN
+        1.8940E+00        1.0000E-03               NAN               NAN        1.0000E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               2.5               NAN
+        1.8960E+00        1.0000E-03               NAN               NAN        2.3000E-01        1.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               2.5               NAN

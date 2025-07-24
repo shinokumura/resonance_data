@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 12-MG-26 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.Murata 
+#   Institute             : (2JPNNIG): Toshiba Corporation 
+#   Reference             : (J,JPJ,28,1101,1970) 
+#   Year                  : 1970 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 12 
+#   A                     : 26 
+#   Nuclide               : 12-MG-26 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'E2277-003-2', 1: 'E2277-003-2', 2: 'E2277-003-2', 3: 'E2277-003-2', 4: 'E2277-003-2', 5: 'E2277-003-2', 6: 'E2277-003-2', 7: 'E2277-003-2', 8: 'E2277-003-2', 9: 'E2277-003-2', 10: 'E2277-003-2', 11: 'E2277-003-2', 12: 'E2277-003-2', 13: 'E2277-003-2', 14: 'E2277-003-2', 15: 'E2277-003-2', 16: 'E2277-003-2', 17: 'E2277-003-2', 18: 'E2277-003-2', 19: 'E2277-003-2', 20: 'E2277-003-2', 21: 'E2277-003-2', 22: 'E2277-003-2', 23: 'E2277-003-2', 24: 'E2277-003-2', 25: 'E2277-003-2', 26: 'E2277-003-2', 27: 'E2277-003-2', 28: 'E2277-003-2', 29: 'E2277-003-2', 30: 'E2277-003-2', 31: 'E2277-003-2', 32: 'E2277-003-2', 33: 'E2277-003-2', 34: 'E2277-003-2'} 
+#   EXFOR reaction        :{0: '(12-MG-26(P,TOT),,WID)', 1: '(12-MG-26(P,TOT),,WID)', 2: '(12-MG-26(P,TOT),,WID)', 3: '(12-MG-26(P,TOT),,WID)', 4: '(12-MG-26(P,TOT),,WID)', 5: '(12-MG-26(P,TOT),,WID)', 6: '(12-MG-26(P,TOT),,WID)', 7: '(12-MG-26(P,TOT),,WID)', 8: '(12-MG-26(P,TOT),,WID)', 9: '(12-MG-26(P,TOT),,WID)', 10: '(12-MG-26(P,TOT),,WID)', 11: '(12-MG-26(P,TOT),,WID)', 12: '(12-MG-26(P,TOT),,WID)', 13: '(12-MG-26(P,TOT),,WID)', 14: '(12-MG-26(P,TOT),,WID)', 15: '(12-MG-26(P,TOT),,WID)', 16: '(12-MG-26(P,TOT),,WID)', 17: '(12-MG-26(P,TOT),,WID)', 18: '(12-MG-26(P,TOT),,WID)', 19: '(12-MG-26(P,TOT),,WID)', 20: '(12-MG-26(P,TOT),,WID)', 21: '(12-MG-26(P,TOT),,WID)', 22: '(12-MG-26(P,TOT),,WID)', 23: '(12-MG-26(P,TOT),,WID)', 24: '(12-MG-26(P,TOT),,WID)', 25: '(12-MG-26(P,TOT),,WID)', 26: '(12-MG-26(P,TOT),,WID)', 27: '(12-MG-26(P,TOT),,WID)', 28: '(12-MG-26(P,TOT),,WID)', 29: '(12-MG-26(P,TOT),,WID)', 30: '(12-MG-26(P,TOT),,WID)', 31: '(12-MG-26(P,TOT),,WID)', 32: '(12-MG-26(P,TOT),,WID)', 33: '(12-MG-26(P,TOT),,WID)', 34: '(12-MG-26(P,TOT),,WID)'} 
+#   incident energy       : 1.3830e+06 eV - 3.0400e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E22/E2277.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/E2277
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.3830E+06               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        1.4120E+06               NAN        2.8000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        1.4500E+06               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        1.6280E+06               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        1.6420E+06               NAN        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        2.0300E+06               NAN        3.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        2.0500E+06               NAN        6.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        2.1490E+06               NAN        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        2.3000E+06               NAN        7.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        2.3800E+06               NAN        2.8000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        2.4400E+06               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               1.0
+        2.6670E+06               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        2.9510E+06               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.5               1.0
+        3.0400E+06               NAN        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               0.0

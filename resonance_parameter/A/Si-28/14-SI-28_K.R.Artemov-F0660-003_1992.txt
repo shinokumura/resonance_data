@@ -1,0 +1,48 @@
+# Header: 
+#   Title                 : 14-SI-28 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.R.Artemov 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,YF,55,884,1992) 
+#   Year                  : 1992 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 14 
+#   A                     : 28 
+#   Nuclide               : 14-SI-28 
+# Reaction: 
+#   entry-subent-pointer  :{50: 'F0660-003-2', 51: 'F0660-003-2', 52: 'F0660-003-2', 53: 'F0660-003-2', 54: 'F0660-003-2', 55: 'F0660-003-2', 56: 'F0660-003-2', 57: 'F0660-003-2', 58: 'F0660-003-2', 59: 'F0660-003-2', 60: 'F0660-003-2', 61: 'F0660-003-2', 62: 'F0660-003-2', 63: 'F0660-003-2', 64: 'F0660-003-2', 65: 'F0660-003-2', 66: 'F0660-003-2', 67: 'F0660-003-2', 68: 'F0660-003-2', 69: 'F0660-003-2', 70: 'F0660-003-2', 71: 'F0660-003-2', 72: 'F0660-003-2', 73: 'F0660-003-2', 74: 'F0660-003-2'} 
+#   EXFOR reaction        :{50: '(14-SI-28(A,TOT),,WID)', 51: '(14-SI-28(A,TOT),,WID)', 52: '(14-SI-28(A,TOT),,WID)', 53: '(14-SI-28(A,TOT),,WID)', 54: '(14-SI-28(A,TOT),,WID)', 55: '(14-SI-28(A,TOT),,WID)', 56: '(14-SI-28(A,TOT),,WID)', 57: '(14-SI-28(A,TOT),,WID)', 58: '(14-SI-28(A,TOT),,WID)', 59: '(14-SI-28(A,TOT),,WID)', 60: '(14-SI-28(A,TOT),,WID)', 61: '(14-SI-28(A,TOT),,WID)', 62: '(14-SI-28(A,TOT),,WID)', 63: '(14-SI-28(A,TOT),,WID)', 64: '(14-SI-28(A,TOT),,WID)', 65: '(14-SI-28(A,TOT),,WID)', 66: '(14-SI-28(A,TOT),,WID)', 67: '(14-SI-28(A,TOT),,WID)', 68: '(14-SI-28(A,TOT),,WID)', 69: '(14-SI-28(A,TOT),,WID)', 70: '(14-SI-28(A,TOT),,WID)', 71: '(14-SI-28(A,TOT),,WID)', 72: '(14-SI-28(A,TOT),,WID)', 73: '(14-SI-28(A,TOT),,WID)', 74: '(14-SI-28(A,TOT),,WID)'} 
+#   incident energy       : 1.1700e+07 eV - 2.3800e+07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0660.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0660
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        1.1700E+07               NAN        1.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.2300E+07               NAN        1.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.3000E+07               NAN        1.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.4300E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.4500E+07               NAN        2.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.4900E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.5500E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               6.0               NAN
+        1.5700E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               6.0               NAN
+        1.6000E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               6.0               NAN
+        1.6100E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               6.0               NAN
+        1.6400E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.6600E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.6900E+07               NAN        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.7300E+07               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.7600E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.7700E+07               NAN        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.7900E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.8100E+07               NAN        7.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               7.0               NAN
+        1.9500E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        1.9700E+07               NAN        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        2.0100E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        2.1800E+07               NAN        8.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        2.2300E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        2.2700E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN
+        2.3800E+07               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               8.0               NAN

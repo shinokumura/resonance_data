@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 12-MG-24 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.C.Powell 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (J,NP/A,660,349,1999) 
+#   Year                  : 1999 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 12 
+#   A                     : 24 
+#   Nuclide               : 12-MG-24 
+# Reaction: 
+#   entry-subent-pointer  :{4: 'C1142-003-1', 5: 'C1142-003-1', 6: 'C1142-003-2', 7: 'C1142-003-2'} 
+#   EXFOR reaction        :{4: '(12-MG-24(P,EL),,WID)', 5: '(12-MG-24(P,EL),,WID)', 6: '(12-MG-24(P,G),,WID)', 7: '(12-MG-24(P,G),,WID)'} 
+#   incident energy       : 2.2300e-01 eV - 4.1900e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1142.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1142
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.2300E-01               NAN               NAN               NAN        1.4100E-01        6.3000E-02        1.4000E-02        1.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1900E-01               NAN               NAN               NAN        2.3800E-02        1.5000E-03        1.6600E-01        1.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN

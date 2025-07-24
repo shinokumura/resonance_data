@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 10-NE-20 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.K.Fifield 
+#   Institute             : (2UK OXF): University of Oxford, Oxford 
+#   Reference             : (J,NP/A,309,77,1978) 
+#   Year                  : 1978 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 10 
+#   A                     : 20 
+#   Nuclide               : 10-NE-20 
+# Reaction: 
+#   entry-subent-pointer  :{41: 'F0518-004-3', 42: 'F0518-004-3', 43: 'F0518-004-3', 44: 'F0518-004-3'} 
+#   EXFOR reaction        :{41: '(10-NE-20(A,EL),,WID)', 42: '(10-NE-20(A,EL),,WID)', 43: '(10-NE-20(A,EL),,WID)', 44: '(10-NE-20(A,EL),,WID)'} 
+#   incident energy       : 4.2570e+06 eV - 5.7200e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0518.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0518
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        4.2570E+06        5.0000E+03               NAN               NAN               NAN               NAN        3.3000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.9500E+06        5.0000E+03               NAN               NAN               NAN               NAN        1.6000E+00        6.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        5.4440E+06        5.0000E+03               NAN               NAN               NAN               NAN        3.0000E+00        1.3000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7200E+06        5.0000E+03               NAN               NAN               NAN               NAN        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 5-B-11 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.Van Der Zwan 
+#   Institute             : (1CANOTC): National Research Council, Ottawa, Ontario 
+#   Reference             : (J,NP/A,246,(1),93,1975) 
+#   Year                  : 1975 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 5 
+#   A                     : 11 
+#   Nuclide               : 5-B-11 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C1630-005-0', 1: 'C1630-005-0', 2: 'C1630-005-0', 3: 'C1630-005-0', 4: 'C1630-005-0', 5: 'C1630-005-0', 6: 'C1630-005-0', 7: 'C1630-005-0', 8: 'C1630-005-0', 9: 'C1630-005-0', 10: 'C1630-005-0', 11: 'C1630-005-0', 12: 'C1630-005-0', 13: 'C1630-005-0', 14: 'C1630-005-0', 15: 'C1630-005-0', 16: 'C1630-005-0', 17: 'C1630-005-0', 18: 'C1630-005-0', 19: 'C1630-005-0', 20: 'C1630-005-0', 21: 'C1630-005-0', 22: 'C1630-005-0', 23: 'C1630-005-0', 24: 'C1630-005-0', 25: 'C1630-005-0', 26: 'C1630-005-0', 27: 'C1630-005-0', 28: 'C1630-005-0', 29: 'C1630-005-0', 30: 'C1630-005-0', 31: 'C1630-005-0', 32: 'C1630-005-0', 33: 'C1630-005-0'} 
+#   EXFOR reaction        :{0: '(5-B-11(A,TOT),,WID)', 1: '(5-B-11(A,TOT),,WID)', 2: '(5-B-11(A,TOT),,WID)', 3: '(5-B-11(A,TOT),,WID)', 4: '(5-B-11(A,TOT),,WID)', 5: '(5-B-11(A,TOT),,WID)', 6: '(5-B-11(A,TOT),,WID)', 7: '(5-B-11(A,TOT),,WID)', 8: '(5-B-11(A,TOT),,WID)', 9: '(5-B-11(A,TOT),,WID)', 10: '(5-B-11(A,TOT),,WID)', 11: '(5-B-11(A,TOT),,WID)', 12: '(5-B-11(A,TOT),,WID)', 13: '(5-B-11(A,TOT),,WID)', 14: '(5-B-11(A,TOT),,WID)', 15: '(5-B-11(A,TOT),,WID)', 16: '(5-B-11(A,TOT),,WID)', 17: '(5-B-11(A,TOT),,WID)', 18: '(5-B-11(A,TOT),,WID)', 19: '(5-B-11(A,TOT),,WID)', 20: '(5-B-11(A,TOT),,WID)', 21: '(5-B-11(A,TOT),,WID)', 22: '(5-B-11(A,TOT),,WID)', 23: '(5-B-11(A,TOT),,WID)', 24: '(5-B-11(A,TOT),,WID)', 25: '(5-B-11(A,TOT),,WID)', 26: '(5-B-11(A,TOT),,WID)', 27: '(5-B-11(A,TOT),,WID)', 28: '(5-B-11(A,TOT),,WID)', 29: '(5-B-11(A,TOT),,WID)', 30: '(5-B-11(A,TOT),,WID)', 31: '(5-B-11(A,TOT),,WID)', 32: '(5-B-11(A,TOT),,WID)', 33: '(5-B-11(A,TOT),,WID)'} 
+#   incident energy       : 3.9100e+00 eV - 7.2700e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1630.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1630
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        3.9100E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0900E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2400E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0600E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1900E+00               NAN        3.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1800E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2700E+00               NAN        8.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

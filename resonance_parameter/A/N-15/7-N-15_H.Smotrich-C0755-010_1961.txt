@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 7-N-15 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Smotrich 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,122,232,1961) 
+#   Year                  : 1961 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 15 
+#   Nuclide               : 7-N-15 
+# Reaction: 
+#   entry-subent-pointer  :{31: 'C0755-010-5', 32: 'C0755-010-5', 33: 'C0755-010-5', 34: 'C0755-010-5', 35: 'C0755-010-5', 36: 'C0755-010-5'} 
+#   EXFOR reaction        :{31: '(7-N-15(A,EL),,WID)', 32: '(7-N-15(A,EL),,WID)', 33: '(7-N-15(A,EL),,WID)', 34: '(7-N-15(A,EL),,WID)', 35: '(7-N-15(A,EL),,WID)', 36: '(7-N-15(A,EL),,WID)'} 
+#   incident energy       : 3.7800e+06 eV - 4.7200e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0755.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0755
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        3.7800E+06               NAN               NAN               NAN               NAN               NAN        5.1000E+04               NAN               NAN               NAN               NAN               NAN               0.5               0.0
+        3.9400E+06               NAN               NAN               NAN               NAN               NAN        3.2000E+04               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        4.2300E+06               NAN               NAN               NAN               NAN               NAN        6.5000E+04               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        4.4900E+06               NAN               NAN               NAN               NAN               NAN        8.5000E+04               NAN               NAN               NAN               NAN               NAN               3.5               3.0
+        4.5300E+06               NAN               NAN               NAN               NAN               NAN        4.0000E+04               NAN               NAN               NAN               NAN               NAN               2.5               3.0
+        4.7200E+06               NAN               NAN               NAN               NAN               NAN        3.0000E+04               NAN               NAN               NAN               NAN               NAN               0.5               0.0

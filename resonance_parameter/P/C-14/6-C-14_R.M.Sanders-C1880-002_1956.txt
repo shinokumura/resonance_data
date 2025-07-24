@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 6-C-14 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.M.Sanders 
+#   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference             : (J,PR,104,1434,1956) 
+#   Year                  : 1956 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 6 
+#   A                     : 14 
+#   Nuclide               : 6-C-14 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C1880-002-2', 1: 'C1880-002-2', 2: 'C1880-002-2', 3: 'C1880-002-2', 4: 'C1880-002-2', 5: 'C1880-002-2', 6: 'C1880-002-2', 7: 'C1880-002-2', 8: 'C1880-002-2', 9: 'C1880-002-2', 10: 'C1880-002-6', 11: 'C1880-002-6', 12: 'C1880-002-6', 13: 'C1880-002-6', 14: 'C1880-002-6', 15: 'C1880-002-6', 16: 'C1880-002-6', 17: 'C1880-002-6', 18: 'C1880-002-6', 19: 'C1880-002-6'} 
+#   EXFOR reaction        :{0: '(6-C-14(P,TOT),,WID)', 1: '(6-C-14(P,TOT),,WID)', 2: '(6-C-14(P,TOT),,WID)', 3: '(6-C-14(P,TOT),,WID)', 4: '(6-C-14(P,TOT),,WID)', 5: '(6-C-14(P,TOT),,WID)', 6: '(6-C-14(P,TOT),,WID)', 7: '(6-C-14(P,TOT),,WID)', 8: '(6-C-14(P,TOT),,WID)', 9: '(6-C-14(P,TOT),,WID)', 10: '(6-C-14(P,A),,WID)', 11: '(6-C-14(P,A),,WID)', 12: '(6-C-14(P,A),,WID)', 13: '(6-C-14(P,A),,WID)', 14: '(6-C-14(P,A),,WID)', 15: '(6-C-14(P,A),,WID)', 16: '(6-C-14(P,A),,WID)', 17: '(6-C-14(P,A),,WID)', 18: '(6-C-14(P,A),,WID)', 19: '(6-C-14(P,A),,WID)'} 
+#   incident energy       : 1.1620e+06 eV - 2.9080e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1880.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1880
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.1620E+06        2.0000E+03        6.0000E+03        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               NAN
+        1.3140E+06        3.0000E+03        5.4000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               NAN
+        1.6700E+06        3.0000E+03        5.6000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.5               NAN
+        1.7880E+06        3.0000E+03        2.2000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        5.0000E+01               NAN               1.5               NAN
+        1.8840E+06        3.0000E+03        1.8000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        2.6000E+02               NAN               0.5               NAN
+        2.0260E+06        4.0000E+03        2.7000E+04        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        6.0000E+02               NAN               2.5               NAN
+        2.0790E+06        4.0000E+03        5.8000E+04        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        2.2000E+03               NAN               1.5               NAN
+        2.2710E+06        4.0000E+03        2.3000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        1.0000E+02               NAN               2.5               NAN
+        2.4500E+06        4.0000E+03        3.4000E+04        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN        5.5000E+03               NAN               1.5               NAN
+        2.9080E+06        4.0000E+03        7.1000E+04        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

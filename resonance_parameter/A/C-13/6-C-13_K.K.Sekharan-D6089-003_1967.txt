@@ -1,0 +1,39 @@
+# Header: 
+#   Title                 : 6-C-13 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.K.Sekharan 
+#   Institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference             : (J,PR,156,1187,1967) 
+#   Year                  : 1967 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 6 
+#   A                     : 13 
+#   Nuclide               : 6-C-13 
+# Reaction: 
+#   entry-subent-pointer  :{17: 'D6089-003-2', 18: 'D6089-003-2', 19: 'D6089-003-2', 20: 'D6089-003-2', 21: 'D6089-003-2', 22: 'D6089-003-2', 23: 'D6089-003-2', 24: 'D6089-003-2', 25: 'D6089-003-2', 26: 'D6089-003-2', 27: 'D6089-003-2', 28: 'D6089-003-2', 29: 'D6089-003-2', 30: 'D6089-003-2', 31: 'D6089-003-2', 32: 'D6089-003-2', 33: 'D6089-003-2', 34: 'D6089-003-2', 35: 'D6089-003-2', 36: 'D6089-003-2'} 
+#   EXFOR reaction        :{17: '(6-C-13(A,TOT),,WID)', 18: '(6-C-13(A,TOT),,WID)', 19: '(6-C-13(A,TOT),,WID)', 20: '(6-C-13(A,TOT),,WID)', 21: '(6-C-13(A,TOT),,WID)', 22: '(6-C-13(A,TOT),,WID)', 23: '(6-C-13(A,TOT),,WID)', 24: '(6-C-13(A,TOT),,WID)', 25: '(6-C-13(A,TOT),,WID)', 26: '(6-C-13(A,TOT),,WID)', 27: '(6-C-13(A,TOT),,WID)', 28: '(6-C-13(A,TOT),,WID)', 29: '(6-C-13(A,TOT),,WID)', 30: '(6-C-13(A,TOT),,WID)', 31: '(6-C-13(A,TOT),,WID)', 32: '(6-C-13(A,TOT),,WID)', 33: '(6-C-13(A,TOT),,WID)', 34: '(6-C-13(A,TOT),,WID)', 35: '(6-C-13(A,TOT),,WID)', 36: '(6-C-13(A,TOT),,WID)'} 
+#   incident energy       : 2.0800e+00 eV - 5.0400e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6089.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D6089
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        2.0800E+00               NAN        7.9000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2500E+00               NAN        7.1000E+04        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4100E+00               NAN        7.1000E+04        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6100E+00               NAN        9.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6800E+00               NAN        4.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7700E+00               NAN        7.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8100E+00               NAN        5.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0700E+00               NAN        5.0000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3200E+00               NAN        1.0100E+05        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.4200E+00               NAN        2.1000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6500E+00               NAN        4.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7200E+00               NAN        4.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1200E+00               NAN        8.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4200E+00               NAN        1.5000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6200E+00               NAN        5.0000E+03        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0400E+00               NAN        5.0000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

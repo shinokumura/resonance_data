@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 42-MO-92 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Richard 
+#   Institute             : (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference             : (J,NP/A,174,273,1971) 
+#   Year                  : 1971 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 42 
+#   A                     : 92 
+#   Nuclide               : 42-MO-92 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C2621-004-2', 1: 'C2621-004-3'} 
+#   EXFOR reaction        :{0: '(42-MO-92(P,EL),,WID)', 1: '(42-MO-92(P,TOT),,WID)'} 
+#   incident energy       : 5.3220e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2621.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2621
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        5.3220E+06               NAN        3.7800E+04               NAN               NAN               NAN        1.1000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

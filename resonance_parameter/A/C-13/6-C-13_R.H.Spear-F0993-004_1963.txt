@@ -1,0 +1,40 @@
+# Header: 
+#   Title                 : 6-C-13 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.H.Spear 
+#   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference             : (J,NP,41,353,1963) 
+#   Year                  : 1963 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 6 
+#   A                     : 13 
+#   Nuclide               : 6-C-13 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'F0993-004-0', 1: 'F0993-004-0', 2: 'F0993-004-0', 3: 'F0993-004-0', 4: 'F0993-004-0', 5: 'F0993-004-0', 6: 'F0993-004-0', 7: 'F0993-004-0', 8: 'F0993-004-0', 9: 'F0993-004-0', 10: 'F0993-004-0', 11: 'F0993-004-0', 12: 'F0993-004-0', 13: 'F0993-004-0', 14: 'F0993-004-0', 15: 'F0993-004-0', 16: 'F0993-004-0'} 
+#   EXFOR reaction        :{0: '(6-C-13(A,TOT),,WID)', 1: '(6-C-13(A,TOT),,WID)', 2: '(6-C-13(A,TOT),,WID)', 3: '(6-C-13(A,TOT),,WID)', 4: '(6-C-13(A,TOT),,WID)', 5: '(6-C-13(A,TOT),,WID)', 6: '(6-C-13(A,TOT),,WID)', 7: '(6-C-13(A,TOT),,WID)', 8: '(6-C-13(A,TOT),,WID)', 9: '(6-C-13(A,TOT),,WID)', 10: '(6-C-13(A,TOT),,WID)', 11: '(6-C-13(A,TOT),,WID)', 12: '(6-C-13(A,TOT),,WID)', 13: '(6-C-13(A,TOT),,WID)', 14: '(6-C-13(A,TOT),,WID)', 15: '(6-C-13(A,TOT),,WID)', 16: '(6-C-13(A,TOT),,WID)'} 
+#   incident energy       : 5.3170e+00 eV - 9.4830e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0993.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0993
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        5.3170E+00               NAN        1.4000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.4960E+00               NAN        5.0000E+04        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7710E+00               NAN        8.5000E+04        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9450E+00               NAN        5.5000E+04        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1070E+00               NAN        4.5000E+04        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3670E+00               NAN        1.0000E+05        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.8780E+00               NAN        1.2000E+05        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0510E+00               NAN        4.0000E+04        2.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1360E+00               NAN        1.2000E+04        3.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.5200E+00               NAN        1.5000E+05        5.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.7360E+00               NAN        1.0000E+05        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1560E+00               NAN        7.5000E+04        3.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.2530E+00               NAN        0.0000E+00        7.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5900E+00               NAN        1.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.7850E+00               NAN        1.6000E+04        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.3190E+00               NAN        0.0000E+00        1.2000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4830E+00               NAN        1.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

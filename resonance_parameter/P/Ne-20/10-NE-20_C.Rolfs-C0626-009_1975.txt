@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 10-NE-20 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Rolfs 
+#   Institute             : (1USAUSA): United States of America 
+#   Reference             : (J,NP/A,241,460,1975) 
+#   Year                  : 1975 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 10 
+#   A                     : 20 
+#   Nuclide               : 10-NE-20 
+# Reaction: 
+#   entry-subent-pointer  :{4: 'C0626-009-2', 5: 'C0626-009-2', 6: 'C0626-009-2', 7: 'C0626-009-2', 8: 'C0626-009-2', 9: 'C0626-009-2', 10: 'C0626-009-2', 11: 'C0626-009-2', 12: 'C0626-009-2'} 
+#   EXFOR reaction        :{4: '(10-NE-20(P,G),,WID)', 5: '(10-NE-20(P,G),,WID)', 6: '(10-NE-20(P,G),,WID)', 7: '(10-NE-20(P,G),,WID)', 8: '(10-NE-20(P,G),,WID)', 9: '(10-NE-20(P,G),,WID)', 10: '(10-NE-20(P,G),,WID)', 11: '(10-NE-20(P,G),,WID)', 12: '(10-NE-20(P,G),,WID)'} 
+#   incident energy       : 2.4252e+06 eV - 4.1750e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C06/C0626.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0626
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.4252E+06        4.0000E+02               NAN               NAN        3.1000E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1750E+06        1.5000E+04               NAN               NAN        1.8000E+02        1.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

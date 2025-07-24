@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 9-F-18 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Couture 
+#   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference             : (C,2005NOTRED,1,186,2005) 
+#   Year                  : 2005 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 9 
+#   A                     : 18 
+#   Nuclide               : 9-F-18 
+# Reaction: 
+#   entry-subent-pointer  :{10: 'C1475-002-2', 11: 'C1475-002-2'} 
+#   EXFOR reaction        :{10: '(9-F-18(P,G),,WID)', 11: '(9-F-18(P,G),,WID)'} 
+#   incident energy       : 2.2400e+05 eV - 5.9700e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1475.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1475
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        2.2400E+05               NAN               NAN               NAN        3.6000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        5.9700E+05               NAN               NAN               NAN        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN

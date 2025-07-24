@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 9-F-18 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.-S.Graulich 
+#   Institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference             : (J,PR/C,63,011302,2001) 
+#   Year                  : 2001 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 9 
+#   A                     : 18 
+#   Nuclide               : 9-F-18 
+# Reaction: 
+#   entry-subent-pointer  :{7: 'A0263-003-2'} 
+#   EXFOR reaction        :{7: '(9-F-18(P,TOT),,WID)'} 
+#   incident energy       : 6.5750e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0263.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/A0263
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        6.5750E+05               NAN        3.4200E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

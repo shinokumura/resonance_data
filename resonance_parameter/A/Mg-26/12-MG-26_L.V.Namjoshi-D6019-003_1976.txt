@@ -1,0 +1,35 @@
+# Header: 
+#   Title                 : 12-MG-26 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.V.Namjoshi 
+#   Institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference             : (J,PR/C,13,915,1976) 
+#   Year                  : 1976 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 12 
+#   A                     : 26 
+#   Nuclide               : 12-MG-26 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'D6019-003-2', 1: 'D6019-003-2', 2: 'D6019-003-2', 3: 'D6019-003-2', 4: 'D6019-003-2', 5: 'D6019-003-2', 6: 'D6019-003-2', 7: 'D6019-003-2', 8: 'D6019-003-2', 9: 'D6019-003-2', 10: 'D6019-003-2', 11: 'D6019-003-2'} 
+#   EXFOR reaction        :{0: '(12-MG-26(A,EL),,WID)', 1: '(12-MG-26(A,EL),,WID)', 2: '(12-MG-26(A,EL),,WID)', 3: '(12-MG-26(A,EL),,WID)', 4: '(12-MG-26(A,EL),,WID)', 5: '(12-MG-26(A,EL),,WID)', 6: '(12-MG-26(A,EL),,WID)', 7: '(12-MG-26(A,EL),,WID)', 8: '(12-MG-26(A,EL),,WID)', 9: '(12-MG-26(A,EL),,WID)', 10: '(12-MG-26(A,EL),,WID)', 11: '(12-MG-26(A,EL),,WID)'} 
+#   incident energy       : 4.2350e+06 eV - 5.1000e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D60/D6019.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D6019
+#
+#        E_in(eV)          dE_in(eV)    data(A,TOT)(eV)       ddata(A,TOT)       data(A,G)         ddata(A,G)        data(A,EL)       ddata(A,EL)        data(A,F)        ddata(A,F)         data(A,A)        ddata(A,A)            spin_j        momentum_l
+        4.2350E+06               NAN               NAN               NAN               NAN               NAN        5.0000E+06               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        4.3000E+06               NAN               NAN               NAN               NAN               NAN        1.2000E+07               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        4.4500E+06               NAN               NAN               NAN               NAN               NAN        6.0000E+06               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        4.5550E+06               NAN               NAN               NAN               NAN               NAN        3.0000E+07               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        4.5900E+06               NAN               NAN               NAN               NAN               NAN        1.8000E+06               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        4.6450E+06               NAN               NAN               NAN               NAN               NAN        1.2000E+07               NAN               NAN               NAN               NAN               NAN               1.0               NAN
+        4.6950E+06               NAN               NAN               NAN               NAN               NAN        1.5000E+07               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        4.9000E+06               NAN               NAN               NAN               NAN               NAN        4.0000E+07               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        4.9250E+06               NAN               NAN               NAN               NAN               NAN        3.0000E+06               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        4.9900E+06               NAN               NAN               NAN               NAN               NAN        4.0000E+06               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        5.0300E+06               NAN               NAN               NAN               NAN               NAN        2.0000E+07               NAN               NAN               NAN               NAN               NAN               0.0               NAN
+        5.1000E+06               NAN               NAN               NAN               NAN               NAN        4.0000E+06               NAN               NAN               NAN               NAN               NAN               4.0               NAN

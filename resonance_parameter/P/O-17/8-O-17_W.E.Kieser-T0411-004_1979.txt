@@ -1,0 +1,40 @@
+# Header: 
+#   Title                 : 8-O-17 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.E.Kieser 
+#   Institute             : (1CANTOR): University of Toronto, Toronto, Ontario 
+#   Reference             : (J,NP/A,331,155,1979) 
+#   Year                  : 1979 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 17 
+#   Nuclide               : 8-O-17 
+# Reaction: 
+#   entry-subent-pointer  :{17: 'T0411-004-4', 18: 'T0411-004-4', 19: 'T0411-004-4', 20: 'T0411-004-4', 21: 'T0411-004-4', 22: 'T0411-004-4', 23: 'T0411-004-4', 24: 'T0411-004-4', 25: 'T0411-004-4', 26: 'T0411-004-4', 27: 'T0411-004-4', 28: 'T0411-004-4', 29: 'T0411-004-4', 30: 'T0411-004-4', 31: 'T0411-004-4', 32: 'T0411-004-4', 33: 'T0411-004-4'} 
+#   EXFOR reaction        :{17: '(8-O-17(P,TOT),,WID)', 18: '(8-O-17(P,TOT),,WID)', 19: '(8-O-17(P,TOT),,WID)', 20: '(8-O-17(P,TOT),,WID)', 21: '(8-O-17(P,TOT),,WID)', 22: '(8-O-17(P,TOT),,WID)', 23: '(8-O-17(P,TOT),,WID)', 24: '(8-O-17(P,TOT),,WID)', 25: '(8-O-17(P,TOT),,WID)', 26: '(8-O-17(P,TOT),,WID)', 27: '(8-O-17(P,TOT),,WID)', 28: '(8-O-17(P,TOT),,WID)', 29: '(8-O-17(P,TOT),,WID)', 30: '(8-O-17(P,TOT),,WID)', 31: '(8-O-17(P,TOT),,WID)', 32: '(8-O-17(P,TOT),,WID)', 33: '(8-O-17(P,TOT),,WID)'} 
+#   incident energy       : 5.1800e+05 eV - 1.3380e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T04/T0411.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/T0411
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        5.1800E+05               NAN        2.4400E+02        3.1000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               4.0               NAN
+        5.2500E+05               NAN        3.4000E+01        3.3000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               NAN
+        5.8800E+05               NAN        1.4000E+04        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        6.7050E+05               NAN        1.9300E+02        2.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        6.7300E+05               NAN        1.7800E+02        3.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        6.8800E+05               NAN        6.0200E+02        1.2000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               NAN
+        7.1600E+05               NAN        1.0000E+04        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        7.4600E+05               NAN        9.5100E+02        1.4200E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        8.2400E+05               NAN        3.9500E+02        8.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        9.2700E+05               NAN        4.0000E+02        9.4000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN
+        1.0150E+06               NAN        5.6100E+02        1.3200E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               5.0               NAN
+        1.0900E+06               NAN        8.0000E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0               NAN
+        1.0980E+06               NAN        5.9900E+02        7.3000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        1.2470E+06               NAN        9.1500E+03        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               4.0               NAN
+        1.2720E+06               NAN        8.8070E+04        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        1.2760E+06               NAN        2.9600E+03        4.5500E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               2.0               NAN
+        1.3380E+06               NAN        5.0300E+03        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               3.0               NAN

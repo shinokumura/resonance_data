@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 15-P-31 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.B.Paul 
+#   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
+#   Reference             : (J,PR,99,1339,1955) 
+#   Year                  : 1955 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 15 
+#   A                     : 31 
+#   Nuclide               : 15-P-31 
+# Reaction: 
+#   entry-subent-pointer  :{0: 'C0873-005-3', 1: 'C0873-005-3', 2: 'C0873-005-3', 3: 'C0873-005-3', 4: 'C0873-005-3', 5: 'C0873-005-3', 6: 'C0873-005-3', 7: 'C0873-005-3', 8: 'C0873-005-3'} 
+#   EXFOR reaction        :{0: '(15-P-31(P,TOT),,WID)', 1: '(15-P-31(P,TOT),,WID)', 2: '(15-P-31(P,TOT),,WID)', 3: '(15-P-31(P,TOT),,WID)', 4: '(15-P-31(P,TOT),,WID)', 5: '(15-P-31(P,TOT),,WID)', 6: '(15-P-31(P,TOT),,WID)', 7: '(15-P-31(P,TOT),,WID)', 8: '(15-P-31(P,TOT),,WID)'} 
+#   incident energy       : 1.8920e+00 eV - 2.3400e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0873.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0873
+#
+#        E_in(eV)          dE_in(eV)    data(P,TOT)(eV)       ddata(P,TOT)       data(P,G)         ddata(P,G)        data(P,EL)       ddata(P,EL)        data(P,F)        ddata(P,F)         data(P,A)        ddata(P,A)            spin_j        momentum_l
+        1.8920E+00               NAN        2.4000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9850E+00               NAN        1.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0270E+00               NAN        2.4000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1200E+00               NAN        5.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3200E+00               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3400E+00               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

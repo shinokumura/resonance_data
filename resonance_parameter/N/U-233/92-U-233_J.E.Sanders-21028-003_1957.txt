@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 92-U-233 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.E.Sanders 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE,6,114,57) 
+#   Year                  : 1957 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 233 
+#   Nuclide               : 92-U-233 
+# Reaction: 
+#   entry-subent-pointer  :{50: '21028-003-0', 51: '21028-003-0', 52: '21028-003-0'} 
+#   EXFOR reaction        :{50: '(92-U-233(N,F),,WID)', 51: '(92-U-233(N,F),,WID)', 52: '(92-U-233(N,F),,WID)'} 
+#   incident energy       : 1.7700e-06 eV - 3.6000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21028.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21028
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.7700E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.6000E-01        1.0800E-02               NAN               NAN               NAN               NAN
+        2.2800E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.0000E-01        3.0000E-03               NAN               NAN               NAN               NAN
+        3.6000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.2000E-01        9.6000E-03               NAN               NAN               NAN               NAN

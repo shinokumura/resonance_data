@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 46-PD-106 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.K.M.M.H.Meaze 
 #   Institute             : (3BANBAN): Bangladesh 

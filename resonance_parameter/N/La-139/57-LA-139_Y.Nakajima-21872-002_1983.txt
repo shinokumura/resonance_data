@@ -1,0 +1,44 @@
+# Header: 
+#   Title                 : 57-LA-139 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : Y.Nakajima 
+#   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference             : (J,NST,20,183,83) 
+#   Year                  : 1983 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 57 
+#   A                     : 139 
+#   Nuclide               : 57-LA-139 
+# Reaction: 
+#   entry-subent-pointer  :{107: '21872-002-3', 108: '21872-002-3', 109: '21872-002-3', 110: '21872-002-3', 111: '21872-002-3', 112: '21872-002-3', 113: '21872-002-3', 114: '21872-002-3', 115: '21872-002-3', 116: '21872-002-3', 117: '21872-002-3', 118: '21872-002-3', 119: '21872-002-3', 120: '21872-002-3', 121: '21872-002-3', 122: '21872-002-3', 123: '21872-002-3', 124: '21872-002-3', 125: '21872-002-3', 126: '21872-002-3', 127: '21872-002-3'} 
+#   EXFOR reaction        :{107: '(57-LA-139(N,G),,WID)', 108: '(57-LA-139(N,G),,WID)', 109: '(57-LA-139(N,G),,WID)', 110: '(57-LA-139(N,G),,WID)', 111: '(57-LA-139(N,G),,WID)', 112: '(57-LA-139(N,G),,WID)', 113: '(57-LA-139(N,G),,WID)', 114: '(57-LA-139(N,G),,WID)', 115: '(57-LA-139(N,G),,WID)', 116: '(57-LA-139(N,G),,WID)', 117: '(57-LA-139(N,G),,WID)', 118: '(57-LA-139(N,G),,WID)', 119: '(57-LA-139(N,G),,WID)', 120: '(57-LA-139(N,G),,WID)', 121: '(57-LA-139(N,G),,WID)', 122: '(57-LA-139(N,G),,WID)', 123: '(57-LA-139(N,G),,WID)', 124: '(57-LA-139(N,G),,WID)', 125: '(57-LA-139(N,G),,WID)', 126: '(57-LA-139(N,G),,WID)', 127: '(57-LA-139(N,G),,WID)'} 
+#   incident energy       : 7.2300e+01 eV - 2.4646e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21872.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21872
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.2300E+01               NAN               NAN               NAN        5.2600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1720E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0250E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.7540E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.0500E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.6290E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1794E+03               NAN               NAN               NAN        5.0600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2084E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2563E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4260E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4328E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6369E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6514E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8280E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9159E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9714E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1159E+03               NAN               NAN               NAN        7.1900E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1516E+03               NAN               NAN               NAN        6.0500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1760E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3809E+03               NAN               NAN               NAN        4.3200E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4646E+03               NAN               NAN               NAN        5.3900E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

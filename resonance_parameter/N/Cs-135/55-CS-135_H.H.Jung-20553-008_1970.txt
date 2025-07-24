@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 55-CS-135 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : H.H.Jung 
 #   Institute             : (2GERKIL): University of Kiel, Kiel 
@@ -22,4 +22,6 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         4.2300E-05        1.0000E-07               NAN               NAN               NAN               NAN        7.0000E-03        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2300E-05        2.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8000E-04        1.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         8.8000E-04        2.0000E-05               NAN               NAN               NAN               NAN        7.0000E-01        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 90-TH-232 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.I.Tiren 
+#   Institute             : (2UK WIN): Atomic Energy Establishment (AEE), Winfrith, Dorset 
+#   Reference             : (R,AEEW-R-163,17,1962) 
+#   Year                  : 1962 
+#   Facility              : None 
+# Target: 
+#   Z                     : 90 
+#   A                     : 232 
+#   Nuclide               : 90-TH-232 
+# Reaction: 
+#   entry-subent-pointer  :{137: '22587-002-1'} 
+#   EXFOR reaction        :{137: '(90-TH-232(N,G),,WID)'} 
+#   incident energy       : -4.3000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22587.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22587
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -4.3000E-06               NAN               NAN               NAN        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

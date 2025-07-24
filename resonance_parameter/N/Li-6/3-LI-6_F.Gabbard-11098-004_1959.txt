@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 3-LI-6 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.Gabbard 
+#   Institute             : (1USARIC): Rice University, Houston, TX 
+#   Reference             : (J,PR,114,201,1959) 
+#   Year                  : 1959 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 3 
+#   A                     : 6 
+#   Nuclide               : 3-LI-6 
+# Reaction: 
+#   entry-subent-pointer  :{4: '11098-004-2', 5: '11098-004-3'} 
+#   EXFOR reaction        :{4: '(3-LI-6(N,TOT),,WID)', 5: '(3-LI-6(N,EL),,WID)'} 
+#   incident energy       : 2.5500e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11098.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11098
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5500E-01               NAN        1.8800E+05               NAN               NAN               NAN        1.3300E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN

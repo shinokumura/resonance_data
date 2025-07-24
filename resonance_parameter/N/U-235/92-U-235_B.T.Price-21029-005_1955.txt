@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 92-U-235 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.T.Price 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE,2,128,55) 
+#   Year                  : 1955 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 235 
+#   Nuclide               : 92-U-235 
+# Reaction: 
+#   entry-subent-pointer  :{5: '21029-005-2', 6: '21029-005-2', 7: '21029-005-2', 8: '21029-005-2', 9: '21029-005-2', 10: '21029-005-2', 11: '21029-005-2'} 
+#   EXFOR reaction        :{5: '(92-U-235(N,TOT),,WID)', 6: '(92-U-235(N,TOT),,WID)', 7: '(92-U-235(N,TOT),,WID)', 8: '(92-U-235(N,TOT),,WID)', 9: '(92-U-235(N,TOT),,WID)', 10: '(92-U-235(N,TOT),,WID)', 11: '(92-U-235(N,TOT),,WID)'} 
+#   incident energy       : 3.0000e-07 eV - 1.9000e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21029.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21029
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0000E-07               NAN        1.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1200E-06               NAN        1.5000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5500E-06               NAN        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.7500E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

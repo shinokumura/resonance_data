@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 28-NI-61 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.B.Gayther 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (C,77GEEL,,547,1977) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 28 
+#   A                     : 61 
+#   Nuclide               : 28-NI-61 
+# Reaction: 
+#   entry-subent-pointer  :{107: '20861-009-1', 108: '20861-009-1', 109: '20861-009-1', 110: '20861-009-1', 111: '20861-009-2', 112: '20861-009-2', 113: '20861-009-2', 114: '20861-009-2'} 
+#   EXFOR reaction        :{107: '(28-NI-61(N,EL),,WID)', 108: '(28-NI-61(N,EL),,WID)', 109: '(28-NI-61(N,EL),,WID)', 110: '(28-NI-61(N,EL),,WID)', 111: '(28-NI-61(N,G),,WID)', 112: '(28-NI-61(N,G),,WID)', 113: '(28-NI-61(N,G),,WID)', 114: '(28-NI-61(N,G),,WID)'} 
+#   incident energy       : 1.3550e-03 eV - 8.7350e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20861.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20861
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3550E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1470E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3100E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.7350E-03               NAN               NAN               NAN        9.4000E-01               NAN        6.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN

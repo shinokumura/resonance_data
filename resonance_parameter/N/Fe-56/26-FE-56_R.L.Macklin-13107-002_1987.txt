@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 26-FE-56 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Macklin 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NSE,95,200,8703) 
+#   Year                  : 1987 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 56 
+#   Nuclide               : 26-FE-56 
+# Reaction: 
+#   entry-subent-pointer  :{965: '13107-002-1'} 
+#   EXFOR reaction        :{965: '(26-FE-56(N,EL),,WID)'} 
+#   incident energy       : 1.1500e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13107.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13107
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.1500E-03               NAN               NAN               NAN               NAN               NAN        6.1500E-02        7.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

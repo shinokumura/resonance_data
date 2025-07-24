@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 77-IR-193 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : P.Fischer 
 #   Institute             : (2GERKIG): GKSS, Geesthacht 

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 10-NE-22 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.R.Winters 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,AJ,329,943,198806) 
+#   Year                  : 1988 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 10 
+#   A                     : 22 
+#   Nuclide               : 10-NE-22 
+# Reaction: 
+#   entry-subent-pointer  :{17: '13139-003-3', 18: '13139-003-3', 19: '13139-003-3', 20: '13139-003-3', 21: '13139-003-3', 22: '13139-003-3'} 
+#   EXFOR reaction        :{17: '(10-NE-22(N,EL),,WID)', 18: '(10-NE-22(N,EL),,WID)', 19: '(10-NE-22(N,EL),,WID)', 20: '(10-NE-22(N,EL),,WID)', 21: '(10-NE-22(N,EL),,WID)', 22: '(10-NE-22(N,EL),,WID)'} 
+#   incident energy       : 2.6700e+03 eV - 1.6681e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13139.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13139
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.6700E+03               NAN               NAN               NAN               NAN               NAN        1.2000E-06        1.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3100E+03               NAN               NAN               NAN               NAN               NAN        2.8000E-06        4.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2620E+04               NAN               NAN               NAN               NAN               NAN        2.0500E-05        6.7000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        7.6940E+04               NAN               NAN               NAN               NAN               NAN        1.6200E-04        5.1000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5781E+05               NAN               NAN               NAN               NAN               NAN        5.5000E-04        2.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6681E+05               NAN               NAN               NAN               NAN               NAN        9.8000E-04        5.2000E-04               NAN               NAN               NAN               NAN               NAN               NAN

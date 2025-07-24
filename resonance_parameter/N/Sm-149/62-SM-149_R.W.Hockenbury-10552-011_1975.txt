@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 62-SM-149 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.W.Hockenbury 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,BAP,20,560(AN9),197504) 
+#   Year                  : 1975 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 62 
+#   A                     : 149 
+#   Nuclide               : 62-SM-149 
+# Reaction: 
+#   entry-subent-pointer  :{69: '10552-011-2'} 
+#   EXFOR reaction        :{69: '(62-SM-149(N,EL),,WID)'} 
+#   incident energy       : 3.3900e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10552.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10552
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.3900E+01               NAN               NAN               NAN               NAN               NAN        6.6200E-03        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

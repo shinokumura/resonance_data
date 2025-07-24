@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 5-B-10 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.A.Bergman 
+#   Institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference             : (J,ZET,33,(1),9,195707) 
+#   Year                  : 1957 
+#   Facility              : None 
+# Target: 
+#   Z                     : 5 
+#   A                     : 10 
+#   Nuclide               : 5-B-10 
+# Reaction: 
+#   entry-subent-pointer  :{5: '41272-002-2', 6: '41272-002-3'} 
+#   EXFOR reaction        :{5: '(5-B-10(N,EL),,WID)', 6: '(5-B-10(N,A),,WID)'} 
+#   incident energy       : 2.5000e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41272.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41272
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5000E+05               NAN               NAN               NAN               NAN               NAN        2.0000E+05               NAN               NAN               NAN        4.0000E+05               NAN               NAN               NAN

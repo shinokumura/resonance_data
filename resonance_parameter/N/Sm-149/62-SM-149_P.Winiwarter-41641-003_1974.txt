@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 62-SM-149 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Winiwarter 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,20,3,1974) 
+#   Year                  : 1974 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 62 
+#   A                     : 149 
+#   Nuclide               : 62-SM-149 
+# Reaction: 
+#   entry-subent-pointer  :{59: '41641-003-0', 60: '41641-003-0', 61: '41641-003-0', 62: '41641-003-0', 63: '41641-003-0', 64: '41641-003-0', 65: '41641-003-0', 66: '41641-003-0', 67: '41641-003-0', 68: '41641-003-0'} 
+#   EXFOR reaction        :{59: '(62-SM-149(N,A),,WID)', 60: '(62-SM-149(N,A),,WID)', 61: '(62-SM-149(N,A),,WID)', 62: '(62-SM-149(N,A),,WID)', 63: '(62-SM-149(N,A),,WID)', 64: '(62-SM-149(N,A),,WID)', 65: '(62-SM-149(N,A),,WID)', 66: '(62-SM-149(N,A),,WID)', 67: '(62-SM-149(N,A),,WID)', 68: '(62-SM-149(N,A),,WID)'} 
+#   incident energy       : 0.0000e+00 eV - 1.7100e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41641.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41641
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        0.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.8000E-07        1.3000E-07               NAN               NAN
+        9.8000E-08               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.7000E-08        1.0000E-08               NAN               NAN
+        8.7000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.3000E-08        6.0000E-09               NAN               NAN
+        4.9800E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.5000E-08        7.0000E-09               NAN               NAN
+        6.4800E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        8.5000E-08        2.3000E-09               NAN               NAN
+        8.9300E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.6000E-08        9.0000E-09               NAN               NAN
+        1.2000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.9000E-07        5.0000E-08               NAN               NAN
+        1.4900E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.0000E-08        2.0000E-08               NAN               NAN
+        1.5800E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.8000E-07               NAN               NAN               NAN
+        1.7100E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        7.5000E-08               NAN               NAN               NAN

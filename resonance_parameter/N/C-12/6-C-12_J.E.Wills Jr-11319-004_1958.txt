@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.E.Wills Jr 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
@@ -15,10 +15,15 @@
 # Reaction: 
 #   entry-subent-pointer  :{3: '11319-004-2', 4: '11319-004-2', 5: '11319-004-2'} 
 #   EXFOR reaction        :{3: '(6-C-12(N,TOT),,WID)', 4: '(6-C-12(N,TOT),,WID)', 5: '(6-C-12(N,TOT),,WID)'} 
-#   incident energy       : 2.0760e+06 eV 
+#   incident energy       : 2.0760e+06 eV - 3.6700e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11319.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11319
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.0760E+06        8.0000E+03        7.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0760E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9500E+06        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9500E+06               NAN        9.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6700E+06        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6700E+06               NAN        1.6900E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

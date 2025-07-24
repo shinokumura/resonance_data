@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 26-FE-57 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.G.Slaughter 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (C,74PETTEN,,277,7409) 
+#   Year                  : 1974 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 57 
+#   Nuclide               : 26-FE-57 
+# Reaction: 
+#   entry-subent-pointer  :{32: '10912-002-3', 33: '10912-002-3', 34: '10912-002-3', 35: '10912-002-3', 36: '10912-002-3', 37: '10912-002-3', 38: '10912-002-5', 39: '10912-002-5', 40: '10912-002-5', 41: '10912-002-5', 42: '10912-002-5', 43: '10912-002-5', 44: '10912-002-7', 45: '10912-002-7', 46: '10912-002-7', 47: '10912-002-7', 48: '10912-002-7', 49: '10912-002-7'} 
+#   EXFOR reaction        :{32: '(26-FE-57(N,TOT),,WID)', 33: '(26-FE-57(N,TOT),,WID)', 34: '(26-FE-57(N,TOT),,WID)', 35: '(26-FE-57(N,TOT),,WID)', 36: '(26-FE-57(N,TOT),,WID)', 37: '(26-FE-57(N,TOT),,WID)', 38: '(26-FE-57(N,EL),,WID)', 39: '(26-FE-57(N,EL),,WID)', 40: '(26-FE-57(N,EL),,WID)', 41: '(26-FE-57(N,EL),,WID)', 42: '(26-FE-57(N,EL),,WID)', 43: '(26-FE-57(N,EL),,WID)', 44: '(26-FE-57(N,G),,WID)', 45: '(26-FE-57(N,G),,WID)', 46: '(26-FE-57(N,G),,WID)', 47: '(26-FE-57(N,G),,WID)', 48: '(26-FE-57(N,G),,WID)', 49: '(26-FE-57(N,G),,WID)'} 
+#   incident energy       : 3.9730e+03 eV - 4.7160e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10912.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10912
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.9730E+03               NAN        2.0000E+02        4.0000E+01        1.1400E+00        6.0000E-02        2.0000E+02        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2760E+03               NAN        4.0800E+02        4.9000E+01        1.3200E+00        1.2000E-01        4.0800E+02        4.9000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3970E+04               NAN        1.4700E+01        1.1000E+00        1.0000E+00        3.0000E-01        1.3300E+01        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9720E+04               NAN        3.2460E+03        2.6000E+02        4.0000E+00        1.0000E+00        3.2420E+03        2.6000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1640E+04               NAN        9.0000E+02        9.9000E+01               NAN               NAN        9.0000E+02        9.9000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7160E+04               NAN        3.5000E+02        1.0100E+02               NAN               NAN        3.4900E+02        1.0100E+02               NAN               NAN               NAN               NAN               NAN               NAN

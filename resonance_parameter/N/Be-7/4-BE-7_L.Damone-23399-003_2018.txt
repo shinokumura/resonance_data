@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 4-BE-7 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.Damone 
+#   Institute             : (2ITYITY): Italy 
+#   Reference             : (J,PRL,121,042701,2018) 
+#   Year                  : 2018 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 4 
+#   A                     : 7 
+#   Nuclide               : 4-BE-7 
+# Reaction: 
+#   entry-subent-pointer  :{2: '23399-003-1', 3: '23399-003-1', 4: '23399-003-1', 5: '23399-003-1', 6: '23399-003-1', 7: '23399-003-1', 8: '23399-003-1', 9: '23399-003-1', 10: '23399-003-1', 11: '23399-003-3', 12: '23399-003-3', 13: '23399-003-3', 14: '23399-003-3', 15: '23399-003-3', 16: '23399-003-3', 17: '23399-003-3', 18: '23399-003-3', 19: '23399-003-3', 20: '23399-003-4', 21: '23399-003-4', 22: '23399-003-4', 23: '23399-003-4', 24: '23399-003-4', 25: '23399-003-4', 26: '23399-003-4', 27: '23399-003-4', 28: '23399-003-4'} 
+#   EXFOR reaction        :{2: '(4-BE-7(N,EL),,WID)', 3: '(4-BE-7(N,EL),,WID)', 4: '(4-BE-7(N,EL),,WID)', 5: '(4-BE-7(N,EL),,WID)', 6: '(4-BE-7(N,EL),,WID)', 7: '(4-BE-7(N,EL),,WID)', 8: '(4-BE-7(N,EL),,WID)', 9: '(4-BE-7(N,EL),,WID)', 10: '(4-BE-7(N,EL),,WID)', 11: '(4-BE-7(N,A),,WID)', 12: '(4-BE-7(N,A),,WID)', 13: '(4-BE-7(N,A),,WID)', 14: '(4-BE-7(N,A),,WID)', 15: '(4-BE-7(N,A),,WID)', 16: '(4-BE-7(N,A),,WID)', 17: '(4-BE-7(N,A),,WID)', 18: '(4-BE-7(N,A),,WID)', 19: '(4-BE-7(N,A),,WID)', 20: '(4-BE-7(N,TOT),,WID)', 21: '(4-BE-7(N,TOT),,WID)', 22: '(4-BE-7(N,TOT),,WID)', 23: '(4-BE-7(N,TOT),,WID)', 24: '(4-BE-7(N,TOT),,WID)', 25: '(4-BE-7(N,TOT),,WID)', 26: '(4-BE-7(N,TOT),,WID)', 27: '(4-BE-7(N,TOT),,WID)', 28: '(4-BE-7(N,TOT),,WID)'} 
+#   incident energy       : 1.3000e-02 eV - 3.5440e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/233/23399.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23399
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3000E-02               NAN        1.5400E+05               NAN               NAN               NAN        3.5000E+04               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN
+        1.9400E-01               NAN        4.6300E+05               NAN               NAN               NAN        4.8000E+04               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN
+        3.8400E-01               NAN        1.9700E+05               NAN               NAN               NAN        1.2200E+05               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN
+        5.7300E-01               NAN        9.6940E+06               NAN               NAN               NAN        9.3550E+06               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN
+        1.0980E+00               NAN        9.6700E+05               NAN               NAN               NAN        4.0000E+03               NAN               NAN               NAN        5.2300E+05               NAN               NAN               NAN
+        1.3730E+00               NAN        2.9350E+06               NAN               NAN               NAN        1.5290E+06               NAN               NAN               NAN        1.4800E+05               NAN               NAN               NAN
+        1.4860E+00               NAN        5.2500E+05               NAN               NAN               NAN        1.0000E+05               NAN               NAN               NAN        3.2500E+05               NAN               NAN               NAN
+        2.2870E+00               NAN        1.3890E+06               NAN               NAN               NAN        1.4600E+05               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN
+        3.5440E+00               NAN        4.0000E+06               NAN               NAN               NAN        2.0000E+06               NAN               NAN               NAN        0.0000E+00               NAN               NAN               NAN

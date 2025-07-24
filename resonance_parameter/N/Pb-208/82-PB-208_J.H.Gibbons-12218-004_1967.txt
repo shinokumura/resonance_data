@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 82-PB-208 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.H.Gibbons 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,153,1356,67) 
+#   Year                  : 1967 
+#   Facility              : None 
+# Target: 
+#   Z                     : 82 
+#   A                     : 208 
+#   Nuclide               : 82-PB-208 
+# Reaction: 
+#   entry-subent-pointer  :{52: '12218-004-3', 53: '12218-004-3', 54: '12218-004-3', 55: '12218-004-3'} 
+#   EXFOR reaction        :{52: '(82-PB-208(N,EL),,WID)', 53: '(82-PB-208(N,EL),,WID)', 54: '(82-PB-208(N,EL),,WID)', 55: '(82-PB-208(N,EL),,WID)'} 
+#   incident energy       : 7.0000e+04 eV - 7.7000e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12218.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12218
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.0000E+04               NAN               NAN               NAN               NAN               NAN        8.4000E+01        1.1500E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        7.7000E+04               NAN               NAN               NAN               NAN               NAN        7.5750E+02        8.5000E+01               NAN               NAN               NAN               NAN               NAN               NAN

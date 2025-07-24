@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 71-LU-176 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.H.Baston 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE/A,13,35,1960) 
+#   Year                  : 1960 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 71 
+#   A                     : 176 
+#   Nuclide               : 71-LU-176 
+# Reaction: 
+#   entry-subent-pointer  :{4: '21322-006-2'} 
+#   EXFOR reaction        :{4: '(71-LU-176(N,G),,WID)'} 
+#   incident energy       : 1.4200e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21322.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21322
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4200E-07               NAN               NAN               NAN        6.0000E-02        2.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

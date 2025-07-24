@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 95-AM-241 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.H.Knitter 
+#   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference             : (J,AKE,33,205,1979) 
+#   Year                  : 1979 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 95 
+#   A                     : 241 
+#   Nuclide               : 95-AM-241 
+# Reaction: 
+#   entry-subent-pointer  :{365: '20764-007-0', 366: '20764-007-0', 367: '20764-007-0', 368: '20764-007-0', 369: '20764-007-0', 370: '20764-007-0', 371: '20764-007-0', 372: '20764-007-0', 373: '20764-007-0', 374: '20764-007-0'} 
+#   EXFOR reaction        :{365: '(95-AM-241(N,F),,WID)', 366: '(95-AM-241(N,F),,WID)', 367: '(95-AM-241(N,F),,WID)', 368: '(95-AM-241(N,F),,WID)', 369: '(95-AM-241(N,F),,WID)', 370: '(95-AM-241(N,F),,WID)', 371: '(95-AM-241(N,F),,WID)', 372: '(95-AM-241(N,F),,WID)', 373: '(95-AM-241(N,F),,WID)', 374: '(95-AM-241(N,F),,WID)'} 
+#   incident energy       : 1.2800e-06 eV - 1.4680e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20764.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20764
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2800E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.7000E-04        2.0000E-05               NAN               NAN               NAN               NAN
+        2.3700E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.9000E-04        3.0000E-05               NAN               NAN               NAN               NAN
+        2.6000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.5000E-04        3.0000E-05               NAN               NAN               NAN               NAN
+        3.9700E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.3000E-04        3.0000E-05               NAN               NAN               NAN               NAN
+        4.9700E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.5000E-04        5.0000E-05               NAN               NAN               NAN               NAN
+        5.4200E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        6.4000E-04        3.0000E-05               NAN               NAN               NAN               NAN
+        6.1200E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.4000E-04        1.1000E-04               NAN               NAN               NAN               NAN
+        9.1200E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.7000E-04        3.0000E-05               NAN               NAN               NAN               NAN
+        9.8500E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        7.5000E-04        8.0000E-05               NAN               NAN               NAN               NAN
+        1.4680E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.9000E-04        4.0000E-05               NAN               NAN               NAN               NAN

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 41-NB-93 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : Yu.V.Grigoriev 
+#   Institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference             : ((J,YK,,(1),5,2001)=(R,INDC(CCP)-432,7,2002)) 
+#   Year                  : 2002 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 41 
+#   A                     : 93 
+#   Nuclide               : 41-NB-93 
+# Reaction: 
+#   entry-subent-pointer  :{383: '41407-004-2', 384: '41407-004-2', 385: '41407-004-2', 386: '41407-004-2', 387: '41407-004-2', 388: '41407-004-2', 389: '41407-004-3', 390: '41407-004-3', 391: '41407-004-3', 392: '41407-004-3', 393: '41407-004-3', 394: '41407-004-3'} 
+#   EXFOR reaction        :{383: '(41-NB-93(N,EL),,WID)', 384: '(41-NB-93(N,EL),,WID)', 385: '(41-NB-93(N,EL),,WID)', 386: '(41-NB-93(N,EL),,WID)', 387: '(41-NB-93(N,EL),,WID)', 388: '(41-NB-93(N,EL),,WID)', 389: '(41-NB-93(N,G),,WID)', 390: '(41-NB-93(N,G),,WID)', 391: '(41-NB-93(N,G),,WID)', 392: '(41-NB-93(N,G),,WID)', 393: '(41-NB-93(N,G),,WID)', 394: '(41-NB-93(N,G),,WID)'} 
+#   incident energy       : 3.5850e+01 eV - 1.9360e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41407.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41407
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.5850E+01               NAN               NAN               NAN        2.2800E-01        3.0000E-02        1.4300E-04        6.8000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2150E+01               NAN               NAN               NAN        1.6300E-01        2.5000E-02        1.1000E-04        4.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4140E+01               NAN               NAN               NAN        1.9400E-01        3.0000E-02        4.5000E-04        1.2000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0565E+02               NAN               NAN               NAN        1.6700E-01        3.0000E-02        6.2000E-04        1.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1877E+02               NAN               NAN               NAN        1.7200E-01        1.7000E-02        5.8000E-03        3.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9360E+02               NAN               NAN               NAN        3.2000E-01        6.0000E-02        3.9500E-02        3.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN

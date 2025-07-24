@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 46-PD-107 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : U.N.Singh 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,67,54,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 46 
+#   A                     : 107 
+#   Nuclide               : 46-PD-107 
+# Reaction: 
+#   entry-subent-pointer  :{0: '10666-004-0'} 
+#   EXFOR reaction        :{0: '(46-PD-107(N,G),,WID)'} 
+#   incident energy       : 6.8340e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10666.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10666
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.8340E-06               NAN               NAN               NAN        1.2500E-01        1.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 52-TE-125 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Macklin 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (R,ORNL-6561,8907) 
+#   Year                  : 1989 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 52 
+#   A                     : 125 
+#   Nuclide               : 52-TE-125 
+# Reaction: 
+#   entry-subent-pointer  :{146: '13167-015-0', 147: '13167-015-0'} 
+#   EXFOR reaction        :{146: '(52-TE-125(N,TOT),,WID)', 147: '(52-TE-125(N,TOT),,WID)'} 
+#   incident energy       : 2.7400e-03 eV - 2.8460e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13167.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13167
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7400E-03               NAN        7.4000E-04        2.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8460E-03               NAN        9.9000E-04        2.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

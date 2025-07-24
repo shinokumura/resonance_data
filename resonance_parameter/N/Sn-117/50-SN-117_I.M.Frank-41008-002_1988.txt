@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 50-SN-117 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.M.Frank 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,88MITO,,395,8805) 
+#   Year                  : 1988 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 50 
+#   A                     : 117 
+#   Nuclide               : 50-SN-117 
+# Reaction: 
+#   entry-subent-pointer  :{52: '41008-002-3'} 
+#   EXFOR reaction        :{52: '(50-SN-117(N,TOT),,WID)'} 
+#   incident energy       : 1.3300e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41008.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41008
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3300E+00               NAN        1.8000E-01        1.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

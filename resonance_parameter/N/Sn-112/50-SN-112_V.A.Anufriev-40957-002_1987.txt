@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 50-SN-112 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : V.A.Anufriev 
+#   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
+#   Reference             : (J,AE,63,397,1987) 
+#   Year                  : 1987 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 50 
+#   A                     : 112 
+#   Nuclide               : 50-SN-112 
+# Reaction: 
+#   entry-subent-pointer  :{16: '40957-002-2', 17: '40957-002-2', 18: '40957-002-2', 19: '40957-002-2', 20: '40957-002-2', 21: '40957-002-2', 22: '40957-002-2', 23: '40957-002-2', 24: '40957-002-2'} 
+#   EXFOR reaction        :{16: '(50-SN-112(N,TOT),,WID)', 17: '(50-SN-112(N,TOT),,WID)', 18: '(50-SN-112(N,TOT),,WID)', 19: '(50-SN-112(N,TOT),,WID)', 20: '(50-SN-112(N,TOT),,WID)', 21: '(50-SN-112(N,TOT),,WID)', 22: '(50-SN-112(N,TOT),,WID)', 23: '(50-SN-112(N,TOT),,WID)', 24: '(50-SN-112(N,TOT),,WID)'} 
+#   incident energy       : 6.4500e+01 eV - 5.7400e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40957.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40957
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.4500E+01               NAN        1.3100E-01        7.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2100E+01               NAN        1.4600E-01        1.0800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4300E+01               NAN        1.9400E-01        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0470E+02               NAN        1.1000E-01        3.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6600E+02               NAN        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4000E+02               NAN        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5100E+02               NAN        1.3000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.1400E+02               NAN        1.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7400E+02               NAN        1.4000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

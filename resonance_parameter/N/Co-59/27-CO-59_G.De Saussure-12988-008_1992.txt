@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 27-CO-59 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.De Saussure 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,ANE,19,393,199207) 
+#   Year                  : 1992 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 27 
+#   A                     : 59 
+#   Nuclide               : 27-CO-59 
+# Reaction: 
+#   entry-subent-pointer  :{403: '12988-008-4', 404: '12988-008-4'} 
+#   EXFOR reaction        :{403: '(27-CO-59(N,G),,WID)', 404: '(27-CO-59(N,G),,WID)'} 
+#   incident energy       : 5.0100e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12988.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12988
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.0100E-02               NAN               NAN               NAN        4.0440E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

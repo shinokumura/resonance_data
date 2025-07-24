@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 16-S-34 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.T.Seibel Jr 
+#   Institute             : (1USADKE): Duke University, Durham, NC 
+#   Reference             : (J,DA/B,30,339,6907) 
+#   Year                  : 1969 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 16 
+#   A                     : 34 
+#   Nuclide               : 16-S-34 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12683-003-4', 1: '12683-003-4', 2: '12683-003-4', 3: '12683-003-4', 4: '12683-003-4', 5: '12683-003-4', 6: '12683-003-4', 7: '12683-003-4'} 
+#   EXFOR reaction        :{0: '(16-S-34(N,TOT),,WID)', 1: '(16-S-34(N,TOT),,WID)', 2: '(16-S-34(N,TOT),,WID)', 3: '(16-S-34(N,TOT),,WID)', 4: '(16-S-34(N,TOT),,WID)', 5: '(16-S-34(N,TOT),,WID)', 6: '(16-S-34(N,TOT),,WID)', 7: '(16-S-34(N,TOT),,WID)'} 
+#   incident energy       : 1.2000e+05 eV - 4.6600e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12683.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12683
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2000E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9700E+05               NAN        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1800E+05               NAN        1.5000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5500E+05               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9700E+05               NAN        7.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3550E+05               NAN        8.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6100E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6600E+05               NAN        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

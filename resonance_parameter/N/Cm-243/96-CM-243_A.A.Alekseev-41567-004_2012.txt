@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 96-CM-243 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.A.Alekseev 
+#   Institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference             : (R,JIA-1334,201210) 
+#   Year                  : 2012 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 96 
+#   A                     : 243 
+#   Nuclide               : 96-CM-243 
+# Reaction: 
+#   entry-subent-pointer  :{52: '41567-004-2', 53: '41567-004-2', 54: '41567-004-2', 55: '41567-004-2', 56: '41567-004-2', 57: '41567-004-2', 58: '41567-004-2', 59: '41567-004-2', 60: '41567-004-2', 61: '41567-004-2', 62: '41567-004-2', 63: '41567-004-2', 64: '41567-004-2', 65: '41567-004-2'} 
+#   EXFOR reaction        :{52: '(96-CM-243(N,F),,WID)', 53: '(96-CM-243(N,F),,WID)', 54: '(96-CM-243(N,F),,WID)', 55: '(96-CM-243(N,F),,WID)', 56: '(96-CM-243(N,F),,WID)', 57: '(96-CM-243(N,F),,WID)', 58: '(96-CM-243(N,F),,WID)', 59: '(96-CM-243(N,F),,WID)', 60: '(96-CM-243(N,F),,WID)', 61: '(96-CM-243(N,F),,WID)', 62: '(96-CM-243(N,F),,WID)', 63: '(96-CM-243(N,F),,WID)', 64: '(96-CM-243(N,F),,WID)', 65: '(96-CM-243(N,F),,WID)'} 
+#   incident energy       : -5.4000e-07 eV - 9.1070e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41567.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41567
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -5.4000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.5300E-01               NAN               NAN               NAN               NAN               NAN
+        6.7100E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.8000E-01               NAN               NAN               NAN               NAN               NAN
+        1.1370E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4660E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0460E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3090E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7570E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0730E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7340E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6820E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1450E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2110E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.1750E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.1070E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

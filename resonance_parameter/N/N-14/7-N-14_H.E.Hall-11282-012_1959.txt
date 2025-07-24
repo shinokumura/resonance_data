@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 7-N-14 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.E.Hall 
+#   Institute             : (1USARIC): Rice University, Houston, TX 
+#   Reference             : (J,NP,14,295,5912) 
+#   Year                  : 1959 
+#   Facility              : None 
+# Target: 
+#   Z                     : 7 
+#   A                     : 14 
+#   Nuclide               : 7-N-14 
+# Reaction: 
+#   entry-subent-pointer  :{63: '11282-012-2', 64: '11282-012-2', 65: '11282-012-2', 66: '11282-012-2', 67: '11282-012-2', 68: '11282-012-2'} 
+#   EXFOR reaction        :{63: '(7-N-14(N,TOT),,WID)', 64: '(7-N-14(N,TOT),,WID)', 65: '(7-N-14(N,TOT),,WID)', 66: '(7-N-14(N,TOT),,WID)', 67: '(7-N-14(N,TOT),,WID)', 68: '(7-N-14(N,TOT),,WID)'} 
+#   incident energy       : 6.2600e+06 eV - 8.0000e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11282.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11282
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.2600E+06               NAN        1.2000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.4800E+06               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.5200E+06               NAN        1.7000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1000E+06               NAN        2.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.9200E+06               NAN        1.7000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.0000E+06               NAN        1.2000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

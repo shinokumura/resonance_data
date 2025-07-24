@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 73-TA-181 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.E.Wood 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 

@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 48-CD-111 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.G.Priestmeyer 
+#   Institute             : (2GERKIL): University of Kiel, Kiel 
+#   Reference             : (P,NEANDC(E)-182,(5),61,197704) 
+#   Year                  : 1977 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 48 
+#   A                     : 111 
+#   Nuclide               : 48-CD-111 
+# Reaction: 
+#   entry-subent-pointer  :{102: '22601-004-3', 103: '22601-004-3', 104: '22601-004-3', 105: '22601-004-3', 106: '22601-004-3', 107: '22601-004-3', 108: '22601-004-3', 109: '22601-004-3', 110: '22601-004-3'} 
+#   EXFOR reaction        :{102: '(48-CD-111(N,G),,WID)', 103: '(48-CD-111(N,G),,WID)', 104: '(48-CD-111(N,G),,WID)', 105: '(48-CD-111(N,G),,WID)', 106: '(48-CD-111(N,G),,WID)', 107: '(48-CD-111(N,G),,WID)', 108: '(48-CD-111(N,G),,WID)', 109: '(48-CD-111(N,G),,WID)', 110: '(48-CD-111(N,G),,WID)'} 
+#   incident energy       : 2.7500e+01 eV - 3.1000e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22601.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22601
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7500E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5700E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.9000E+01               NAN               NAN               NAN        8.5000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0250E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3750E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6350E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3220E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7520E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

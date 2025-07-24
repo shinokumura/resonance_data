@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-240 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.J.Pattenden 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,JNE/A,11,14,5911) 
+#   Year                  : 1959 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 94 
+#   A                     : 240 
+#   Nuclide               : 94-PU-240 
+# Reaction: 
+#   entry-subent-pointer  :{35: '21068-004-1', 36: '21068-004-3'} 
+#   EXFOR reaction        :{35: '(94-PU-240(N,TOT),,WID)', 36: '(94-PU-240(N,G),,WID)'} 
+#   incident energy       : 1.0570e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21068.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21068
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0570E-06               NAN        3.2100E-02        4.0000E-03        2.9600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

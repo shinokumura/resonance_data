@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 76-OS-187 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.P.Balabanov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-7376,1973) 
+#   Year                  : 1973 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 76 
+#   A                     : 187 
+#   Nuclide               : 76-OS-187 
+# Reaction: 
+#   entry-subent-pointer  :{0: '41649-005-0', 1: '41649-005-0', 2: '41649-005-0'} 
+#   EXFOR reaction        :{0: '(76-OS-187(N,A),,WID)', 1: '(76-OS-187(N,A),,WID)', 2: '(76-OS-187(N,A),,WID)'} 
+#   incident energy       : 9.4600e-06 eV - 2.0190e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41649.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41649
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.4600E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.8000E-07               NAN               NAN               NAN
+        1.2600E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        9.0000E-08               NAN               NAN               NAN
+        2.0190E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.3000E-06               NAN               NAN               NAN

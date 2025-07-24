@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 68-ER-170 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : S.F.Mughabghab 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 

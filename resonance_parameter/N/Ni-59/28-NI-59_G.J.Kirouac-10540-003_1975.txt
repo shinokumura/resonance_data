@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 28-NI-59 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.J.Kirouac 
+#   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
+#   Reference             : (C,75WASH,2,776,1975) 
+#   Year                  : 1975 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 28 
+#   A                     : 59 
+#   Nuclide               : 28-NI-59 
+# Reaction: 
+#   entry-subent-pointer  :{0: '10540-003-5', 1: '10540-003-6'} 
+#   EXFOR reaction        :{0: '(28-NI-59(N,TOT),,WID)', 1: '(28-NI-59(N,EL),,WID)'} 
+#   incident energy       : 2.0310e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10540.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10540
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.0310E+02               NAN        1.3900E+01               NAN               NAN               NAN        1.0500E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

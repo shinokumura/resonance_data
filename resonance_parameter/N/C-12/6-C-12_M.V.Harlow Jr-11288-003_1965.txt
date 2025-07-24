@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.V.Harlow Jr 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 40-ZR-94 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : S.S.Moskalev 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
@@ -22,7 +22,22 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.2730E-03        1.0000E-05               NAN               NAN               NAN               NAN        8.0000E-01        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2730E-03        6.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2730E-03        1.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2730E-03        2.7000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8700E-03        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         5.8700E-03        6.0000E-05               NAN               NAN               NAN               NAN        2.7000E+01        7.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8700E-03        1.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8700E-03        2.7000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2200E-03        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         7.2200E-03        6.0000E-05               NAN               NAN               NAN               NAN        7.2000E+01        8.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2200E-03        1.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.2200E-03        2.7000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2800E-02        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2800E-02        6.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.2800E-02        1.6000E-04               NAN               NAN               NAN               NAN        2.0000E+01        7.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2800E-02        2.7000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9860E-02        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9860E-02        6.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9860E-02        1.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.9860E-02        2.7000E-04               NAN               NAN               NAN               NAN        1.2500E+02        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN

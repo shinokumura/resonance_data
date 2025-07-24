@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.D.Bowman 
+#   Institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
+#   Reference             : (J,BAP,10,12(AD5),6501) 
+#   Year                  : 1965 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   entry-subent-pointer  :{373: '12677-002-3', 374: '12677-002-3', 375: '12677-002-3', 376: '12677-002-3', 377: '12677-002-3', 378: '12677-002-3', 379: '12677-002-3', 380: '12677-002-3'} 
+#   EXFOR reaction        :{373: '(92-U-238(N,EL),,WID)', 374: '(92-U-238(N,EL),,WID)', 375: '(92-U-238(N,EL),,WID)', 376: '(92-U-238(N,EL),,WID)', 377: '(92-U-238(N,EL),,WID)', 378: '(92-U-238(N,EL),,WID)', 379: '(92-U-238(N,EL),,WID)', 380: '(92-U-238(N,EL),,WID)'} 
+#   incident energy       : 2.1000e+01 eV - 3.4800e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12677.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12677
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.1000E+01               NAN               NAN               NAN               NAN               NAN        8.4000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6800E+01               NAN               NAN               NAN               NAN               NAN        2.6800E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.6100E+01               NAN               NAN               NAN               NAN               NAN        2.6400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0280E+02               NAN               NAN               NAN               NAN               NAN        7.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1690E+02               NAN               NAN               NAN               NAN               NAN        2.9400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9000E+02               NAN               NAN               NAN               NAN               NAN        1.5050E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0800E+02               NAN               NAN               NAN               NAN               NAN        6.1900E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.4800E+02               NAN               NAN               NAN               NAN               NAN        1.0740E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

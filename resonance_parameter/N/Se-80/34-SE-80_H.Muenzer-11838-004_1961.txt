@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 34-SE-80 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Muenzer 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,BAP,6,251(H5),6104) 
+#   Year                  : 1961 
+#   Facility              : None 
+# Target: 
+#   Z                     : 34 
+#   A                     : 80 
+#   Nuclide               : 34-SE-80 
+# Reaction: 
+#   entry-subent-pointer  :{6: '11838-004-2', 7: '11838-004-2', 8: '11838-004-2', 9: '11838-004-2', 10: '11838-004-2', 11: '11838-004-2', 12: '11838-004-2', 13: '11838-004-2'} 
+#   EXFOR reaction        :{6: '(34-SE-80(N,EL),,WID)', 7: '(34-SE-80(N,EL),,WID)', 8: '(34-SE-80(N,EL),,WID)', 9: '(34-SE-80(N,EL),,WID)', 10: '(34-SE-80(N,EL),,WID)', 11: '(34-SE-80(N,EL),,WID)', 12: '(34-SE-80(N,EL),,WID)', 13: '(34-SE-80(N,EL),,WID)'} 
+#   incident energy       : 3.9500e+03 eV - 3.9900e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11838.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11838
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.9500E+03               NAN               NAN               NAN               NAN               NAN        4.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7300E+03               NAN               NAN               NAN               NAN               NAN        8.1000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1850E+04               NAN               NAN               NAN               NAN               NAN        2.6800E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8300E+04               NAN               NAN               NAN               NAN               NAN        1.0980E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0900E+04               NAN               NAN               NAN               NAN               NAN        7.0600E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3900E+04               NAN               NAN               NAN               NAN               NAN        4.1200E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9600E+04               NAN               NAN               NAN               NAN               NAN        3.6250E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.9900E+04               NAN               NAN               NAN               NAN               NAN        1.8700E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

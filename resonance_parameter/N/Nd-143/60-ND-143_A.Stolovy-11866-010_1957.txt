@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 60-ND-143 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.Stolovy 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
@@ -15,10 +15,13 @@
 # Reaction: 
 #   entry-subent-pointer  :{0: '11866-010-2', 1: '11866-010-2'} 
 #   EXFOR reaction        :{0: '(60-ND-143(N,G),,WID)', 1: '(60-ND-143(N,G),,WID)'} 
-#   incident energy       : 5.6300e+01 eV 
+#   incident energy       : 5.6300e+01 eV - 1.2900e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11866
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         5.6300E+01        1.0000E+00               NAN               NAN        1.5000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6300E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2900E+02        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2900E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

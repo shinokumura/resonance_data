@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 20-CA-40 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : U.N.Singh 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,10,2143,197412) 
+#   Year                  : 1974 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 20 
+#   A                     : 40 
+#   Nuclide               : 20-CA-40 
+# Reaction: 
+#   entry-subent-pointer  :{186: '10498-006-2', 187: '10498-006-2', 188: '10498-006-2', 189: '10498-006-2', 190: '10498-006-2', 191: '10498-006-2', 192: '10498-006-2', 193: '10498-006-2', 194: '10498-006-2'} 
+#   EXFOR reaction        :{186: '(20-CA-40(N,EL),,WID)', 187: '(20-CA-40(N,EL),,WID)', 188: '(20-CA-40(N,EL),,WID)', 189: '(20-CA-40(N,EL),,WID)', 190: '(20-CA-40(N,EL),,WID)', 191: '(20-CA-40(N,EL),,WID)', 192: '(20-CA-40(N,EL),,WID)', 193: '(20-CA-40(N,EL),,WID)', 194: '(20-CA-40(N,EL),,WID)'} 
+#   incident energy       : 1.3160e+05 eV - 5.0150e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10498.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10498
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3160E+05               NAN               NAN               NAN               NAN               NAN        3.1700E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6857E+05               NAN               NAN               NAN               NAN               NAN        2.4400E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1615E+05               NAN               NAN               NAN               NAN               NAN        7.3700E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4180E+05               NAN               NAN               NAN               NAN               NAN        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9095E+05               NAN               NAN               NAN               NAN               NAN        1.8000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2635E+05               NAN               NAN               NAN               NAN               NAN        1.4200E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5450E+05               NAN               NAN               NAN               NAN               NAN        1.6100E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3500E+05               NAN               NAN               NAN               NAN               NAN        8.2400E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0150E+05               NAN               NAN               NAN               NAN               NAN        8.1100E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

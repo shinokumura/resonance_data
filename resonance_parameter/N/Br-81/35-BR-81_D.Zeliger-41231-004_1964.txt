@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 35-BR-81 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.Zeliger 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -22,4 +22,6 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         1.0130E-04        5.0000E-07        4.2000E-01        3.0000E-02        2.6700E-01        3.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0130E-04        7.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3590E-04        5.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.3590E-04        7.0000E-07        5.9000E-01        5.0000E-02        2.8500E-01        5.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

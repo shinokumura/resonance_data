@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 70-YB-174 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : H.I.Liou 
 #   Institute             : (1USACOL): Columbia University, New York, NY 
@@ -22,4 +22,6 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         3.4270E-04        3.5000E-07               NAN               NAN        9.0000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.4270E-04        3.9000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8542E-04        3.5000E-07               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         5.8542E-04        3.9000E-07               NAN               NAN        7.6000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

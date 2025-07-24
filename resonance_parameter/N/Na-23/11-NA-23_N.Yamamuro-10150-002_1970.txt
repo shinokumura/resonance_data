@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 11-NA-23 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.Yamamuro 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,41,445,197009) 
+#   Year                  : 1970 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 11 
+#   A                     : 23 
+#   Nuclide               : 11-NA-23 
+# Reaction: 
+#   entry-subent-pointer  :{269: '10150-002-0'} 
+#   EXFOR reaction        :{269: '(11-NA-23(N,G),,WID)'} 
+#   incident energy       : 2.8500e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10150.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10150
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.8500E-03               NAN               NAN               NAN        4.7000E-01        4.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

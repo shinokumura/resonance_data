@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 47-AG-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Sheer 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,98,565,1955) 
+#   Year                  : 1955 
+#   Facility              : (SELVE): Velocity selector 
+# Target: 
+#   Z                     : 47 
+#   A                     : 0 
+#   Nuclide               : 47-AG-0 
+# Reaction: 
+#   entry-subent-pointer  :{1: '13566-002-3', 2: '13566-002-3', 3: '13566-002-4', 4: '13566-002-4'} 
+#   EXFOR reaction        :{1: '(47-AG-0(N,TOT),,WID)', 2: '(47-AG-0(N,TOT),,WID)', 3: '(47-AG-0(N,EL),,WID)', 4: '(47-AG-0(N,EL),,WID)'} 
+#   incident energy       : 5.1930e-06 eV - 1.6600e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/135/13566.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13566
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.1930E-06               NAN        1.2800E-01        1.6000E-02               NAN               NAN        1.5500E-02        2.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6600E-05               NAN        1.1000E-01        1.3000E-02               NAN               NAN        3.9000E-02        6.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN

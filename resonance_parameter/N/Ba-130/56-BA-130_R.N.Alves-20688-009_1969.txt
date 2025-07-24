@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 56-BA-130 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.N.Alves 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,134,118,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 56 
+#   A                     : 130 
+#   Nuclide               : 56-BA-130 
+# Reaction: 
+#   entry-subent-pointer  :{0: '20688-009-3', 1: '20688-009-3', 2: '20688-009-3', 3: '20688-009-3', 4: '20688-009-3', 5: '20688-009-3'} 
+#   EXFOR reaction        :{0: '(56-BA-130(N,EL),,WID)', 1: '(56-BA-130(N,EL),,WID)', 2: '(56-BA-130(N,EL),,WID)', 3: '(56-BA-130(N,EL),,WID)', 4: '(56-BA-130(N,EL),,WID)', 5: '(56-BA-130(N,EL),,WID)'} 
+#   incident energy       : 3.7890e+02 eV - 8.9600e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20688.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20688
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.7890E+02               NAN               NAN               NAN               NAN               NAN        1.3900E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4800E+02               NAN               NAN               NAN               NAN               NAN        2.5800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.2400E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8900E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9100E+02               NAN               NAN               NAN               NAN               NAN        2.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9600E+02               NAN               NAN               NAN               NAN               NAN        6.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.B.Fossan 
 #   Institute             : (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 

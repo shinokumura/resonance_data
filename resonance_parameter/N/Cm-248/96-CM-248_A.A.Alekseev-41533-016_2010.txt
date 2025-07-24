@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 96-CM-248 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.A.Alekseev 
+#   Institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference             : (J,AE,109,(6),332,2010) 
+#   Year                  : 2010 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 96 
+#   A                     : 248 
+#   Nuclide               : 96-CM-248 
+# Reaction: 
+#   entry-subent-pointer  :{19: '41533-016-1', 20: '41533-016-1', 21: '41533-016-1', 22: '41533-016-1', 23: '41533-016-1', 24: '41533-016-2', 25: '41533-016-2', 26: '41533-016-2', 27: '41533-016-2', 28: '41533-016-2', 29: '41533-016-3', 30: '41533-016-3', 31: '41533-016-3', 32: '41533-016-3', 33: '41533-016-3'} 
+#   EXFOR reaction        :{19: '(96-CM-248(N,EL),,WID)', 20: '(96-CM-248(N,EL),,WID)', 21: '(96-CM-248(N,EL),,WID)', 22: '(96-CM-248(N,EL),,WID)', 23: '(96-CM-248(N,EL),,WID)', 24: '(96-CM-248(N,G),,WID)', 25: '(96-CM-248(N,G),,WID)', 26: '(96-CM-248(N,G),,WID)', 27: '(96-CM-248(N,G),,WID)', 28: '(96-CM-248(N,G),,WID)', 29: '(96-CM-248(N,F),,WID)', 30: '(96-CM-248(N,F),,WID)', 31: '(96-CM-248(N,F),,WID)', 32: '(96-CM-248(N,F),,WID)', 33: '(96-CM-248(N,F),,WID)'} 
+#   incident energy       : 7.2470e-06 eV - 9.8950e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41533.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41533
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.2470E-06               NAN               NAN               NAN        2.9500E-02        2.7000E-03        1.8800E-03        4.0000E-05        5.0000E-05        5.0000E-06               NAN               NAN               NAN               NAN
+        2.6900E-05               NAN               NAN               NAN        2.6000E-02        2.7000E-03        1.9700E-02        8.0000E-04        8.7000E-05        6.0000E-06               NAN               NAN               NAN               NAN
+        3.5010E-05               NAN               NAN               NAN        2.7400E-02        3.0000E-03        1.1700E-02        5.0000E-04        9.8000E-03        5.1000E-06               NAN               NAN               NAN               NAN
+        7.6100E-05               NAN               NAN               NAN        2.6400E-02        3.0000E-03        1.0600E-01        1.3000E-02        3.8600E-03        1.9000E-04               NAN               NAN               NAN               NAN
+        9.8950E-05               NAN               NAN               NAN        2.5700E-02        3.0000E-03        1.7600E-01        1.7000E-02        5.5500E-04        2.5000E-05               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 92-U-236 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.P.Barry 
+#   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
+#   Reference             : (J,PNE,86,11,2016) 
+#   Year                  : 2016 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 92 
+#   A                     : 236 
+#   Nuclide               : 92-U-236 
+# Reaction: 
+#   entry-subent-pointer  :{865: '14674-006-2', 866: '14674-006-3', 867: '14674-006-4'} 
+#   EXFOR reaction        :{865: '(92-U-236(N,G),,WID)', 866: '(92-U-236(N,EL),,WID)', 867: '(92-U-236(N,F),,WID)'} 
+#   incident energy       : -9.7000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14674.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14674
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -9.7000E+00               NAN               NAN               NAN        2.1400E-02               NAN        4.9090E-03               NAN        8.0000E-05               NAN               NAN               NAN               NAN               NAN

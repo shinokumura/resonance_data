@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 72-HF-176 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.J.Trbovich 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,161,303,2009) 
+#   Year                  : 2009 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 72 
+#   A                     : 176 
+#   Nuclide               : 72-HF-176 
+# Reaction: 
+#   entry-subent-pointer  :{78: '14239-003-2', 79: '14239-003-2', 80: '14239-003-2', 81: '14239-003-2', 82: '14239-003-2', 83: '14239-003-2', 84: '14239-003-3', 85: '14239-003-3', 86: '14239-003-3', 87: '14239-003-3', 88: '14239-003-3', 89: '14239-003-3'} 
+#   EXFOR reaction        :{78: '(72-HF-176(N,G),,WID)', 79: '(72-HF-176(N,G),,WID)', 80: '(72-HF-176(N,G),,WID)', 81: '(72-HF-176(N,G),,WID)', 82: '(72-HF-176(N,G),,WID)', 83: '(72-HF-176(N,G),,WID)', 84: '(72-HF-176(N,EL),,WID)', 85: '(72-HF-176(N,EL),,WID)', 86: '(72-HF-176(N,EL),,WID)', 87: '(72-HF-176(N,EL),,WID)', 88: '(72-HF-176(N,EL),,WID)', 89: '(72-HF-176(N,EL),,WID)'} 
+#   incident energy       : 7.8891e+00 eV - 1.7715e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/142/14239.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14239
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.8891E+00               NAN               NAN               NAN        6.1800E-02               NAN        1.0150E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.8254E+01               NAN               NAN               NAN        4.9000E-02               NAN        1.0700E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3282E+01               NAN               NAN               NAN        5.5000E-02               NAN        1.6900E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.7218E+01               NAN               NAN               NAN        5.5000E-02               NAN        2.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2408E+02               NAN               NAN               NAN        5.5000E-02               NAN        3.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7715E+02               NAN               NAN               NAN        5.5000E-02               NAN        8.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

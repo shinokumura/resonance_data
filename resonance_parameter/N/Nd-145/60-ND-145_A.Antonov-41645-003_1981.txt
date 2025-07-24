@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 60-ND-145 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-81-348,1981) 
+#   Year                  : 1981 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 60 
+#   A                     : 145 
+#   Nuclide               : 60-ND-145 
+# Reaction: 
+#   entry-subent-pointer  :{218: '41645-003-0', 219: '41645-003-0', 220: '41645-003-0', 221: '41645-003-0', 222: '41645-003-0', 223: '41645-003-0', 224: '41645-003-0'} 
+#   EXFOR reaction        :{218: '(60-ND-145(N,A),,WID)', 219: '(60-ND-145(N,A),,WID)', 220: '(60-ND-145(N,A),,WID)', 221: '(60-ND-145(N,A),,WID)', 222: '(60-ND-145(N,A),,WID)', 223: '(60-ND-145(N,A),,WID)', 224: '(60-ND-145(N,A),,WID)'} 
+#   incident energy       : 4.3500e-06 eV - 3.0600e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41645.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41645
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.3500E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.5000E-07        9.0000E-08               NAN               NAN
+        4.2510E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.2000E-07        5.0000E-08               NAN               NAN
+        9.6000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.0000E-07               NAN               NAN               NAN
+        1.0295E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.5000E-07        7.0000E-08               NAN               NAN
+        1.4710E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.0000E-07               NAN               NAN               NAN
+        1.8920E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.0000E-07        9.0000E-08               NAN               NAN
+        3.0600E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.1000E-07        2.2000E-07               NAN               NAN

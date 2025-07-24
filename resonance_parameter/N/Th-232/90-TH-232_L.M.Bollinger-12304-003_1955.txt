@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 90-TH-232 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.M.Bollinger 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,98,223(B2),5504) 
+#   Year                  : 1955 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 90 
+#   A                     : 232 
+#   Nuclide               : 90-TH-232 
+# Reaction: 
+#   entry-subent-pointer  :{23: '12304-003-3', 24: '12304-003-3', 25: '12304-003-3', 26: '12304-003-3', 27: '12304-003-3', 28: '12304-003-3', 29: '12304-003-3', 30: '12304-003-3', 31: '12304-003-3', 32: '12304-003-3', 33: '12304-003-3', 34: '12304-003-3', 35: '12304-003-3', 36: '12304-003-4', 37: '12304-003-4', 38: '12304-003-4', 39: '12304-003-4', 40: '12304-003-4', 41: '12304-003-4', 42: '12304-003-4', 43: '12304-003-4', 44: '12304-003-4', 45: '12304-003-4', 46: '12304-003-4', 47: '12304-003-4', 48: '12304-003-4', 49: '12304-003-5', 50: '12304-003-5', 51: '12304-003-5', 52: '12304-003-5', 53: '12304-003-5', 54: '12304-003-5', 55: '12304-003-5', 56: '12304-003-5', 57: '12304-003-5', 58: '12304-003-5', 59: '12304-003-5', 60: '12304-003-5', 61: '12304-003-5'} 
+#   EXFOR reaction        :{23: '(90-TH-232(N,TOT),,WID)', 24: '(90-TH-232(N,TOT),,WID)', 25: '(90-TH-232(N,TOT),,WID)', 26: '(90-TH-232(N,TOT),,WID)', 27: '(90-TH-232(N,TOT),,WID)', 28: '(90-TH-232(N,TOT),,WID)', 29: '(90-TH-232(N,TOT),,WID)', 30: '(90-TH-232(N,TOT),,WID)', 31: '(90-TH-232(N,TOT),,WID)', 32: '(90-TH-232(N,TOT),,WID)', 33: '(90-TH-232(N,TOT),,WID)', 34: '(90-TH-232(N,TOT),,WID)', 35: '(90-TH-232(N,TOT),,WID)', 36: '(90-TH-232(N,G),,WID)', 37: '(90-TH-232(N,G),,WID)', 38: '(90-TH-232(N,G),,WID)', 39: '(90-TH-232(N,G),,WID)', 40: '(90-TH-232(N,G),,WID)', 41: '(90-TH-232(N,G),,WID)', 42: '(90-TH-232(N,G),,WID)', 43: '(90-TH-232(N,G),,WID)', 44: '(90-TH-232(N,G),,WID)', 45: '(90-TH-232(N,G),,WID)', 46: '(90-TH-232(N,G),,WID)', 47: '(90-TH-232(N,G),,WID)', 48: '(90-TH-232(N,G),,WID)', 49: '(90-TH-232(N,EL),,WID)', 50: '(90-TH-232(N,EL),,WID)', 51: '(90-TH-232(N,EL),,WID)', 52: '(90-TH-232(N,EL),,WID)', 53: '(90-TH-232(N,EL),,WID)', 54: '(90-TH-232(N,EL),,WID)', 55: '(90-TH-232(N,EL),,WID)', 56: '(90-TH-232(N,EL),,WID)', 57: '(90-TH-232(N,EL),,WID)', 58: '(90-TH-232(N,EL),,WID)', 59: '(90-TH-232(N,EL),,WID)', 60: '(90-TH-232(N,EL),,WID)', 61: '(90-TH-232(N,EL),,WID)'} 
+#   incident energy       : 2.1800e+01 eV - 2.6300e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12304.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12304
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.1800E+01               NAN        2.8500E-02        7.0000E-03        2.6100E-02        7.0000E-03        2.4000E-03        2.5000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3500E+01               NAN        3.9000E-02        1.1000E-02        3.4800E-02        1.1000E-02        4.2000E-03        5.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9600E+01               NAN        2.4500E-02        7.0000E-03        1.9600E-02        7.0000E-03        4.9000E-03        8.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9200E+01               NAN        9.0000E-02        1.8000E-02        4.9800E-02        1.8000E-02        4.0200E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1300E+02               NAN        3.4000E-02        5.3000E-03               NAN               NAN        7.2000E-03        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2200E+02               NAN        4.4000E-02        4.0000E-03               NAN               NAN        1.7200E-02        1.8000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3000E+02               NAN        3.3800E-02        4.6000E-03               NAN               NAN        7.0000E-03        1.1000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7100E+02               NAN        1.0700E-01        9.5000E-03               NAN               NAN        7.0200E-02        7.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9500E+02               NAN        5.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0000E+02               NAN        4.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2300E+02               NAN        6.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5200E+02               NAN        6.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6300E+02               NAN        5.7500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

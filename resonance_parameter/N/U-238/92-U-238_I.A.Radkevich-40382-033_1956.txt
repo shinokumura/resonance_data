@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.A.Radkevich 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,AE,1,(5),55,1956) 
+#   Year                  : 1956 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   entry-subent-pointer  :{72: '40382-033-2', 73: '40382-033-2', 74: '40382-033-2', 75: '40382-033-2', 76: '40382-033-2'} 
+#   EXFOR reaction        :{72: '(92-U-238(N,EL),,WID)', 73: '(92-U-238(N,EL),,WID)', 74: '(92-U-238(N,EL),,WID)', 75: '(92-U-238(N,EL),,WID)', 76: '(92-U-238(N,EL),,WID)'} 
+#   incident energy       : 6.6900e+00 eV - 8.3000e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40382.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40382
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.6900E+00               NAN               NAN               NAN               NAN               NAN        1.1500E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1000E+01               NAN               NAN               NAN               NAN               NAN        6.3500E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7000E+01               NAN               NAN               NAN               NAN               NAN        2.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.7700E+01               NAN               NAN               NAN               NAN               NAN        1.9100E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3000E+01               NAN               NAN               NAN               NAN               NAN        2.7000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

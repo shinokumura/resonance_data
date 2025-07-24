@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 80-HG-198 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.S.Levin 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 77-IR-191 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.Poortmans 
+#   Institute             : (2BLGMOL): SCK CEN (Belgian Nuclear Research Centre), Mol 
+#   Reference             : (J,NP/A,97,657,1967) 
+#   Year                  : 1967 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 77 
+#   A                     : 191 
+#   Nuclide               : 77-IR-191 
+# Reaction: 
+#   entry-subent-pointer  :{8: '20213-013-0'} 
+#   EXFOR reaction        :{8: '(77-IR-191(N,TOT),,WID)'} 
+#   incident energy       : 6.5400e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20213.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20213
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.5400E-07               NAN        7.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

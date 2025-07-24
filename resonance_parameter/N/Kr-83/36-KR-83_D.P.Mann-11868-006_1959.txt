@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 36-KR-83 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.P.Mann 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
@@ -22,4 +22,6 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.7900E+01        3.0000E-01               NAN               NAN        2.2000E-01        6.0000E-02        6.7000E-02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7900E+01        6.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3300E+02        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         2.3300E+02        6.0000E+00               NAN               NAN               NAN               NAN        2.9000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN

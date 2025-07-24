@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 48-CD-0 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : E.B.Meservey 
 #   Institute             : (1USACOL): Columbia University, New York, NY 

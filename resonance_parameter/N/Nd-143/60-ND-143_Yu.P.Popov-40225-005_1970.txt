@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 60-ND-143 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : Yu.P.Popov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,70HELSINKI,1,669,1970) 
+#   Year                  : 1970 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 60 
+#   A                     : 143 
+#   Nuclide               : 60-ND-143 
+# Reaction: 
+#   entry-subent-pointer  :{56: '40225-005-1', 57: '40225-005-1', 58: '40225-005-1', 59: '40225-005-1', 60: '40225-005-1', 61: '40225-005-1', 62: '40225-005-1', 63: '40225-005-1', 64: '40225-005-1'} 
+#   EXFOR reaction        :{56: '(60-ND-143(N,A),,WID)', 57: '(60-ND-143(N,A),,WID)', 58: '(60-ND-143(N,A),,WID)', 59: '(60-ND-143(N,A),,WID)', 60: '(60-ND-143(N,A),,WID)', 61: '(60-ND-143(N,A),,WID)', 62: '(60-ND-143(N,A),,WID)', 63: '(60-ND-143(N,A),,WID)', 64: '(60-ND-143(N,A),,WID)'} 
+#   incident energy       : -6.0000e-06 eV - 7.0500e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40225.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40225
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -6.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.1000E-06        1.3000E-06               NAN               NAN
+        5.5800E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.2000E-07        1.6000E-07               NAN               NAN
+        1.2700E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        8.6000E-06        1.2000E-06               NAN               NAN
+        1.3500E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.3600E-05        3.0000E-06               NAN               NAN
+        1.5900E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.0000E-06               NAN               NAN               NAN
+        1.8000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.7000E-06        4.0000E-07               NAN               NAN
+        1.8700E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.0000E-06               NAN               NAN               NAN
+        4.0800E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.2000E-05        1.2000E-06               NAN               NAN
+        7.0500E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.7000E-05        1.0000E-06               NAN               NAN

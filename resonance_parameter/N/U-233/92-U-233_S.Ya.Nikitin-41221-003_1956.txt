@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 92-U-233 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Ya.Nikitin 
+#   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference             : (S,AEC-TR-2435,(1),81,1956) 
+#   Year                  : 1956 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 92 
+#   A                     : 233 
+#   Nuclide               : 92-U-233 
+# Reaction: 
+#   entry-subent-pointer  :{26: '41221-003-3', 27: '41221-003-3', 28: '41221-003-3', 29: '41221-003-3', 30: '41221-003-3', 31: '41221-003-3', 32: '41221-003-3', 33: '41221-003-3', 34: '41221-003-4', 35: '41221-003-4', 36: '41221-003-4', 37: '41221-003-4', 38: '41221-003-4', 39: '41221-003-4', 40: '41221-003-4', 41: '41221-003-4', 42: '41221-003-5', 43: '41221-003-5', 44: '41221-003-5', 45: '41221-003-5', 46: '41221-003-5', 47: '41221-003-5', 48: '41221-003-5', 49: '41221-003-5'} 
+#   EXFOR reaction        :{26: '(92-U-233(N,F),,WID)', 27: '(92-U-233(N,F),,WID)', 28: '(92-U-233(N,F),,WID)', 29: '(92-U-233(N,F),,WID)', 30: '(92-U-233(N,F),,WID)', 31: '(92-U-233(N,F),,WID)', 32: '(92-U-233(N,F),,WID)', 33: '(92-U-233(N,F),,WID)', 34: '(92-U-233(N,G),,WID)', 35: '(92-U-233(N,G),,WID)', 36: '(92-U-233(N,G),,WID)', 37: '(92-U-233(N,G),,WID)', 38: '(92-U-233(N,G),,WID)', 39: '(92-U-233(N,G),,WID)', 40: '(92-U-233(N,G),,WID)', 41: '(92-U-233(N,G),,WID)', 42: '(92-U-233(N,TOT),,WID)', 43: '(92-U-233(N,TOT),,WID)', 44: '(92-U-233(N,TOT),,WID)', 45: '(92-U-233(N,TOT),,WID)', 46: '(92-U-233(N,TOT),,WID)', 47: '(92-U-233(N,TOT),,WID)', 48: '(92-U-233(N,TOT),,WID)', 49: '(92-U-233(N,TOT),,WID)'} 
+#   incident energy       : 1.4500e-06 eV - 1.2200e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41221.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41221
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4500E-06               NAN        4.0000E-01               NAN        3.0000E-02               NAN               NAN               NAN        3.7000E-01               NAN               NAN               NAN               NAN               NAN
+        1.7500E-06               NAN        2.5000E-01               NAN        4.0000E-02               NAN               NAN               NAN        2.1000E-01               NAN               NAN               NAN               NAN               NAN
+        2.2300E-06               NAN        1.4000E-01               NAN        4.0000E-02               NAN               NAN               NAN        1.0000E-01               NAN               NAN               NAN               NAN               NAN
+        3.4000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.4000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.5000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2200E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 60-ND-148 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.N.Alves 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,134,118,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 60 
+#   A                     : 148 
+#   Nuclide               : 60-ND-148 
+# Reaction: 
+#   entry-subent-pointer  :{0: '20688-030-3', 1: '20688-030-3', 2: '20688-030-3', 3: '20688-030-4', 4: '20688-030-4', 5: '20688-030-4'} 
+#   EXFOR reaction        :{0: '(60-ND-148(N,EL),,WID)', 1: '(60-ND-148(N,EL),,WID)', 2: '(60-ND-148(N,EL),,WID)', 3: '(60-ND-148(N,TOT),,WID)', 4: '(60-ND-148(N,TOT),,WID)', 5: '(60-ND-148(N,TOT),,WID)'} 
+#   incident energy       : 1.5510e+02 eV - 7.1490e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20688.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20688
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.5510E+02               NAN        2.5000E+00               NAN               NAN               NAN        2.4600E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.8620E+02               NAN               NAN               NAN               NAN               NAN        3.7000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1490E+02               NAN        2.6000E+00               NAN               NAN               NAN        2.4100E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN

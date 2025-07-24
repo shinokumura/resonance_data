@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 47-AG-107 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.R.Rae 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,NP,5,89,1958) 
+#   Year                  : 1958 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 47 
+#   A                     : 107 
+#   Nuclide               : 47-AG-107 
+# Reaction: 
+#   entry-subent-pointer  :{4: '21315-012-1', 5: '21315-012-1', 6: '21315-012-2', 7: '21315-012-2', 8: '21315-012-3', 9: '21315-012-3'} 
+#   EXFOR reaction        :{4: '(47-AG-107(N,TOT),,WID)', 5: '(47-AG-107(N,TOT),,WID)', 6: '(47-AG-107(N,EL),,WID)', 7: '(47-AG-107(N,EL),,WID)', 8: '(47-AG-107(N,G),,WID)', 9: '(47-AG-107(N,G),,WID)'} 
+#   incident energy       : 1.6300e-05 eV - 4.2000e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21315.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21315
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.6300E-05               NAN        1.4300E-01        9.0000E-03        1.3200E-01        9.0000E-03        1.1400E-02        4.1000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2000E-05               NAN        1.4200E-01        1.9000E-02        1.3700E-01        1.9000E-02        5.0000E-03        4.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

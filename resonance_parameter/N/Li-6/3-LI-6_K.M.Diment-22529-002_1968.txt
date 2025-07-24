@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 3-LI-6 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.M.Diment 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (P,AERE-PR/NP-14,20,1968) 
+#   Year                  : 1968 
+#   Facility              : None 
+# Target: 
+#   Z                     : 3 
+#   A                     : 6 
+#   Nuclide               : 3-LI-6 
+# Reaction: 
+#   entry-subent-pointer  :{8: '22529-002-2'} 
+#   EXFOR reaction        :{8: '(3-LI-6(N,EL),,WID)'} 
+#   incident energy       : 2.4853e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22529.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22529
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.4853E+05               NAN               NAN               NAN               NAN               NAN        1.1500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN

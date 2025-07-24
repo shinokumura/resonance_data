@@ -1,0 +1,46 @@
+# Header: 
+#   Title                 : 94-PU-242 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.W.Bergen 
+#   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference             : (J,NP/A,163,577,197103) 
+#   Year                  : 1971 
+#   Facility              : None 
+# Target: 
+#   Z                     : 94 
+#   A                     : 242 
+#   Nuclide               : 94-PU-242 
+# Reaction: 
+#   entry-subent-pointer  :{49: '10062-003-3', 50: '10062-003-3', 51: '10062-003-3', 52: '10062-003-3', 53: '10062-003-3', 54: '10062-003-3', 55: '10062-003-3', 56: '10062-003-3', 57: '10062-003-3', 58: '10062-003-3', 59: '10062-003-3', 60: '10062-003-3', 61: '10062-003-3', 62: '10062-003-3', 63: '10062-003-3', 64: '10062-003-3', 65: '10062-003-3', 66: '10062-003-3', 67: '10062-003-3', 68: '10062-003-3', 69: '10062-003-3', 70: '10062-003-3', 71: '10062-003-3'} 
+#   EXFOR reaction        :{49: '(94-PU-242(N,F),,WID)', 50: '(94-PU-242(N,F),,WID)', 51: '(94-PU-242(N,F),,WID)', 52: '(94-PU-242(N,F),,WID)', 53: '(94-PU-242(N,F),,WID)', 54: '(94-PU-242(N,F),,WID)', 55: '(94-PU-242(N,F),,WID)', 56: '(94-PU-242(N,F),,WID)', 57: '(94-PU-242(N,F),,WID)', 58: '(94-PU-242(N,F),,WID)', 59: '(94-PU-242(N,F),,WID)', 60: '(94-PU-242(N,F),,WID)', 61: '(94-PU-242(N,F),,WID)', 62: '(94-PU-242(N,F),,WID)', 63: '(94-PU-242(N,F),,WID)', 64: '(94-PU-242(N,F),,WID)', 65: '(94-PU-242(N,F),,WID)', 66: '(94-PU-242(N,F),,WID)', 67: '(94-PU-242(N,F),,WID)', 68: '(94-PU-242(N,F),,WID)', 69: '(94-PU-242(N,F),,WID)', 70: '(94-PU-242(N,F),,WID)', 71: '(94-PU-242(N,F),,WID)'} 
+#   incident energy       : 5.3400e+01 eV - 7.8820e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10062.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10062
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.3400E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.4000E-05               NAN               NAN               NAN               NAN               NAN
+        6.7500E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN        7.7000E-05               NAN               NAN               NAN               NAN               NAN
+        8.8200E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.2000E-05               NAN               NAN               NAN               NAN               NAN
+        1.0710E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.1000E-05               NAN               NAN               NAN               NAN               NAN
+        1.3100E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.8000E-05               NAN               NAN               NAN               NAN               NAN
+        1.4920E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.9000E-05               NAN               NAN               NAN               NAN               NAN
+        2.0430E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.9000E-05               NAN               NAN               NAN               NAN               NAN
+        2.1460E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.9000E-04               NAN               NAN               NAN               NAN               NAN
+        2.3190E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        7.4000E-05               NAN               NAN               NAN               NAN               NAN
+        2.7220E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        9.1000E-05               NAN               NAN               NAN               NAN               NAN
+        3.0210E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.1000E-04               NAN               NAN               NAN               NAN               NAN
+        3.1900E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.3000E-04               NAN               NAN               NAN               NAN               NAN
+        3.3120E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.8000E-04               NAN               NAN               NAN               NAN               NAN
+        3.8070E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        8.4000E-05               NAN               NAN               NAN               NAN               NAN
+        4.8240E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0450E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3510E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.4580E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.9400E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1450E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3710E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.5710E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.5000E-03               NAN               NAN               NAN               NAN               NAN
+        7.8820E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.5000E-03               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 56-BA-132 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.M.Masyanov 
+#   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
+#   Reference             : (J,SJA,69,799,1990) 
+#   Year                  : 1990 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 56 
+#   A                     : 132 
+#   Nuclide               : 56-BA-132 
+# Reaction: 
+#   entry-subent-pointer  :{1: '41103-002-2'} 
+#   EXFOR reaction        :{1: '(56-BA-132(N,TOT),,WID)'} 
+#   incident energy       : 1.0430e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41103.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41103
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0430E+02               NAN        2.5700E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

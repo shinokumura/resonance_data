@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 94-PU-238 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.E.Young 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,NSE,30,355,67) 
+#   Year                  : 1967 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 94 
+#   A                     : 238 
+#   Nuclide               : 94-PU-238 
+# Reaction: 
+#   entry-subent-pointer  :{3: '12484-005-2', 4: '12484-005-2', 5: '12484-005-2', 6: '12484-005-2', 7: '12484-005-2', 8: '12484-005-2', 9: '12484-005-2', 10: '12484-005-2', 11: '12484-005-2', 12: '12484-005-2', 13: '12484-005-2', 14: '12484-005-2', 15: '12484-005-2', 16: '12484-005-2'} 
+#   EXFOR reaction        :{3: '(94-PU-238(N,G),,WID)', 4: '(94-PU-238(N,G),,WID)', 5: '(94-PU-238(N,G),,WID)', 6: '(94-PU-238(N,G),,WID)', 7: '(94-PU-238(N,G),,WID)', 8: '(94-PU-238(N,G),,WID)', 9: '(94-PU-238(N,G),,WID)', 10: '(94-PU-238(N,G),,WID)', 11: '(94-PU-238(N,G),,WID)', 12: '(94-PU-238(N,G),,WID)', 13: '(94-PU-238(N,G),,WID)', 14: '(94-PU-238(N,G),,WID)', 15: '(94-PU-238(N,G),,WID)', 16: '(94-PU-238(N,G),,WID)'} 
+#   incident energy       : 2.8850e-06 eV - 1.9200e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12484.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12484
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.8850E-06               NAN               NAN               NAN        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.9750E-06               NAN               NAN               NAN        2.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8562E-05               NAN               NAN               NAN        3.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9800E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0100E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1380E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1860E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2250E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5100E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7120E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8250E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9200E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

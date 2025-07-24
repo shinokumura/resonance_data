@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-241 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : P.A.Egelstaff 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 56-BA-132 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.N.Alves 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,134,118,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 56 
+#   A                     : 132 
+#   Nuclide               : 56-BA-132 
+# Reaction: 
+#   entry-subent-pointer  :{0: '20688-010-4'} 
+#   EXFOR reaction        :{0: '(56-BA-132(N,TOT),,WID)'} 
+#   incident energy       : 5.7200e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20688.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20688
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.7200E+01               NAN        2.8000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

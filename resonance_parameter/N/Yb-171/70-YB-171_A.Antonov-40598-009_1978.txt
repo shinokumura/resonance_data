@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,27,18,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :{69: '40598-009-0', 70: '40598-009-0', 71: '40598-009-0', 72: '40598-009-0', 73: '40598-009-0', 74: '40598-009-0', 75: '40598-009-0', 76: '40598-009-0'} 
+#   EXFOR reaction        :{69: '(70-YB-171(N,A),,WID)', 70: '(70-YB-171(N,A),,WID)', 71: '(70-YB-171(N,A),,WID)', 72: '(70-YB-171(N,A),,WID)', 73: '(70-YB-171(N,A),,WID)', 74: '(70-YB-171(N,A),,WID)', 75: '(70-YB-171(N,A),,WID)', 76: '(70-YB-171(N,A),,WID)'} 
+#   incident energy       : 7.9100e-06 eV - 5.2870e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40598
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.9100E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.6000E-09        5.0000E-10               NAN               NAN
+        1.3040E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.0000E-09               NAN               NAN               NAN
+        2.1720E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        8.1000E-08               NAN               NAN               NAN
+        2.8170E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.5000E-08        5.0000E-09               NAN               NAN
+        3.4520E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        7.0000E-09        3.0000E-09               NAN               NAN
+        4.1420E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.8000E-08               NAN               NAN               NAN
+        4.6380E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.4200E-07               NAN               NAN               NAN
+        5.2870E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.2000E-08        1.5000E-08               NAN               NAN

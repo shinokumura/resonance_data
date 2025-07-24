@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 40-ZR-96 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.M.Salah 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (C,85SANTA,1,593,198505) 
+#   Year                  : 1985 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 96 
+#   Nuclide               : 40-ZR-96 
+# Reaction: 
+#   entry-subent-pointer  :{114: '12940-003-3', 115: '12940-003-4'} 
+#   EXFOR reaction        :{114: '(40-ZR-96(N,G),,WID)', 115: '(40-ZR-96(N,EL),,WID)'} 
+#   incident energy       : 3.0110e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12940.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12940
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0110E+02               NAN               NAN               NAN        2.8500E-01        7.0000E-03        2.2300E-01        7.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN

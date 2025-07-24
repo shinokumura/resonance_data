@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 3-LI-7 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.L.Imhof 
+#   Institute             : (1USALMS): Lockheed Missiles and Space Division , Palo Alto, CA 
+#   Reference             : (J,PR,114,1037,59) 
+#   Year                  : 1959 
+#   Facility              : None 
+# Target: 
+#   Z                     : 3 
+#   A                     : 7 
+#   Nuclide               : 3-LI-7 
+# Reaction: 
+#   entry-subent-pointer  :{4: '11101-005-0'} 
+#   EXFOR reaction        :{4: '(3-LI-7(N,G),,WID)'} 
+#   incident energy       : 2.5000e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/111/11101.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11101
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5000E-01               NAN               NAN               NAN        7.0000E-02        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

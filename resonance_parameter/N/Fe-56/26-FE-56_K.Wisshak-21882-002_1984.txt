@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 26-FE-56 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Wisshak 
+#   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
+#   Reference             : (J,NSE,86,(2),168,8402) 
+#   Year                  : 1984 
+#   Facility              : (VDG  ): Van de Graaff 
+# Target: 
+#   Z                     : 26 
+#   A                     : 56 
+#   Nuclide               : 26-FE-56 
+# Reaction: 
+#   entry-subent-pointer  :{964: '21882-002-0'} 
+#   EXFOR reaction        :{964: '(26-FE-56(N,G),,WID)'} 
+#   incident energy       : 2.7700e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21882.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21882
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7700E-02               NAN               NAN               NAN        1.0900E+00        5.5590E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

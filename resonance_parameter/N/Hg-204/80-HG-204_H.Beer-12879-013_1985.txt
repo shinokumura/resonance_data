@@ -1,0 +1,46 @@
+# Header: 
+#   Title                 : 80-HG-204 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Beer 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR/C,32,738,198509) 
+#   Year                  : 1985 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 80 
+#   A                     : 204 
+#   Nuclide               : 80-HG-204 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12879-013-4', 1: '12879-013-4', 2: '12879-013-4', 3: '12879-013-4', 4: '12879-013-4', 5: '12879-013-4', 6: '12879-013-4', 7: '12879-013-4', 8: '12879-013-4', 9: '12879-013-4', 10: '12879-013-4', 11: '12879-013-4', 12: '12879-013-4', 13: '12879-013-4', 14: '12879-013-4', 15: '12879-013-4', 16: '12879-013-4', 17: '12879-013-4', 18: '12879-013-4', 19: '12879-013-4', 20: '12879-013-4', 21: '12879-013-4', 22: '12879-013-4'} 
+#   EXFOR reaction        :{0: '(80-HG-204(N,G),,WID)', 1: '(80-HG-204(N,G),,WID)', 2: '(80-HG-204(N,G),,WID)', 3: '(80-HG-204(N,G),,WID)', 4: '(80-HG-204(N,G),,WID)', 5: '(80-HG-204(N,G),,WID)', 6: '(80-HG-204(N,G),,WID)', 7: '(80-HG-204(N,G),,WID)', 8: '(80-HG-204(N,G),,WID)', 9: '(80-HG-204(N,G),,WID)', 10: '(80-HG-204(N,G),,WID)', 11: '(80-HG-204(N,G),,WID)', 12: '(80-HG-204(N,G),,WID)', 13: '(80-HG-204(N,G),,WID)', 14: '(80-HG-204(N,G),,WID)', 15: '(80-HG-204(N,G),,WID)', 16: '(80-HG-204(N,G),,WID)', 17: '(80-HG-204(N,G),,WID)', 18: '(80-HG-204(N,G),,WID)', 19: '(80-HG-204(N,G),,WID)', 20: '(80-HG-204(N,G),,WID)', 21: '(80-HG-204(N,G),,WID)', 22: '(80-HG-204(N,G),,WID)'} 
+#   incident energy       : 5.9960e+03 eV - 9.7910e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12879.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12879
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.9960E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0150E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.7100E+03               NAN               NAN               NAN        1.9050E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.2820E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4318E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6730E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2060E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4777E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6570E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1515E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7010E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7154E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2105E+04               NAN               NAN               NAN        2.3690E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2757E+04               NAN               NAN               NAN        2.2940E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3920E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0013E+04               NAN               NAN               NAN        2.7960E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.0551E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.2742E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5328E+04               NAN               NAN               NAN        3.7310E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.6639E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.2877E+04               NAN               NAN               NAN        1.9800E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.3308E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.7910E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

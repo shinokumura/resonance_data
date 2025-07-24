@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 30-ZN-66 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : P.D.Miller 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
@@ -22,5 +22,11 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         1.1200E-02        2.0000E-04               NAN               NAN               NAN               NAN        8.0000E+01        3.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1200E-02        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1200E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5300E-02        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.5300E-02        3.0000E-04               NAN               NAN               NAN               NAN        5.0000E+02        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5300E-02        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1000E-02        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1000E-02        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         2.1000E-02        5.0000E-03               NAN               NAN               NAN               NAN        2.6000E+02        5.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN

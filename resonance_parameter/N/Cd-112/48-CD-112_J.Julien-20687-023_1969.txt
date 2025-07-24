@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 48-CD-112 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Julien 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,132,129,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 48 
+#   A                     : 112 
+#   Nuclide               : 48-CD-112 
+# Reaction: 
+#   entry-subent-pointer  :{14: '20687-023-4', 15: '20687-023-4', 16: '20687-023-5', 17: '20687-023-5', 18: '20687-023-6', 19: '20687-023-6'} 
+#   EXFOR reaction        :{14: '(48-CD-112(N,EL),,WID)', 15: '(48-CD-112(N,EL),,WID)', 16: '(48-CD-112(N,TOT),,WID)', 17: '(48-CD-112(N,TOT),,WID)', 18: '(48-CD-112(N,G),,WID)', 19: '(48-CD-112(N,G),,WID)'} 
+#   incident energy       : 6.6700e+01 eV - 8.3300e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20687
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.6700E+01               NAN        9.0000E-02               NAN        8.0000E-02               NAN        9.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.3300E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

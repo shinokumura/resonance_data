@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 22-TI-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.M.Good 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,109,926,1958) 
+#   Year                  : 1958 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 22 
+#   A                     : 0 
+#   Nuclide               : 22-TI-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: '11402-011-2', 1: '11402-011-2', 2: '11402-011-2'} 
+#   EXFOR reaction        :{0: '(22-TI-0(N,TOT),,WID)', 1: '(22-TI-0(N,TOT),,WID)', 2: '(22-TI-0(N,TOT),,WID)'} 
+#   incident energy       : 3.0000e+03 eV - 1.7500e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11402.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11402
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0000E+03               NAN        5.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7500E+04               NAN        7.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

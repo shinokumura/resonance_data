@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.S.Divatia 
+#   Institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference             : (C,66PARIS,1,233,1966) 
+#   Year                  : 1966 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :{92: '30092-008-0', 93: '30092-008-0', 94: '30092-008-0', 95: '30092-008-0', 96: '30092-008-0', 97: '30092-008-0'} 
+#   EXFOR reaction        :{92: '(8-O-16(N,EL),,WID)', 93: '(8-O-16(N,EL),,WID)', 94: '(8-O-16(N,EL),,WID)', 95: '(8-O-16(N,EL),,WID)', 96: '(8-O-16(N,EL),,WID)', 97: '(8-O-16(N,EL),,WID)'} 
+#   incident energy       : 4.5300e+00 eV - 6.1100e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30092.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30092
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5300E+00               NAN               NAN               NAN               NAN               NAN        3.6900E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6400E+00               NAN               NAN               NAN               NAN               NAN        4.1800E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3800E+00               NAN               NAN               NAN               NAN               NAN        3.7800E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7100E+00               NAN               NAN               NAN               NAN               NAN        7.7400E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9500E+00               NAN               NAN               NAN               NAN               NAN        1.2270E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.1100E+00               NAN               NAN               NAN               NAN               NAN        4.3700E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

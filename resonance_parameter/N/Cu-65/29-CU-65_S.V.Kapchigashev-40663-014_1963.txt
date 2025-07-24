@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 29-CU-65 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.V.Kapchigashev 
+#   Institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference             : (J,AE,15,120,1963) 
+#   Year                  : 1963 
+#   Facility              : None 
+# Target: 
+#   Z                     : 29 
+#   A                     : 65 
+#   Nuclide               : 29-CU-65 
+# Reaction: 
+#   entry-subent-pointer  :{3: '40663-014-1'} 
+#   EXFOR reaction        :{3: '(29-CU-65(N,G),,WID)'} 
+#   incident energy       : 2.2700e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40663.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40663
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.2700E-04               NAN               NAN               NAN        6.0000E-01        2.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

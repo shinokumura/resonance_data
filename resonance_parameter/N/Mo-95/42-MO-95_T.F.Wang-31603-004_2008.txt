@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 42-MO-95 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : T.F.Wang 
 #   Institute             : (3KORKNU): Kyungpook National University, Daegu 
@@ -22,6 +22,14 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         4.4750E+01        1.0000E-02               NAN               NAN        1.0680E-01        6.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4750E+01        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.4750E+01        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1060E+02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1060E+02        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.1060E+02        1.0000E+00               NAN               NAN        3.1040E-01        3.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1850E+02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1850E+02        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.1850E+02        1.0000E+00               NAN               NAN        2.0050E-01        2.0100E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5940E+02        1.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.5940E+02        3.0000E-01               NAN               NAN        1.4720E-01        1.4600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5940E+02        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

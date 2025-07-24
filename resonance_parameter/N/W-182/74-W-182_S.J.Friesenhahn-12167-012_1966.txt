@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 74-W-182 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.J.Friesenhahn 
+#   Institute             : (1USAGA): Gulf Energy and Environmental Systems, San Diego, CA 
+#   Reference             : (J,NSE,26,487,66) 
+#   Year                  : 1966 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 74 
+#   A                     : 182 
+#   Nuclide               : 74-W-182 
+# Reaction: 
+#   entry-subent-pointer  :{84: '12167-012-2'} 
+#   EXFOR reaction        :{84: '(74-W-182(N,G),,WID)'} 
+#   incident energy       : -3.0700e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12167.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12167
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -3.0700E+01               NAN               NAN               NAN        5.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

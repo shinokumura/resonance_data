@@ -1,0 +1,47 @@
+# Header: 
+#   Title                 : 18-AR-40 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.T.Seibel Jr 
+#   Institute             : (1USADKE): Duke University, Durham, NC 
+#   Reference             : (J,DA/B,30,339,6907) 
+#   Year                  : 1969 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 18 
+#   A                     : 40 
+#   Nuclide               : 18-AR-40 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12683-004-4', 1: '12683-004-4', 2: '12683-004-4', 3: '12683-004-4', 4: '12683-004-4', 5: '12683-004-4', 6: '12683-004-4', 7: '12683-004-4', 8: '12683-004-4', 9: '12683-004-4', 10: '12683-004-4', 11: '12683-004-4', 12: '12683-004-4', 13: '12683-004-4', 14: '12683-004-4', 15: '12683-004-4', 16: '12683-004-4', 17: '12683-004-4', 18: '12683-004-4', 19: '12683-004-4', 20: '12683-004-4', 21: '12683-004-4', 22: '12683-004-4', 23: '12683-004-4'} 
+#   EXFOR reaction        :{0: '(18-AR-40(N,TOT),,WID)', 1: '(18-AR-40(N,TOT),,WID)', 2: '(18-AR-40(N,TOT),,WID)', 3: '(18-AR-40(N,TOT),,WID)', 4: '(18-AR-40(N,TOT),,WID)', 5: '(18-AR-40(N,TOT),,WID)', 6: '(18-AR-40(N,TOT),,WID)', 7: '(18-AR-40(N,TOT),,WID)', 8: '(18-AR-40(N,TOT),,WID)', 9: '(18-AR-40(N,TOT),,WID)', 10: '(18-AR-40(N,TOT),,WID)', 11: '(18-AR-40(N,TOT),,WID)', 12: '(18-AR-40(N,TOT),,WID)', 13: '(18-AR-40(N,TOT),,WID)', 14: '(18-AR-40(N,TOT),,WID)', 15: '(18-AR-40(N,TOT),,WID)', 16: '(18-AR-40(N,TOT),,WID)', 17: '(18-AR-40(N,TOT),,WID)', 18: '(18-AR-40(N,TOT),,WID)', 19: '(18-AR-40(N,TOT),,WID)', 20: '(18-AR-40(N,TOT),,WID)', 21: '(18-AR-40(N,TOT),,WID)', 22: '(18-AR-40(N,TOT),,WID)', 23: '(18-AR-40(N,TOT),,WID)'} 
+#   incident energy       : 7.7000e+04 eV - 6.2800e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12683.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12683
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        7.7000E+04               NAN        1.4800E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1600E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7300E+05               NAN        4.2000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8100E+05               NAN        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2100E+05               NAN        2.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5500E+05               NAN        3.3000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6800E+05               NAN        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7500E+05               NAN        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9700E+05               NAN        3.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.0200E+05               NAN        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3800E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6050E+05               NAN        1.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.6950E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8800E+05               NAN        9.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0000E+05               NAN        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5600E+05               NAN        9.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6900E+05               NAN        1.1000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3100E+05               NAN        8.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.5100E+05               NAN        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.6900E+05               NAN        1.8000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9300E+05               NAN        8.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.9600E+05               NAN        4.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0500E+05               NAN        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.2800E+05               NAN        1.5000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

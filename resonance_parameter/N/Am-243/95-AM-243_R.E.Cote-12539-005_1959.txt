@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 95-AM-243 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.E.Cote 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,114,505,59) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 95 
+#   A                     : 243 
+#   Nuclide               : 95-AM-243 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12539-005-3', 1: '12539-005-3', 2: '12539-005-3', 3: '12539-005-3', 4: '12539-005-3', 5: '12539-005-3', 6: '12539-005-3', 7: '12539-005-3', 8: '12539-005-3', 9: '12539-005-3', 10: '12539-005-3', 11: '12539-005-4', 12: '12539-005-4', 13: '12539-005-4', 14: '12539-005-4', 15: '12539-005-4', 16: '12539-005-4', 17: '12539-005-4', 18: '12539-005-4', 19: '12539-005-4', 20: '12539-005-4', 21: '12539-005-4', 22: '12539-005-5', 23: '12539-005-5', 24: '12539-005-5', 25: '12539-005-5', 26: '12539-005-5', 27: '12539-005-5', 28: '12539-005-5', 29: '12539-005-5', 30: '12539-005-5', 31: '12539-005-5', 32: '12539-005-5'} 
+#   EXFOR reaction        :{0: '(95-AM-243(N,TOT),,WID)', 1: '(95-AM-243(N,TOT),,WID)', 2: '(95-AM-243(N,TOT),,WID)', 3: '(95-AM-243(N,TOT),,WID)', 4: '(95-AM-243(N,TOT),,WID)', 5: '(95-AM-243(N,TOT),,WID)', 6: '(95-AM-243(N,TOT),,WID)', 7: '(95-AM-243(N,TOT),,WID)', 8: '(95-AM-243(N,TOT),,WID)', 9: '(95-AM-243(N,TOT),,WID)', 10: '(95-AM-243(N,TOT),,WID)', 11: '(95-AM-243(N,G),,WID)', 12: '(95-AM-243(N,G),,WID)', 13: '(95-AM-243(N,G),,WID)', 14: '(95-AM-243(N,G),,WID)', 15: '(95-AM-243(N,G),,WID)', 16: '(95-AM-243(N,G),,WID)', 17: '(95-AM-243(N,G),,WID)', 18: '(95-AM-243(N,G),,WID)', 19: '(95-AM-243(N,G),,WID)', 20: '(95-AM-243(N,G),,WID)', 21: '(95-AM-243(N,G),,WID)', 22: '(95-AM-243(N,EL),,WID)', 23: '(95-AM-243(N,EL),,WID)', 24: '(95-AM-243(N,EL),,WID)', 25: '(95-AM-243(N,EL),,WID)', 26: '(95-AM-243(N,EL),,WID)', 27: '(95-AM-243(N,EL),,WID)', 28: '(95-AM-243(N,EL),,WID)', 29: '(95-AM-243(N,EL),,WID)', 30: '(95-AM-243(N,EL),,WID)', 31: '(95-AM-243(N,EL),,WID)', 32: '(95-AM-243(N,EL),,WID)'} 
+#   incident energy       : 9.7600e-01 eV - 1.5300e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12539.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12539
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.7600E-01               NAN        7.8000E-02        2.9000E-02        7.8000E-02        2.9000E-02        1.7000E-05        3.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3530E+00               NAN        4.3800E-02        3.3000E-03        4.3000E-02        3.3000E-03        8.2000E-04        8.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7400E+00               NAN        3.0500E-02        8.1000E-03        3.0200E-02        8.1000E-03        1.8000E-04        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        3.4200E+00               NAN        4.2200E-02        3.0000E-03               NAN               NAN        2.1000E-04        1.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        5.1200E+00               NAN        4.2200E-02        3.0000E-03               NAN               NAN        2.2000E-04        2.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        6.5400E+00               NAN        4.2800E-02        3.0000E-03               NAN               NAN        8.3000E-04        4.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        7.8400E+00               NAN        4.2900E-02        3.0000E-03               NAN               NAN        9.3000E-04        5.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0300E+01               NAN        4.2200E-02        3.0000E-03               NAN               NAN        2.3000E-04        5.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2800E+01               NAN        4.3500E-02        3.0000E-03               NAN               NAN        1.5000E-03        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3100E+01               NAN        4.2800E-02        3.0000E-03               NAN               NAN        8.0000E-04        2.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5300E+01               NAN        4.2600E-02        3.0000E-03               NAN               NAN        6.3000E-04        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN

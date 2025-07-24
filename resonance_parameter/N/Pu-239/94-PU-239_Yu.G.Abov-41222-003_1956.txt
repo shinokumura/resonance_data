@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-239 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : Yu.G.Abov 
 #   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 

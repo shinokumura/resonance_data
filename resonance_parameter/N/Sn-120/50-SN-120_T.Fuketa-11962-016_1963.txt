@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 50-SN-120 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.Fuketa 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (R,ORNL-3425,36,63) 
+#   Year                  : 1963 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 50 
+#   A                     : 120 
+#   Nuclide               : 50-SN-120 
+# Reaction: 
+#   entry-subent-pointer  :{1: '11962-016-2', 2: '11962-016-2', 3: '11962-016-2', 4: '11962-016-2', 5: '11962-016-2', 6: '11962-016-2', 7: '11962-016-2'} 
+#   EXFOR reaction        :{1: '(50-SN-120(N,EL),,WID)', 2: '(50-SN-120(N,EL),,WID)', 3: '(50-SN-120(N,EL),,WID)', 4: '(50-SN-120(N,EL),,WID)', 5: '(50-SN-120(N,EL),,WID)', 6: '(50-SN-120(N,EL),,WID)', 7: '(50-SN-120(N,EL),,WID)'} 
+#   incident energy       : 3.6480e+02 eV - 1.7140e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11962.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11962
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.6480E+02               NAN               NAN               NAN               NAN               NAN        2.2000E-03        3.0000E-04               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2690E+02               NAN               NAN               NAN               NAN               NAN        2.2000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        9.2200E+02               NAN               NAN               NAN               NAN               NAN        2.3000E-02        1.2000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        9.5300E+02               NAN               NAN               NAN               NAN               NAN        9.0000E-02        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2870E+03               NAN               NAN               NAN               NAN               NAN        6.0000E-03        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4270E+03               NAN               NAN               NAN               NAN               NAN        5.0000E-02        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7140E+03               NAN               NAN               NAN               NAN               NAN        2.5000E-01        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN

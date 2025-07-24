@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 55-CS-133 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.W.Hockenbury 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (R,ERDA-NDC-9,242,7703) 
+#   Year                  : 1977 
+#   Facility              : None 
+# Target: 
+#   Z                     : 55 
+#   A                     : 133 
+#   Nuclide               : 55-CS-133 
+# Reaction: 
+#   entry-subent-pointer  :{81: '10980-004-2', 82: '10980-004-2', 83: '10980-004-2', 84: '10980-004-2', 85: '10980-004-2', 86: '10980-004-2', 87: '10980-004-2', 88: '10980-004-3', 89: '10980-004-3', 90: '10980-004-3', 91: '10980-004-3', 92: '10980-004-3', 93: '10980-004-3', 94: '10980-004-3', 95: '10980-004-4', 96: '10980-004-4', 97: '10980-004-4', 98: '10980-004-4', 99: '10980-004-4', 100: '10980-004-4', 101: '10980-004-4'} 
+#   EXFOR reaction        :{81: '(55-CS-133(N,G),,WID)', 82: '(55-CS-133(N,G),,WID)', 83: '(55-CS-133(N,G),,WID)', 84: '(55-CS-133(N,G),,WID)', 85: '(55-CS-133(N,G),,WID)', 86: '(55-CS-133(N,G),,WID)', 87: '(55-CS-133(N,G),,WID)', 88: '(55-CS-133(N,EL),,WID)', 89: '(55-CS-133(N,EL),,WID)', 90: '(55-CS-133(N,EL),,WID)', 91: '(55-CS-133(N,EL),,WID)', 92: '(55-CS-133(N,EL),,WID)', 93: '(55-CS-133(N,EL),,WID)', 94: '(55-CS-133(N,EL),,WID)', 95: '(55-CS-133(N,TOT),,WID)', 96: '(55-CS-133(N,TOT),,WID)', 97: '(55-CS-133(N,TOT),,WID)', 98: '(55-CS-133(N,TOT),,WID)', 99: '(55-CS-133(N,TOT),,WID)', 100: '(55-CS-133(N,TOT),,WID)', 101: '(55-CS-133(N,TOT),,WID)'} 
+#   incident energy       : 4.7500e+01 eV - 2.9550e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10980.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10980
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.7500E+01               NAN        2.3900E-01               NAN        1.1900E-01               NAN        1.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.2700E+01               NAN        1.4800E-01               NAN        1.1900E-01               NAN        2.8500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4200E+01               NAN        1.4200E-01               NAN        1.1900E-01               NAN        2.2800E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4620E+02               NAN        1.4200E-01               NAN        1.1900E-01               NAN        2.2800E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0130E+02               NAN        1.4700E-01               NAN        1.1900E-01               NAN        2.8100E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.2060E+02               NAN        1.2600E-01               NAN        1.1900E-01               NAN        6.7000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9550E+02               NAN        1.4000E-01               NAN        1.1900E-01               NAN        2.1400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

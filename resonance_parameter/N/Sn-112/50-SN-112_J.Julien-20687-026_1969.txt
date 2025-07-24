@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 50-SN-112 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Julien 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,132,129,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 50 
+#   A                     : 112 
+#   Nuclide               : 50-SN-112 
+# Reaction: 
+#   entry-subent-pointer  :{14: '20687-026-6', 15: '20687-026-7'} 
+#   EXFOR reaction        :{14: '(50-SN-112(N,TOT),,WID)', 15: '(50-SN-112(N,G),,WID)'} 
+#   incident energy       : 9.5000e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20687
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.5000E+01               NAN        2.0000E-01               NAN        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

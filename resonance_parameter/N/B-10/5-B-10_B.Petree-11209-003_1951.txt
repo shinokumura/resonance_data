@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 5-B-10 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : B.Petree 
 #   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 

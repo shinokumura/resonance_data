@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 46-PD-105 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : Yu.P.Popov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,SNP,9,680,1969) 
+#   Year                  : 1969 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 46 
+#   A                     : 105 
+#   Nuclide               : 46-PD-105 
+# Reaction: 
+#   entry-subent-pointer  :{26: '40304-005-0', 27: '40304-005-0', 28: '40304-005-0'} 
+#   EXFOR reaction        :{26: '(46-PD-105(N,A),,WID)', 27: '(46-PD-105(N,A),,WID)', 28: '(46-PD-105(N,A),,WID)'} 
+#   incident energy       : 1.3200e-05 eV - 7.8500e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40304.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40304
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3200E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        6.0000E-08               NAN               NAN               NAN
+        3.0200E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.4000E-06               NAN               NAN               NAN
+        7.8500E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        6.0000E-07               NAN               NAN               NAN

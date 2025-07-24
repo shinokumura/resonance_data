@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.T.Carpenter 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (R,ANL-6589,62) 
+#   Year                  : 1962 
+#   Facility              : None 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12048-008-2'} 
+#   EXFOR reaction        :{0: '(70-YB-171(N,TOT),,WID)'} 
+#   incident energy       : 1.3500e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12048.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12048
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.3500E+01               NAN        9.0700E+03        8.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

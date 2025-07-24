@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 8-O-18 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.Schellenberg 
+#   Institute             : (2SWTBAS): University of Basel, Basel 
+#   Reference             : (J,HPA,32,357,5905) 
+#   Year                  : 1959 
+#   Facility              : (CCW  ): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 18 
+#   Nuclide               : 8-O-18 
+# Reaction: 
+#   entry-subent-pointer  :{0: '21171-005-0', 1: '21171-005-0', 2: '21171-005-0', 3: '21171-005-0'} 
+#   EXFOR reaction        :{0: '(8-O-18(N,TOT),,WID)', 1: '(8-O-18(N,TOT),,WID)', 2: '(8-O-18(N,TOT),,WID)', 3: '(8-O-18(N,TOT),,WID)'} 
+#   incident energy       : 3.0500e+00 eV - 4.0000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/211/21171.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21171
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0500E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2000E+00               NAN        2.5000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5000E+00               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0000E+00               NAN        6.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 27-CO-59 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : F.G.P.Seidl 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 

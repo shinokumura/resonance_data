@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 26-FE-56 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : H.I.Liou 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 

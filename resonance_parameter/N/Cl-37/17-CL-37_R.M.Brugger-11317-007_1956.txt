@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 17-CL-37 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.M.Brugger 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 78-PT-192 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.De Barros 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,131,305,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 78 
+#   A                     : 192 
+#   Nuclide               : 78-PT-192 
+# Reaction: 
+#   entry-subent-pointer  :{2: '20685-015-3', 3: '20685-015-3', 4: '20685-015-3', 5: '20685-015-3', 6: '20685-015-3', 7: '20685-015-3', 8: '20685-015-4', 9: '20685-015-4', 10: '20685-015-4', 11: '20685-015-4', 12: '20685-015-4', 13: '20685-015-4', 14: '20685-015-5', 15: '20685-015-5', 16: '20685-015-5', 17: '20685-015-5', 18: '20685-015-5', 19: '20685-015-5'} 
+#   EXFOR reaction        :{2: '(78-PT-192(N,EL),,WID)', 3: '(78-PT-192(N,EL),,WID)', 4: '(78-PT-192(N,EL),,WID)', 5: '(78-PT-192(N,EL),,WID)', 6: '(78-PT-192(N,EL),,WID)', 7: '(78-PT-192(N,EL),,WID)', 8: '(78-PT-192(N,TOT),,WID)', 9: '(78-PT-192(N,TOT),,WID)', 10: '(78-PT-192(N,TOT),,WID)', 11: '(78-PT-192(N,TOT),,WID)', 12: '(78-PT-192(N,TOT),,WID)', 13: '(78-PT-192(N,TOT),,WID)', 14: '(78-PT-192(N,G),,WID)', 15: '(78-PT-192(N,G),,WID)', 16: '(78-PT-192(N,G),,WID)', 17: '(78-PT-192(N,G),,WID)', 18: '(78-PT-192(N,G),,WID)', 19: '(78-PT-192(N,G),,WID)'} 
+#   incident energy       : 4.6550e+01 eV - 5.8040e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20685.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20685
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.6550E+01               NAN        1.0500E-01               NAN        5.8000E-02               NAN        4.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3740E+01               NAN        7.0000E-02               NAN        5.3000E-02               NAN        1.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2970E+02               NAN        2.6000E-01               NAN        3.5000E-02               NAN        2.2500E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4490E+02               NAN        2.1000E-01               NAN        4.0000E-02               NAN        1.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8870E+02               NAN        3.7000E-01               NAN        6.2000E-02               NAN        3.0800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8040E+02               NAN        1.1600E+00               NAN               NAN               NAN        1.0250E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN

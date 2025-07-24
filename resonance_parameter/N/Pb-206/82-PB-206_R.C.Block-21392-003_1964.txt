@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 82-PB-206 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.C.Block 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (R,WASH-1048,71,1964) 
+#   Year                  : 1964 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 82 
+#   A                     : 206 
+#   Nuclide               : 82-PB-206 
+# Reaction: 
+#   entry-subent-pointer  :{13: '21392-003-1', 14: '21392-003-1', 15: '21392-003-1'} 
+#   EXFOR reaction        :{13: '(82-PB-206(N,EL),,WID)', 14: '(82-PB-206(N,EL),,WID)', 15: '(82-PB-206(N,EL),,WID)'} 
+#   incident energy       : 3.3500e-03 eV - 2.5400e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21392.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21392
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.3500E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6300E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5400E-02               NAN               NAN               NAN               NAN               NAN        3.7000E+01        3.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN

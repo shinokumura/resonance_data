@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 16-S-32 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.L.Macklin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 

@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 65-TB-159 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.Asghar 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (C,65ANTWERP,,522,196507) 
+#   Year                  : 1965 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 65 
+#   A                     : 159 
+#   Nuclide               : 65-TB-159 
+# Reaction: 
+#   entry-subent-pointer  :{24: '21492-005-2', 25: '21492-005-2', 26: '21492-005-2', 27: '21492-005-2', 28: '21492-005-2', 29: '21492-005-2', 30: '21492-005-2', 31: '21492-005-2', 32: '21492-005-2', 33: '21492-005-2', 34: '21492-005-2', 35: '21492-005-3', 36: '21492-005-3', 37: '21492-005-3', 38: '21492-005-3', 39: '21492-005-3', 40: '21492-005-3', 41: '21492-005-3', 42: '21492-005-3', 43: '21492-005-3', 44: '21492-005-3', 45: '21492-005-3'} 
+#   EXFOR reaction        :{24: '(65-TB-159(N,G),,WID)', 25: '(65-TB-159(N,G),,WID)', 26: '(65-TB-159(N,G),,WID)', 27: '(65-TB-159(N,G),,WID)', 28: '(65-TB-159(N,G),,WID)', 29: '(65-TB-159(N,G),,WID)', 30: '(65-TB-159(N,G),,WID)', 31: '(65-TB-159(N,G),,WID)', 32: '(65-TB-159(N,G),,WID)', 33: '(65-TB-159(N,G),,WID)', 34: '(65-TB-159(N,G),,WID)', 35: '(65-TB-159(N,EL),,WID)', 36: '(65-TB-159(N,EL),,WID)', 37: '(65-TB-159(N,EL),,WID)', 38: '(65-TB-159(N,EL),,WID)', 39: '(65-TB-159(N,EL),,WID)', 40: '(65-TB-159(N,EL),,WID)', 41: '(65-TB-159(N,EL),,WID)', 42: '(65-TB-159(N,EL),,WID)', 43: '(65-TB-159(N,EL),,WID)', 44: '(65-TB-159(N,EL),,WID)', 45: '(65-TB-159(N,EL),,WID)'} 
+#   incident energy       : 2.4300e-05 eV - 1.1330e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21492.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21492
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.4300E-05               NAN               NAN               NAN        9.8700E-02               NAN        4.5000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3900E-05               NAN               NAN               NAN        7.3900E-02               NAN        3.1000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3700E-05               NAN               NAN               NAN        9.5100E-02               NAN        5.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6100E-05               NAN               NAN               NAN        8.9000E-02               NAN        1.1200E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.4200E-05               NAN               NAN               NAN        8.9800E-02               NAN        9.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3900E-05               NAN               NAN               NAN        9.1200E-02               NAN        2.1500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.6100E-05               NAN               NAN               NAN        7.6400E-02               NAN        8.9000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.7100E-05               NAN               NAN               NAN        7.7800E-02               NAN        9.6000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.7500E-05               NAN               NAN               NAN        9.2900E-02               NAN        4.0400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0870E-04               NAN               NAN               NAN        1.0170E-01               NAN        3.6400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1330E-04               NAN               NAN               NAN        9.0100E-02               NAN        5.5600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

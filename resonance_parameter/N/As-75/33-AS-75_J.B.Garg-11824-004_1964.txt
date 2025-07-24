@@ -1,0 +1,41 @@
+# Header: 
+#   Title                 : 33-AS-75 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.B.Garg 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,136,B177,1964) 
+#   Year                  : 1964 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 33 
+#   A                     : 75 
+#   Nuclide               : 33-AS-75 
+# Reaction: 
+#   entry-subent-pointer  :{40: '11824-004-2', 41: '11824-004-2', 42: '11824-004-2', 43: '11824-004-2', 44: '11824-004-2', 45: '11824-004-2', 46: '11824-004-2', 47: '11824-004-2', 48: '11824-004-2', 49: '11824-004-2', 50: '11824-004-2', 51: '11824-004-2', 52: '11824-004-2', 53: '11824-004-2', 54: '11824-004-2', 55: '11824-004-2', 56: '11824-004-2', 57: '11824-004-2', 58: '11824-004-3', 59: '11824-004-3', 60: '11824-004-3', 61: '11824-004-3', 62: '11824-004-3', 63: '11824-004-3', 64: '11824-004-3', 65: '11824-004-3', 66: '11824-004-3', 67: '11824-004-3', 68: '11824-004-3', 69: '11824-004-3', 70: '11824-004-3', 71: '11824-004-3', 72: '11824-004-3', 73: '11824-004-3', 74: '11824-004-3', 75: '11824-004-3', 76: '11824-004-4', 77: '11824-004-4', 78: '11824-004-4', 79: '11824-004-4', 80: '11824-004-4', 81: '11824-004-4', 82: '11824-004-4', 83: '11824-004-4', 84: '11824-004-4', 85: '11824-004-4', 86: '11824-004-4', 87: '11824-004-4', 88: '11824-004-4', 89: '11824-004-4', 90: '11824-004-4', 91: '11824-004-4', 92: '11824-004-4', 93: '11824-004-4'} 
+#   EXFOR reaction        :{40: '(33-AS-75(N,EL),,WID)', 41: '(33-AS-75(N,EL),,WID)', 42: '(33-AS-75(N,EL),,WID)', 43: '(33-AS-75(N,EL),,WID)', 44: '(33-AS-75(N,EL),,WID)', 45: '(33-AS-75(N,EL),,WID)', 46: '(33-AS-75(N,EL),,WID)', 47: '(33-AS-75(N,EL),,WID)', 48: '(33-AS-75(N,EL),,WID)', 49: '(33-AS-75(N,EL),,WID)', 50: '(33-AS-75(N,EL),,WID)', 51: '(33-AS-75(N,EL),,WID)', 52: '(33-AS-75(N,EL),,WID)', 53: '(33-AS-75(N,EL),,WID)', 54: '(33-AS-75(N,EL),,WID)', 55: '(33-AS-75(N,EL),,WID)', 56: '(33-AS-75(N,EL),,WID)', 57: '(33-AS-75(N,EL),,WID)', 58: '(33-AS-75(N,G),,WID)', 59: '(33-AS-75(N,G),,WID)', 60: '(33-AS-75(N,G),,WID)', 61: '(33-AS-75(N,G),,WID)', 62: '(33-AS-75(N,G),,WID)', 63: '(33-AS-75(N,G),,WID)', 64: '(33-AS-75(N,G),,WID)', 65: '(33-AS-75(N,G),,WID)', 66: '(33-AS-75(N,G),,WID)', 67: '(33-AS-75(N,G),,WID)', 68: '(33-AS-75(N,G),,WID)', 69: '(33-AS-75(N,G),,WID)', 70: '(33-AS-75(N,G),,WID)', 71: '(33-AS-75(N,G),,WID)', 72: '(33-AS-75(N,G),,WID)', 73: '(33-AS-75(N,G),,WID)', 74: '(33-AS-75(N,G),,WID)', 75: '(33-AS-75(N,G),,WID)', 76: '(33-AS-75(N,TOT),,WID)', 77: '(33-AS-75(N,TOT),,WID)', 78: '(33-AS-75(N,TOT),,WID)', 79: '(33-AS-75(N,TOT),,WID)', 80: '(33-AS-75(N,TOT),,WID)', 81: '(33-AS-75(N,TOT),,WID)', 82: '(33-AS-75(N,TOT),,WID)', 83: '(33-AS-75(N,TOT),,WID)', 84: '(33-AS-75(N,TOT),,WID)', 85: '(33-AS-75(N,TOT),,WID)', 86: '(33-AS-75(N,TOT),,WID)', 87: '(33-AS-75(N,TOT),,WID)', 88: '(33-AS-75(N,TOT),,WID)', 89: '(33-AS-75(N,TOT),,WID)', 90: '(33-AS-75(N,TOT),,WID)', 91: '(33-AS-75(N,TOT),,WID)', 92: '(33-AS-75(N,TOT),,WID)', 93: '(33-AS-75(N,TOT),,WID)'} 
+#   incident energy       : 2.5270e+02 eV - 1.9039e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11824.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11824
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.5270E+02               NAN        3.2000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.1860E+02               NAN        6.5000E-01        5.0000E-02        1.8000E-01               NAN        4.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2670E+02               NAN        9.8000E-01        5.0000E-02        4.0400E-01               NAN        5.7600E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.5550E+02               NAN        3.7000E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7690E+02               NAN        3.5000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3340E+02               NAN        2.6000E+00        3.0000E-01        1.0000E-02               NAN        2.5900E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.6490E+02               NAN        5.5500E-01        5.0000E-02        3.1200E-01               NAN        2.3800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3330E+02               NAN        1.5300E+00        1.0000E-01               NAN               NAN        1.2300E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.3740E+02               NAN        2.4000E+00        1.0000E-01               NAN               NAN        2.0800E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9550E+02               NAN        4.5000E-01        5.0000E-02        3.1600E-01               NAN        1.3400E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.2940E+02               NAN        1.1500E+00        1.5000E-01        1.2200E-01               NAN        9.7800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1104E+03               NAN        5.0000E-01        5.0000E-02        3.3900E-01               NAN        1.6100E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2990E+03               NAN        2.4000E+00        2.5000E-01        3.8000E-01               NAN        2.0200E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3530E+03               NAN        9.8000E-01        1.0000E-01        2.4800E-01               NAN        7.3200E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4426E+03               NAN        1.7000E+00        1.5000E-01        3.1000E-01               NAN        1.3900E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6836E+03               NAN        3.5000E+00        3.0000E-01        4.9000E-01               NAN        3.0100E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8072E+03               NAN        8.5000E-01        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9039E+03               NAN        3.0000E+00        5.0000E-01        0.0000E+00               NAN        3.1400E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 72-HF-174 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.K.M.M.H.Meaze 
 #   Institute             : (3KORKNU): Kyungpook National University, Daegu 
@@ -21,6 +21,12 @@
 #   nds                   : https://nds.iaea.org/EXFOR/31689
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        9.9700E-01        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.9700E-01        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         9.9700E-01        2.9000E-02               NAN               NAN        5.7698E-02        5.6360E-03        2.1470E-03        2.1000E-04               NAN               NAN               NAN               NAN               NAN               NAN
         4.2950E+00        1.0000E-03               NAN               NAN        6.0078E-02        5.8710E-03        1.7000E-05        4.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2950E+00        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2950E+00        2.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3349E+01        1.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.3349E+01        3.0000E-03               NAN               NAN        5.9323E-02        4.2480E-03        2.9480E-03        1.5390E-03               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3349E+01        2.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

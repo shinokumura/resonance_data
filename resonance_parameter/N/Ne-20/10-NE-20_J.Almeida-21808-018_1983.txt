@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-20 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.Almeida 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
@@ -22,4 +22,6 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         1.4740E+05        1.5000E+02               NAN               NAN        3.7000E+00        4.0000E-01        8.6100E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4740E+05        5.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7260E+05        1.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         4.7260E+05        5.0000E+02               NAN               NAN               NAN               NAN        1.0780E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN

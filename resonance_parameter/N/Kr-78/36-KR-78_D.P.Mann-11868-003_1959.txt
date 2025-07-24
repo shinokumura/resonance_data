@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 36-KR-78 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.P.Mann 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 

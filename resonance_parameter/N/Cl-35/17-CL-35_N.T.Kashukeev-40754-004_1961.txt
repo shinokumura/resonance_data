@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 17-CL-35 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.T.Kashukeev 
+#   Institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference             : (J,JNE/AB,14,76,1961) 
+#   Year                  : 1961 
+#   Facility              : None 
+# Target: 
+#   Z                     : 17 
+#   A                     : 35 
+#   Nuclide               : 17-CL-35 
+# Reaction: 
+#   entry-subent-pointer  :{18: '40754-004-1', 19: '40754-004-1', 20: '40754-004-1', 21: '40754-004-1'} 
+#   EXFOR reaction        :{18: '(17-CL-35(N,EL),,WID)', 19: '(17-CL-35(N,EL),,WID)', 20: '(17-CL-35(N,EL),,WID)', 21: '(17-CL-35(N,EL),,WID)'} 
+#   incident energy       : 4.0500e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40754.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40754
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.0500E-04               NAN               NAN               NAN               NAN               NAN        1.1325E+01        1.5000E+00               NAN               NAN               NAN               NAN               NAN               NAN

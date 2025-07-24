@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 92-U-235 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.J.Shore 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,112,191,58) 
+#   Year                  : 1958 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 92 
+#   A                     : 235 
+#   Nuclide               : 92-U-235 
+# Reaction: 
+#   entry-subent-pointer  :{199: '12418-002-2', 200: '12418-002-2', 201: '12418-002-2', 202: '12418-002-2', 203: '12418-002-2', 204: '12418-002-2', 205: '12418-002-2', 206: '12418-002-3', 207: '12418-002-3', 208: '12418-002-3', 209: '12418-002-3', 210: '12418-002-3', 211: '12418-002-3', 212: '12418-002-3', 213: '12418-002-4', 214: '12418-002-4', 215: '12418-002-4', 216: '12418-002-4', 217: '12418-002-4', 218: '12418-002-4', 219: '12418-002-4'} 
+#   EXFOR reaction        :{199: '(92-U-235(N,TOT),,WID)', 200: '(92-U-235(N,TOT),,WID)', 201: '(92-U-235(N,TOT),,WID)', 202: '(92-U-235(N,TOT),,WID)', 203: '(92-U-235(N,TOT),,WID)', 204: '(92-U-235(N,TOT),,WID)', 205: '(92-U-235(N,TOT),,WID)', 206: '(92-U-235(N,G),,WID)', 207: '(92-U-235(N,G),,WID)', 208: '(92-U-235(N,G),,WID)', 209: '(92-U-235(N,G),,WID)', 210: '(92-U-235(N,G),,WID)', 211: '(92-U-235(N,G),,WID)', 212: '(92-U-235(N,G),,WID)', 213: '(92-U-235(N,F),,WID)', 214: '(92-U-235(N,F),,WID)', 215: '(92-U-235(N,F),,WID)', 216: '(92-U-235(N,F),,WID)', 217: '(92-U-235(N,F),,WID)', 218: '(92-U-235(N,F),,WID)', 219: '(92-U-235(N,F),,WID)'} 
+#   incident energy       : -1.4500e+00 eV - 8.7950e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12418.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12418
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -1.4500E+00               NAN        2.5900E-01               NAN               NAN               NAN               NAN               NAN        2.2300E-01               NAN               NAN               NAN               NAN               NAN
+       -2.0000E-02               NAN        9.7000E-02               NAN               NAN               NAN               NAN               NAN        6.3000E-02               NAN               NAN               NAN               NAN               NAN
+        2.8200E-01               NAN        1.1470E-01               NAN        3.2200E-02               NAN               NAN               NAN        8.2500E-02               NAN               NAN               NAN               NAN               NAN
+        1.1380E+00               NAN        1.4800E-01               NAN        4.2000E-02               NAN               NAN               NAN        1.0600E-01               NAN               NAN               NAN               NAN               NAN
+        3.5990E+00               NAN        8.1400E-02               NAN        3.7000E-02               NAN               NAN               NAN        4.5000E-02               NAN               NAN               NAN               NAN               NAN
+        6.4000E+00               NAN        4.2000E-02               NAN               NAN               NAN               NAN               NAN        9.0000E-03               NAN               NAN               NAN               NAN               NAN
+        8.7950E+00               NAN        4.2000E-02               NAN               NAN               NAN               NAN               NAN        6.0000E-02               NAN               NAN               NAN               NAN               NAN

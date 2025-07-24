@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 40-ZR-94 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.P.Kapchigashev 
+#   Institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
+#   Reference             : (J,AE,19,(3),294,196509) 
+#   Year                  : 1965 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 94 
+#   Nuclide               : 40-ZR-94 
+# Reaction: 
+#   entry-subent-pointer  :{16: '40034-016-2'} 
+#   EXFOR reaction        :{16: '(40-ZR-94(N,G),,WID)'} 
+#   incident energy       : 2.2730e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40034.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40034
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.2730E+03               NAN               NAN               NAN        1.7000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

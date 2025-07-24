@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 90-TH-229 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.E.Cote 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,BAP,6,417(C1),6111) 
+#   Year                  : 1961 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 90 
+#   A                     : 229 
+#   Nuclide               : 90-TH-229 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12298-003-0', 1: '12298-003-0', 2: '12298-003-0', 3: '12298-003-0', 4: '12298-003-0'} 
+#   EXFOR reaction        :{0: '(90-TH-229(N,TOT),,WID)', 1: '(90-TH-229(N,TOT),,WID)', 2: '(90-TH-229(N,TOT),,WID)', 3: '(90-TH-229(N,TOT),,WID)', 4: '(90-TH-229(N,TOT),,WID)'} 
+#   incident energy       : 6.0900e-07 eV - 4.1200e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12298.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12298
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.0900E-07               NAN        4.7000E-02        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2500E-06               NAN        4.1000E-02        1.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.7100E-06               NAN        3.8000E-02        2.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9400E-06               NAN        6.2000E-02        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1200E-06               NAN        1.3700E-01        4.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

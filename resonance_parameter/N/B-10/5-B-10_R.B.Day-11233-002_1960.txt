@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 5-B-10 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.B.Day 
+#   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference             : (J,PR,117,1330,60) 
+#   Year                  : 1960 
+#   Facility              : None 
+# Target: 
+#   Z                     : 5 
+#   A                     : 10 
+#   Nuclide               : 5-B-10 
+# Reaction: 
+#   entry-subent-pointer  :{7: '11233-002-2', 8: '11233-002-2', 9: '11233-002-2', 10: '11233-002-2', 11: '11233-002-2'} 
+#   EXFOR reaction        :{7: '(5-B-10(N,TOT),,WID)', 8: '(5-B-10(N,TOT),,WID)', 9: '(5-B-10(N,TOT),,WID)', 10: '(5-B-10(N,TOT),,WID)', 11: '(5-B-10(N,TOT),,WID)'} 
+#   incident energy       : 1.9300e+06 eV - 4.7300e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11233.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11233
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.9300E+06               NAN        2.6000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6000E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3100E+06               NAN        3.7000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.1000E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.7300E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

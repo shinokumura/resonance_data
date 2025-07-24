@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 79-AU-197 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Samour 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,130,353,1969) 
+#   Year                  : 1969 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 79 
+#   A                     : 197 
+#   Nuclide               : 79-AU-197 
+# Reaction: 
+#   entry-subent-pointer  :{636: '23496-006-3', 637: '23496-006-3', 638: '23496-006-3', 639: '23496-006-3'} 
+#   EXFOR reaction        :{636: '(79-AU-197(N,G),,WID)', 637: '(79-AU-197(N,G),,WID)', 638: '(79-AU-197(N,G),,WID)', 639: '(79-AU-197(N,G),,WID)'} 
+#   incident energy       : 4.9000e-03 eV - 7.8400e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23496.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23496
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.9000E-03               NAN               NAN               NAN        1.2400E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8000E-02               NAN               NAN               NAN        1.1200E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.0250E-02               NAN               NAN               NAN        1.4500E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.8400E-02               NAN               NAN               NAN        1.3900E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

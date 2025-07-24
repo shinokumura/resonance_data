@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 46-PD-107 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Nakamura 
+#   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference             : (J,KPS,59,1773,2011) 
+#   Year                  : 2011 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 46 
+#   A                     : 107 
+#   Nuclide               : 46-PD-107 
+# Reaction: 
+#   entry-subent-pointer  :{131: '23140-005-0'} 
+#   EXFOR reaction        :{131: '(46-PD-107(N,EL),,WID)'} 
+#   incident energy       : 2.9000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23140.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23140
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9000E-06               NAN               NAN               NAN               NAN               NAN        1.8000E-06        1.0000E-07               NAN               NAN               NAN               NAN               NAN               NAN

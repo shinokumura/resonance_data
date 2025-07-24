@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 56-BA-0 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : E.G.Bilpuch 
 #   Institute             : (1USADKE): Duke University, Durham, NC 

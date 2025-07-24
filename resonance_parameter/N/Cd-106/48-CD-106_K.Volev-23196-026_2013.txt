@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 48-CD-106 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Volev 
+#   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference             : (J,NIM/B,300,11,2013) 
+#   Year                  : 2013 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 48 
+#   A                     : 106 
+#   Nuclide               : 48-CD-106 
+# Reaction: 
+#   entry-subent-pointer  :{52: '23196-026-3', 53: '23196-026-3'} 
+#   EXFOR reaction        :{52: '(48-CD-106(N,G),,WID)', 53: '(48-CD-106(N,G),,WID)'} 
+#   incident energy       : 4.5666e+02 eV - 6.3509e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23196.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23196
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5666E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.3509E+02               NAN               NAN               NAN        1.1000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

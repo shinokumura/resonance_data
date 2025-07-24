@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 92-U-234 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Heyse 
+#   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference             : (J,NSE,156,211,2007) 
+#   Year                  : 2007 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 92 
+#   A                     : 234 
+#   Nuclide               : 92-U-234 
+# Reaction: 
+#   entry-subent-pointer  :{364: '23082-005-0'} 
+#   EXFOR reaction        :{364: '(92-U-234(N,F),,WID,,,DERIV)'} 
+#   incident energy       : 5.1600e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23082.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23082
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.1600E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.8600E-05        1.1100E-06               NAN               NAN               NAN               NAN

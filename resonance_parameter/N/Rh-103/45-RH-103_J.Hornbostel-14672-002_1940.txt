@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 45-RH-103 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Hornbostel 
+#   Institute             : (1USANYU): New York University, New York, NY 
+#   Reference             : (J,PR,58,18,1940) 
+#   Year                  : 1940 
+#   Facility              : None 
+# Target: 
+#   Z                     : 45 
+#   A                     : 103 
+#   Nuclide               : 45-RH-103 
+# Reaction: 
+#   entry-subent-pointer  :{2: '14672-002-2', 3: '14672-002-3'} 
+#   EXFOR reaction        :{2: '(45-RH-103(N,TOT),,WID)', 3: '(45-RH-103(N,EL),,WID)'} 
+#   incident energy       : 1.2590e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14672.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14672
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.2590E-06               NAN        1.3000E-01               NAN               NAN               NAN        3.5000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

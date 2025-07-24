@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.M.Bollinger 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (C,58GENEVA,15,127,195809) 
+#   Year                  : 1958 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :{131: '12502-011-2', 132: '12502-011-2', 133: '12502-011-2', 134: '12502-011-2', 135: '12502-011-2', 136: '12502-011-2', 137: '12502-011-2', 138: '12502-011-2', 139: '12502-011-2', 140: '12502-011-3', 141: '12502-011-3', 142: '12502-011-3', 143: '12502-011-3', 144: '12502-011-3', 145: '12502-011-3', 146: '12502-011-3', 147: '12502-011-3', 148: '12502-011-3', 149: '12502-011-4', 150: '12502-011-4', 151: '12502-011-4', 152: '12502-011-4', 153: '12502-011-4', 154: '12502-011-4', 155: '12502-011-4', 156: '12502-011-4', 157: '12502-011-4'} 
+#   EXFOR reaction        :{131: '(94-PU-239(N,F),,WID)', 132: '(94-PU-239(N,F),,WID)', 133: '(94-PU-239(N,F),,WID)', 134: '(94-PU-239(N,F),,WID)', 135: '(94-PU-239(N,F),,WID)', 136: '(94-PU-239(N,F),,WID)', 137: '(94-PU-239(N,F),,WID)', 138: '(94-PU-239(N,F),,WID)', 139: '(94-PU-239(N,F),,WID)', 140: '(94-PU-239(N,EL),,WID)', 141: '(94-PU-239(N,EL),,WID)', 142: '(94-PU-239(N,EL),,WID)', 143: '(94-PU-239(N,EL),,WID)', 144: '(94-PU-239(N,EL),,WID)', 145: '(94-PU-239(N,EL),,WID)', 146: '(94-PU-239(N,EL),,WID)', 147: '(94-PU-239(N,EL),,WID)', 148: '(94-PU-239(N,EL),,WID)', 149: '(94-PU-239(N,G),,WID)', 150: '(94-PU-239(N,G),,WID)', 151: '(94-PU-239(N,G),,WID)', 152: '(94-PU-239(N,G),,WID)', 153: '(94-PU-239(N,G),,WID)', 154: '(94-PU-239(N,G),,WID)', 155: '(94-PU-239(N,G),,WID)', 156: '(94-PU-239(N,G),,WID)', 157: '(94-PU-239(N,G),,WID)'} 
+#   incident energy       : 2.9600e-07 eV - 5.2600e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12502.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12502
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.9600E-07               NAN               NAN               NAN        3.9000E-02        2.0000E-03        8.1000E-05        1.0000E-06        6.2000E-02        2.0000E-03               NAN               NAN               NAN               NAN
+        7.8300E-06               NAN               NAN               NAN        4.0600E-02        3.0000E-03        8.7000E-04        2.0000E-05        4.1500E-02        3.0000E-03               NAN               NAN               NAN               NAN
+        1.0930E-05               NAN               NAN               NAN        3.1500E-02        9.0000E-03        1.8700E-03        7.0000E-05        1.4670E-01        7.0000E-03               NAN               NAN               NAN               NAN
+        1.1900E-05               NAN               NAN               NAN        4.0900E-02        5.0000E-03        1.0700E-03        5.0000E-05        2.2000E-02        2.0000E-03               NAN               NAN               NAN               NAN
+        1.7600E-05               NAN               NAN               NAN        3.9100E-02        5.0000E-03        1.6000E-03        7.0000E-05        4.6300E-02        5.0000E-03               NAN               NAN               NAN               NAN
+        2.2200E-05               NAN               NAN               NAN        3.4600E-02        4.0000E-03        3.3700E-03        1.5000E-04        7.5000E-02        4.0000E-03               NAN               NAN               NAN               NAN
+        4.1400E-05               NAN               NAN               NAN        4.6800E-02        9.0000E-03        1.8500E-02        5.0000E-04        1.0700E-02        2.0000E-03               NAN               NAN               NAN               NAN
+        4.4500E-05               NAN               NAN               NAN        4.0400E-02        1.0000E-02        6.4000E-03        1.0000E-04        4.2000E-03        1.0000E-03               NAN               NAN               NAN               NAN
+        5.2600E-05               NAN               NAN               NAN        3.4100E-02        5.0000E-03        1.5200E-02        1.0000E-03        7.7000E-03        2.0000E-03               NAN               NAN               NAN               NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 96-CM-246 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.W.Benjamin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 

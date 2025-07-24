@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 54-XE-129 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : V.R.Skoy 
 #   Institute             : (3KORKNU): Kyungpook National University, Daegu 

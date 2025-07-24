@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.Berceanu 
+#   Institute             : (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference             : (J,RRP,24,437,1979) 
+#   Year                  : 1979 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :{1443: '30525-003-3', 1444: '30525-003-3', 1445: '30525-003-3', 1446: '30525-003-3', 1447: '30525-003-3', 1448: '30525-003-4', 1449: '30525-003-4', 1450: '30525-003-4', 1451: '30525-003-4', 1452: '30525-003-4', 1453: '30525-003-5', 1454: '30525-003-5', 1455: '30525-003-5', 1456: '30525-003-5', 1457: '30525-003-5'} 
+#   EXFOR reaction        :{1443: '(94-PU-239(N,F),,WID)', 1444: '(94-PU-239(N,F),,WID)', 1445: '(94-PU-239(N,F),,WID)', 1446: '(94-PU-239(N,F),,WID)', 1447: '(94-PU-239(N,F),,WID)', 1448: '(94-PU-239(N,G),,WID)', 1449: '(94-PU-239(N,G),,WID)', 1450: '(94-PU-239(N,G),,WID)', 1451: '(94-PU-239(N,G),,WID)', 1452: '(94-PU-239(N,G),,WID)', 1453: '(94-PU-239(N,TOT),,WID)', 1454: '(94-PU-239(N,TOT),,WID)', 1455: '(94-PU-239(N,TOT),,WID)', 1456: '(94-PU-239(N,TOT),,WID)', 1457: '(94-PU-239(N,TOT),,WID)'} 
+#   incident energy       : -1.2100e+00 eV - 1.5500e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30525.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30525
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -1.2100E+00               NAN               NAN               NAN        3.9000E-02               NAN               NAN               NAN        2.3950E-01               NAN               NAN               NAN               NAN               NAN
+        2.9600E-01               NAN        9.9800E-02               NAN        3.8600E-02               NAN               NAN               NAN        5.9980E-02               NAN               NAN               NAN               NAN               NAN
+        7.9000E+00               NAN               NAN               NAN        3.8000E-02               NAN               NAN               NAN        4.2000E-02               NAN               NAN               NAN               NAN               NAN
+        1.1000E+01               NAN               NAN               NAN        3.2000E-02               NAN               NAN               NAN        1.4700E-01               NAN               NAN               NAN               NAN               NAN
+        1.5500E+01               NAN               NAN               NAN        4.0000E-02               NAN               NAN               NAN        7.6000E-01               NAN               NAN               NAN               NAN               NAN

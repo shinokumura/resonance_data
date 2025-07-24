@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 14-SI-28 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.-H.Choi 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (C,72BUD,,198,1972) 
+#   Year                  : 1972 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 14 
+#   A                     : 28 
+#   Nuclide               : 14-SI-28 
+# Reaction: 
+#   entry-subent-pointer  :{5: '14806-003-4', 6: '14806-003-4', 7: '14806-003-4', 8: '14806-003-4', 9: '14806-003-4', 10: '14806-003-4', 11: '14806-003-4', 12: '14806-003-4'} 
+#   EXFOR reaction        :{5: '(14-SI-28(N,TOT),,WID)', 6: '(14-SI-28(N,TOT),,WID)', 7: '(14-SI-28(N,TOT),,WID)', 8: '(14-SI-28(N,TOT),,WID)', 9: '(14-SI-28(N,TOT),,WID)', 10: '(14-SI-28(N,TOT),,WID)', 11: '(14-SI-28(N,TOT),,WID)', 12: '(14-SI-28(N,TOT),,WID)'} 
+#   incident energy       : 1.5990e+06 eV - 1.8570e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/148/14806.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14806
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.5990E+06               NAN        1.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6200E+06               NAN        2.0000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6350E+06               NAN        3.5000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6550E+06               NAN        1.3000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8520E+06               NAN        4.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8570E+06               NAN        1.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 42-MO-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.A.Radkevich 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,AE,1,(5),55,1956) 
+#   Year                  : 1956 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 42 
+#   A                     : 0 
+#   Nuclide               : 42-MO-0 
+# Reaction: 
+#   entry-subent-pointer  :{3: '40382-007-2', 4: '40382-007-2', 5: '40382-007-2'} 
+#   EXFOR reaction        :{3: '(42-MO-0(N,EL),,WID)', 4: '(42-MO-0(N,EL),,WID)', 5: '(42-MO-0(N,EL),,WID)'} 
+#   incident energy       : 4.5000e+01 eV - 1.3400e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40382.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40382
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.5000E+01               NAN               NAN               NAN               NAN               NAN        1.8800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.1900E+01               NAN               NAN               NAN               NAN               NAN        2.3600E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3400E+02               NAN               NAN               NAN               NAN               NAN        1.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

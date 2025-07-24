@@ -1,0 +1,38 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.A.Radkevich 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,AE,1,(5),55,1956) 
+#   Year                  : 1956 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   entry-subent-pointer  :{77: '40382-036-2', 78: '40382-036-2', 79: '40382-036-2', 80: '40382-036-2', 81: '40382-036-2', 82: '40382-036-2', 83: '40382-036-2', 84: '40382-036-2', 85: '40382-036-2', 86: '40382-036-2', 87: '40382-036-2', 88: '40382-036-2', 89: '40382-036-2', 90: '40382-036-2', 91: '40382-036-2', 92: '40382-036-2', 93: '40382-036-2', 94: '40382-036-2', 95: '40382-036-2', 96: '40382-036-2', 97: '40382-036-2', 98: '40382-036-2', 99: '40382-036-2', 100: '40382-036-2'} 
+#   EXFOR reaction        :{77: '(92-U-238(N,EL),,WID)', 78: '(92-U-238(N,EL),,WID)', 79: '(92-U-238(N,EL),,WID)', 80: '(92-U-238(N,EL),,WID)', 81: '(92-U-238(N,EL),,WID)', 82: '(92-U-238(N,EL),,WID)', 83: '(92-U-238(N,EL),,WID)', 84: '(92-U-238(N,EL),,WID)', 85: '(92-U-238(N,EL),,WID)', 86: '(92-U-238(N,EL),,WID)', 87: '(92-U-238(N,EL),,WID)', 88: '(92-U-238(N,EL),,WID)', 89: '(92-U-238(N,EL),,WID)', 90: '(92-U-238(N,EL),,WID)', 91: '(92-U-238(N,EL),,WID)', 92: '(92-U-238(N,EL),,WID)', 93: '(92-U-238(N,EL),,WID)', 94: '(92-U-238(N,EL),,WID)', 95: '(92-U-238(N,EL),,WID)', 96: '(92-U-238(N,EL),,WID)', 97: '(92-U-238(N,EL),,WID)', 98: '(92-U-238(N,EL),,WID)', 99: '(92-U-238(N,EL),,WID)', 100: '(92-U-238(N,EL),,WID)'} 
+#   incident energy       : 8.9500e+01 eV - 4.0500e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40382.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40382
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        8.9500E+01               NAN               NAN               NAN               NAN               NAN        9.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0500E+02               NAN               NAN               NAN               NAN               NAN        5.1667E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.2000E+02               NAN               NAN               NAN               NAN               NAN        3.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.3500E+02               NAN               NAN               NAN               NAN               NAN        1.9000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4200E+02               NAN               NAN               NAN               NAN               NAN        4.3000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4600E+02               NAN               NAN               NAN               NAN               NAN        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6500E+02               NAN               NAN               NAN               NAN               NAN        9.6000E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9400E+02               NAN               NAN               NAN               NAN               NAN        1.1900E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0200E+02               NAN               NAN               NAN               NAN               NAN        7.4500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4000E+02               NAN               NAN               NAN               NAN               NAN        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5400E+02               NAN               NAN               NAN               NAN               NAN        2.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7200E+02               NAN               NAN               NAN               NAN               NAN        5.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9100E+02               NAN               NAN               NAN               NAN               NAN        1.4800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5500E+02               NAN               NAN               NAN               NAN               NAN        1.4000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.0500E+02               NAN               NAN               NAN               NAN               NAN        2.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN

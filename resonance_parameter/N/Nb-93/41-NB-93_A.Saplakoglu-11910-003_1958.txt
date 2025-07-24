@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 41-NB-93 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Saplakoglu 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,109,1258,5802) 
+#   Year                  : 1958 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 41 
+#   A                     : 93 
+#   Nuclide               : 41-NB-93 
+# Reaction: 
+#   entry-subent-pointer  :{2: '11910-003-3', 3: '11910-003-3', 4: '11910-003-3', 5: '11910-003-3', 6: '11910-003-3', 7: '11910-003-3', 8: '11910-003-3', 9: '11910-003-3', 10: '11910-003-3', 11: '11910-003-3', 12: '11910-003-3', 13: '11910-003-3', 14: '11910-003-3', 15: '11910-003-4', 16: '11910-003-4', 17: '11910-003-4', 18: '11910-003-4', 19: '11910-003-4', 20: '11910-003-4', 21: '11910-003-4', 22: '11910-003-4', 23: '11910-003-4', 24: '11910-003-4', 25: '11910-003-4', 26: '11910-003-4', 27: '11910-003-4'} 
+#   EXFOR reaction        :{2: '(41-NB-93(N,TOT),,WID)', 3: '(41-NB-93(N,TOT),,WID)', 4: '(41-NB-93(N,TOT),,WID)', 5: '(41-NB-93(N,TOT),,WID)', 6: '(41-NB-93(N,TOT),,WID)', 7: '(41-NB-93(N,TOT),,WID)', 8: '(41-NB-93(N,TOT),,WID)', 9: '(41-NB-93(N,TOT),,WID)', 10: '(41-NB-93(N,TOT),,WID)', 11: '(41-NB-93(N,TOT),,WID)', 12: '(41-NB-93(N,TOT),,WID)', 13: '(41-NB-93(N,TOT),,WID)', 14: '(41-NB-93(N,TOT),,WID)', 15: '(41-NB-93(N,G),,WID)', 16: '(41-NB-93(N,G),,WID)', 17: '(41-NB-93(N,G),,WID)', 18: '(41-NB-93(N,G),,WID)', 19: '(41-NB-93(N,G),,WID)', 20: '(41-NB-93(N,G),,WID)', 21: '(41-NB-93(N,G),,WID)', 22: '(41-NB-93(N,G),,WID)', 23: '(41-NB-93(N,G),,WID)', 24: '(41-NB-93(N,G),,WID)', 25: '(41-NB-93(N,G),,WID)', 26: '(41-NB-93(N,G),,WID)', 27: '(41-NB-93(N,G),,WID)'} 
+#   incident energy       : 3.5900e+01 eV - 7.4400e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11910.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11910
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.5900E+01               NAN        2.0600E-01        5.1000E-02        2.0500E-01        5.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.2200E+01               NAN        2.5600E-01        8.4000E-02        2.5600E-01        8.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.4300E+01               NAN        2.2000E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0600E+02               NAN        2.2000E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.1900E+02               NAN        2.2300E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9400E+02               NAN        2.5000E-01        4.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4400E+02               NAN        2.2200E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2000E+02               NAN        2.2200E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.3600E+02               NAN        2.4200E-01        4.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8100E+02               NAN        3.2700E-01        3.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6200E+02               NAN        2.2800E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.0300E+02               NAN        2.2700E-01        4.6000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        7.4400E+02               NAN        4.6000E-01        3.8000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

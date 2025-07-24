@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 29-CU-63 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.Weigmann 
+#   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
+#   Reference             : (J,ZP,213,411,6807) 
+#   Year                  : 1968 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 29 
+#   A                     : 63 
+#   Nuclide               : 29-CU-63 
+# Reaction: 
+#   entry-subent-pointer  :{6: '21335-002-0', 7: '21335-002-0', 8: '21335-002-0', 9: '21335-002-0', 10: '21335-002-0', 11: '21335-002-0', 12: '21335-002-0'} 
+#   EXFOR reaction        :{6: '(29-CU-63(N,G),,WID)', 7: '(29-CU-63(N,G),,WID)', 8: '(29-CU-63(N,G),,WID)', 9: '(29-CU-63(N,G),,WID)', 10: '(29-CU-63(N,G),,WID)', 11: '(29-CU-63(N,G),,WID)', 12: '(29-CU-63(N,G),,WID)'} 
+#   incident energy       : 5.7600e-04 eV - 9.1910e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21335.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21335
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        5.7600E-04               NAN               NAN               NAN        4.8500E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0370E-03               NAN               NAN               NAN        5.7000E-01        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.6400E-03               NAN               NAN               NAN        5.8000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.8520E-03               NAN               NAN               NAN        6.2000E-01        6.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.3850E-03               NAN               NAN               NAN        4.4000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.8190E-03               NAN               NAN               NAN        4.6000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.1910E-03               NAN               NAN               NAN        4.2000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

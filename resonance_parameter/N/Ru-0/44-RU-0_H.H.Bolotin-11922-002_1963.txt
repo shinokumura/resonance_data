@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 44-RU-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.H.Bolotin 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,NP,42,676,63) 
+#   Year                  : 1963 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 44 
+#   A                     : 0 
+#   Nuclide               : 44-RU-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: '11922-002-3', 1: '11922-002-3', 2: '11922-002-3', 3: '11922-002-3', 4: '11922-002-3', 5: '11922-002-3'} 
+#   EXFOR reaction        :{0: '(44-RU-0(N,TOT),,WID)', 1: '(44-RU-0(N,TOT),,WID)', 2: '(44-RU-0(N,TOT),,WID)', 3: '(44-RU-0(N,TOT),,WID)', 4: '(44-RU-0(N,TOT),,WID)', 5: '(44-RU-0(N,TOT),,WID)'} 
+#   incident energy       : 1.0000e+01 eV - 3.5000e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11922.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11922
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.5300E+01               NAN        2.6000E-01        4.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        5.7000E+01               NAN        2.6000E-01        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0500E+02               NAN        4.2800E-01        1.2500E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5600E+02               NAN        2.8000E-01        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

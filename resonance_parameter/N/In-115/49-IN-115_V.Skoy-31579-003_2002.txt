@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 49-IN-115 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : V.Skoy 
 #   Institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
@@ -21,6 +21,12 @@
 #   nds                   : https://nds.iaea.org/EXFOR/31579
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4580E+00        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.4580E+00        4.0000E-03               NAN               NAN        6.0100E-02        6.2000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.4580E+00        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         3.8590E+00        3.0000E-03               NAN               NAN        8.1800E-02        1.0100E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8590E+00        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.8590E+00        5.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.0500E+00        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        9.0500E+00        4.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         9.0500E+00        5.0000E-03               NAN               NAN        7.2400E-02        9.1000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 13-AL-27 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : G.Nystrom 
 #   Institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 

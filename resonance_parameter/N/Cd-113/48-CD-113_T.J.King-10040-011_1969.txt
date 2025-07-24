@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 48-CD-113 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.J.King 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NP/A,138,556,196912) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 48 
+#   A                     : 113 
+#   Nuclide               : 48-CD-113 
+# Reaction: 
+#   entry-subent-pointer  :{72: '10040-011-3', 73: '10040-011-3', 74: '10040-011-3', 75: '10040-011-4', 76: '10040-011-4', 77: '10040-011-4'} 
+#   EXFOR reaction        :{72: '(48-CD-113(N,EL),,WID)', 73: '(48-CD-113(N,EL),,WID)', 74: '(48-CD-113(N,EL),,WID)', 75: '(48-CD-113(N,TOT),,WID)', 76: '(48-CD-113(N,TOT),,WID)', 77: '(48-CD-113(N,TOT),,WID)'} 
+#   incident energy       : 1.9300e+02 eV - 2.3200e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10040.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10040
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.9300E+02               NAN        3.3700E-01               NAN               NAN               NAN        1.8800E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.1500E+02               NAN        1.5000E-01               NAN               NAN               NAN        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3200E+02               NAN        2.2500E-01               NAN               NAN               NAN        7.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

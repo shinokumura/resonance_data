@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 95-AM-243 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.E.Cote 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,114,505,59) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 95 
+#   A                     : 243 
+#   Nuclide               : 95-AM-243 
+# Reaction: 
+#   entry-subent-pointer  :{33: '12539-007-2'} 
+#   EXFOR reaction        :{33: '(95-AM-243(N,TOT),,WID)'} 
+#   incident energy       : 1.0700e-08 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12539.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12539
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0700E-08               NAN        3.4000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 49-IN-115 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.M.Fleck 
+#   Institute             : (2AUSATI): Atominstitut der Technischen Universitaet Wien,Vienna 
+#   Reference             : (J,NUK,12,259,1969) 
+#   Year                  : 1969 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 49 
+#   A                     : 115 
+#   Nuclide               : 49-IN-115 
+# Reaction: 
+#   entry-subent-pointer  :{37: '20079-002-0'} 
+#   EXFOR reaction        :{37: '(49-IN-115(N,TOT),,WID)'} 
+#   incident energy       : 1.4580e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20079.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20079
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.4580E-06               NAN        7.3000E-02        3.0000E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

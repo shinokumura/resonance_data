@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 62-SM-150 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Leinweber 
+#   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
+#   Reference             : (J,NSE,142,1,2002) 
+#   Year                  : 2002 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 62 
+#   A                     : 150 
+#   Nuclide               : 62-SM-150 
+# Reaction: 
+#   entry-subent-pointer  :{64: '13851-025-2', 65: '13851-025-3'} 
+#   EXFOR reaction        :{64: '(62-SM-150(N,G),,WID)', 65: '(62-SM-150(N,EL),,WID)'} 
+#   incident energy       : 2.0590e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/138/13851.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13851
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.0590E+01               NAN               NAN               NAN        4.5000E-02               NAN        4.9000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN

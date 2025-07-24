@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 5-B-10 Resonance Parameter 
 #   Source                : EXFOR 
-#   Date Created          : 2025-07-23 
+#   Date Created          : 2025-07-24 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.A.Schrack 
 #   Institute             : (1USANBS): National Bureau of Standards, Washington, DC 

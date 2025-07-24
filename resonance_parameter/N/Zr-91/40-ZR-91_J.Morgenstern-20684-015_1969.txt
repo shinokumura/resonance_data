@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 40-ZR-91 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Morgenstern 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,123,561,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 91 
+#   Nuclide               : 40-ZR-91 
+# Reaction: 
+#   entry-subent-pointer  :{88: '20684-015-5', 89: '20684-015-5', 90: '20684-015-5', 91: '20684-015-5', 92: '20684-015-5', 93: '20684-015-5', 94: '20684-015-5', 95: '20684-015-5', 96: '20684-015-5', 97: '20684-015-5', 98: '20684-015-6', 99: '20684-015-6', 100: '20684-015-6', 101: '20684-015-6', 102: '20684-015-6', 103: '20684-015-6', 104: '20684-015-6', 105: '20684-015-6', 106: '20684-015-6', 107: '20684-015-6', 108: '20684-015-7', 109: '20684-015-7', 110: '20684-015-7', 111: '20684-015-7', 112: '20684-015-7', 113: '20684-015-7', 114: '20684-015-7', 115: '20684-015-7', 116: '20684-015-7', 117: '20684-015-7'} 
+#   EXFOR reaction        :{88: '(40-ZR-91(N,EL),,WID)', 89: '(40-ZR-91(N,EL),,WID)', 90: '(40-ZR-91(N,EL),,WID)', 91: '(40-ZR-91(N,EL),,WID)', 92: '(40-ZR-91(N,EL),,WID)', 93: '(40-ZR-91(N,EL),,WID)', 94: '(40-ZR-91(N,EL),,WID)', 95: '(40-ZR-91(N,EL),,WID)', 96: '(40-ZR-91(N,EL),,WID)', 97: '(40-ZR-91(N,EL),,WID)', 98: '(40-ZR-91(N,TOT),,WID)', 99: '(40-ZR-91(N,TOT),,WID)', 100: '(40-ZR-91(N,TOT),,WID)', 101: '(40-ZR-91(N,TOT),,WID)', 102: '(40-ZR-91(N,TOT),,WID)', 103: '(40-ZR-91(N,TOT),,WID)', 104: '(40-ZR-91(N,TOT),,WID)', 105: '(40-ZR-91(N,TOT),,WID)', 106: '(40-ZR-91(N,TOT),,WID)', 107: '(40-ZR-91(N,TOT),,WID)', 108: '(40-ZR-91(N,G),,WID)', 109: '(40-ZR-91(N,G),,WID)', 110: '(40-ZR-91(N,G),,WID)', 111: '(40-ZR-91(N,G),,WID)', 112: '(40-ZR-91(N,G),,WID)', 113: '(40-ZR-91(N,G),,WID)', 114: '(40-ZR-91(N,G),,WID)', 115: '(40-ZR-91(N,G),,WID)', 116: '(40-ZR-91(N,G),,WID)', 117: '(40-ZR-91(N,G),,WID)'} 
+#   incident energy       : 1.8172e+02 eV - 2.0078e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20684.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20684
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.8172E+02               NAN        1.3000E-01               NAN        1.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.4000E+02               NAN        3.2000E-01               NAN        3.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.9237E+02               NAN        7.7000E-01               NAN        1.0000E-01               NAN        6.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.3870E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        6.8070E+02               NAN        9.7500E-01               NAN        1.2500E-01               NAN        8.5000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.9130E+02               NAN        3.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.5301E+03               NAN        1.0500E+01               NAN               NAN               NAN        1.0550E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9496E+03               NAN        5.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.9934E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.0078E+03               NAN        6.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

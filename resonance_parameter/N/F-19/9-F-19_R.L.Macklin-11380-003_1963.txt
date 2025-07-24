@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 9-F-19 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Macklin 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NP,43,353,63) 
+#   Year                  : 1963 
+#   Facility              : None 
+# Target: 
+#   Z                     : 9 
+#   A                     : 19 
+#   Nuclide               : 9-F-19 
+# Reaction: 
+#   entry-subent-pointer  :{42: '11380-003-0'} 
+#   EXFOR reaction        :{42: '(9-F-19(N,G),,WID)'} 
+#   incident energy       : 2.7000e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11380.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11380
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.7000E-02               NAN               NAN               NAN        5.5000E-01        1.5000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 12-MG-0 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.A.Cox 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,BAP,12,1186(CB5),6712) 
+#   Year                  : 1967 
+#   Facility              : None 
+# Target: 
+#   Z                     : 12 
+#   A                     : 0 
+#   Nuclide               : 12-MG-0 
+# Reaction: 
+#   entry-subent-pointer  :{0: '12664-004-4', 1: '12664-004-4'} 
+#   EXFOR reaction        :{0: '(12-MG-0(N,EL),,WID)', 1: '(12-MG-0(N,EL),,WID)'} 
+#   incident energy       : 6.7000e+05 eV - 8.5000e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12664.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12664
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        6.7000E+05               NAN               NAN               NAN               NAN               NAN        2.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.5000E+05               NAN               NAN               NAN               NAN               NAN        1.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN

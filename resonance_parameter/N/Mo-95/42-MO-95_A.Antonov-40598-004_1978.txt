@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 42-MO-95 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,27,18,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 42 
+#   A                     : 95 
+#   Nuclide               : 42-MO-95 
+# Reaction: 
+#   entry-subent-pointer  :{144: '40598-004-0', 145: '40598-004-0', 146: '40598-004-0', 147: '40598-004-0', 148: '40598-004-0', 149: '40598-004-0', 150: '40598-004-0', 151: '40598-004-0'} 
+#   EXFOR reaction        :{144: '(42-MO-95(N,A),,WID)', 145: '(42-MO-95(N,A),,WID)', 146: '(42-MO-95(N,A),,WID)', 147: '(42-MO-95(N,A),,WID)', 148: '(42-MO-95(N,A),,WID)', 149: '(42-MO-95(N,A),,WID)', 150: '(42-MO-95(N,A),,WID)', 151: '(42-MO-95(N,A),,WID)'} 
+#   incident energy       : 4.4700e-05 eV - 2.4300e-03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40598
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        4.4700E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.5000E-08        1.0000E-08               NAN               NAN
+        4.6970E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.2000E-05        5.0000E-06               NAN               NAN
+        5.5440E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        5.3000E-06        2.0000E-06               NAN               NAN
+        8.9840E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.6000E-05        5.0000E-06               NAN               NAN
+        9.8070E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.6000E-05        1.7000E-05               NAN               NAN
+        1.1446E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.8000E-05        1.5000E-05               NAN               NAN
+        1.9506E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.3000E-05        1.4000E-05               NAN               NAN
+        2.4300E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.0000E-05               NAN               NAN               NAN

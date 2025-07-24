@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-240 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.R.Spencer 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NSE,96,318,1987) 
+#   Year                  : 1987 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 94 
+#   A                     : 240 
+#   Nuclide               : 94-PU-240 
+# Reaction: 
+#   entry-subent-pointer  :{883: '12941-003-2', 884: '12941-003-3'} 
+#   EXFOR reaction        :{883: '(94-PU-240(N,EL),,WID)', 884: '(94-PU-240(N,G),,WID)'} 
+#   incident energy       : 1.0564e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12941.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12941
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        1.0564E+00               NAN               NAN               NAN        3.0300E-02               NAN        2.4500E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN

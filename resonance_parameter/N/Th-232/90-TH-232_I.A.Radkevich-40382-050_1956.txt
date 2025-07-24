@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 90-TH-232 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.A.Radkevich 
+#   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
+#   Reference             : (J,AE,1,(5),55,1956) 
+#   Year                  : 1956 
+#   Facility              : (CHOPS): Slow chopper 
+# Target: 
+#   Z                     : 90 
+#   A                     : 232 
+#   Nuclide               : 90-TH-232 
+# Reaction: 
+#   entry-subent-pointer  :{87: '40382-050-2', 88: '40382-050-2'} 
+#   EXFOR reaction        :{87: '(90-TH-232(N,G),,WID)', 88: '(90-TH-232(N,G),,WID)'} 
+#   incident energy       : 2.2000e+01 eV - 2.3600e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40382.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40382
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        2.2000E+01               NAN               NAN               NAN        2.7500E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.3600E+01               NAN               NAN               NAN        2.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

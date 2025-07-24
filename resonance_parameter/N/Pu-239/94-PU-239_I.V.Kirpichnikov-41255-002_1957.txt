@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.V.Kirpichnikov 
+#   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
+#   Reference             : (J,AE,2,247,1957) 
+#   Year                  : 1957 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :{92: '41255-002-1', 93: '41255-002-1', 94: '41255-002-1', 95: '41255-002-1', 96: '41255-002-1', 97: '41255-002-1', 98: '41255-002-1', 99: '41255-002-1', 100: '41255-002-1', 101: '41255-002-1', 102: '41255-002-2', 103: '41255-002-2', 104: '41255-002-2', 105: '41255-002-2', 106: '41255-002-2', 107: '41255-002-2', 108: '41255-002-2', 109: '41255-002-2', 110: '41255-002-2', 111: '41255-002-2', 112: '41255-002-3', 113: '41255-002-3', 114: '41255-002-3', 115: '41255-002-3', 116: '41255-002-3', 117: '41255-002-3', 118: '41255-002-3', 119: '41255-002-3', 120: '41255-002-3', 121: '41255-002-3'} 
+#   EXFOR reaction        :{92: '(94-PU-239(N,F),,WID)', 93: '(94-PU-239(N,F),,WID)', 94: '(94-PU-239(N,F),,WID)', 95: '(94-PU-239(N,F),,WID)', 96: '(94-PU-239(N,F),,WID)', 97: '(94-PU-239(N,F),,WID)', 98: '(94-PU-239(N,F),,WID)', 99: '(94-PU-239(N,F),,WID)', 100: '(94-PU-239(N,F),,WID)', 101: '(94-PU-239(N,F),,WID)', 102: '(94-PU-239(N,G),,WID)', 103: '(94-PU-239(N,G),,WID)', 104: '(94-PU-239(N,G),,WID)', 105: '(94-PU-239(N,G),,WID)', 106: '(94-PU-239(N,G),,WID)', 107: '(94-PU-239(N,G),,WID)', 108: '(94-PU-239(N,G),,WID)', 109: '(94-PU-239(N,G),,WID)', 110: '(94-PU-239(N,G),,WID)', 111: '(94-PU-239(N,G),,WID)', 112: '(94-PU-239(N,TOT),,WID)', 113: '(94-PU-239(N,TOT),,WID)', 114: '(94-PU-239(N,TOT),,WID)', 115: '(94-PU-239(N,TOT),,WID)', 116: '(94-PU-239(N,TOT),,WID)', 117: '(94-PU-239(N,TOT),,WID)', 118: '(94-PU-239(N,TOT),,WID)', 119: '(94-PU-239(N,TOT),,WID)', 120: '(94-PU-239(N,TOT),,WID)', 121: '(94-PU-239(N,TOT),,WID)'} 
+#   incident energy       : 3.0000e-07 eV - 2.6100e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41255.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41255
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+        3.0000E-07               NAN        1.0000E-01               NAN        4.4000E-02               NAN               NAN               NAN        5.6000E-02               NAN               NAN               NAN               NAN               NAN
+        7.8000E-06               NAN        4.2000E-02               NAN        2.3000E-02               NAN               NAN               NAN        1.9000E-02               NAN               NAN               NAN               NAN               NAN
+        1.0950E-05               NAN        1.3000E-01               NAN        5.3000E-02               NAN               NAN               NAN        7.7000E-02               NAN               NAN               NAN               NAN               NAN
+        1.1900E-05               NAN        5.2000E-02               NAN        2.6000E-02               NAN               NAN               NAN        2.6000E-02               NAN               NAN               NAN               NAN               NAN
+        1.4300E-05               NAN        6.0000E-02               NAN        4.3000E-02               NAN               NAN               NAN        1.7000E-02               NAN               NAN               NAN               NAN               NAN
+        1.4700E-05               NAN        8.0000E-02               NAN        4.0000E-02               NAN               NAN               NAN        4.0000E-02               NAN               NAN               NAN               NAN               NAN
+        1.5500E-05               NAN        2.0000E-01               NAN               NAN               NAN               NAN               NAN        1.5500E-01               NAN               NAN               NAN               NAN               NAN
+        1.7650E-05               NAN        8.2000E-02               NAN        5.5000E-02               NAN               NAN               NAN        2.7000E-02               NAN               NAN               NAN               NAN               NAN
+        2.2300E-05               NAN        5.5000E-02               NAN        2.4000E-02               NAN               NAN               NAN        3.1000E-02               NAN               NAN               NAN               NAN               NAN
+        2.6100E-05               NAN        1.1500E-01               NAN        8.4000E-02               NAN               NAN               NAN        3.1000E-02               NAN               NAN               NAN               NAN               NAN

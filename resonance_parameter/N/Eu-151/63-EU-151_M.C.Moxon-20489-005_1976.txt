@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 63-EU-151 Resonance Parameter 
+#   Source                : EXFOR 
+#   Date Created          : 2025-07-24 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.C.Moxon 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,ANE,3,399,76) 
+#   Year                  : 1976 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 63 
+#   A                     : 151 
+#   Nuclide               : 63-EU-151 
+# Reaction: 
+#   entry-subent-pointer  :{144: '20489-005-2', 145: '20489-005-2', 146: '20489-005-2', 147: '20489-005-2', 148: '20489-005-2', 149: '20489-005-4', 150: '20489-005-4', 151: '20489-005-4', 152: '20489-005-4', 153: '20489-005-4'} 
+#   EXFOR reaction        :{144: '(63-EU-151(N,EL),,WID)', 145: '(63-EU-151(N,EL),,WID)', 146: '(63-EU-151(N,EL),,WID)', 147: '(63-EU-151(N,EL),,WID)', 148: '(63-EU-151(N,EL),,WID)', 149: '(63-EU-151(N,G),,WID)', 150: '(63-EU-151(N,G),,WID)', 151: '(63-EU-151(N,G),,WID)', 152: '(63-EU-151(N,G),,WID)', 153: '(63-EU-151(N,G),,WID)'} 
+#   incident energy       : -2.0000e-02 eV - 1.8300e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20489.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20489
+#
+#        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
+       -2.0000E-02               NAN               NAN               NAN        9.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.2100E-01               NAN               NAN               NAN        8.0000E-02               NAN        7.7700E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        4.6100E-01               NAN               NAN               NAN        8.9000E-02               NAN        6.6340E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.0550E+00               NAN               NAN               NAN        9.0000E-02               NAN        1.9320E-04               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        1.8300E+00               NAN               NAN               NAN        9.0000E-02               NAN        3.2500E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN

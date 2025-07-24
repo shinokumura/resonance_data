@@ -15,13 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{585: '40544-006-2', 586: '40544-006-2'} 
 #   EXFOR reaction        :{585: '(26-FE-56(N,G),,WID)', 586: '(26-FE-56(N,G),,WID)'} 
-#   incident energy       : -2.6400e+03 eV - 1.1530e+03 eV 
+#   incident energy       : -2.6400e+03 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40544.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40544
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-       -2.6400E+03        2.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-       -2.6400E+03        1.5000E+02               NAN               NAN        8.0000E-01        1.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.1530E+03        2.8000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.1530E+03        1.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+       -2.6400E+03        1.5000E+02               NAN               NAN        8.0000E-01        1.6000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0

@@ -22,5 +22,5 @@
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         1.8110E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.6000E-07               NAN               NAN               NAN
-        2.9260E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.3000E-07               NAN               NAN               NAN
-        4.4940E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.1000E-05        1.0000E-05               NAN               NAN
+        2.9260E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.3000E-07               NAN               3.0               NAN
+        4.4940E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        3.1000E-05        1.0000E-05               3.0               NAN

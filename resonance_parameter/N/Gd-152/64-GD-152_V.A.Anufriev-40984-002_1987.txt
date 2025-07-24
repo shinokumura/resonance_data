@@ -15,7 +15,7 @@
 # Reaction: 
 #   entry-subent-pointer  :{126: '40984-002-3', 127: '40984-002-3', 128: '40984-002-3', 129: '40984-002-3', 130: '40984-002-3', 131: '40984-002-3', 132: '40984-002-3', 133: '40984-002-3', 134: '40984-002-3', 135: '40984-002-3'} 
 #   EXFOR reaction        :{126: '(64-GD-152(N,G),,WID)', 127: '(64-GD-152(N,G),,WID)', 128: '(64-GD-152(N,G),,WID)', 129: '(64-GD-152(N,G),,WID)', 130: '(64-GD-152(N,G),,WID)', 131: '(64-GD-152(N,G),,WID)', 132: '(64-GD-152(N,G),,WID)', 133: '(64-GD-152(N,G),,WID)', 134: '(64-GD-152(N,G),,WID)', 135: '(64-GD-152(N,G),,WID)'} 
-#   incident energy       : 1.2460e+01 eV - 1.8400e+02 eV 
+#   incident energy       : 1.2460e+01 eV - 3.9200e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40984.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40984
@@ -24,10 +24,3 @@
         1.2460E+01               NAN               NAN               NAN        7.4000E-02        1.1000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         3.6900E+01               NAN               NAN               NAN        7.2000E-02        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         3.9200E+01               NAN               NAN               NAN        5.0000E-02        3.7000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        4.2700E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        7.3900E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        8.4800E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        9.2000E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2300E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.3800E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.8400E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

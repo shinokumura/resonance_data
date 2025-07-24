@@ -15,12 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{25: '21392-004-1', 26: '21392-004-1', 27: '21392-004-1'} 
 #   EXFOR reaction        :{25: '(82-PB-207(N,EL),,WID)', 26: '(82-PB-207(N,EL),,WID)', 27: '(82-PB-207(N,EL),,WID)'} 
-#   incident energy       : 3.0600e-03 eV - 1.6800e-02 eV 
+#   incident energy       : 1.6800e-02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21392.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21392
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        3.0600E-03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2300E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.6800E-02               NAN               NAN               NAN               NAN               NAN        2.7000E+01        3.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN
+        1.6800E-02               NAN               NAN               NAN               NAN               NAN        2.7000E+01        3.0000E+00               NAN               NAN               NAN               NAN               NAN               1.0

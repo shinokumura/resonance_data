@@ -21,7 +21,7 @@
 #   nds                   : https://nds.iaea.org/EXFOR/11327
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        3.5200E+05               NAN               NAN               NAN               NAN               NAN        6.9600E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.1500E+05               NAN               NAN               NAN               NAN               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.2600E+05               NAN               NAN               NAN               NAN               NAN        6.1500E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        7.1800E+05               NAN               NAN               NAN               NAN               NAN        4.8600E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.5200E+05               NAN               NAN               NAN               NAN               NAN        6.9600E+03               NAN               NAN               NAN               NAN               NAN               NAN               1.0
+        5.1500E+05               NAN               NAN               NAN               NAN               NAN        1.0000E+05               NAN               NAN               NAN               NAN               NAN               NAN               0.0
+        5.2600E+05               NAN               NAN               NAN               NAN               NAN        6.1500E+03               NAN               NAN               NAN               NAN               NAN               NAN               1.0
+        7.1800E+05               NAN               NAN               NAN               NAN               NAN        4.8600E+03               NAN               NAN               NAN               NAN               NAN               NAN               1.0

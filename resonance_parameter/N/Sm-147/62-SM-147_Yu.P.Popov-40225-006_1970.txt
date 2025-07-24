@@ -21,8 +21,8 @@
 #   nds                   : https://nds.iaea.org/EXFOR/40225
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        3.4000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.5000E-06        3.0000E-07               NAN               NAN
-        1.8300E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.4000E-07        3.0000E-08               NAN               NAN
+        3.4000E-06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.5000E-06        3.0000E-07               3.0               NAN
+        1.8300E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        2.4000E-07        3.0000E-08               4.0               NAN
         2.9800E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        4.8000E-07        1.3000E-07               NAN               NAN
         3.2100E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.6000E-07        6.0000E-08               NAN               NAN
         4.9400E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.0000E-06        2.0000E-07               NAN               NAN

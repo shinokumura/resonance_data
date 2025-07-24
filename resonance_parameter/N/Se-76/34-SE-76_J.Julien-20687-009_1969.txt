@@ -15,11 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{21: '20687-009-4', 22: '20687-009-4', 23: '20687-009-5', 24: '20687-009-5', 25: '20687-009-6', 26: '20687-009-6'} 
 #   EXFOR reaction        :{21: '(34-SE-76(N,EL),,WID)', 22: '(34-SE-76(N,EL),,WID)', 23: '(34-SE-76(N,TOT),,WID)', 24: '(34-SE-76(N,TOT),,WID)', 25: '(34-SE-76(N,G),,WID)', 26: '(34-SE-76(N,G),,WID)'} 
-#   incident energy       : 3.7600e+02 eV - 8.5500e+02 eV 
+#   incident energy       : 3.7600e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20687
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        3.7600E+02               NAN        5.5000E-01               NAN        2.9600E-01               NAN        2.5400E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        8.5500E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        3.7600E+02               NAN        5.5000E-01               NAN        2.9600E-01               NAN        2.5400E-01               NAN               NAN               NAN               NAN               NAN               0.5               NAN

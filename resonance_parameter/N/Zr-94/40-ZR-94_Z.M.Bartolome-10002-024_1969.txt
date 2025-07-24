@@ -15,20 +15,13 @@
 # Reaction: 
 #   entry-subent-pointer  :{39: '10002-024-3', 40: '10002-024-3', 41: '10002-024-3', 42: '10002-024-3', 43: '10002-024-3', 44: '10002-024-3', 45: '10002-024-3', 46: '10002-024-3', 47: '10002-024-3', 48: '10002-024-3', 49: '10002-024-3'} 
 #   EXFOR reaction        :{39: '(40-ZR-94(N,G),,WID)', 40: '(40-ZR-94(N,G),,WID)', 41: '(40-ZR-94(N,G),,WID)', 42: '(40-ZR-94(N,G),,WID)', 43: '(40-ZR-94(N,G),,WID)', 44: '(40-ZR-94(N,G),,WID)', 45: '(40-ZR-94(N,G),,WID)', 46: '(40-ZR-94(N,G),,WID)', 47: '(40-ZR-94(N,G),,WID)', 48: '(40-ZR-94(N,G),,WID)', 49: '(40-ZR-94(N,G),,WID)'} 
-#   incident energy       : 2.2630e+03 eV - 1.4229e+04 eV 
+#   incident energy       : 2.2630e+03 eV - 1.2510e+04 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10002.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10002
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.2630E+03               NAN               NAN               NAN        1.0000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.7280E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        4.9040E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         5.8000E+03               NAN               NAN               NAN        6.5000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         7.0650E+03               NAN               NAN               NAN        3.0000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        7.4620E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.0126E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2006E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.2510E+04               NAN               NAN               NAN        2.6000E-01        5.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2798E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.4229E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

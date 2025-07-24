@@ -15,18 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{0: '40551-013-2', 1: '40551-013-2', 2: '40551-013-2'} 
 #   EXFOR reaction        :{0: '(76-OS-192(N,EL),,WID)', 1: '(76-OS-192(N,EL),,WID)', 2: '(76-OS-192(N,EL),,WID)'} 
-#   incident energy       : 2.0450e+01 eV - 5.0500e+02 eV 
+#   incident energy       : 2.0450e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40551.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40551
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.0450E+01        1.0000E-01               NAN               NAN               NAN               NAN        2.8000E-05        1.0000E-06               NAN               NAN               NAN               NAN               NAN               NAN
-        2.0450E+01        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.0450E+01        5.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2700E+02        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2700E+02        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2700E+02        5.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.0500E+02        1.0000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.0500E+02        1.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.0500E+02        5.0000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

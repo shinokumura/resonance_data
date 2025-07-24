@@ -15,18 +15,17 @@
 # Reaction: 
 #   entry-subent-pointer  :{1: '11589-006-4', 2: '11589-006-4', 3: '11589-006-4', 4: '11589-006-4', 5: '11589-006-4', 6: '11589-006-4', 7: '11589-006-4', 8: '11589-006-4', 9: '11589-006-4'} 
 #   EXFOR reaction        :{1: '(17-CL-37(N,TOT),,WID)', 2: '(17-CL-37(N,TOT),,WID)', 3: '(17-CL-37(N,TOT),,WID)', 4: '(17-CL-37(N,TOT),,WID)', 5: '(17-CL-37(N,TOT),,WID)', 6: '(17-CL-37(N,TOT),,WID)', 7: '(17-CL-37(N,TOT),,WID)', 8: '(17-CL-37(N,TOT),,WID)', 9: '(17-CL-37(N,TOT),,WID)'} 
-#   incident energy       : 8.0000e+03 eV - 2.0200e+05 eV 
+#   incident energy       : 2.7000e+04 eV - 2.0200e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11589.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11589
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        8.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.7000E+04               NAN        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        4.7000E+04               NAN        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        9.3000E+04               NAN        5.3000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.2800E+05               NAN        4.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.4400E+05               NAN        7.8000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.8200E+05               NAN        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.9200E+05               NAN        1.2000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.0200E+05               NAN        2.2000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        2.7000E+04               NAN        4.0000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0
+        4.7000E+04               NAN        2.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0
+        9.3000E+04               NAN        5.3000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0
+        1.2800E+05               NAN        4.5000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.0
+        1.4400E+05               NAN        7.8000E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0
+        1.8200E+05               NAN        1.0000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0
+        1.9200E+05               NAN        1.2000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0
+        2.0200E+05               NAN        2.2000E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               1.0

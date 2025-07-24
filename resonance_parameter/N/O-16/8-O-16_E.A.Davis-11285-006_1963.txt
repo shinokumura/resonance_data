@@ -15,7 +15,7 @@
 # Reaction: 
 #   entry-subent-pointer  :{40: '11285-006-2', 41: '11285-006-2', 42: '11285-006-2', 43: '11285-006-2', 44: '11285-006-2', 45: '11285-006-2', 46: '11285-006-2', 47: '11285-006-2', 48: '11285-006-2', 49: '11285-006-2', 50: '11285-006-2', 51: '11285-006-2', 52: '11285-006-2', 53: '11285-006-2', 54: '11285-006-2', 55: '11285-006-2', 56: '11285-006-2', 57: '11285-006-2', 58: '11285-006-2'} 
 #   EXFOR reaction        :{40: '(8-O-16(N,A),,WID)', 41: '(8-O-16(N,A),,WID)', 42: '(8-O-16(N,A),,WID)', 43: '(8-O-16(N,A),,WID)', 44: '(8-O-16(N,A),,WID)', 45: '(8-O-16(N,A),,WID)', 46: '(8-O-16(N,A),,WID)', 47: '(8-O-16(N,A),,WID)', 48: '(8-O-16(N,A),,WID)', 49: '(8-O-16(N,A),,WID)', 50: '(8-O-16(N,A),,WID)', 51: '(8-O-16(N,A),,WID)', 52: '(8-O-16(N,A),,WID)', 53: '(8-O-16(N,A),,WID)', 54: '(8-O-16(N,A),,WID)', 55: '(8-O-16(N,A),,WID)', 56: '(8-O-16(N,A),,WID)', 57: '(8-O-16(N,A),,WID)', 58: '(8-O-16(N,A),,WID)'} 
-#   incident energy       : 5.0500e+06 eV - 8.6600e+06 eV 
+#   incident energy       : 5.0500e+06 eV - 8.3800e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11285.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11285
@@ -39,4 +39,3 @@
         7.9000E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.2600E+05               NAN               NAN               NAN
         8.2200E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.2500E+05               NAN               NAN               NAN
         8.3800E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        1.2500E+05               NAN               NAN               NAN
-        8.6600E+06               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

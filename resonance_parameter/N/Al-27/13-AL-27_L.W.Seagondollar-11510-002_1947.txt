@@ -15,19 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{0: '11510-002-2', 1: '11510-002-2', 2: '11510-002-2', 3: '11510-002-2', 4: '11510-002-2', 5: '11510-002-2', 6: '11510-002-2', 7: '11510-002-2', 8: '11510-002-2', 9: '11510-002-2'} 
 #   EXFOR reaction        :{0: '(13-AL-27(N,TOT),,WID)', 1: '(13-AL-27(N,TOT),,WID)', 2: '(13-AL-27(N,TOT),,WID)', 3: '(13-AL-27(N,TOT),,WID)', 4: '(13-AL-27(N,TOT),,WID)', 5: '(13-AL-27(N,TOT),,WID)', 6: '(13-AL-27(N,TOT),,WID)', 7: '(13-AL-27(N,TOT),,WID)', 8: '(13-AL-27(N,TOT),,WID)', 9: '(13-AL-27(N,TOT),,WID)'} 
-#   incident energy       : 4.5000e+04 eV - 7.9500e+05 eV 
+#   incident energy       : 1.5500e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11510.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11510
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        4.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        9.5000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.5500E+05               NAN        1.6000E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.1500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        2.9500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        3.6500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        4.3000E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        5.3500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        6.5500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        7.9500E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

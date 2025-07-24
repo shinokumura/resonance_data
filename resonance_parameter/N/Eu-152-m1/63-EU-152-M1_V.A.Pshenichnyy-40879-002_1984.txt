@@ -15,12 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{0: '40879-002-3', 1: '40879-002-3', 2: '40879-002-3'} 
 #   EXFOR reaction        :{0: '(63-EU-152-M1(N,G),,WID)', 1: '(63-EU-152-M1(N,G),,WID)', 2: '(63-EU-152-M1(N,G),,WID)'} 
-#   incident energy       : 3.9000e-02 eV - 1.3700e+00 eV 
+#   incident energy       : 3.9000e-02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40879.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40879
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         3.9000E-02               NAN               NAN               NAN        8.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        6.2000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.3700E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

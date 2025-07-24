@@ -15,13 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :{37: '23196-033-3', 38: '23196-033-3', 39: '23196-033-3', 40: '23196-033-3'} 
 #   EXFOR reaction        :{37: '(48-CD-116(N,G),,WID)', 38: '(48-CD-116(N,G),,WID)', 39: '(48-CD-116(N,G),,WID)', 40: '(48-CD-116(N,G),,WID)'} 
-#   incident energy       : 6.7669e+02 eV - 1.3845e+03 eV 
+#   incident energy       : 8.8923e+02 eV - 1.3845e+03 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23196.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23196
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        6.7669E+02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        8.8923E+02               NAN               NAN               NAN        7.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.0488E+03               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.3845E+03               NAN               NAN               NAN        1.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+        8.8923E+02               NAN               NAN               NAN        7.3000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               NAN
+        1.3845E+03               NAN               NAN               NAN        1.7000E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               NAN

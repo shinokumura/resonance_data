@@ -15,14 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :{164: '22442-004-2', 165: '22442-004-2', 166: '22442-004-2', 167: '22442-004-2', 168: '22442-004-2', 169: '22442-004-2', 170: '22442-004-2', 171: '22442-004-2', 172: '22442-004-2', 173: '22442-004-2', 174: '22442-004-2', 175: '22442-004-2'} 
 #   EXFOR reaction        :{164: '(82-PB-208(N,G),,WID)', 165: '(82-PB-208(N,G),,WID)', 166: '(82-PB-208(N,G),,WID)', 167: '(82-PB-208(N,G),,WID)', 168: '(82-PB-208(N,G),,WID)', 169: '(82-PB-208(N,G),,WID)', 170: '(82-PB-208(N,G),,WID)', 171: '(82-PB-208(N,G),,WID)', 172: '(82-PB-208(N,G),,WID)', 173: '(82-PB-208(N,G),,WID)', 174: '(82-PB-208(N,G),,WID)', 175: '(82-PB-208(N,G),,WID)'} 
-#   incident energy       : 4.3340e+04 eV - 3.5914e+05 eV 
+#   incident energy       : 7.1210e+04 eV - 1.6948e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22442.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22442
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-        4.3340E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        4.7330E+04               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         7.1210E+04               NAN               NAN               NAN        1.2400E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         7.7850E+04               NAN               NAN               NAN        1.2500E-01        3.0000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         8.6580E+04               NAN               NAN               NAN        1.5200E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
@@ -30,6 +28,3 @@
         1.3025E+05               NAN               NAN               NAN        1.0170E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.5331E+05               NAN               NAN               NAN        2.6700E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
         1.6948E+05               NAN               NAN               NAN        7.3900E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.9369E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        3.5043E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        3.5914E+05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -15,13 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{24: '40063-006-2', 25: '40063-006-2', 26: '40063-006-2', 27: '40063-006-2'} 
 #   EXFOR reaction        :{24: '(94-PU-239(N,F),,WID)', 25: '(94-PU-239(N,F),,WID)', 26: '(94-PU-239(N,F),,WID)', 27: '(94-PU-239(N,F),,WID)'} 
-#   incident energy       : 2.9500e-01 eV - 1.3700e+01 eV 
+#   incident energy       : 2.9500e-01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40063.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40063
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         2.9500E-01               NAN               NAN               NAN               NAN               NAN               NAN               NAN        9.1000E-02               NAN               NAN               NAN               NAN               NAN
-        7.4000E+00               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.0200E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
-        1.3700E+01               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

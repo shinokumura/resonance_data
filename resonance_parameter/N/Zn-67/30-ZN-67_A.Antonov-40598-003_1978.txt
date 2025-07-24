@@ -15,11 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :{15: '40598-003-2', 16: '40598-003-2', 17: '40598-003-2', 18: '40598-003-2', 19: '40598-003-2', 20: '40598-003-2', 21: '40598-003-2', 22: '40598-003-2', 23: '40598-003-2'} 
 #   EXFOR reaction        :{15: '(30-ZN-67(N,A),,WID)', 16: '(30-ZN-67(N,A),,WID)', 17: '(30-ZN-67(N,A),,WID)', 18: '(30-ZN-67(N,A),,WID)', 19: '(30-ZN-67(N,A),,WID)', 20: '(30-ZN-67(N,A),,WID)', 21: '(30-ZN-67(N,A),,WID)', 22: '(30-ZN-67(N,A),,WID)', 23: '(30-ZN-67(N,A),,WID)'} 
-#   incident energy       : 6.0000e-05 eV - 6.0000e-05 eV 
+#   incident energy       : 6.0000e-05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40598
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
         6.0000E-05               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN        6.0000E-05               NAN               NAN               NAN
-               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN

@@ -21,4 +21,4 @@
 #   nds                   : https://nds.iaea.org/EXFOR/22451
 #
 #        E_in(eV)          dE_in(eV)    data(N,TOT)(eV)       ddata(N,TOT)       data(N,G)         ddata(N,G)        data(N,EL)       ddata(N,EL)        data(N,F)        ddata(N,F)         data(N,A)        ddata(N,A)            spin_j        momentum_l
-       -7.6900E+00               NAN               NAN               NAN        8.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN               NAN
+       -7.6900E+00               NAN               NAN               NAN        8.5000E-02               NAN               NAN               NAN               NAN               NAN               NAN               NAN               0.5               NAN

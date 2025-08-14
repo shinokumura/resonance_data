@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 40-ZR-90 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Richard 
+#   Institute             : (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference             : (J,NP/A,174,273,1971) 
+#   Year                  : 1971 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 40 
+#   A                     : 90 
+#   Nuclide               : 40-ZR-90 
+# Reaction: 
+#   entry-subent-pointer  :['C2621-005-2' 'C2621-005-3'] 
+#   EXFOR reaction        :['(40-ZR-90(P,EL),,WID)' '(40-ZR-90(P,TOT),,WID)'] 
+#   incident energy       : 5.9250e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2621.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2621
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 5.9250E+06        NAN        NAN        NAN 7.6500E+04        NAN        NAN        NAN 3.2900E+04        NAN        NAN        NAN

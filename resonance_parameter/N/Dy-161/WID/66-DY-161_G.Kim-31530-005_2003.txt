@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 66-DY-161 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Kim 
+#   Institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
+#   Reference             : (J,ANE,30,1123,2003) 
+#   Year                  : 2003 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 66 
+#   A                     : 161 
+#   Nuclide               : 66-DY-161 
+# Reaction: 
+#   entry-subent-pointer  :['31530-005-3'] 
+#   EXFOR reaction        :['(66-DY-161(N,G),,WID)'] 
+#   incident energy       : 2.6979e+00 eV - 7.6632e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31530.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/31530
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.6979E+00        NAN        3.0        NAN        NAN        NAN 1.3012E-01        NAN        NAN        NAN        NAN        NAN
+ 3.6618E+00        NAN        2.0        NAN        NAN        NAN 1.3914E-01        NAN        NAN        NAN        NAN        NAN
+ 4.2810E+00        NAN        2.0        NAN        NAN        NAN 1.3025E-01        NAN        NAN        NAN        NAN        NAN
+ 7.6632E+00        NAN        3.0        NAN        NAN        NAN 1.5801E-01        NAN        NAN        NAN        NAN        NAN

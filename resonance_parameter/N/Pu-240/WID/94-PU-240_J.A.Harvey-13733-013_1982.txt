@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-240 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.A.Harvey 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (C,82ANTWER,,961,1982) 
+#   Year                  : 1982 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 94 
+#   A                     : 240 
+#   Nuclide               : 94-PU-240 
+# Reaction: 
+#   entry-subent-pointer  :['13733-013-2' '13733-013-3'] 
+#   EXFOR reaction        :['(94-PU-240(N,G),,WID)' '(94-PU-240(N,EL),,WID)'] 
+#   incident energy       : 1.0565e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13733.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/13733
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.0565E+00        NAN        NAN        NAN        NAN        NAN 3.0700E-02        NAN 2.3600E-03        NAN        NAN        NAN

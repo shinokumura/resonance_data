@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 52-TE-124 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.L.Foster 
+#   Institute             : (1USATEX): University of Texas, Austin, TX 
+#   Reference             : (J,PR,175,1498,1968) 
+#   Year                  : 1968 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 52 
+#   A                     : 124 
+#   Nuclide               : 52-TE-124 
+# Reaction: 
+#   entry-subent-pointer  :['C2691-008-2' 'C2691-008-3'] 
+#   EXFOR reaction        :['(52-TE-124(P,EL),,WID)' '(52-TE-124(P,TOT),,WID)'] 
+#   incident energy       : 7.4820e+06 eV - 9.7700e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2691.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2691
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 7.4820E+06        NAN        0.5        0.0 4.5000E+04        NAN        NAN        NAN 1.2200E+04        NAN        NAN        NAN
+ 7.5150E+06        NAN        1.5        2.0 3.8000E+04        NAN        NAN        NAN 4.8000E+03        NAN        NAN        NAN
+ 7.9400E+06        NAN        NAN        2.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.1500E+06        NAN        NAN        2.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.2000E+06        NAN        NAN        2.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.2900E+06        NAN        NAN        2.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.9300E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.3000E+06        NAN        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.4000E+06        NAN        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.4700E+06        NAN        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.5200E+06        NAN        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.5800E+06        NAN        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.7700E+06        NAN        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

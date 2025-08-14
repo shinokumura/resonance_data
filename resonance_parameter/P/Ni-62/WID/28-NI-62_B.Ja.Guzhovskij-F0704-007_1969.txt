@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 28-NI-62 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.Ja.Guzhovskij 
+#   Institute             : (4RUSEPA): Experimental Physics Institute , Sarov 
+#   Reference             : (J,IZV,33,(1),129,1969) 
+#   Year                  : 1969 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 28 
+#   A                     : 62 
+#   Nuclide               : 28-NI-62 
+# Reaction: 
+#   entry-subent-pointer  :['F0704-007-2'] 
+#   EXFOR reaction        :['(28-NI-62(P,TOT),,WID)'] 
+#   incident energy       : 2.4600e+00 eV - 5.3470e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0704.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0704
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 2.4600E+00        NAN        NAN        1.0 5.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6320E+00        NAN        NAN        1.0 7.5000E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.4830E+00        NAN        NAN        1.0 8.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.7120E+00        NAN        NAN        2.0 3.1000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.3470E+00        NAN        NAN        0.0 8.4000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN

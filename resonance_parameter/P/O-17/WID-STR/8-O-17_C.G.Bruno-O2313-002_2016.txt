@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-17 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.G.Bruno 
+#   Institute             : (1USAUSA): United States of America 
+#   Reference             : (J,PRL,117,142502,2016) 
+#   Year                  : 2016 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 17 
+#   Nuclide               : 8-O-17 
+# Reaction: 
+#   entry-subent-pointer  :['O2313-002-0'] 
+#   EXFOR reaction        :['(8-O-17(P,A),,WID/STR)'] 
+#   incident energy       : 6.4500e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O23/O2313.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/O2313
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 6.4500E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 40-ZR-91 Resonance Parameter: ARE 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.S.Alimov 
+#   Institute             : (4RUSMOS): Moscow State University , Moscow 
+#   Reference             : (C,83MOSCOW,,347,1983) 
+#   Year                  : 1983 
+#   Facility              : (BETAT): Betatron 
+# Target: 
+#   Z                     : 40 
+#   A                     : 91 
+#   Nuclide               : 40-ZR-91 
+# Reaction: 
+#   entry-subent-pointer  :['M0904-003-0'] 
+#   EXFOR reaction        :['(40-ZR-91(G,EL),,ARE)'] 
+#   incident energy       : 8.7000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0904.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/M0904
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
+ 8.7000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.8000E+04        NAN        NAN        NAN

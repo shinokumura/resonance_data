@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 7-N-15 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.A.Leavitt 
+#   Institute             : (1CANQU ): Queen's University , Kingston, Ontario 
+#   Reference             : (J,NP/A,410,93,1983) 
+#   Year                  : 1983 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 15 
+#   Nuclide               : 7-N-15 
+# Reaction: 
+#   entry-subent-pointer  :['T0082-004-1' 'T0082-004-2'] 
+#   EXFOR reaction        :['(7-N-15(P,TOT),,WID)' '(7-N-15(P,EL),,WID)'] 
+#   incident energy       : 4.2900e-01 eV - 8.9700e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0082.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/T0082
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 4.2900E-01        NAN        NAN        NAN 9.7000E+01        NAN        NAN        NAN 2.5000E+01        NAN        NAN        NAN
+ 8.9700E-01        NAN        NAN        NAN 1.5900E+03        NAN        NAN        NAN 9.9000E+02        NAN        NAN        NAN

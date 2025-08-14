@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 9-F-18 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.S.Graulich 
+#   Institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
+#   Reference             : (J,NP/A,626,751,1997) 
+#   Year                  : 1997 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 9 
+#   A                     : 18 
+#   Nuclide               : 9-F-18 
+# Reaction: 
+#   entry-subent-pointer  :['A0252-002-0'] 
+#   EXFOR reaction        :['(9-F-18(P,A),,WID/STR)'] 
+#   incident energy       : 3.2400e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0252.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/A0252
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 3.2400E-01 7.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

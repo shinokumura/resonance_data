@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 74-W-186 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.Paya 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (P,ORNL-3582,58,6406) 
+#   Year                  : 1964 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 74 
+#   A                     : 186 
+#   Nuclide               : 74-W-186 
+# Reaction: 
+#   entry-subent-pointer  :['11238-004-2' '11238-004-3' '11238-004-4'] 
+#   EXFOR reaction        :['(74-W-186(N,TOT),,WID)' '(74-W-186(N,EL),,WID)' '(74-W-186(N,G),,WID)'] 
+#   incident energy       : 1.8830e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11238.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11238
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.8830E+01 4.0000E-02        NAN        NAN 3.6100E-01 7.0000E-03 4.1000E-02 9.0000E-03 3.2000E-01 4.0000E-03        NAN        NAN

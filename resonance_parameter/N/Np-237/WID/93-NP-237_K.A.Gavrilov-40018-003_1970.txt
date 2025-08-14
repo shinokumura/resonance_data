@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 93-NP-237 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.A.Gavrilov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,AE,28,362,1970) 
+#   Year                  : 1970 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 93 
+#   A                     : 237 
+#   Nuclide               : 93-NP-237 
+# Reaction: 
+#   entry-subent-pointer  :['40018-003-0'] 
+#   EXFOR reaction        :['(93-NP-237(N,F),,WID)'] 
+#   incident energy       : 4.9000e-07 eV - 7.5000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40018.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40018
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.9000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.3000E-06        NAN
+ 1.3200E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.1000E-06        NAN
+ 1.4800E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1000E-06        NAN
+ 1.9700E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.4000E-06        NAN
+ 3.8800E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.8000E-06        NAN
+ 5.8000E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.3000E-05        NAN
+ 7.5000E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.9000E-05        NAN

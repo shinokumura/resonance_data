@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 28-NI-60 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.Adachi 
+#   Institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference             : (J,JPJ,36,(5),1266,197405) 
+#   Year                  : 1974 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 28 
+#   A                     : 60 
+#   Nuclide               : 28-NI-60 
+# Reaction: 
+#   entry-subent-pointer  :['E0153-004-3'] 
+#   EXFOR reaction        :['(28-NI-60(P,G),,WID/STR)'] 
+#   incident energy       : 3.7228e+00 eV - 3.7431e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E01/E0153.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/E0153
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 3.7228E+00        NAN        NAN        NAN        NAN        NAN 4.1000E-01 6.0000E-02        NAN        NAN        NAN        NAN
+ 3.7320E+00        NAN        NAN        NAN        NAN        NAN 3.1000E-01 5.0000E-02        NAN        NAN        NAN        NAN
+ 3.7371E+00        NAN        NAN        NAN        NAN        NAN 3.1000E-01 5.0000E-02        NAN        NAN        NAN        NAN
+ 3.7431E+00        NAN        NAN        NAN        NAN        NAN 2.3000E-01 3.0000E-02        NAN        NAN        NAN        NAN

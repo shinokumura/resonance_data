@@ -1,0 +1,49 @@
+# Header: 
+#   Title                 : 82-PB-208 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Macklin 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,AJ,217,222,197710) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 82 
+#   A                     : 208 
+#   Nuclide               : 82-PB-208 
+# Reaction: 
+#   entry-subent-pointer  :['10693-002-1'] 
+#   EXFOR reaction        :['(82-PB-208(N,G),,WID/STR)'] 
+#   incident energy       : 4.3290e-02 eV - 8.2400e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10693.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10693
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.3290E-02 1.7316E-05        NAN        NAN        NAN        NAN 3.0500E-02        NAN        NAN        NAN        NAN        NAN
+ 4.7260E-02 1.8904E-05        NAN        NAN        NAN        NAN 3.8000E-02        NAN        NAN        NAN        NAN        NAN
+ 7.0120E-02 2.8048E-05        1.5        NAN        NAN        NAN 7.0000E-02        NAN        NAN        NAN        NAN        NAN
+ 7.8000E-02 3.1200E-05        1.5        NAN        NAN        NAN 1.0760E+00        NAN        NAN        NAN        NAN        NAN
+ 8.6600E-02 3.4640E-05        0.5        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.1730E-01 4.6920E-05        1.5        NAN        NAN        NAN 2.7600E-01        NAN        NAN        NAN        NAN        NAN
+ 1.3020E-01 5.2080E-05        0.5        NAN        NAN        NAN 3.7400E-01        NAN        NAN        NAN        NAN        NAN
+ 1.6800E-01 6.7200E-05        NAN        NAN        NAN        NAN 1.6200E-01        NAN        NAN        NAN        NAN        NAN
+ 1.6940E-01 6.7760E-05        1.5        NAN        NAN        NAN 1.7000E-01        NAN        NAN        NAN        NAN        NAN
+ 1.9350E-01 7.7400E-05        0.5        NAN        NAN        NAN 4.1400E-01        NAN        NAN        NAN        NAN        NAN
+ 2.7010E-01 1.0804E-04        1.5        NAN        NAN        NAN 1.8000E-01        NAN        NAN        NAN        NAN        NAN
+ 2.7800E-01 1.1120E-04        0.5        NAN        NAN        NAN 1.6800E-01        NAN        NAN        NAN        NAN        NAN
+ 3.2420E-01 1.2968E-04        1.5        NAN        NAN        NAN 1.0000E-01        NAN        NAN        NAN        NAN        NAN
+ 3.5410E-01 1.4164E-04        1.5        NAN        NAN        NAN 2.5600E+00        NAN        NAN        NAN        NAN        NAN
+ 3.5900E-01 1.4360E-04        NAN        NAN        NAN        NAN 2.7600E-01        NAN        NAN        NAN        NAN        NAN
+ 4.8940E-01 1.9576E-04        0.5        NAN        NAN        NAN 8.0000E-01        NAN        NAN        NAN        NAN        NAN
+ 5.2740E-01 2.1096E-04        2.5        NAN        NAN        NAN 5.1980E+00        NAN        NAN        NAN        NAN        NAN
+ 7.1600E-01 2.8640E-04        NAN        NAN        NAN        NAN 1.1400E+00        NAN        NAN        NAN        NAN        NAN
+ 7.2140E-01 2.8856E-04        2.5        NAN        NAN        NAN 6.1460E+00        NAN        NAN        NAN        NAN        NAN
+ 7.3910E-01 2.9564E-04        2.5        NAN        NAN        NAN 5.0900E+00        NAN        NAN        NAN        NAN        NAN
+ 7.6480E-01 3.0592E-04        2.5        NAN        NAN        NAN 6.2650E+00        NAN        NAN        NAN        NAN        NAN
+ 7.7300E-01 3.0920E-04        NAN        NAN        NAN        NAN 1.0680E+00        NAN        NAN        NAN        NAN        NAN
+ 7.8610E-01 3.1444E-04        2.5        NAN        NAN        NAN 8.4170E+00        NAN        NAN        NAN        NAN        NAN
+ 8.1340E-01 3.2536E-04        NAN        NAN        NAN        NAN 2.4000E+00        NAN        NAN        NAN        NAN        NAN
+ 8.1570E-01 3.2628E-04        2.5        NAN        NAN        NAN 6.0000E+00        NAN        NAN        NAN        NAN        NAN
+ 8.2400E-01 3.2960E-04        2.5        NAN        NAN        NAN 3.2380E+00        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 62-SM-149 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.Asami 
+#   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
+#   Reference             : (J,JPJ,26,225,6902) 
+#   Year                  : 1969 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 62 
+#   A                     : 149 
+#   Nuclide               : 62-SM-149 
+# Reaction: 
+#   entry-subent-pointer  :['20331-003-0'] 
+#   EXFOR reaction        :['(62-SM-149(N,EL),,WID/RED)'] 
+#   incident energy       : 9.8900e-08 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20331.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20331
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 9.8900E-08        NAN        NAN        0.0        NAN        NAN        NAN        NAN 1.7100E-03 3.0000E-05        NAN        NAN

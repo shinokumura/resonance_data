@@ -1,0 +1,39 @@
+# Header: 
+#   Title                 : 62-SM-149 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : Yu.P.Popov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,70HELSINKI,1,669,1970) 
+#   Year                  : 1970 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 62 
+#   A                     : 149 
+#   Nuclide               : 62-SM-149 
+# Reaction: 
+#   entry-subent-pointer  :['40225-004-1'] 
+#   EXFOR reaction        :['(62-SM-149(N,A),,WID)'] 
+#   incident energy       : 9.8000e-08 eV - 5.1800e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40225.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40225
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 9.8000E-08        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.7000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.9800E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.4800E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.0000E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2200E-05        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4900E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.7100E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.5200E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6100E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.0900E-05        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.4000E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.0200E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1300E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.5100E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.1800E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 6-C-12 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.R.Nita 
+#   Institute             : (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference             : (J,NIM/B,292,40,2012) 
+#   Year                  : 2012 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 6 
+#   A                     : 12 
+#   Nuclide               : 6-C-12 
+# Reaction: 
+#   entry-subent-pointer  :['D0704-003-0'] 
+#   EXFOR reaction        :['(6-C-12(A,EL),,WID)'] 
+#   incident energy       : 2.4160e+00 eV - 4.8870e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D07/D0704.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D0704
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 2.4160E+00        NAN        1.0        NAN        NAN        NAN        NAN        NAN 3.8800E+05        NAN        NAN        NAN
+ 2.6830E+00        NAN        2.0        NAN        NAN        NAN        NAN        NAN 7.6000E+02        NAN        NAN        NAN
+ 3.1950E+00        NAN        4.0        NAN        NAN        NAN        NAN        NAN 2.5900E+04        NAN        NAN        NAN
+ 4.3200E+00        NAN        3.0        NAN        NAN        NAN        NAN        NAN 8.6400E+05        NAN        NAN        NAN
+ 4.3390E+00        NAN        2.0        NAN        NAN        NAN        NAN        NAN 8.3000E+04        NAN        NAN        NAN
+ 4.8870E+00        NAN        0.0        NAN        NAN        NAN        NAN        NAN 3.0000E+03        NAN        NAN        NAN

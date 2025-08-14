@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 46-PD-106 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.L.Macklin 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,NSE,89,79,8501) 
+#   Year                  : 1985 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 46 
+#   A                     : 106 
+#   Nuclide               : 46-PD-106 
+# Reaction: 
+#   entry-subent-pointer  :['12874-004-2'] 
+#   EXFOR reaction        :['(46-PD-106(N,G),,WID)'] 
+#   incident energy       : 2.8210e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12874.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12874
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.8210E+02        NAN        NAN        NAN        NAN        NAN 8.5000E-02 6.0000E-04        NAN        NAN        NAN        NAN

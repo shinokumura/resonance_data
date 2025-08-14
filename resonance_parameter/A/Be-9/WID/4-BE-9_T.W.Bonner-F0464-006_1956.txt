@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 4-BE-9 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.W.Bonner 
+#   Institute             : (1USARIC): Rice University, Houston, TX 
+#   Reference             : (J,PR,102,1348,195606) 
+#   Year                  : 1956 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 4 
+#   A                     : 9 
+#   Nuclide               : 4-BE-9 
+# Reaction: 
+#   entry-subent-pointer  :['F0464-006-0'] 
+#   EXFOR reaction        :['(4-BE-9(A,TOT),,WID)'] 
+#   incident energy       : 1.9000e+00 eV - 5.0000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F04/F0464.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0464
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 1.9000E+00        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.3000E+00        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6000E+00        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.9800E+00        NAN        NAN        NAN 6.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.4000E+00        NAN        NAN        NAN 4.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.0000E+00        NAN        NAN        NAN 3.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN

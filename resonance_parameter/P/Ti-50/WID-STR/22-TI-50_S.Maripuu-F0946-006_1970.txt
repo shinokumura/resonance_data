@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 22-TI-50 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Maripuu 
+#   Institute             : (2NEDUTR): University of Utrecht 
+#   Reference             : (J,NP/A,153,183,1970) 
+#   Year                  : 1970 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 22 
+#   A                     : 50 
+#   Nuclide               : 22-TI-50 
+# Reaction: 
+#   entry-subent-pointer  :['F0946-006-1'] 
+#   EXFOR reaction        :['(22-TI-50(P,EL),,WID/STR)'] 
+#   incident energy       : 1.3660e+00 eV - 1.3770e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0946
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.3660E+00 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN 6.0000E-01 2.0000E-01        NAN        NAN
+ 1.3710E+00 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN 7.2000E+00 2.4000E+00        NAN        NAN
+ 1.3770E+00 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN 1.0000E+00 3.0000E-01        NAN        NAN

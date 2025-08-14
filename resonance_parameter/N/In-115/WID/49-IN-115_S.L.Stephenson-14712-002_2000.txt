@@ -1,0 +1,43 @@
+# Header: 
+#   Title                 : 49-IN-115 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.L.Stephenson 
+#   Institute             : (1USANCS): North Carolina State University, Raleigh, NC 
+#   Reference             : (J,PR/C,61,045501,2000) 
+#   Year                  : 2000 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 49 
+#   A                     : 115 
+#   Nuclide               : 49-IN-115 
+# Reaction: 
+#   entry-subent-pointer  :['14712-002-5'] 
+#   EXFOR reaction        :['(49-IN-115(N,G),,WID)'] 
+#   incident energy       : 1.4570e-06 eV - 2.6450e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14712.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/14712
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.4570E-06        NAN        5.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4570E-06 1.2000E-07        5.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4570E-06 2.0000E-07        5.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4570E-06 5.0000E-07        5.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.6400E-05        NAN        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.6400E-05 1.2000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.6400E-05 2.0000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.6400E-05 5.0000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0370E-04        NAN        5.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0370E-04 1.2000E-07        5.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0370E-04 2.0000E-07        5.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0370E-04 5.0000E-07        5.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6450E-04        NAN        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6450E-04 1.2000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6450E-04 2.0000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.6450E-04 5.0000E-07        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+        NAN        NAN        4.0        0.0        NAN        NAN 9.5381E-02 1.9762E-02        NAN        NAN        NAN        NAN
+        NAN 1.2000E-07        4.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+        NAN 2.0000E-07        4.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+        NAN 5.0000E-07        4.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

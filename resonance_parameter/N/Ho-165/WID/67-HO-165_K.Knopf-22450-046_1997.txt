@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 67-HO-165 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Knopf 
+#   Institute             : (2GERMUN): Technische Universitaet Muenchen 
+#   Reference             : (J,ZP/A,357,297,1997) 
+#   Year                  : 1997 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 67 
+#   A                     : 165 
+#   Nuclide               : 67-HO-165 
+# Reaction: 
+#   entry-subent-pointer  :['22450-046-3'] 
+#   EXFOR reaction        :['(67-HO-165(N,G),,WID)'] 
+#   incident energy       : -1.1000e+01 eV - -6.0000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22450.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22450
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+-1.1000E+01        NAN        3.0        NAN        NAN        NAN 1.4000E-01        NAN        NAN        NAN        NAN        NAN
+-6.0000E+00        NAN        4.0        NAN        NAN        NAN 9.0000E-02        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,29 @@
+# Header: 
+#   Title                 : 72-HF-177 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.M.Bollinger 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (J,PR,92,1527,1953) 
+#   Year                  : 1953 
+#   Facility              : None 
+# Target: 
+#   Z                     : 72 
+#   A                     : 177 
+#   Nuclide               : 72-HF-177 
+# Reaction: 
+#   entry-subent-pointer  :['12108-006-4'] 
+#   EXFOR reaction        :['(72-HF-177(N,TOT),,WID)'] 
+#   incident energy       : 1.0800e+00 eV - 1.3600e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12108.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12108
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.0800E+00 2.0000E-02        NAN        NAN 4.5000E-02 1.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.3400E+00 5.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.7000E+00 1.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.5000E+00 1.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.8000E+00 2.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3600E+01 4.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

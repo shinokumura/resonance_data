@@ -1,0 +1,39 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.E.Hunt 
+#   Institute             : (1USAFSU): Florida State University, Tallahassee, FL 
+#   Reference             : (J,PR,160,782,196708) 
+#   Year                  : 1967 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :['T0242-004-4'] 
+#   EXFOR reaction        :['(8-O-16(A,EL),,WID)'] 
+#   incident energy       : 5.9500e+06 eV - 9.8200e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0242.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/T0242
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 5.9500E+06        NAN        2.0        NAN        NAN        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN
+ 6.5800E+06        NAN        4.0        NAN        NAN        NAN        NAN        NAN 1.5000E+05        NAN        NAN        NAN
+ 6.9700E+06        NAN        5.0        NAN        NAN        NAN        NAN        NAN 1.5000E+05        NAN        NAN        NAN
+ 7.2000E+06        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.2700E+06        NAN        0.0        NAN        NAN        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN
+ 7.5000E+06        NAN        4.0        NAN        NAN        NAN        NAN        NAN 1.0000E+06        NAN        NAN        NAN
+ 7.6300E+06        NAN        0.0        NAN        NAN        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN
+ 7.7500E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.0000E+05        NAN        NAN        NAN
+ 7.8700E+06        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.2000E+06        NAN        2.0        NAN        NAN        NAN        NAN        NAN 1.5000E+05        NAN        NAN        NAN
+ 8.6000E+06        NAN        2.0        NAN        NAN        NAN        NAN        NAN 6.0000E+05        NAN        NAN        NAN
+ 8.9500E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.0700E+06        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.4200E+06        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.5800E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.0000E+05        NAN        NAN        NAN
+ 9.8200E+06        NAN        6.0        NAN        NAN        NAN        NAN        NAN 1.3000E+05        NAN        NAN        NAN

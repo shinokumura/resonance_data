@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 74-W-182 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.N.Vorona 
+#   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference             : (C,2008KYIV,,528,2008) 
+#   Year                  : 2008 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 74 
+#   A                     : 182 
+#   Nuclide               : 74-W-182 
+# Reaction: 
+#   entry-subent-pointer  :['32222-004-3'] 
+#   EXFOR reaction        :['(74-W-182(N,EL),,WID/RED)'] 
+#   incident energy       : 4.1400e+00 eV - 2.1030e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32222.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/32222
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.1400E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.3000E-04        NAN        NAN        NAN
+ 2.1030E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.5900E-03        NAN        NAN        NAN

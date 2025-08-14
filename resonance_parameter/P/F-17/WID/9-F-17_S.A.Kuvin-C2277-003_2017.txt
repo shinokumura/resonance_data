@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 9-F-17 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.A.Kuvin 
+#   Institute             : (1USAUSA): United States of America 
+#   Reference             : (J,PR/C,96,045812,2017) 
+#   Year                  : 2017 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 9 
+#   A                     : 17 
+#   Nuclide               : 9-F-17 
+# Reaction: 
+#   entry-subent-pointer  :['C2277-003-0'] 
+#   EXFOR reaction        :['(9-F-17(P,EL),,WID)'] 
+#   incident energy       : 5.9980e-01 eV - 1.1650e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2277.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2277
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 5.9980E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.4200E+04        NAN        NAN        NAN
+ 1.1650E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN

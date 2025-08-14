@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.J.Hurst 
+#   Institute             : (2UK OXF): University of Oxford, Oxford 
+#   Reference             : (J,JP/G,6,891,1980) 
+#   Year                  : 1980 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :['F0584-002-4'] 
+#   EXFOR reaction        :['(8-O-16(A,G),,WID/STR)'] 
+#   incident energy       : 9.0200e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0584.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0584
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 9.0200E+00        NAN        6.0        NAN        NAN        NAN 1.3100E+08 1.8000E+07        NAN        NAN        NAN        NAN

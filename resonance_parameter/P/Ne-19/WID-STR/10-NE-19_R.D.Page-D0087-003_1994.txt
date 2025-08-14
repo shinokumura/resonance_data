@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 10-NE-19 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.D.Page 
+#   Institute             : (3HUNHUN): Hungary 
+#   Reference             : (J,PRL,73,3066,1994) 
+#   Year                  : 1994 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 10 
+#   A                     : 19 
+#   Nuclide               : 10-NE-19 
+# Reaction: 
+#   entry-subent-pointer  :['D0087-003-1' 'D0087-003-2'] 
+#   EXFOR reaction        :['(10-NE-19(P,G),,WID/STR)'] 
+#   incident energy       : 4.4700e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0087.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D0087
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 4.4700E-01        NAN        NAN        NAN        NAN        NAN 2.3500E-02        NAN        NAN        NAN        NAN        NAN

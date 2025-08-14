@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 12-MG-25 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.Limata 
+#   Institute             : (2ITYNAP): University degli Studi di Napoli Federico II + INFN Napoli 
+#   Reference             : (J,PR/C,82,015801,2010) 
+#   Year                  : 2010 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 12 
+#   A                     : 25 
+#   Nuclide               : 12-MG-25 
+# Reaction: 
+#   entry-subent-pointer  :['O1854-006-1' 'O1854-006-2'] 
+#   EXFOR reaction        :['(12-MG-25(P,G),,WID/STR)' '(12-MG-25(P,G),,WID/STR,,,RECOM)'] 
+#   incident energy       : 3.0400e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1854.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/O1854
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 3.0400E-01        NAN        NAN        NAN        NAN        NAN 3.0700E-02 1.3667E-03        NAN        NAN        NAN        NAN

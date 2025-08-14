@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.J.Kelly 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (J,PR/C,95,015806,2017) 
+#   Year                  : 2017 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 10 
+#   A                     : 22 
+#   Nuclide               : 10-NE-22 
+# Reaction: 
+#   entry-subent-pointer  :['C2254-003-0'] 
+#   EXFOR reaction        :['(10-NE-22(P,G),,WID/STR)'] 
+#   incident energy       : 1.5100e-01 eV - 4.1700e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2254.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2254
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.5100E-01        NAN        NAN        NAN        NAN        NAN 1.0635E-07        NAN        NAN        NAN        NAN        NAN
+ 1.7800E-01        NAN        NAN        NAN        NAN        NAN 2.3200E-06        NAN        NAN        NAN        NAN        NAN
+ 4.1700E-01        NAN        NAN        NAN        NAN        NAN 8.8000E-02        NAN        NAN        NAN        NAN        NAN

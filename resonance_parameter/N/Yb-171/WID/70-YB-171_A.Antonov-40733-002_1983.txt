@@ -1,0 +1,36 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-83-242,1983) 
+#   Year                  : 1983 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :['40733-002-2'] 
+#   EXFOR reaction        :['(70-YB-171(N,A),,WID)'] 
+#   incident energy       : 7.9100e+00 eV - 1.6460e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40733.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40733
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.9100E+00        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3030E+01        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1720E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.8130E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.4540E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1360E+01        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.6380E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.2870E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.4700E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.6940E+01        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0770E+02        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6040E+02        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6460E+02        NAN        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

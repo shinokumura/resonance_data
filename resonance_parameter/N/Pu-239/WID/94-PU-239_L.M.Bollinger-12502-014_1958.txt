@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.M.Bollinger 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (C,58GENEVA,15,127,195809) 
+#   Year                  : 1958 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :['12502-014-1' '12502-014-2'] 
+#   EXFOR reaction        :['(94-PU-239(N,F),,WID)' '(94-PU-239(N,EL),,WID)'] 
+#   incident energy       : -2.6000e-07 eV - 3.5300e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12502.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12502
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+-2.6000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.5000E-05 3.0000E-05 1.6000E-01 2.0000E-02
+ 1.4280E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.3000E-04 2.0000E-04 6.0000E-02 7.0000E-03
+ 1.4680E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.6000E-03 4.0000E-05 3.3000E-02 4.0000E-03
+ 1.5500E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.3900E-03 4.0000E-04 7.5800E-01 1.0000E-01
+ 2.3900E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.2800E-04 1.0000E-05 4.2000E-02 5.0000E-03
+ 2.7300E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.9900E-04 4.0000E-05 3.0000E-03 1.0000E-03
+ 3.5300E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.7000E-04 4.0000E-05 4.0000E-03 1.0000E-03

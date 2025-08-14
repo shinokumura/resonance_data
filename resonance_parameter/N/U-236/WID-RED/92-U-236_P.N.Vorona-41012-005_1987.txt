@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 92-U-236 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.N.Vorona 
+#   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference             : (C,87KIEV,2,283,1987) 
+#   Year                  : 1987 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 92 
+#   A                     : 236 
+#   Nuclide               : 92-U-236 
+# Reaction: 
+#   entry-subent-pointer  :['41012-005-3'] 
+#   EXFOR reaction        :['(92-U-236(N,EL),,WID/RED)'] 
+#   incident energy       : 5.4500e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41012.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41012
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 5.4500E+00 2.0000E-02        NAN        0.0        NAN        NAN        NAN        NAN 9.5000E-04 1.5000E-05        NAN        NAN

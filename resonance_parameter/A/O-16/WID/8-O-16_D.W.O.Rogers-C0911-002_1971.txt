@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.W.O.Rogers 
+#   Institute             : (1CANTOR): University of Toronto, Toronto, Ontario 
+#   Reference             : (J,CJP,49,1397,1971) 
+#   Year                  : 1971 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :['C0911-002-2'] 
+#   EXFOR reaction        :['(8-O-16(A,G),,WID)'] 
+#   incident energy       : 5.0600e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0911.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0911
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 5.0600E+00        NAN        NAN        NAN        NAN        NAN 1.0000E-01 1.5000E-02        NAN        NAN        NAN        NAN

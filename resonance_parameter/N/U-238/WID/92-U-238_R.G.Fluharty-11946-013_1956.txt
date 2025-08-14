@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 92-U-238 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.G.Fluharty 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,PR,103,1778,56) 
+#   Year                  : 1956 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 92 
+#   A                     : 238 
+#   Nuclide               : 92-U-238 
+# Reaction: 
+#   entry-subent-pointer  :['11946-013-3'] 
+#   EXFOR reaction        :['(92-U-238(N,G),,WID)'] 
+#   incident energy       : 2.1200e+01 eV - 2.0000e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11946.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11946
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.1200E+01 3.0000E-01        NAN        NAN        NAN        NAN 2.5900E-02 1.2000E-02        NAN        NAN        NAN        NAN
+ 3.7000E+01 6.0000E-01        NAN        NAN        NAN        NAN 2.7700E-02 2.4000E-02        NAN        NAN        NAN        NAN
+ 6.6000E+01 2.5000E+00        NAN        NAN        NAN        NAN 3.9100E-02 2.6000E-02        NAN        NAN        NAN        NAN
+ 8.0200E+01 2.0000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0100E+02 3.0000E+00        NAN        NAN        NAN        NAN 2.4000E-02 2.6000E-02        NAN        NAN        NAN        NAN
+ 1.1500E+02 3.5000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8100E+02 7.0000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0000E+02 8.0000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

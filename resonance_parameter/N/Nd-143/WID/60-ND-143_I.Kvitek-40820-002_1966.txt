@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 60-ND-143 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : I.Kvitek 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-E3-3029,1966) 
+#   Year                  : 1966 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 60 
+#   A                     : 143 
+#   Nuclide               : 60-ND-143 
+# Reaction: 
+#   entry-subent-pointer  :['40820-002-1'] 
+#   EXFOR reaction        :['(60-ND-143(N,A),,WID)'] 
+#   incident energy       : 5.5500e-05 eV - 4.1000e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40820.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40820
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 5.5500E-05        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2700E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3600E-04        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.5700E-04        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8000E-04        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8700E-04        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1000E-04        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

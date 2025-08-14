@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 11-NA-22 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.L.Sallaska 
+#   Institute             : (2SPNSPN): Spain 
+#   Reference             : (J,PR/C,83,034611,2011) 
+#   Year                  : 2011 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 11 
+#   A                     : 22 
+#   Nuclide               : 11-NA-22 
+# Reaction: 
+#   entry-subent-pointer  :['C1827-010-0'] 
+#   EXFOR reaction        :['(11-NA-22(P,G),,WID/STR)'] 
+#   incident energy       : 1.9800e-01 eV - 7.9600e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1827.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1827
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.9800E-01 1.8000E-03        NAN        NAN        NAN        NAN 3.4000E-04        NAN        NAN        NAN        NAN        NAN
+ 2.0900E-01 1.6000E-03        NAN        NAN        NAN        NAN 4.0000E-04        NAN        NAN        NAN        NAN        NAN
+ 2.1300E-01 1.4000E-03        NAN        NAN        NAN        NAN 5.7000E-03        NAN        NAN        NAN        NAN        NAN
+ 2.3200E-01 2.3000E-03        NAN        NAN        NAN        NAN 6.7000E-04        NAN        NAN        NAN        NAN        NAN
+ 2.8800E-01 1.1000E-03        NAN        NAN        NAN        NAN 3.9000E-02        NAN        NAN        NAN        NAN        NAN
+ 4.5400E-01 8.0000E-04        NAN        NAN        NAN        NAN 1.6600E-01        NAN        NAN        NAN        NAN        NAN
+ 5.0300E-01 2.0000E-03        NAN        NAN        NAN        NAN 9.3000E-02        NAN        NAN        NAN        NAN        NAN
+ 6.1000E-01 8.0000E-04        NAN        NAN        NAN        NAN 5.9100E-01        NAN        NAN        NAN        NAN        NAN
+ 7.4000E-01 2.0000E-03        NAN        NAN        NAN        NAN 9.1300E-01        NAN        NAN        NAN        NAN        NAN
+ 7.9600E-01 2.0000E-03        NAN        NAN        NAN        NAN 2.3800E-01        NAN        NAN        NAN        NAN        NAN

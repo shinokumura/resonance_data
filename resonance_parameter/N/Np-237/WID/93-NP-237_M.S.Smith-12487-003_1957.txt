@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 93-NP-237 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.S.Smith 
+#   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
+#   Reference             : (J,PR,107,525,57) 
+#   Year                  : 1957 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 93 
+#   A                     : 237 
+#   Nuclide               : 93-NP-237 
+# Reaction: 
+#   entry-subent-pointer  :['12487-003-3'] 
+#   EXFOR reaction        :['(93-NP-237(N,TOT),,WID)'] 
+#   incident energy       : 4.8900e-01 eV - 1.4880e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12487.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12487
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.8900E-01 1.7000E-03        NAN        NAN 3.2000E-02 3.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3370E+00 1.5000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4880E+00 1.8000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

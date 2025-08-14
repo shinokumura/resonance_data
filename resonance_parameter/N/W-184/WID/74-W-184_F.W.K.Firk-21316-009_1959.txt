@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 74-W-184 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.W.K.Firk 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,NP,12,552,5909) 
+#   Year                  : 1959 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 74 
+#   A                     : 184 
+#   Nuclide               : 74-W-184 
+# Reaction: 
+#   entry-subent-pointer  :['21316-009-1' '21316-009-2' '21316-009-3'] 
+#   EXFOR reaction        :['(74-W-184(N,TOT),,WID)' '(74-W-184(N,EL),,WID)' '(74-W-184(N,G),,WID)'] 
+#   incident energy       : 1.8500e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21316.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21316
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.8500E-04        NAN        0.5        NAN 1.0900E+00 1.5000E-01 5.0000E-02 2.5000E-01 1.0400E+00 2.1000E-01        NAN        NAN

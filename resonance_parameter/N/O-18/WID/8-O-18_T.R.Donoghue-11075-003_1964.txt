@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 8-O-18 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : T.R.Donoghue 
+#   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference             : (J,NP,54,33,1964) 
+#   Year                  : 1964 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 18 
+#   Nuclide               : 8-O-18 
+# Reaction: 
+#   entry-subent-pointer  :['11075-003-5'] 
+#   EXFOR reaction        :['(8-O-18(N,TOT),,WID)'] 
+#   incident energy       : 6.6600e+05 eV - 2.4450e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11075.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11075
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.6600E+05        NAN        1.5        1.0 7.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2050E+06        NAN        0.5        1.0 1.1000E+05 1.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.5600E+06        NAN        2.5        2.0 5.0000E+05 8.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6600E+06        NAN        0.5        1.0 4.0000E+05 1.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.3000E+06        NAN        1.5        2.0 1.6000E+05 4.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.3700E+06        NAN        0.5        1.0 1.5000E+05 4.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.4450E+06        NAN        3.5        3.0 2.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN

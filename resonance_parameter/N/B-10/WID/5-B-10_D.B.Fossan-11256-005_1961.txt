@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 5-B-10 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.B.Fossan 
+#   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference             : (J,PR,123,209,6108) 
+#   Year                  : 1961 
+#   Facility              : None 
+# Target: 
+#   Z                     : 5 
+#   A                     : 10 
+#   Nuclide               : 5-B-10 
+# Reaction: 
+#   entry-subent-pointer  :['11256-005-2'] 
+#   EXFOR reaction        :['(5-B-10(N,TOT),,WID)'] 
+#   incident energy       : 4.3000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11256.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11256
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.3000E+00        NAN        2.5        NAN 5.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN

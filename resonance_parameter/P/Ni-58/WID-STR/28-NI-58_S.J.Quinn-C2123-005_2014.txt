@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 28-NI-58 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.J.Quinn 
+#   Institute             : (1USAMSU): Michigan State University, East Lansing, MI 
+#   Reference             : (J,NIM/A,757,62,2014) 
+#   Year                  : 2014 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 28 
+#   A                     : 58 
+#   Nuclide               : 28-NI-58 
+# Reaction: 
+#   entry-subent-pointer  :['C2123-005-0'] 
+#   EXFOR reaction        :['(28-NI-58(P,G),,WID/STR)'] 
+#   incident energy       : 1.4000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2123.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2123
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.4000E+00        NAN        NAN        NAN        NAN        NAN 5.8000E-01 7.0000E-02        NAN        NAN        NAN        NAN

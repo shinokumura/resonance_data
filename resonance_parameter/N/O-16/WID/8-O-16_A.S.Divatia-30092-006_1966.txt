@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.S.Divatia 
+#   Institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
+#   Reference             : (C,66PARIS,1,233,1966) 
+#   Year                  : 1966 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :['30092-006-0'] 
+#   EXFOR reaction        :['(8-O-16(N,A),,WID)'] 
+#   incident energy       : 4.5300e+00 eV - 6.1100e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30092.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30092
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.5300E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.6400E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.3800E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.1100E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

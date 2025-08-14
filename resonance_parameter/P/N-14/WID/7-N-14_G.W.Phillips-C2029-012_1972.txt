@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 7-N-14 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.W.Phillips 
+#   Institute             : (1USATEX): University of Texas, Austin, TX 
+#   Reference             : (J,PR/C,5,(2),297,1972) 
+#   Year                  : 1972 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 14 
+#   Nuclide               : 7-N-14 
+# Reaction: 
+#   entry-subent-pointer  :['C2029-012-3'] 
+#   EXFOR reaction        :['(7-N-14(P,G),,WID)'] 
+#   incident energy       : 4.5800e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2029.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2029
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 4.5800E+00        NAN        2.5        NAN        NAN        NAN 5.0000E-01 1.6667E-01        NAN        NAN        NAN        NAN

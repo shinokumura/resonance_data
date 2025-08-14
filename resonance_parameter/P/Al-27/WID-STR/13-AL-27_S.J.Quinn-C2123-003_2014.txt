@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 13-AL-27 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.J.Quinn 
+#   Institute             : (1USAMSU): Michigan State University, East Lansing, MI 
+#   Reference             : (J,NIM/A,757,62,2014) 
+#   Year                  : 2014 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 13 
+#   A                     : 27 
+#   Nuclide               : 13-AL-27 
+# Reaction: 
+#   entry-subent-pointer  :['C2123-003-0'] 
+#   EXFOR reaction        :['(13-AL-27(P,G),,WID/STR)'] 
+#   incident energy       : 9.5600e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2123.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2123
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 9.5600E-01        NAN        NAN        NAN        NAN        NAN 2.0500E+00 2.3000E-01        NAN        NAN        NAN        NAN

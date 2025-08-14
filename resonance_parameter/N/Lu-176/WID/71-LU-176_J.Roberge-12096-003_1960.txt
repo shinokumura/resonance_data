@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 71-LU-176 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Roberge 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,NSE,7,502,60) 
+#   Year                  : 1960 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 71 
+#   A                     : 176 
+#   Nuclide               : 71-LU-176 
+# Reaction: 
+#   entry-subent-pointer  :['12096-003-3' '12096-003-4'] 
+#   EXFOR reaction        :['(71-LU-176(N,TOT),,WID)' '(71-LU-176(N,G),,WID)'] 
+#   incident energy       : 1.4200e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12096.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12096
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.4200E-01 4.0000E-04        NAN        NAN 5.8900E-02 1.0000E-04 5.8800E-02 2.0000E-04        NAN        NAN        NAN        NAN

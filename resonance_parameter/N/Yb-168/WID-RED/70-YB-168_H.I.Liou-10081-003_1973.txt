@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 70-YB-168 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.I.Liou 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR/C,7,823,197302) 
+#   Year                  : 1973 
+#   Facility              : (SYNCH): Synchrotron 
+# Target: 
+#   Z                     : 70 
+#   A                     : 168 
+#   Nuclide               : 70-YB-168 
+# Reaction: 
+#   entry-subent-pointer  :['10081-003-2'] 
+#   EXFOR reaction        :['(70-YB-168(N,EL),,WID/RED)'] 
+#   incident energy       : 2.2500e+01 eV - 1.8809e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10081.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10081
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.2500E+01 4.0000E-02        NAN        0.0        NAN        NAN        NAN        NAN 6.1000E-03 4.0000E-04        NAN        NAN
+ 1.8809E+02 2.8000E-01        NAN        0.0        NAN        NAN        NAN        NAN 1.2500E-02 2.6000E-03        NAN        NAN

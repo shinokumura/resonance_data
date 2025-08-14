@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 48-CD-113 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.J.Rainwater 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,PR,71,65,1947) 
+#   Year                  : 1947 
+#   Facility              : (SELVE): Velocity selector 
+# Target: 
+#   Z                     : 48 
+#   A                     : 113 
+#   Nuclide               : 48-CD-113 
+# Reaction: 
+#   entry-subent-pointer  :['11685-009-2'] 
+#   EXFOR reaction        :['(48-CD-113(N,TOT),,WID)'] 
+#   incident energy       : 1.7600e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11685.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11685
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.7600E-01 2.0000E-03        NAN        NAN 1.1500E-01 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN

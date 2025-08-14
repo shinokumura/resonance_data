@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 50-SN-124 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Julien 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,132,129,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 50 
+#   A                     : 124 
+#   Nuclide               : 50-SN-124 
+# Reaction: 
+#   entry-subent-pointer  :['20687-033-6' '20687-033-7'] 
+#   EXFOR reaction        :['(50-SN-124(N,TOT),,WID)' '(50-SN-124(N,G),,WID)'] 
+#   incident energy       : 6.2000e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20687
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.2000E+01        NAN        0.5        1.0 2.4500E-01        NAN 2.3900E-01        NAN        NAN        NAN        NAN        NAN

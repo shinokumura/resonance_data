@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 6-C-14 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.M.Sanders 
+#   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference             : (J,PR,104,1434,1956) 
+#   Year                  : 1956 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 6 
+#   A                     : 14 
+#   Nuclide               : 6-C-14 
+# Reaction: 
+#   entry-subent-pointer  :['C1880-002-2' 'C1880-002-6'] 
+#   EXFOR reaction        :['(6-C-14(P,TOT),,WID)' '(6-C-14(P,A),,WID)'] 
+#   incident energy       : 1.1620e+06 eV - 2.9080e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1880.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1880
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.1620E+06 2.0000E+03        0.5        NAN 6.0000E+03 1.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3140E+06 3.0000E+03        0.5        NAN 5.4000E+04 3.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6700E+06 3.0000E+03        1.5        NAN 5.6000E+04 3.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.7880E+06 3.0000E+03        1.5        NAN 2.2000E+04 2.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8840E+06 3.0000E+03        0.5        NAN 1.8000E+04 2.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0260E+06 4.0000E+03        2.5        NAN 2.7000E+04 5.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0790E+06 4.0000E+03        1.5        NAN 5.8000E+04 8.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.2710E+06 4.0000E+03        2.5        NAN 2.3000E+04 3.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.4500E+06 4.0000E+03        1.5        NAN 3.4000E+04 4.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.9080E+06 4.0000E+03        NAN        NAN 7.1000E+04 5.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN

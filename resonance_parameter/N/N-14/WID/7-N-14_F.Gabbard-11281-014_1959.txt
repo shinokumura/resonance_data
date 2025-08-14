@@ -1,0 +1,45 @@
+# Header: 
+#   Title                 : 7-N-14 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : F.Gabbard 
+#   Institute             : (1USARIC): Rice University, Houston, TX 
+#   Reference             : (J,NP,14,277,195912) 
+#   Year                  : 1959 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 7 
+#   A                     : 14 
+#   Nuclide               : 7-N-14 
+# Reaction: 
+#   entry-subent-pointer  :['11281-014-0'] 
+#   EXFOR reaction        :['(7-N-14(N,TOT),,WID)'] 
+#   incident energy       : 1.3500e+00 eV - 8.0000e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11281.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11281
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.3500E+00        NAN        NAN        NAN 2.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4100E+00        NAN        NAN        NAN 5.6000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6100E+00        NAN        NAN        NAN 2.3000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8000E+00        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.2300E+00        NAN        NAN        NAN 7.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.7100E+00        NAN        NAN        NAN 4.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.7400E+00        NAN        NAN        NAN 9.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.9700E+00        NAN        NAN        NAN 2.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.0900E+00        NAN        NAN        NAN 6.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.2300E+00        NAN        NAN        NAN 7.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.5100E+00        NAN        NAN        NAN 2.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.5800E+00        NAN        NAN        NAN 3.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.8000E+00        NAN        NAN        NAN 2.0000E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.0800E+00        NAN        NAN        NAN 5.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1000E+00        NAN        NAN        NAN 3.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.3800E+00        NAN        NAN        NAN 4.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.6000E+00        NAN        NAN        NAN 1.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.1700E+00        NAN        NAN        NAN 7.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.2600E+00        NAN        NAN        NAN 1.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.3400E+00        NAN        NAN        NAN 1.2000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.4800E+00        NAN        NAN        NAN 1.8000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.0000E+00        NAN        NAN        NAN 2.5000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN

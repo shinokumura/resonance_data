@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 72-HF-177 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.P.Balabanov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-7376,1973) 
+#   Year                  : 1973 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 72 
+#   A                     : 177 
+#   Nuclide               : 72-HF-177 
+# Reaction: 
+#   entry-subent-pointer  :['41649-003-0'] 
+#   EXFOR reaction        :['(72-HF-177(N,A),,WID)'] 
+#   incident energy       : 1.0980e-06 eV - 1.3940e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41649.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41649
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.0980E-06        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.3800E-06        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.8900E-06        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 6.5700E-06        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.8700E-06        NAN        4.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0950E-05        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3940E-05        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 80-HG-199 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.R.Bird 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (J,NP,13,525,1959) 
+#   Year                  : 1959 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 80 
+#   A                     : 199 
+#   Nuclide               : 80-HG-199 
+# Reaction: 
+#   entry-subent-pointer  :['21014-011-2' '21014-011-3' '21014-011-4'] 
+#   EXFOR reaction        :['(80-HG-199(N,TOT),,WID)' '(80-HG-199(N,EL),,WID)'
+ '(80-HG-199(N,G),,WID)'] 
+#   incident energy       : 3.3500e-05 eV - 1.7500e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21014.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21014
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 3.3500E-05 2.0000E-07        1.0        NAN 3.8000E-01 4.0000E-02 3.3000E-01 4.0000E-02 5.0000E-02 1.0000E-02        NAN        NAN
+ 1.2800E-04 1.0000E-06        0.0        NAN 4.8000E-01 5.0000E-02 3.3000E-01 6.0000E-02 1.5000E-01 3.0000E-02        NAN        NAN
+ 1.7500E-04 2.0000E-06        1.0        NAN 1.3000E+00 2.0000E-01 4.0000E-01 3.0000E-01 9.0000E-01 2.0000E-01        NAN        NAN

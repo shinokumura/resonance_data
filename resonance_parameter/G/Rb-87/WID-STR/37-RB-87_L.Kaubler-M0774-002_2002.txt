@@ -1,0 +1,28 @@
+# Header: 
+#   Title                 : 37-RB-87 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.Kaubler 
+#   Institute             : (2GERIFS): Institute fuer Strahlenphysik, Stuttgart 
+#   Reference             : (J,PR/C,65,054315,2002) 
+#   Year                  : 2002 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 37 
+#   A                     : 87 
+#   Nuclide               : 37-RB-87 
+# Reaction: 
+#   entry-subent-pointer  :['M0774-002-3'] 
+#   EXFOR reaction        :['(37-RB-87(G,EL),,WID/STR)'] 
+#   incident energy       : 2.2840e+06 eV - 3.7020e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0774.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/M0774
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
+ 2.2840E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.9500E-03 4.8000E-04        NAN        NAN
+ 2.3780E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 5.9500E-03 5.6000E-04        NAN        NAN
+ 2.3980E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.3400E-02 2.6000E-03        NAN        NAN
+ 3.3380E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.7300E-03 5.1000E-04        NAN        NAN
+ 3.7020E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1300E-01 1.5000E-02        NAN        NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-16 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.J.Allen 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR/C,3,1737,197105) 
+#   Year                  : 1971 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 16 
+#   Nuclide               : 8-O-16 
+# Reaction: 
+#   entry-subent-pointer  :['10141-004-2' '10141-004-3'] 
+#   EXFOR reaction        :['(8-O-16(N,G),,WID)' '(8-O-16(N,EL),,WID)'] 
+#   incident energy       : 4.2600e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10141.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10141
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.2600E+05 1.0000E+04        NAN        NAN        NAN        NAN 4.0000E+00        NAN 6.0000E+04 1.5000E+04        NAN        NAN

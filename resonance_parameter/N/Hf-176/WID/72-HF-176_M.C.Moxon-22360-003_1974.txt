@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 72-HF-176 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.C.Moxon 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (R,AERE-R-7864,197412) 
+#   Year                  : 1974 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 72 
+#   A                     : 176 
+#   Nuclide               : 72-HF-176 
+# Reaction: 
+#   entry-subent-pointer  :['22360-003-2' '22360-003-3'] 
+#   EXFOR reaction        :['(72-HF-176(N,EL),,WID)' '(72-HF-176(N,G),,WID)'] 
+#   incident energy       : 7.8858e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22360.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/22360
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.8858E+00 1.0000E-02        NAN        NAN        NAN        NAN 5.7000E-02 1.2000E-02 4.7100E-03        NAN        NAN        NAN

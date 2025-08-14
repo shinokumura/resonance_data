@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : L.M.Bollinger 
+#   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
+#   Reference             : (C,58GENEVA,15,127,195809) 
+#   Year                  : 1958 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :['12502-010-3'] 
+#   EXFOR reaction        :['(94-PU-239(N,TOT),,WID)'] 
+#   incident energy       : 2.9600e-01 eV - 5.2600e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12502.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12502
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.9600E-01        NAN        NAN        NAN 1.0100E-01 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.8300E+00        NAN        NAN        NAN 8.3000E-02 5.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0930E+01        NAN        NAN        NAN 1.8000E-01 1.2000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.1900E+01        NAN        NAN        NAN 6.4000E-02 7.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.7600E+01        NAN        NAN        NAN 8.7000E-02 6.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.2200E+01        NAN        NAN        NAN 1.1300E-01 4.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1400E+01        NAN        NAN        NAN 7.6000E-02 1.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.4500E+01        NAN        NAN        NAN 5.1000E-02 1.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.2600E+01        NAN        NAN        NAN 5.7000E-02 7.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN

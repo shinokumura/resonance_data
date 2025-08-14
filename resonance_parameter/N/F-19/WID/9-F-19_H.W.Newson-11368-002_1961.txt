@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 9-F-19 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.W.Newson 
+#   Institute             : (1USADKE): Duke University, Durham, NC 
+#   Reference             : (J,AP,14,365,1961) 
+#   Year                  : 1961 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 9 
+#   A                     : 19 
+#   Nuclide               : 9-F-19 
+# Reaction: 
+#   entry-subent-pointer  :['11368-002-4'] 
+#   EXFOR reaction        :['(9-F-19(N,EL),,WID)'] 
+#   incident energy       : 2.7500e+04 eV - 4.2000e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11368.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11368
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.7500E+04        NAN        2.0        1.0        NAN        NAN        NAN        NAN 3.0000E+02        NAN        NAN        NAN
+ 4.9000E+04        NAN        1.0        1.0        NAN        NAN        NAN        NAN 1.4000E+03        NAN        NAN        NAN
+ 1.0000E+05        NAN        1.0        1.0        NAN        NAN        NAN        NAN 1.0000E+04 1.0000E+03        NAN        NAN
+ 1.8000E+05        NAN        0.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.8000E+05        NAN        1.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.0000E+05        NAN        1.0        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.0800E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.8800E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.2000E+05        NAN        2.0        1.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

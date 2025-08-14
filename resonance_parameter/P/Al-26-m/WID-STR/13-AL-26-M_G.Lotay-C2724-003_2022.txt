@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 13-AL-26-M Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Lotay 
+#   Institute             : (2UK SUR): University of Surrey, Guildford 
+#   Reference             : (J,PRL,128,042701,2022) 
+#   Year                  : 2022 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 13 
+#   A                     : 26 
+#   Nuclide               : 13-AL-26-M 
+# Reaction: 
+#   entry-subent-pointer  :['C2724-003-0'] 
+#   EXFOR reaction        :['(13-AL-26-M(P,G),,WID/STR)'] 
+#   incident energy       : 4.4700e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2724.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2724
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 4.4700E-01        NAN        NAN        NAN        NAN        NAN 4.3200E-01        NAN        NAN        NAN        NAN        NAN

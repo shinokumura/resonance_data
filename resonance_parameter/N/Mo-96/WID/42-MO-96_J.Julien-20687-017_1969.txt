@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 42-MO-96 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.Julien 
+#   Institute             : (2FR SAC): CEA/Saclay 
+#   Reference             : (J,NP/A,132,129,1969) 
+#   Year                  : 1969 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 42 
+#   A                     : 96 
+#   Nuclide               : 42-MO-96 
+# Reaction: 
+#   entry-subent-pointer  :['20687-017-5' '20687-017-6' '20687-017-7'] 
+#   EXFOR reaction        :['(42-MO-96(N,EL),,WID)' '(42-MO-96(N,TOT),,WID)' '(42-MO-96(N,G),,WID)'] 
+#   incident energy       : 1.3096e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20687
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.3096E+02        NAN        1.0        0.0 3.1500E-01        NAN 2.5000E-02        NAN 2.9000E-01        NAN        NAN        NAN

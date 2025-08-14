@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 77-IR-191 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.Fischer 
+#   Institute             : (2GERKIG): GKSS, Geesthacht 
+#   Reference             : (J,AKE,42,203,1983) 
+#   Year                  : 1983 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 77 
+#   A                     : 191 
+#   Nuclide               : 77-IR-191 
+# Reaction: 
+#   entry-subent-pointer  :['21781-002-2'] 
+#   EXFOR reaction        :['(77-IR-191(N,G),,WID)'] 
+#   incident energy       : 6.5280e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21781.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21781
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.5280E-01 5.0000E-04        NAN        0.0        NAN        NAN 7.2700E-02 5.0000E-04        NAN        NAN        NAN        NAN

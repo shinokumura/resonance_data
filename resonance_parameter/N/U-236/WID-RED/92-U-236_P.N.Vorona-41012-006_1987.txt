@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 92-U-236 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : P.N.Vorona 
+#   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
+#   Reference             : (C,87KIEV,2,283,1987) 
+#   Year                  : 1987 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 92 
+#   A                     : 236 
+#   Nuclide               : 92-U-236 
+# Reaction: 
+#   entry-subent-pointer  :['41012-006-2'] 
+#   EXFOR reaction        :['(92-U-236(N,EL),,WID/RED)'] 
+#   incident energy       : 2.9800e+01 eV - 1.0230e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41012.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41012
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.9800E+01 1.3000E-01        NAN        0.0        NAN        NAN        NAN        NAN 9.0000E-05 8.0000E-06        NAN        NAN
+ 3.4100E+01 1.5000E-01        NAN        0.0        NAN        NAN        NAN        NAN 4.0000E-04 7.0000E-05        NAN        NAN
+ 4.3900E+01 2.8000E-01        NAN        0.0        NAN        NAN        NAN        NAN 1.9600E-03 9.0000E-05        NAN        NAN
+ 6.2300E+01 4.0000E-01        NAN        0.0        NAN        NAN        NAN        NAN 5.0000E-06        NAN        NAN        NAN
+ 7.1400E+01 5.0000E-01        NAN        0.0        NAN        NAN        NAN        NAN 1.5500E-03 9.0000E-05        NAN        NAN
+ 8.6500E+01 6.0000E-01        NAN        0.0        NAN        NAN        NAN        NAN 2.4300E-03 1.4000E-04        NAN        NAN
+ 1.0230E+02 8.0000E-01        NAN        0.0        NAN        NAN        NAN        NAN 1.5000E-04 6.0000E-05        NAN        NAN

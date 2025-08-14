@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 70-YB-171 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,27,18,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 70 
+#   A                     : 171 
+#   Nuclide               : 70-YB-171 
+# Reaction: 
+#   entry-subent-pointer  :['40598-009-0'] 
+#   EXFOR reaction        :['(70-YB-171(N,A),,WID)'] 
+#   incident energy       : 7.9100e-06 eV - 5.2870e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40598
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.9100E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3040E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1720E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.8170E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.4520E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.1420E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.6380E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.2870E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

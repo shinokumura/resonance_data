@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 96-CM-244 Resonance Parameter: ARE 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.T.Maguire Jr 
+#   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
+#   Reference             : (J,NSE,89,293,198504) 
+#   Year                  : 1985 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 96 
+#   A                     : 244 
+#   Nuclide               : 96-CM-244 
+# Reaction: 
+#   entry-subent-pointer  :['12788-005-2'] 
+#   EXFOR reaction        :['(96-CM-244(N,F),,ARE)'] 
+#   incident energy       : 7.6700e+00 eV - 3.5000e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12788.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12788
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.6700E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.4900E+01 8.0000E-01
+ 1.6200E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.8000E+01 3.0000E+00
+ 2.2800E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.2000E+01 4.0000E+00
+ 3.5000E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.3000E+01 4.0000E+00

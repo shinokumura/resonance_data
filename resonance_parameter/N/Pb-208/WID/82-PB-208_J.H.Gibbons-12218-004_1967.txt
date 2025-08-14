@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 82-PB-208 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : J.H.Gibbons 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,153,1356,67) 
+#   Year                  : 1967 
+#   Facility              : None 
+# Target: 
+#   Z                     : 82 
+#   A                     : 208 
+#   Nuclide               : 82-PB-208 
+# Reaction: 
+#   entry-subent-pointer  :['12218-004-3'] 
+#   EXFOR reaction        :['(82-PB-208(N,EL),,WID)'] 
+#   incident energy       : 7.0000e+04 eV - 7.7000e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12218.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12218
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.0000E+04        NAN        0.5        1.0        NAN        NAN        NAN        NAN 8.4000E+01 1.1500E+01        NAN        NAN
+ 7.7000E+04        NAN        0.5        1.0        NAN        NAN        NAN        NAN 7.5750E+02 8.5000E+01        NAN        NAN

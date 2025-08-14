@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 60-ND-143 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,SNP,39,501,1984) 
+#   Year                  : 1984 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 60 
+#   A                     : 143 
+#   Nuclide               : 60-ND-143 
+# Reaction: 
+#   entry-subent-pointer  :['40864-002-2'] 
+#   EXFOR reaction        :['(60-ND-143(N,A),,WID)'] 
+#   incident energy       : 1.2740e+02 eV - 1.7613e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40864.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40864
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.2740E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3550E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.7950E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.0800E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 7.0830E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.5260E+02        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0824E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2112E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.4338E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.7613E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

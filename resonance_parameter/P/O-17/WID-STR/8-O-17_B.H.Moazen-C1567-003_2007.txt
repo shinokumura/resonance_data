@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 8-O-17 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.H.Moazen 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR/C,75,065801,2007) 
+#   Year                  : 2007 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 17 
+#   Nuclide               : 8-O-17 
+# Reaction: 
+#   entry-subent-pointer  :['C1567-003-0'] 
+#   EXFOR reaction        :['(8-O-17(P,A),,WID/STR)'] 
+#   incident energy       : nan eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1567.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1567
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

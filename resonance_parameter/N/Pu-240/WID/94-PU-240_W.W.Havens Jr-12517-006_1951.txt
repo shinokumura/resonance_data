@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-240 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.W.Havens Jr 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (R,CUD-92,195105) 
+#   Year                  : 1951 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 94 
+#   A                     : 240 
+#   Nuclide               : 94-PU-240 
+# Reaction: 
+#   entry-subent-pointer  :['12517-006-2'] 
+#   EXFOR reaction        :['(94-PU-240(N,TOT),,WID)'] 
+#   incident energy       : 1.0600e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12517.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12517
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.0600E-06        NAN        NAN        NAN 4.2000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN

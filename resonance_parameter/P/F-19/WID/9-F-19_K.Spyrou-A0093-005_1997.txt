@@ -1,0 +1,33 @@
+# Header: 
+#   Title                 : 9-F-19 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Spyrou 
+#   Institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
+#   Reference             : (J,ZP/A,357,283,1997) 
+#   Year                  : 1997 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 9 
+#   A                     : 19 
+#   Nuclide               : 9-F-19 
+# Reaction: 
+#   entry-subent-pointer  :['A0093-005-1'] 
+#   EXFOR reaction        :['(9-F-19(P,A),,WID)'] 
+#   incident energy       : 8.3200e-01 eV - 1.6022e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0093.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/A0093
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 8.3200E-01 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.7211E-01 2.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.9770E-01 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 9.3400E-01 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0864E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.1344E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2787E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3436E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.3704E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.6022E+00 7.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

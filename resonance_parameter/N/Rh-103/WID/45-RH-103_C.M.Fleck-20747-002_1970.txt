@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 45-RH-103 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.M.Fleck 
+#   Institute             : (2AUSATI): Atominstitut der Technischen Universitaet Wien,Vienna 
+#   Reference             : (J,AKE,15,271,1970) 
+#   Year                  : 1970 
+#   Facility              : None 
+# Target: 
+#   Z                     : 45 
+#   A                     : 103 
+#   Nuclide               : 45-RH-103 
+# Reaction: 
+#   entry-subent-pointer  :['20747-002-1'] 
+#   EXFOR reaction        :['(45-RH-103(N,TOT),,WID)'] 
+#   incident energy       : 1.2570e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20747.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20747
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.2570E-06        NAN        NAN        NAN 1.6100E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN

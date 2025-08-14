@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 17-CL-35 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : B.H.Moazen 
+#   Institute             : (1USATEN): University of Tennessee, Knoxville, TN 
+#   Reference             : (J,EPJ/A,47,66,2011) 
+#   Year                  : 2011 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 17 
+#   A                     : 35 
+#   Nuclide               : 17-CL-35 
+# Reaction: 
+#   entry-subent-pointer  :['C1882-003-0'] 
+#   EXFOR reaction        :['(17-CL-35(P,A),,WID/STR)'] 
+#   incident energy       : 6.1000e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1882.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1882
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 6.1000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

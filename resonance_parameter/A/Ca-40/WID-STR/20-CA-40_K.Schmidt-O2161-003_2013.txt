@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 20-CA-40 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : K.Schmidt 
+#   Institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
+#   Reference             : (J,PR/C,88,025803,2013) 
+#   Year                  : 2013 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 20 
+#   A                     : 40 
+#   Nuclide               : 20-CA-40 
+# Reaction: 
+#   entry-subent-pointer  :['O2161-003-0'] 
+#   EXFOR reaction        :['(20-CA-40(A,G),,WID/STR)'] 
+#   incident energy       : 4.4970e+00 eV - 4.5230e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O21/O2161.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/O2161
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 4.4970E+00        NAN        NAN        NAN        NAN        NAN 9.2000E-01 2.0000E-01        NAN        NAN        NAN        NAN
+ 4.5100E+00        NAN        NAN        NAN        NAN        NAN 6.2000E+00 5.0000E-01        NAN        NAN        NAN        NAN
+ 4.5230E+00        NAN        NAN        NAN        NAN        NAN 1.3200E+00 2.4000E-01        NAN        NAN        NAN        NAN

@@ -1,0 +1,63 @@
+# Header: 
+#   Title                 : 16-S-36 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.N.Vodin 
+#   Institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
+#   Reference             : (J,VAT/I,,(5/52),12,2009) 
+#   Year                  : 2009 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 16 
+#   A                     : 36 
+#   Nuclide               : 16-S-36 
+# Reaction: 
+#   entry-subent-pointer  :['D5074-002-4'] 
+#   EXFOR reaction        :['(16-S-36(P,G),,WID)'] 
+#   incident energy       : 1.9795e+00 eV - 2.1846e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5074.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D5074
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.9795E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.9821E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.9862E+00        NAN        1.5        NAN        NAN        NAN 1.0000E+00        NAN        NAN        NAN        NAN        NAN
+ 1.9945E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.9976E+00        NAN        0.5        NAN        NAN        NAN 9.0000E-02        NAN        NAN        NAN        NAN        NAN
+ 2.0028E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0121E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0142E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0225E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0288E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0371E+00        NAN        1.5        NAN        NAN        NAN 1.0000E+01        NAN        NAN        NAN        NAN        NAN
+ 2.0418E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0465E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0507E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0581E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0654E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0686E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0739E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0802E+00        NAN        1.5        NAN        NAN        NAN 5.0000E+00        NAN        NAN        NAN        NAN        NAN
+ 2.0865E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0929E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.0993E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1014E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1066E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1120E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1152E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1216E+00        NAN        1.5        NAN        NAN        NAN 5.7000E+00        NAN        NAN        NAN        NAN        NAN
+ 2.1255E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1344E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1373E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1430E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1494E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1534E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1566E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1604E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1652E+00        NAN        1.5        NAN        NAN        NAN 5.8000E+00        NAN        NAN        NAN        NAN        NAN
+ 2.1710E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1760E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1825E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.1846E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

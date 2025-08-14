@@ -1,0 +1,30 @@
+# Header: 
+#   Title                 : 63-EU-151 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : N.P.Balabanov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (R,JINR-P3-7376,1973) 
+#   Year                  : 1973 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 63 
+#   A                     : 151 
+#   Nuclide               : 63-EU-151 
+# Reaction: 
+#   entry-subent-pointer  :['41649-004-0'] 
+#   EXFOR reaction        :['(63-EU-151(N,A),,WID)'] 
+#   incident energy       : 3.2100e-07 eV - 3.7000e-06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41649.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41649
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 3.2100E-07        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.6100E-07        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.0550E-06        NAN        3.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.8300E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 2.7170E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.3600E-06        NAN        2.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.7000E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 94-PU-239 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.E.Anderson 
+#   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
+#   Reference             : (R,LA-266,1945) 
+#   Year                  : 1945 
+#   Facility              : (SELVE): Velocity selector 
+# Target: 
+#   Z                     : 94 
+#   A                     : 239 
+#   Nuclide               : 94-PU-239 
+# Reaction: 
+#   entry-subent-pointer  :['12519-004-2'] 
+#   EXFOR reaction        :['(94-PU-239(N,TOT),,WID)'] 
+#   incident energy       : 2.9500e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12519.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12519
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 2.9500E-07        NAN        NAN        NAN 9.7000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN

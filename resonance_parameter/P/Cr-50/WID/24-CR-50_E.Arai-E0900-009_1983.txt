@@ -1,0 +1,37 @@
+# Header: 
+#   Title                 : 24-CR-50 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : E.Arai 
+#   Institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
+#   Reference             : (J,JPJ,52,(3),802,198303) 
+#   Year                  : 1983 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 24 
+#   A                     : 50 
+#   Nuclide               : 24-CR-50 
+# Reaction: 
+#   entry-subent-pointer  :['E0900-009-1'] 
+#   EXFOR reaction        :['(24-CR-50(P,TOT),,WID)'] 
+#   incident energy       : 3.1687e+00 eV - 3.9782e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E09/E0900.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/E0900
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 3.1687E+00        NAN        0.5        1.0 2.0000E+02 2.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.1725E+00        NAN        0.5        1.0 1.6000E+03 1.6000E+02        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.1929E+00        NAN        0.5        1.0 3.3000E+03 3.3000E+02        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.2205E+00        NAN        0.5        1.0 2.8000E+02 2.8000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.2961E+00        NAN        0.5        1.0 2.8000E+02 2.8000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.3608E+00        NAN        0.5        1.0 8.0000E+02 8.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.5048E+00        NAN        0.5        1.0 4.0000E+02 4.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.5756E+00        NAN        0.5        1.0 3.0000E+02 3.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.5963E+00        NAN        0.5        1.0 1.0000E+02 1.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.6356E+00        NAN        0.5        1.0 3.0000E+02 3.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.6610E+00        NAN        0.5        1.0 2.0000E+02 2.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.6917E+00        NAN        0.5        1.0 1.7000E+03 1.7000E+02        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.9298E+00        NAN        0.5        1.0 5.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.9782E+00        NAN        0.5        1.0 1.0000E+02 1.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN

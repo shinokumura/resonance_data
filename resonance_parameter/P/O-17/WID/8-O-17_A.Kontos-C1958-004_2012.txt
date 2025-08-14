@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 8-O-17 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Kontos 
+#   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference             : (J,PR/C,86,055801,2012) 
+#   Year                  : 2012 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 17 
+#   Nuclide               : 8-O-17 
+# Reaction: 
+#   entry-subent-pointer  :['C1958-004-4' 'C1958-004-5'] 
+#   EXFOR reaction        :['(8-O-17(P,EL),,WID)' '(8-O-17(P,A),,WID)'] 
+#   incident energy       : 5.9000e+05 eV - 7.1700e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1958.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1958
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 5.9000E+05        NAN        3.0        NAN        NAN        NAN        NAN        NAN 1.4100E+04 3.0000E+02        NAN        NAN
+ 7.1700E+05        NAN        2.0        NAN        NAN        NAN        NAN        NAN 1.1300E+04 2.0000E+02        NAN        NAN

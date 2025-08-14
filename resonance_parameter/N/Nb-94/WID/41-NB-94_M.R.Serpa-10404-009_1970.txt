@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 41-NB-94 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.R.Serpa 
+#   Institute             : (1USAISU): Idaho State University, Pocatello, ID 
+#   Reference             : (T,SERPA,1970) 
+#   Year                  : 1970 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 41 
+#   A                     : 94 
+#   Nuclide               : 41-NB-94 
+# Reaction: 
+#   entry-subent-pointer  :['10404-009-2'] 
+#   EXFOR reaction        :['(41-NB-94(N,G),,WID)'] 
+#   incident energy       : 1.1580e-05 eV - 2.2780e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10404.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10404
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.1580E-05        NAN        NAN        0.0        NAN        NAN 1.6500E-01 2.0000E-02        NAN        NAN        NAN        NAN
+ 2.2780E-05        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

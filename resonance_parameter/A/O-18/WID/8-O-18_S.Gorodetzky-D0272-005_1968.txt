@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 8-O-18 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Gorodetzky 
+#   Institute             : (2FR STR): IPHC, Strasbourg 
+#   Reference             : (J,JPR,29,271,1968) 
+#   Year                  : 1968 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 8 
+#   A                     : 18 
+#   Nuclide               : 8-O-18 
+# Reaction: 
+#   entry-subent-pointer  :['D0272-005-2' 'D0272-005-3'] 
+#   EXFOR reaction        :['(8-O-18(A,TOT),,WID)' '(8-O-18(A,EL),,WID)'] 
+#   incident energy       : 2.5600e+00 eV - 3.9300e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D02/D0272.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/D0272
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 2.5600E+00 5.0000E-03        1.0        NAN 1.4000E+07        NAN        NAN        NAN 3.4000E+06        NAN        NAN        NAN
+ 2.7100E+00 5.0000E-03        1.0        NAN 1.3000E+07        NAN        NAN        NAN 3.4000E+06        NAN        NAN        NAN
+ 2.7500E+00 5.0000E-03        2.0        NAN 3.0000E+07        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN
+ 3.1900E+00 5.0000E-03        1.0        NAN 8.0000E+07        NAN        NAN        NAN 6.5000E+06        NAN        NAN        NAN
+ 3.4400E+00 5.0000E-03        2.0        NAN 1.5000E+07        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN
+ 3.6000E+00 5.0000E-03        2.0        NAN 3.0000E+07        NAN        NAN        NAN 8.0000E+05        NAN        NAN        NAN
+ 3.8400E+00 5.0000E-03        2.0        NAN 4.5000E+07        NAN        NAN        NAN 4.1000E+06        NAN        NAN        NAN
+ 3.8700E+00 5.0000E-03        1.0        NAN 1.7000E+08        NAN        NAN        NAN 8.3000E+07        NAN        NAN        NAN
+ 3.9300E+00 5.0000E-03        3.0        NAN 5.5000E+07        NAN        NAN        NAN 4.9000E+06        NAN        NAN        NAN

@@ -1,0 +1,34 @@
+# Header: 
+#   Title                 : 19-K-39 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : Ph.Scholz 
+#   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
+#   Reference             : (J,PR/C,107,065806,2023) 
+#   Year                  : 2023 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 19 
+#   A                     : 39 
+#   Nuclide               : 19-K-39 
+# Reaction: 
+#   entry-subent-pointer  :['C2966-002-0'] 
+#   EXFOR reaction        :['(19-K-39(P,G),,WID/STR)'] 
+#   incident energy       : 3.4550e-01 eV - 1.3466e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C29/C2966.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C2966
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 3.4550E-01 8.0000E-04        NAN        NAN        NAN        NAN 4.0000E-06 1.0000E-06        NAN        NAN        NAN        NAN
+ 4.3054E-01 9.0000E-05        NAN        NAN        NAN        NAN 4.0000E-06 1.0000E-06        NAN        NAN        NAN        NAN
+ 5.3560E-01 9.0000E-04        NAN        NAN        NAN        NAN 1.3933E-04 1.6000E-05        NAN        NAN        NAN        NAN
+ 5.9550E-01 9.0000E-04        NAN        NAN        NAN        NAN 4.0000E-05 1.0000E-05        NAN        NAN        NAN        NAN
+ 6.2223E-01 1.2000E-04        NAN        NAN        NAN        NAN 8.5000E-03 1.1000E-03        NAN        NAN        NAN        NAN
+ 6.6700E-01 6.0000E-03        NAN        NAN        NAN        NAN 6.1000E-03 6.0000E-04        NAN        NAN        NAN        NAN
+ 6.8345E-01 1.5000E-04        NAN        NAN        NAN        NAN 1.2000E-02 2.0000E-03        NAN        NAN        NAN        NAN
+ 7.8323E-01 1.1000E-04        NAN        NAN        NAN        NAN 1.7000E-02 3.0000E-03        NAN        NAN        NAN        NAN
+ 8.2827E-01 1.1000E-04        NAN        NAN        NAN        NAN 3.4000E-02 3.0000E-03        NAN        NAN        NAN        NAN
+ 1.1328E+00 4.0000E-04        NAN        NAN        NAN        NAN 2.0300E-01 1.9000E-02        NAN        NAN        NAN        NAN
+ 1.3466E+00 1.3000E-04        NAN        NAN        NAN        NAN 4.7400E-01 3.6000E-02        NAN        NAN        NAN        NAN

@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 44-RU-101 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Antonov 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (J,YF,27,18,1978) 
+#   Year                  : 1978 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 44 
+#   A                     : 101 
+#   Nuclide               : 44-RU-101 
+# Reaction: 
+#   entry-subent-pointer  :['40598-006-0'] 
+#   EXFOR reaction        :['(44-RU-101(N,A),,WID)'] 
+#   incident energy       : 6.6820e-05 eV - 3.4000e-04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40598
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.6820E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 3.4000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

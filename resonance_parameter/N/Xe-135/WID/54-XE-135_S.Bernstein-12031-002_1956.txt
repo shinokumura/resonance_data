@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 54-XE-135 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Bernstein 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,102,823,56) 
+#   Year                  : 1956 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 54 
+#   A                     : 135 
+#   Nuclide               : 54-XE-135 
+# Reaction: 
+#   entry-subent-pointer  :['12031-002-3'] 
+#   EXFOR reaction        :['(54-XE-135(N,G),,WID)'] 
+#   incident energy       : 8.4900e-02 eV - 8.5100e-02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12031.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/12031
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 8.4900E-02 1.0000E-03        NAN        NAN        NAN        NAN 9.4200E-02 3.2000E-03        NAN        NAN        NAN        NAN
+ 8.4900E-02 1.1000E-03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.5100E-02 1.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 8.5100E-02 1.1000E-03        NAN        NAN        NAN        NAN 8.2800E-02 3.1000E-03        NAN        NAN        NAN        NAN

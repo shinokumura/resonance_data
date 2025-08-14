@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 68-ER-0 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : G.Tuckey 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (P,AERE-PR/NP-2,15,6112) 
+#   Year                  : 1961 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 68 
+#   A                     : 0 
+#   Nuclide               : 68-ER-0 
+# Reaction: 
+#   entry-subent-pointer  :['21475-002-1'] 
+#   EXFOR reaction        :['(68-ER-0(N,TOT),,WID)'] 
+#   incident energy       : 4.6000e-07 eV - 5.8000e-07 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/214/21475.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/21475
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 4.6000E-07        NAN        NAN        NAN 7.8200E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.8000E-07        NAN        NAN        NAN 9.9400E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN

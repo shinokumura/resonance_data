@@ -1,0 +1,32 @@
+# Header: 
+#   Title                 : 44-RU-101 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : Kim Hi San 
+#   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
+#   Reference             : (C,65ANTWERP,,571(185),1965) 
+#   Year                  : 1965 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 44 
+#   A                     : 101 
+#   Nuclide               : 44-RU-101 
+# Reaction: 
+#   entry-subent-pointer  :['40814-017-0'] 
+#   EXFOR reaction        :['(44-RU-101(N,G),,WID)'] 
+#   incident energy       : 1.5800e-05 eV - 5.2300e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40814.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40814
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.5800E-05 2.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.5800E-05 3.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.5800E-05 4.0000E-07        NAN        NAN        NAN        NAN 1.7400E-01 2.0000E-02        NAN        NAN        NAN        NAN
+ 4.2500E-05 2.0000E-07        NAN        NAN        NAN        NAN 1.6400E-01 2.0000E-02        NAN        NAN        NAN        NAN
+ 4.2500E-05 3.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 4.2500E-05 4.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.2300E-05 2.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 5.2300E-05 3.0000E-07        NAN        NAN        NAN        NAN 1.9000E-01 4.0000E-02        NAN        NAN        NAN        NAN
+ 5.2300E-05 4.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN

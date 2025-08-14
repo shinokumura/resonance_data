@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 8-O-18 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.Best 
+#   Institute             : (2ITYITY): Italy 
+#   Reference             : (J,PL/B,797,134900,2019) 
+#   Year                  : 2019 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 8 
+#   A                     : 18 
+#   Nuclide               : 8-O-18 
+# Reaction: 
+#   entry-subent-pointer  :['O2457-003-0'] 
+#   EXFOR reaction        :['(8-O-18(P,G),,WID/STR)'] 
+#   incident energy       : 9.0000e-02 eV - 1.4300e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O24/O2457.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/O2457
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 9.0000E-02        NAN        NAN        NAN        NAN        NAN 5.3000E-07        NAN        NAN        NAN        NAN        NAN
+ 1.4300E-01        NAN        NAN        NAN        NAN        NAN 8.8000E-04        NAN        NAN        NAN        NAN        NAN

@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 13-AL-26 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Ruiz 
+#   Institute             : (1CANTMF): Tri University Meson Facility, Vancouver, B.C. 
+#   Reference             : (J,PRL,96,252501,2006) 
+#   Year                  : 2006 
+#   Facility              : (FRS): Fragment separator 
+# Target: 
+#   Z                     : 13 
+#   A                     : 26 
+#   Nuclide               : 13-AL-26 
+# Reaction: 
+#   entry-subent-pointer  :['C1449-002-0'] 
+#   EXFOR reaction        :['(13-AL-26(P,G),,WID/STR)'] 
+#   incident energy       : 5.1220e+00 eV - 5.2260e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C14/C1449.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1449
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 5.1220E+00        NAN        NAN        NAN        NAN        NAN 3.6000E-05        NAN        NAN        NAN        NAN        NAN
+ 5.2260E+00        NAN        NAN        NAN        NAN        NAN 3.5000E-05        NAN        NAN        NAN        NAN        NAN

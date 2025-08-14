@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 5-B-11 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.E.Segel 
+#   Institute             : (1USAUSA): United States of America 
+#   Reference             : (J,PR,124,814,1961) 
+#   Year                  : 1961 
+#   Facility              : (CCW): Cockcroft-Walton accelerator 
+# Target: 
+#   Z                     : 5 
+#   A                     : 11 
+#   Nuclide               : 5-B-11 
+# Reaction: 
+#   entry-subent-pointer  :['C1643-004-0'] 
+#   EXFOR reaction        :['(5-B-11(P,EL),,WID)'] 
+#   incident energy       : 1.6300e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1643.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1643
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 1.6300E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.9000E+01 1.5000E+01        NAN        NAN

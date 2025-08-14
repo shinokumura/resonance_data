@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 14-SI-28 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : M.Babilon 
+#   Institute             : (2GERTHD): Technische Universitaet Darmstadt 
+#   Reference             : (J,PR/C,66,028801,2002) 
+#   Year                  : 2002 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 14 
+#   A                     : 28 
+#   Nuclide               : 14-SI-28 
+# Reaction: 
+#   entry-subent-pointer  :['F0616-004-4'] 
+#   EXFOR reaction        :['(14-SI-28(A,G),,WID/STR)'] 
+#   incident energy       : 2.3700e+06 eV - 2.8800e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0616.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/F0616
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 2.3700E+06        NAN        3.0        NAN        NAN        NAN 3.3000E+06 2.4500E+05        NAN        NAN        NAN        NAN
+ 2.4200E+06        NAN        4.0        NAN        NAN        NAN 4.0000E+05 1.1000E+05        NAN        NAN        NAN        NAN
+ 2.8800E+06        NAN        2.0        NAN        NAN        NAN 2.3100E+07 1.9000E+05        NAN        NAN        NAN        NAN

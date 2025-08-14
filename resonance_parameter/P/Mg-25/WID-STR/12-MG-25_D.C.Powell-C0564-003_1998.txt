@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 12-MG-25 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.C.Powell 
+#   Institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
+#   Reference             : (J,NP/A,644,263,1998) 
+#   Year                  : 1998 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 12 
+#   A                     : 25 
+#   Nuclide               : 12-MG-25 
+# Reaction: 
+#   entry-subent-pointer  :['C0564-003-2'] 
+#   EXFOR reaction        :['(12-MG-25(P,G),,WID/STR)'] 
+#   incident energy       : 4.3500e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0564.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0564
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 4.3500E+05        NAN        NAN        NAN        NAN        NAN 9.4200E+00 6.5000E-01        NAN        NAN        NAN        NAN

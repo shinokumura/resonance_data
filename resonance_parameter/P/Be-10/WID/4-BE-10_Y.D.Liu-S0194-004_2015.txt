@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 4-BE-10 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : Y.D.Liu 
+#   Institute             : (3CPRCPR): China, People's Rep. 
+#   Reference             : (J,PR/C,91,044302,2015) 
+#   Year                  : 2015 
+#   Facility              : (CYCLO): Cyclotron 
+# Target: 
+#   Z                     : 4 
+#   A                     : 10 
+#   Nuclide               : 4-BE-10 
+# Reaction: 
+#   entry-subent-pointer  :['S0194-004-5'] 
+#   EXFOR reaction        :['(4-BE-10(P,EL),,WID)'] 
+#   incident energy       : 2.2300e+06 eV - 4.9500e+06 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/S01/S0194.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/S0194
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 2.2300E+06 1.3000E+05        0.5        0.0        NAN        NAN        NAN        NAN 6.0800E+05 2.4200E+05        NAN        NAN
+ 3.3200E+06 7.0000E+04        1.5        2.0        NAN        NAN        NAN        NAN 4.7500E+05 8.0000E+04        NAN        NAN
+ 3.5100E+06 9.0000E+04        1.5        1.0        NAN        NAN        NAN        NAN 8.3000E+05 1.4500E+05        NAN        NAN
+ 4.9500E+06 2.1000E+05        NAN        1.0        NAN        NAN        NAN        NAN 6.0000E+04        NAN        NAN        NAN

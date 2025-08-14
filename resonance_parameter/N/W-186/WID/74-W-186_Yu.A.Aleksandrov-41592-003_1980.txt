@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 74-W-186 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : Yu.A.Aleksandrov 
+#   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
+#   Reference             : (C,80KIEV,2,168,1980) 
+#   Year                  : 1980 
+#   Facility              : (REAC): Reactor 
+# Target: 
+#   Z                     : 74 
+#   A                     : 186 
+#   Nuclide               : 74-W-186 
+# Reaction: 
+#   entry-subent-pointer  :['41592-003-1' '41592-003-2'] 
+#   EXFOR reaction        :['(74-W-186(N,G),,WID)' '(74-W-186(N,EL),,WID)'] 
+#   incident energy       : 1.8830e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41592.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41592
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 1.8830E-05 5.0000E-07        NAN        NAN        NAN        NAN 4.7100E-02 5.0000E-04 3.0800E-01 4.0000E-03        NAN        NAN

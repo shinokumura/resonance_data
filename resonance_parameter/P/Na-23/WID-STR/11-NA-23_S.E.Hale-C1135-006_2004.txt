@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 11-NA-23 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.E.Hale 
+#   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
+#   Reference             : (J,PR/C,70,045802,2004) 
+#   Year                  : 2004 
+#   Facility              : (VDGT): Tandem van de Graaff 
+# Target: 
+#   Z                     : 11 
+#   A                     : 23 
+#   Nuclide               : 11-NA-23 
+# Reaction: 
+#   entry-subent-pointer  :['C1135-006-2'] 
+#   EXFOR reaction        :['(11-NA-23(P,G),,WID/STR,,,RECOM)'] 
+#   incident energy       : 5.3000e+03 eV - 1.6950e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1135.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C1135
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
+ 5.3000E+03        NAN        4.0        NAN        NAN        NAN 1.6000E-56        NAN        NAN        NAN        NAN        NAN
+ 3.6900E+04        NAN        0.0        NAN        NAN        NAN 1.3000E-24        NAN        NAN        NAN        NAN        NAN
+ 1.3780E+05        NAN        2.0        NAN        NAN        NAN 1.5000E-08        NAN        NAN        NAN        NAN        NAN
+ 1.6950E+05        NAN        1.0        NAN        NAN        NAN 1.2000E-09        NAN        NAN        NAN        NAN        NAN

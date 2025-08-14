@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 96-CM-244 Resonance Parameter: ARE 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : A.A.Alekseev 
+#   Institute             : (4RUSJIA): Institute Yadernych Issledovaniy Rossiiskoi A.N., Moskva 
+#   Reference             : (J,YF,73,1533,2010) 
+#   Year                  : 2010 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 96 
+#   A                     : 244 
+#   Nuclide               : 96-CM-244 
+# Reaction: 
+#   entry-subent-pointer  :['41524-003-0'] 
+#   EXFOR reaction        :['(96-CM-244(N,F),,ARE)'] 
+#   incident energy       : 7.6700e-06 eV - 9.6120e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41524.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/41524
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 7.6700E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.4050E+01        NAN
+ 1.6790E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.7200E+01        NAN
+ 2.2850E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.0000E+01        NAN
+ 3.4990E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.6200E+01        NAN
+ 5.2780E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.0000E+00        NAN
+ 6.7990E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 5.0000E+00        NAN
+ 8.5960E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.3500E+01        NAN
+ 9.6120E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.0500E+01        NAN

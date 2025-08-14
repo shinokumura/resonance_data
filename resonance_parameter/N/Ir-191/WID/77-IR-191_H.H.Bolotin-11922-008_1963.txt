@@ -1,0 +1,27 @@
+# Header: 
+#   Title                 : 77-IR-191 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.H.Bolotin 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,NP,42,676,63) 
+#   Year                  : 1963 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 77 
+#   A                     : 191 
+#   Nuclide               : 77-IR-191 
+# Reaction: 
+#   entry-subent-pointer  :['11922-008-3'] 
+#   EXFOR reaction        :['(77-IR-191(N,G),,WID)'] 
+#   incident energy       : 5.3600e+00 eV - 5.1300e+01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11922.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11922
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 5.3600E+00        NAN        NAN        0.0        NAN        NAN 1.0160E-01 9.3000E-03        NAN        NAN        NAN        NAN
+ 6.1300E+00        NAN        NAN        0.0        NAN        NAN 7.2000E-02 2.3000E-02        NAN        NAN        NAN        NAN
+ 3.0000E+01        NAN        NAN        0.0        NAN        NAN 1.6000E-02 1.6000E-02        NAN        NAN        NAN        NAN
+ 5.1300E+01        NAN        NAN        0.0        NAN        NAN 9.5000E-02 2.1000E-02        NAN        NAN        NAN        NAN

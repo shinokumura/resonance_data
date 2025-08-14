@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 51-SB-121 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : V.Mateiciuc 
+#   Institute             : (3RUMBUC): Horia Hulubei National Institute (IFIN-HH), Magurele 
+#   Reference             : (J,RRP,12,907,1967) 
+#   Year                  : 1967 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 51 
+#   A                     : 121 
+#   Nuclide               : 51-SB-121 
+# Reaction: 
+#   entry-subent-pointer  :['30020-003-1' '30020-003-3'] 
+#   EXFOR reaction        :['(51-SB-121(N,TOT),,WID)' '(51-SB-121(N,G),,WID)'] 
+#   incident energy       : 6.2400e-06 eV - 2.9700e-05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30020.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/30020
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.2400E-06        NAN        NAN        NAN 8.6900E+07 5.8000E+06 8.4100E-02 5.8000E-03        NAN        NAN        NAN        NAN
+ 1.5500E-05        NAN        NAN        NAN 1.0200E+08 1.0000E+07 9.5400E-02 1.0000E-02        NAN        NAN        NAN        NAN
+ 2.9700E-05        NAN        NAN        NAN 1.0810E+08 9.0000E+06 1.0300E-01 9.0000E-03        NAN        NAN        NAN        NAN

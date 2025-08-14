@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 77-IR-0 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : R.B.Sawyer 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,72,109,4707) 
+#   Year                  : 1947 
+#   Facility              : (SPECC): Crystal spectrometer 
+# Target: 
+#   Z                     : 77 
+#   A                     : 0 
+#   Nuclide               : 77-IR-0 
+# Reaction: 
+#   entry-subent-pointer  :['11982-003-3'] 
+#   EXFOR reaction        :['(77-IR-0(N,TOT),,WID)'] 
+#   incident energy       : 6.2000e-01 eV - 1.2900e+00 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11982.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11982
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
+ 6.2000E-01        NAN        NAN        NAN 8.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+ 1.2900E+00        NAN        NAN        NAN 1.4000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN

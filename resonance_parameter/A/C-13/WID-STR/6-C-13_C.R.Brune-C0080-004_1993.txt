@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 6-C-13 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-14 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.R.Brune 
+#   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
+#   Reference             : (J,PR/C,48,3119,199312) 
+#   Year                  : 1993 
+#   Facility              : (ACCEL): Accelerator 
+# Target: 
+#   Z                     : 6 
+#   A                     : 13 
+#   Nuclide               : 6-C-13 
+# Reaction: 
+#   entry-subent-pointer  :['C0080-004-0'] 
+#   EXFOR reaction        :['(6-C-13(A,G),,WID/STR)'] 
+#   incident energy       : 6.5600e-01 eV - 8.0220e-01 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C00/C0080.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/C0080
+#
+# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
+ 6.5600E-01        NAN        NAN        NAN        NAN        NAN 5.0000E+00        NAN        NAN        NAN        NAN        NAN
+ 8.0220E-01        NAN        NAN        NAN        NAN        NAN 8.0000E+00        NAN        NAN        NAN        NAN        NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 60-ND-150 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.P.Barry 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
@@ -15,14 +15,14 @@
 # Reaction: 
 #   entry-subent-pointer  :['14093-026-0'] 
 #   EXFOR reaction        :['(60-ND-150(N,G),,WID)'] 
-#   incident energy       : 7.8920e-05 eV - 4.8640e-04 eV 
+#   incident energy       : 7.8920e+01 eV - 4.8640e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/140/14093.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14093
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 7.8920E-05 7.0000E-09        NAN        NAN        NAN        NAN 4.5000E-02 2.0000E-03        NAN        NAN        NAN        NAN
- 2.6590E-04 6.0000E-08        NAN        NAN        NAN        NAN 5.2000E-02 5.0000E-03        NAN        NAN        NAN        NAN
- 3.1362E-04 5.0000E-08        NAN        NAN        NAN        NAN 5.5000E-02 2.0000E-03        NAN        NAN        NAN        NAN
- 4.5890E-04 6.0000E-07        NAN        NAN        NAN        NAN 5.2000E-02 5.0000E-03        NAN        NAN        NAN        NAN
- 4.8640E-04 1.0000E-07        NAN        NAN        NAN        NAN 5.6000E-02 3.0000E-03        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   7.8920E+01   7.0000E-03        NAN        NAN          NAN          NAN   4.5000E-02   2.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   2.6590E+02   6.0000E-02        NAN        NAN          NAN          NAN   5.2000E-02   5.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   3.1362E+02   5.0000E-02        NAN        NAN          NAN          NAN   5.5000E-02   2.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   4.5890E+02   6.0000E-01        NAN        NAN          NAN          NAN   5.2000E-02   5.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   4.8640E+02   1.0000E-01        NAN        NAN          NAN          NAN   5.6000E-02   3.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN

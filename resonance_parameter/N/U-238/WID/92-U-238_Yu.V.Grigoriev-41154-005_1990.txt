@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 92-U-238 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : Yu.V.Grigoriev 
 #   Institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['41154-005-0'] 
 #   EXFOR reaction        :['(92-U-238(N,G),,WID)'] 
-#   incident energy       : 1.0232e-01 eV 
+#   incident energy       : 1.0232e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41154.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41154
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.0232E-01        NAN        NAN        0.0        NAN        NAN 2.3500E-02 7.0000E-04        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.0232E+05          NAN        NAN        0.0          NAN          NAN   2.3500E-02   7.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN

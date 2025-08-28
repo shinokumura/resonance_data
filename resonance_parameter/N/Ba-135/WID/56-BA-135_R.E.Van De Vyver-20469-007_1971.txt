@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 56-BA-135 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.E.Van De Vyver 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
@@ -15,11 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['20469-007-0'] 
 #   EXFOR reaction        :['(56-BA-135(N,G),,WID)'] 
-#   incident energy       : 2.4400e-05 eV - 8.6400e-05 eV 
+#   incident energy       : 2.4400e+01 eV - 8.6400e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20469.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20469
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.4400E-05        NAN        1.0        NAN        NAN        NAN 9.9000E-02 6.0000E-03        NAN        NAN        NAN        NAN
- 8.6400E-05        NAN        2.0        NAN        NAN        NAN 1.3200E-01 3.0000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.4400E+01          NAN        1.0        NAN          NAN          NAN   9.9000E-02   6.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   8.6400E+01          NAN        2.0        NAN          NAN          NAN   1.3200E-01   3.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN

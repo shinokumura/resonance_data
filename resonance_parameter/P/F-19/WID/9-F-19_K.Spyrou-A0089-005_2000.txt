@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 9-F-19 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : K.Spyrou 
 #   Institute             : (2GRCATH): NCSR Demokritos, Aghia Paraskevi, Athens 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['A0089-005-1'] 
 #   EXFOR reaction        :['(9-F-19(P,A),,WID)'] 
-#   incident energy       : 2.3700e-01 eV 
+#   incident energy       : 2.3700e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A00/A0089.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/A0089
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 2.3700E-01 5.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   2.3700E+05   5.0000E+02        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.9000E+02   1.5000E+02

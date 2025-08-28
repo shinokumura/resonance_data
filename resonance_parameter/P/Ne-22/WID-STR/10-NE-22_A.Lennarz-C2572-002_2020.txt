@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.Lennarz 
 #   Institute             : (1CANTMF): Tri University Meson Facility, Vancouver, B.C. 
@@ -15,13 +15,13 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2572-002-0'] 
 #   EXFOR reaction        :['(10-NE-22(P,G),,WID/STR)'] 
-#   incident energy       : 1.4940e-01 eV - 4.5800e-01 eV 
+#   incident energy       : 1.4940e+05 eV - 4.5800e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2572.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2572
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.4940E-01 7.0000E-04        NAN        NAN        NAN        NAN 1.6000E-07        NAN        NAN        NAN        NAN        NAN
- 1.8120E-01 7.0000E-04        NAN        NAN        NAN        NAN 2.1700E-06        NAN        NAN        NAN        NAN        NAN
- 2.4830E-01 6.0000E-04        NAN        NAN        NAN        NAN 8.5000E-06 1.4000E-06        NAN        NAN        NAN        NAN
- 4.5800E-01 3.0000E-04        NAN        NAN        NAN        NAN 4.4000E-01 3.6000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.4940E+05   7.0000E+02        NAN        NAN          NAN          NAN   1.6000E-07          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.8120E+05   7.0000E+02        NAN        NAN          NAN          NAN   2.1700E-06          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.4830E+05   6.0000E+02        NAN        NAN          NAN          NAN   8.5000E-06   1.4000E-06          NAN          NAN          NAN          NAN          NAN          NAN
+   4.5800E+05   3.0000E+02        NAN        NAN          NAN          NAN   4.4000E-01   3.6000E-02          NAN          NAN          NAN          NAN          NAN          NAN

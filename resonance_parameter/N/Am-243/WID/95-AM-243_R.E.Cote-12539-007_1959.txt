@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 95-AM-243 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.E.Cote 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['12539-007-2'] 
 #   EXFOR reaction        :['(95-AM-243(N,TOT),,WID)'] 
-#   incident energy       : 1.0700e-08 eV 
+#   incident energy       : 1.0700e-02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12539.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12539
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.0700E-08        NAN        NAN        0.0 3.4000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.0700E-02          NAN        NAN        0.0   3.4000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

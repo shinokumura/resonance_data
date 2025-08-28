@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.Di Leva 
 #   Institute             : (2ITYNAP): University degli Studi di Napoli Federico II + INFN Napoli 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['O2098-004-0'] 
 #   EXFOR reaction        :['(8-O-17(P,G),,WID/STR)'] 
-#   incident energy       : 1.8300e-01 eV 
+#   incident energy       : 1.8300e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2098.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2098
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.8300E-01        NAN        NAN        NAN        NAN        NAN 1.6700E-06 1.2000E-07        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.8300E+05          NAN        NAN        NAN          NAN          NAN   1.6700E-06   1.2000E-07          NAN          NAN          NAN          NAN          NAN          NAN

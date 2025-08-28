@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 42-MO-95 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.R.Serpa 
 #   Institute             : (1USAISU): Idaho State University, Pocatello, ID 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['10404-012-3'] 
 #   EXFOR reaction        :['(42-MO-95(N,EL),,WID/RED)'] 
-#   incident energy       : 4.4620e-05 eV 
+#   incident energy       : 4.4620e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10404.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10404
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 4.4620E-05        NAN        NAN        0.0        NAN        NAN        NAN        NAN 2.7100E-02        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   4.4620E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   2.7100E-02          NAN          NAN          NAN          NAN          NAN

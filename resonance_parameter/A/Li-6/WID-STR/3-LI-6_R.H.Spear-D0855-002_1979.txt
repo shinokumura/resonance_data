@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 3-LI-6 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.H.Spear 
 #   Institute             : (3AULCBR): Australian National University, Canberra 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['D0855-002-0'] 
 #   EXFOR reaction        :['(3-LI-6(A,G),,WID/STR)'] 
-#   incident energy       : 1.1750e+00 eV 
+#   incident energy       : 1.1750e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D08/D0855.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/D0855
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 1.1750E+00        NAN        NAN        NAN        NAN        NAN 4.0000E-01 6.0000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   1.1750E+06          NAN        NAN        NAN          NAN          NAN   4.0000E-01   6.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN

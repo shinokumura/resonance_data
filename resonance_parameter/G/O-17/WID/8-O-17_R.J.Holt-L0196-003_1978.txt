@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.J.Holt 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
@@ -20,10 +20,10 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0196.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0196
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
- 4.5490E+06        NAN        1.5        NAN        NAN        NAN        NAN        NAN 4.2000E-01        NAN        NAN        NAN
- 5.0770E+06        NAN        1.5        NAN        NAN        NAN        NAN        NAN 1.0000E+00        NAN        NAN        NAN
- 5.3780E+06        NAN        1.5        NAN        NAN        NAN        NAN        NAN 6.0000E-02        NAN        NAN        NAN
- 6.3540E+06        NAN        0.5        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.2130E+06        NAN        1.5        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.5320E+06        NAN        1.5        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   4.5490E+06          NAN        1.5        NAN          NAN          NAN          NAN          NAN   4.2000E-01          NAN          NAN          NAN          NAN          NAN
+   5.0770E+06          NAN        1.5        NAN          NAN          NAN          NAN          NAN   1.0000E+00          NAN          NAN          NAN          NAN          NAN
+   5.3780E+06          NAN        1.5        NAN          NAN          NAN          NAN          NAN   6.0000E-02          NAN          NAN          NAN          NAN          NAN
+   6.3540E+06          NAN        0.5        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.2130E+06          NAN        1.5        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.5320E+06          NAN        1.5        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

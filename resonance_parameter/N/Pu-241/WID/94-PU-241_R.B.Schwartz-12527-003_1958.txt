@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.B.Schwartz 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['12527-003-1' '12527-003-2' '12527-003-3'] 
 #   EXFOR reaction        :['(94-PU-241(N,F),,WID)' '(94-PU-241(N,G),,WID)' '(94-PU-241(N,TOT),,WID)'] 
-#   incident energy       : 2.5000e-07 eV 
+#   incident energy       : 2.5000e-01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12527.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12527
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.5000E-07        NAN        NAN        NAN 1.2500E-01        NAN 3.0000E-02        NAN        NAN        NAN 9.5000E-02        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.5000E-01          NAN        NAN        NAN   1.2500E-01          NAN   3.0000E-02          NAN          NAN          NAN   9.5000E-02          NAN          NAN          NAN

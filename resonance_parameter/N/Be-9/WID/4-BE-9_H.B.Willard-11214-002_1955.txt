@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 4-BE-9 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : H.B.Willard 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,98,669,5505) 
+#   Year                  : 1955 
+#   Facility              : None 
+# Target: 
+#   Z                     : 4 
+#   A                     : 9 
+#   Nuclide               : 4-BE-9 
+# Reaction: 
+#   entry-subent-pointer  :['11214-002-3'] 
+#   EXFOR reaction        :['(4-BE-9(N,TOT),,WID)'] 
+#   incident energy       : 6.2000e+05 eV - 8.1000e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11214.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11214
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   6.2000E+05          NAN        3.0        NAN   2.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.1000E+05          NAN        2.0        NAN   8.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

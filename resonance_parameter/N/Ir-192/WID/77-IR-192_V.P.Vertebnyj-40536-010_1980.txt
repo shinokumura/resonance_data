@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 77-IR-192 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : V.P.Vertebnyj 
 #   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
@@ -20,15 +20,15 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40536.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40536
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.5600E-01        NAN        NAN        NAN        NAN        NAN 9.3000E-02        NAN        NAN        NAN        NAN        NAN
- 5.4600E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.5740E+00        NAN        NAN        NAN        NAN        NAN 9.3000E-02        NAN        NAN        NAN        NAN        NAN
- 2.0710E+00        NAN        NAN        NAN        NAN        NAN 1.0200E-01        NAN        NAN        NAN        NAN        NAN
- 3.1200E+00        NAN        NAN        NAN        NAN        NAN 9.5000E-02        NAN        NAN        NAN        NAN        NAN
- 4.3800E+00        NAN        NAN        NAN        NAN        NAN 1.0500E-01        NAN        NAN        NAN        NAN        NAN
- 7.8300E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 9.2000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.0200E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.2750E+01        NAN        NAN        NAN        NAN        NAN 1.0700E-01        NAN        NAN        NAN        NAN        NAN
- 1.4560E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.5600E-01          NAN        NAN        NAN          NAN          NAN   9.3000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.4600E-01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.5740E+00          NAN        NAN        NAN          NAN          NAN   9.3000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.0710E+00          NAN        NAN        NAN          NAN          NAN   1.0200E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.1200E+00          NAN        NAN        NAN          NAN          NAN   9.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.3800E+00          NAN        NAN        NAN          NAN          NAN   1.0500E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.8300E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.2000E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0200E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2750E+01          NAN        NAN        NAN          NAN          NAN   1.0700E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.4560E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

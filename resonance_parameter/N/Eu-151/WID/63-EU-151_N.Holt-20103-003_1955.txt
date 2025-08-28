@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 63-EU-151 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : N.Holt 
 #   Institute             : (2NORKJL): Institutt for Energiteknikk (IFE), Kjeller 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['20103-003-0'] 
 #   EXFOR reaction        :['(63-EU-151(N,G),,WID)'] 
-#   incident energy       : -6.0000e-10 eV 
+#   incident energy       : -6.0000e-04 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20103.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20103
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
--6.0000E-10        NAN        NAN        NAN        NAN        NAN 6.7000E-02 5.0000E-03        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -6.0000E-04          NAN        NAN        NAN          NAN          NAN   6.7000E-02   5.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 18-AR-36 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.D.Hinnefeld 
 #   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C0513-002-0'] 
 #   EXFOR reaction        :['(18-AR-36(P,G),,WID/STR)'] 
-#   incident energy       : 9.1700e-01 eV 
+#   incident energy       : 9.1700e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C05/C0513.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0513
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 9.1700E-01        NAN        NAN        NAN        NAN        NAN 6.8000E-01 4.9000E-01        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   9.1700E+05          NAN        NAN        NAN          NAN          NAN   6.8000E-01   4.9000E-01          NAN          NAN          NAN          NAN          NAN          NAN

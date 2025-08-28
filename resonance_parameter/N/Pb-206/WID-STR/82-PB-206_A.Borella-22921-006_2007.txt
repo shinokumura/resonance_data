@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 82-PB-206 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.Borella 
 #   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
@@ -20,8 +20,8 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22921.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22921
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
--1.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.3576E+03 5.0000E-01        NAN        NAN        NAN        NAN 1.1600E-01 1.0000E-03        NAN        NAN        NAN        NAN
- 6.2300E+05        NAN        NAN        NAN        NAN        NAN 3.5660E+00        NAN        NAN        NAN        NAN        NAN
- 6.2390E+05        NAN        NAN        NAN        NAN        NAN 3.3900E-01        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -1.0000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.3576E+03   5.0000E-01        NAN        NAN          NAN          NAN   1.1600E-01   1.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN
+   6.2300E+05          NAN        NAN        NAN          NAN          NAN   3.5660E+00          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.2390E+05          NAN        NAN        NAN          NAN          NAN   3.3900E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN

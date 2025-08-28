@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 40-ZR-94 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.S.Alimov 
 #   Institute             : (4RUSMOS): Moscow State University , Moscow 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['M0904-007-0'] 
 #   EXFOR reaction        :['(40-ZR-94(G,EL),,ARE)'] 
-#   incident energy       : 8.5000e+00 eV 
+#   incident energy       : 8.5000e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M09/M0904.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0904
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
- 8.5000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1000E+04        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   8.5000E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   1.1000E+04          NAN          NAN          NAN          NAN          NAN

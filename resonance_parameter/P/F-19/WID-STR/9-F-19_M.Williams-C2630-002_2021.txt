@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 9-F-19 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.Williams 
 #   Institute             : (2UK YRK): University of York, York 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2630-002-0'] 
 #   EXFOR reaction        :['(9-F-19(P,G),,WID/STR)'] 
-#   incident energy       : 3.2300e-01 eV 
+#   incident energy       : 3.2300e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2630.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2630
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 3.2300E-01 5.0000E-04        NAN        NAN        NAN        NAN 3.3000E-03        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   3.2300E+05   5.0000E+02        NAN        NAN          NAN          NAN   3.3000E-03          NAN          NAN          NAN          NAN          NAN          NAN          NAN

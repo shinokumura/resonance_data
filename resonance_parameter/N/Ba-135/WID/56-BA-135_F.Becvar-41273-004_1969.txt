@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 56-BA-135 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : F.Becvar 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['41273-004-1'] 
 #   EXFOR reaction        :['(56-BA-135(N,G),,WID)'] 
-#   incident energy       : 2.4500e-05 eV 
+#   incident energy       : 2.4500e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41273.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41273
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.4500E-05        NAN        1.0        0.0        NAN        NAN 1.1500E-01 2.5000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.4500E+01          NAN        1.0        0.0          NAN          NAN   1.1500E-01   2.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN

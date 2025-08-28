@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 62-SM-0 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : W.J.Sturm 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
@@ -20,7 +20,7 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12136.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12136
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.6000E-02        NAN        NAN        NAN 7.4000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.0000E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.3000E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.6000E-02          NAN        NAN        NAN   7.4000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0000E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.3000E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

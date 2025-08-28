@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-18 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.L.Sellin 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1918-005-4' 'C1918-005-5' 'C1918-005-6'] 
 #   EXFOR reaction        :['(8-O-18(P,EL),,WID)' '(8-O-18(P,A),,WID)' '(8-O-18(P,G),,WID)'] 
-#   incident energy       : 1.9280e+00 eV 
+#   incident energy       : 1.9280e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1918.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1918
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.9280E+00        NAN        2.5        NAN        NAN        NAN 2.6667E+01        NAN 1.0167E+02        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.9280E+06          NAN        2.5        NAN          NAN          NAN   2.6667E+01          NAN   1.0167E+02          NAN          NAN          NAN   8.0000E+01          NAN

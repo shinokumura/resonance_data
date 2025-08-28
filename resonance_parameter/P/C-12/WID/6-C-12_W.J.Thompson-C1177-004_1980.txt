@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : W.J.Thompson 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1177-004-1' 'C1177-004-2'] 
 #   EXFOR reaction        :['(6-C-12(P,TOT),,WID)' '(6-C-12(P,EL),,WID)'] 
-#   incident energy       : 1.4230e+01 eV 
+#   incident energy       : 1.4230e+07 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1177.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1177
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.4230E+01        NAN        NAN        NAN 1.0100E+03 3.0000E+01        NAN        NAN 2.8500E+02 1.5000E+01        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.4230E+07          NAN        NAN        NAN   1.0100E+03   3.0000E+01          NAN          NAN   2.8500E+02   1.5000E+01          NAN          NAN          NAN          NAN

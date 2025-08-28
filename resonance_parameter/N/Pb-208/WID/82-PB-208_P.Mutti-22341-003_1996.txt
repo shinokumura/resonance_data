@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 82-PB-208 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : P.Mutti 
 #   Institute             : (2ITYTUR): Universita degli Studi di Torino + INFN Torino 
@@ -15,11 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['22341-003-0'] 
 #   EXFOR reaction        :['(82-PB-208(N,EL),,WID)'] 
-#   incident energy       : 3.2034e-01 eV - 3.5041e-01 eV 
+#   incident energy       : 3.2034e+05 eV - 3.5041e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/223/22341.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22341
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 3.2034E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1360E+03 5.2400E+02        NAN        NAN
- 3.5041E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.8800E+02 2.5800E+02        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.2034E+05          NAN        NAN        NAN          NAN          NAN          NAN          NAN   1.1360E+03   5.2400E+02          NAN          NAN          NAN          NAN
+   3.5041E+05          NAN        NAN        NAN          NAN          NAN          NAN          NAN   7.8800E+02   2.5800E+02          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 92-U-235 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : O.Yevetska 
 #   Institute             : (2ITYITY): Italy 
@@ -15,14 +15,14 @@
 # Reaction: 
 #   entry-subent-pointer  :['G0024-003-0'] 
 #   EXFOR reaction        :['(92-U-235(G,EL),,ARE)'] 
-#   incident energy       : 1.6870e+00 eV - 1.8620e+00 eV 
+#   incident energy       : 1.6870e+06 eV - 1.8620e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0024.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0024
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
- 1.6870E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.8000E+00 1.5000E+00        NAN        NAN
- 1.7330E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.3100E+01 1.6000E+00        NAN        NAN
- 1.8150E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.1000E+00 1.2000E+00        NAN        NAN
- 1.8280E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 3.6000E+00 7.0000E-01        NAN        NAN
- 1.8620E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.2000E+00 1.6000E+00        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   1.6870E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   6.8000E+00   1.5000E+00          NAN          NAN          NAN          NAN
+   1.7330E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   1.3100E+01   1.6000E+00          NAN          NAN          NAN          NAN
+   1.8150E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   6.1000E+00   1.2000E+00          NAN          NAN          NAN          NAN
+   1.8280E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   3.6000E+00   7.0000E-01          NAN          NAN          NAN          NAN
+   1.8620E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   8.2000E+00   1.6000E+00          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 60-ND-150 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : E.N.Karzhavina 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['40113-049-0'] 
 #   EXFOR reaction        :['(60-ND-150(N,TOT),,WID)'] 
-#   incident energy       : 7.8900e-05 eV 
+#   incident energy       : 7.8900e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40113.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40113
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 7.8900E-05 1.0000E-07        NAN        NAN 1.2700E-01 2.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   7.8900E+01   1.0000E-01        NAN        NAN   1.2700E-01   2.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

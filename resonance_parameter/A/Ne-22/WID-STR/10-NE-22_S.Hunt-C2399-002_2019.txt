@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : S.Hunt 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2399-002-0'] 
 #   EXFOR reaction        :['(10-NE-22(A,G),,WID/STR)'] 
-#   incident energy       : 8.3520e-01 eV 
+#   incident energy       : 8.3520e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2399.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2399
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 8.3520E-01        NAN        NAN        NAN        NAN        NAN 4.6000E-05 1.2000E-05        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   8.3520E+05          NAN        NAN        NAN          NAN          NAN   4.6000E-05   1.2000E-05          NAN          NAN          NAN          NAN          NAN          NAN

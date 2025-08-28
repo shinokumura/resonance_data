@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 4-BE-9 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : H.Utsunomiya 
 #   Institute             : (2JPNKON): Konan University , Kobe 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/K24/K2499.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/K2499
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
- 1.7280E+06 1.0000E+03        0.5        NAN        NAN        NAN        NAN        NAN 5.9500E-01 2.0000E-03        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   1.7280E+06   1.0000E+03        0.5        NAN          NAN          NAN          NAN          NAN   5.9500E-01   2.0000E-03          NAN          NAN          NAN          NAN

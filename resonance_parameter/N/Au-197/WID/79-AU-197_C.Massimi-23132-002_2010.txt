@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 79-AU-197 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : C.Massimi 
 #   Institute             : (2UK UK ): United Kingdom 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/231/23132.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23132
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 4.8995E+00        NAN        2.0        NAN        NAN        NAN 1.2140E-01        NAN 1.4960E-02        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   4.8995E+00          NAN        2.0        NAN          NAN          NAN   1.2140E-01          NAN   1.4960E-02          NAN          NAN          NAN          NAN          NAN

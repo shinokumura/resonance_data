@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 48-CD-113 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : F.B.Simpson 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
@@ -20,10 +20,10 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11968.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11968
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.8600E+01        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 6.3900E+01        NAN        NAN        0.0        NAN        NAN 8.0000E-02 4.0000E-02        NAN        NAN        NAN        NAN
- 8.5400E+01        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.0900E+02        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.9200E+02        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.1500E+02        NAN        NAN        0.0        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.8600E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.3900E+01          NAN        NAN        0.0          NAN          NAN   8.0000E-02   4.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   8.5400E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0900E+02          NAN        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.9200E+02          NAN        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.1500E+02          NAN        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 12-MG-24 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.C.Powell 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
@@ -15,11 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1142-002-1'] 
 #   EXFOR reaction        :['(12-MG-24(P,G),,WID/STR)'] 
-#   incident energy       : 2.2300e-01 eV - 4.1900e-01 eV 
+#   incident energy       : 2.2300e+05 eV - 4.1900e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1142.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1142
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 2.2300E-01        NAN        NAN        NAN        NAN        NAN 1.2700E-02 9.0000E-04        NAN        NAN        NAN        NAN
- 4.1900E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   2.2300E+05          NAN        NAN        NAN          NAN          NAN   1.2700E-02   9.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN
+   4.1900E+05          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

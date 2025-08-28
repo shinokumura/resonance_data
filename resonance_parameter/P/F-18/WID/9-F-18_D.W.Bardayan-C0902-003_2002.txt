@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 9-F-18 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.W.Bardayan 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0902.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0902
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 3.3200E+05 1.7000E+04        NAN        NAN        NAN        NAN        NAN        NAN 2.2200E+00 6.9000E-01        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   3.3200E+05   1.7000E+04        NAN        NAN          NAN          NAN          NAN          NAN   2.2200E+00   6.9000E-01          NAN          NAN          NAN          NAN

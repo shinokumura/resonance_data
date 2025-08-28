@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 19-K-38 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.R.Hall 
 #   Institute             : (3KORKOR): Republic of Korea 
@@ -15,12 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2454-002-0'] 
 #   EXFOR reaction        :['(19-K-38(P,G),,WID/STR)'] 
-#   incident energy       : 3.8600e-01 eV - 7.0100e-01 eV 
+#   incident energy       : 3.8600e+05 eV - 7.0100e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2454.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2454
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 3.8600E-01 2.0000E-03        NAN        NAN        NAN        NAN 2.5400E-03        NAN        NAN        NAN        NAN        NAN
- 4.9800E-01 2.0000E-03        NAN        NAN        NAN        NAN 1.3585E-02        NAN        NAN        NAN        NAN        NAN
- 7.0100E-01 2.0000E-03        NAN        NAN        NAN        NAN 1.2600E-01 3.9000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   3.8600E+05   2.0000E+03        NAN        NAN          NAN          NAN   2.5400E-03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9800E+05   2.0000E+03        NAN        NAN          NAN          NAN   1.3585E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.0100E+05   2.0000E+03        NAN        NAN          NAN          NAN   1.2600E-01   3.9000E-02          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 3-LI-6 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : S.Schwarz 
+#   Institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 
+#   Reference             : (J,NP,63,593,196503) 
+#   Year                  : 1965 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 3 
+#   A                     : 6 
+#   Nuclide               : 3-LI-6 
+# Reaction: 
+#   entry-subent-pointer  :['20059-003-0'] 
+#   EXFOR reaction        :['(3-LI-6(N,EL),,WID)'] 
+#   incident energy       : 2.3100e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20059.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20059
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.3100E+05   2.0000E+04        NAN        NAN          NAN          NAN          NAN          NAN   1.8000E+05   1.5000E+04          NAN          NAN          NAN          NAN

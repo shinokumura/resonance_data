@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 5-B-10 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.D.Olson 
 #   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
@@ -20,8 +20,6 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12913.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12913
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.4100E+05 4.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.4100E+05 1.8000E+04        NAN        NAN 1.6600E+05 4.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
- 4.9300E+05 4.0000E+03        NAN        NAN 1.9400E+05 6.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
- 4.9300E+05 1.8000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.4100E+05   1.8000E+04        NAN        NAN   1.6600E+05   4.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9300E+05   4.0000E+03        NAN        NAN   1.9400E+05   6.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

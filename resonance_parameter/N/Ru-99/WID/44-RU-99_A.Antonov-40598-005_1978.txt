@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 44-RU-99 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : A.Antonov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,16 +15,16 @@
 # Reaction: 
 #   entry-subent-pointer  :['40598-005-0'] 
 #   EXFOR reaction        :['(44-RU-99(N,A),,WID)'] 
-#   incident energy       : 1.0050e-05 eV - 3.4217e-04 eV 
+#   incident energy       : 1.0050e+01 eV - 3.4217e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40598
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.0050E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.5220E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.7110E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.1620E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.0409E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.9886E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.4217E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.0050E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.8000E-07   6.0000E-08
+   2.5220E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   7.0000E-08   3.0000E-08
+   5.7110E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.0000E-07          NAN
+   8.1620E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   5.8000E-06   1.3000E-06
+   1.0409E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   9.4000E-07   1.3000E-07
+   1.9886E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   5.0000E-06   3.0000E-06
+   3.4217E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.4000E-06          NAN

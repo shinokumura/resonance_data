@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 36-KR-86 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : C.L.Hollas 
 #   Institute             : (1USATEX): University of Texas, Austin, TX 
@@ -20,18 +20,18 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2690.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2690
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 5.3480E+06        NAN        2.5        2.0 3.6000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.8700E+06        NAN        0.5        0.0 7.7000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 6.8260E+06        NAN        1.5        2.0 4.9600E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.2340E+06        NAN        1.5        2.0 3.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.3480E+06        NAN        1.5        2.0 3.6000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.4200E+06        NAN        0.5        0.0 6.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.4630E+06        NAN        1.5        2.0 6.2000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.6200E+06        NAN        5.5        5.0 4.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.8920E+06        NAN        3.5        4.0 3.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.1420E+06        NAN        1.5        2.0 6.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.2630E+06        NAN        1.5        2.0 6.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.3740E+06        NAN        3.5        3.0 3.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.5730E+06        NAN        0.5        0.0 7.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.8930E+06        NAN        1.5        2.0 3.8000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   5.3480E+06          NAN        2.5        2.0   3.6000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.8700E+06          NAN        0.5        0.0   7.7000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.8260E+06          NAN        1.5        2.0   4.9600E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.2340E+06          NAN        1.5        2.0   3.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.3480E+06          NAN        1.5        2.0   3.6000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.4200E+06          NAN        0.5        0.0   6.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.4630E+06          NAN        1.5        2.0   6.2000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.6200E+06          NAN        5.5        5.0   4.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.8920E+06          NAN        3.5        4.0   3.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.1420E+06          NAN        1.5        2.0   6.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.2630E+06          NAN        1.5        2.0   6.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.3740E+06          NAN        3.5        3.0   3.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.5730E+06          NAN        0.5        0.0   7.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.8930E+06          NAN        1.5        2.0   3.8000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

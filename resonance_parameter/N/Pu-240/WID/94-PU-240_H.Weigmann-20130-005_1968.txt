@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-240 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : H.Weigmann 
 #   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
@@ -15,13 +15,13 @@
 # Reaction: 
 #   entry-subent-pointer  :['20130-005-0'] 
 #   EXFOR reaction        :['(94-PU-240(N,F),,WID)'] 
-#   incident energy       : 7.5050e-04 eV - 8.2040e-04 eV 
+#   incident energy       : 7.5050e+02 eV - 8.2040e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20130.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20130
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 7.5050E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1000E-02 4.0000E-03
- 7.9140E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.4000E-02 5.0000E-03
- 8.1100E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.0000E-03 3.0000E-03
- 8.2040E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 3.0000E-03 1.5000E-03
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   7.5050E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1000E-02   4.0000E-03          NAN          NAN
+   7.9140E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.4000E-02   5.0000E-03          NAN          NAN
+   8.1100E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   8.0000E-03   3.0000E-03          NAN          NAN
+   8.2040E+02          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.0000E-03   1.5000E-03          NAN          NAN

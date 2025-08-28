@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.J.Deboer 
 #   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
@@ -15,14 +15,14 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1921-005-1'] 
 #   EXFOR reaction        :['(6-C-12(A,EL),,WID)'] 
-#   incident energy       : 7.0510e+00 eV - 8.1430e+00 eV 
+#   incident energy       : 7.0510e+06 eV - 8.1430e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1921.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1921
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 7.0510E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.0000E+05 1.0000E+03        NAN        NAN
- 7.7390E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 3.4900E+05 3.0000E+03        NAN        NAN
- 7.9130E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.8500E+04 6.0000E+02        NAN        NAN
- 7.9730E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.3000E+04 1.0000E+03        NAN        NAN
- 8.1430E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1000E+04 3.0000E+02        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   7.0510E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   1.0000E+05   1.0000E+03          NAN          NAN          NAN          NAN
+   7.7390E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   3.4900E+05   3.0000E+03          NAN          NAN          NAN          NAN
+   7.9130E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   2.8500E+04   6.0000E+02          NAN          NAN          NAN          NAN
+   7.9730E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   7.3000E+04   1.0000E+03          NAN          NAN          NAN          NAN
+   8.1430E+06          NAN        NAN        NAN          NAN          NAN          NAN          NAN   1.1000E+04   3.0000E+02          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 96-CM-245 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.C.Browne 
 #   Institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10730.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10730
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
--1.0000E-01        NAN        NAN        0.0        NAN        NAN        NAN        NAN 1.4400E-04 4.0000E-06        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -1.0000E-01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   1.4400E-04   4.0000E-06          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 46-PD-108 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : N.Yamamuro 
 #   Institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
@@ -15,13 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['20510-003-0'] 
 #   EXFOR reaction        :['(46-PD-108(N,EL),,WID)'] 
-#   incident energy       : 3.3100e-05 eV - 9.1000e-05 eV 
+#   incident energy       : 3.3100e+01 eV - 9.1000e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20510.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20510
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 3.3100E-05 2.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN 1.2400E-01 4.0000E-03        NAN        NAN
- 3.3100E-05 1.0000E-06        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 9.1000E-05 2.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 9.1000E-05 1.0000E-06        NAN        NAN        NAN        NAN        NAN        NAN 2.0300E-01 1.7000E-02        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.3100E+01   2.0000E-01        NAN        NAN          NAN          NAN          NAN          NAN   1.2400E-01   4.0000E-03          NAN          NAN          NAN          NAN
+   9.1000E+01   1.0000E+00        NAN        NAN          NAN          NAN          NAN          NAN   2.0300E-01   1.7000E-02          NAN          NAN          NAN          NAN

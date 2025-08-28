@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-238 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : B.Alam 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
@@ -20,7 +20,7 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12991.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12991
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.9000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.4600E+00        NAN
- 9.9800E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 9.6900E+00        NAN
- 1.8600E+01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.1530E+01        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.9000E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.4600E+00          NAN          NAN          NAN
+   9.9800E+00          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   9.6900E+00          NAN          NAN          NAN
+   1.8600E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.1530E+01          NAN          NAN          NAN

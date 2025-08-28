@@ -1,0 +1,31 @@
+# Header: 
+#   Title                 : 26-FE-54 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.B.Gayther 
+#   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
+#   Reference             : (C,77GEEL,,547,1977) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 54 
+#   Nuclide               : 26-FE-54 
+# Reaction: 
+#   entry-subent-pointer  :['20861-002-2' '20861-002-3'] 
+#   EXFOR reaction        :['(26-FE-54(N,EL),,WID)' '(26-FE-54(N,G),,WID)'] 
+#   incident energy       : 3.0980e+03 eV - 3.9520e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20861.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/20861
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.0980E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.6790E+03          NAN        0.5        0.0          NAN          NAN   1.9000E+00          NAN   1.0960E+03          NAN          NAN          NAN          NAN          NAN
+   9.4970E+03          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.1200E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.4480E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.0650E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.5300E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.9520E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

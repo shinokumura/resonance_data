@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 7-N-14 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : B.Frentz 
 #   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
@@ -15,12 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2628-002-0'] 
 #   EXFOR reaction        :['(7-N-14(P,G),,WID)'] 
-#   incident energy       : 5.1810e+00 eV - 6.7930e+00 eV 
+#   incident energy       : 5.1810e+06 eV - 6.7930e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2628.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2628
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 5.1810E+00        NAN        NAN        NAN        NAN        NAN 8.7800E-02        NAN        NAN        NAN        NAN        NAN
- 6.1720E+00        NAN        NAN        NAN        NAN        NAN 9.4030E-01        NAN        NAN        NAN        NAN        NAN
- 6.7930E+00        NAN        NAN        NAN        NAN        NAN 1.0970E+00        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   5.1810E+06          NAN        NAN        NAN          NAN          NAN   8.7800E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.1720E+06          NAN        NAN        NAN          NAN          NAN   9.4030E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.7930E+06          NAN        NAN        NAN          NAN          NAN   1.0970E+00          NAN          NAN          NAN          NAN          NAN          NAN          NAN

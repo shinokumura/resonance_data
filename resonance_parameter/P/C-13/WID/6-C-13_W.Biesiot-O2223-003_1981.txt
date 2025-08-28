@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-13 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : W.Biesiot 
 #   Institute             : (2NEDGRN): Groningen 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['O2223-003-1'] 
 #   EXFOR reaction        :['(6-C-13(P,TOT),,WID)'] 
-#   incident energy       : 1.7500e+00 eV 
+#   incident energy       : 1.7500e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2223.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2223
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.7500E+00        NAN        NAN        NAN 1.3500E+02 1.1000E+01        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.7500E+06          NAN        NAN        NAN   1.3500E+02   1.1000E+01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

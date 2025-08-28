@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 46-PD-107 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : U.N.Singh 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['10666-004-0'] 
 #   EXFOR reaction        :['(46-PD-107(N,G),,WID)'] 
-#   incident energy       : 6.8340e-06 eV 
+#   incident energy       : 6.8340e+00 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10666.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10666
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 6.8340E-06        NAN        NAN        NAN        NAN        NAN 1.2500E-01 1.5000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   6.8340E+00          NAN        NAN        NAN          NAN          NAN   1.2500E-01   1.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN

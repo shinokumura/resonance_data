@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 13-AL-26 Resonance Parameter: WID/STR 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.Lederer-Woods 
+#   Institute             : (2ITYITY): Italy 
+#   Reference             : (J,PR/C,104,L032803,2021) 
+#   Year                  : 2021 
+#   Facility              : None 
+# Target: 
+#   Z                     : 13 
+#   A                     : 26 
+#   Nuclide               : 13-AL-26 
+# Reaction: 
+#   entry-subent-pointer  :['23752-004-0'] 
+#   EXFOR reaction        :['(13-AL-26(N,A),,WID/STR)'] 
+#   incident energy       : 3.5700e+04 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/237/23752.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/23752
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.5700E+04   4.0000E+02        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.7000E+00          NAN

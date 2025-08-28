@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 68-ER-170 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : T.F.Wang 
 #   Institute             : (3KORKNU): Kyungpook National University, Daegu 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31688.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/31688
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.5059E+01 5.5000E-02        0.5        0.0        NAN        NAN 7.7780E-02 7.6900E-03        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.5059E+01   5.5000E-02        0.5        0.0          NAN          NAN   7.7780E-02   7.6900E-03          NAN          NAN          NAN          NAN          NAN          NAN

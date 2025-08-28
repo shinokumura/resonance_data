@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-20 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : G.Christian 
 #   Institute             : (2UK UK): United Kingdom 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2062-003-0'] 
 #   EXFOR reaction        :['(10-NE-20(P,G),,WID/STR)'] 
-#   incident energy       : 1.1690e+00 eV 
+#   incident energy       : 1.1690e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2062.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2062
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.1690E+00        NAN        NAN        NAN        NAN        NAN 9.7200E-01 1.1000E-01        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.1690E+06          NAN        NAN        NAN          NAN          NAN   9.7200E-01   1.1000E-01          NAN          NAN          NAN          NAN          NAN          NAN

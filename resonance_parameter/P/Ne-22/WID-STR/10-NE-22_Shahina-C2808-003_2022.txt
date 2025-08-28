@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : Shahina 
 #   Institute             : (1USAUSA): United States of America 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2808-003-0'] 
 #   EXFOR reaction        :['(10-NE-22(P,G),,WID/STR)'] 
-#   incident energy       : 8.5100e-01 eV 
+#   incident energy       : 8.5100e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C28/C2808.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2808
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 8.5100E-01        NAN        NAN        NAN        NAN        NAN 9.2000E+00 7.0000E-01        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   8.5100E+05          NAN        NAN        NAN          NAN          NAN   9.2000E+00   7.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN

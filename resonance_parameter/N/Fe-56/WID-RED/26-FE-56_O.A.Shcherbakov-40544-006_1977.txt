@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 26-FE-56 Resonance Parameter: WID/RED 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : O.A.Shcherbakov 
+#   Institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
+#   Reference             : ((P,YK-25,51,1977)=(R,INDC(CCP)-115,51,1977)) 
+#   Year                  : 1977 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 26 
+#   A                     : 56 
+#   Nuclide               : 26-FE-56 
+# Reaction: 
+#   entry-subent-pointer  :['40544-006-3'] 
+#   EXFOR reaction        :['(26-FE-56(N,EL),,WID/RED)'] 
+#   incident energy       : -2.6400e+03 eV - 1.1530e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40544.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/40544
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -2.6400E+03   1.5000E+02        NAN        0.0          NAN          NAN          NAN          NAN   5.2700E+00          NAN          NAN          NAN          NAN          NAN
+   1.1530E+03   2.8000E+01        NAN        0.0          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

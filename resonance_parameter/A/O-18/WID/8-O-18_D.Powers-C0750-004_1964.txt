@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-18 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.Powers 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
@@ -20,12 +20,12 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C07/C0750.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0750
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 2.4800E+06        NAN        2.0        NAN 6.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.5600E+06        NAN        1.0        NAN 1.4000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.7200E+06        NAN        1.0        NAN 1.3000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.9000E+06        NAN        0.0        NAN 7.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.1700E+06        NAN        0.0        NAN 9.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.3300E+06        NAN        2.0        NAN 8.1000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.5500E+06        NAN        1.0        NAN 3.2000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.6000E+06        NAN        1.0        NAN 1.1500E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   2.4800E+06          NAN        2.0        NAN   6.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.5600E+06          NAN        1.0        NAN   1.4000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.7200E+06          NAN        1.0        NAN   1.3000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.9000E+06          NAN        0.0        NAN   7.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.1700E+06          NAN        0.0        NAN   9.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.3300E+06          NAN        2.0        NAN   8.1000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.5500E+06          NAN        1.0        NAN   3.2000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.6000E+06          NAN        1.0        NAN   1.1500E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

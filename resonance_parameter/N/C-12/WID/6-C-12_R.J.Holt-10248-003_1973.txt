@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : R.J.Holt 
 #   Institute             : (1USAYAL): Yale University, New Haven, CT 
@@ -20,6 +20,6 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10248.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10248
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
--1.2700E+06        NAN        1.5        1.0 0.0000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.5000E+06        NAN        1.5        2.0 1.1000E+06        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -1.2700E+06          NAN        1.5        1.0   0.0000E+00          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.5000E+06          NAN        1.5        2.0   1.1000E+06          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

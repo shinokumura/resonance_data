@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 49-IN-115 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.A.Harvey 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
@@ -15,18 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['11912-008-0'] 
 #   EXFOR reaction        :['(49-IN-115(N,G),,WID)'] 
-#   incident energy       : 9.1000e-06 eV - 3.9900e-05 eV 
+#   incident energy       : 9.1000e+00 eV - 3.9900e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11912.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11912
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.1000E-06 9.0000E-08        NAN        NAN        NAN        NAN 8.0000E-02 4.0000E-02        NAN        NAN        NAN        NAN
- 9.1000E-06 1.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 9.1000E-06 5.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.2100E-05 9.0000E-08        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.2100E-05 1.0000E-07        NAN        NAN        NAN        NAN 1.4000E-01 6.0000E-02        NAN        NAN        NAN        NAN
- 1.2100E-05 5.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.9900E-05 9.0000E-08        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.9900E-05 1.0000E-07        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.9900E-05 5.0000E-07        NAN        NAN        NAN        NAN 1.4000E-01 5.0000E-02        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.1000E+00   9.0000E-02        NAN        NAN          NAN          NAN   8.0000E-02   4.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2100E+01   1.0000E-01        NAN        NAN          NAN          NAN   1.4000E-01   6.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   3.9900E+01   5.0000E-01        NAN        NAN          NAN          NAN   1.4000E-01   5.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN

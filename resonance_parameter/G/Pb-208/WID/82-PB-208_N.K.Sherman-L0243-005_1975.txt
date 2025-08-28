@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 82-PB-208 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : N.K.Sherman 
 #   Institute             : (1CANOTC): National Research Council, Ottawa, Ontario 
@@ -20,7 +20,7 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L02/L0243.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0243
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(G,TOT)      (G,G)     d(G,G)      (G,EL)   d(G,EL)       (G,F)     d(G,F)
- 9.0340E+06        NAN        NAN        NAN 4.5000E+04 9.0000E+03        NAN        NAN        NAN        NAN        NAN        NAN
- 9.4210E+06        NAN        NAN        NAN 1.0400E+05 1.2000E+04        NAN        NAN        NAN        NAN        NAN        NAN
- 1.0060E+07        NAN        NAN        NAN 1.3200E+05 2.2000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (G,TOT)     d(G,TOT)        (G,G)       d(G,G)        (G,EL)     d(G,EL)        (G,F)       d(G,F)        (G,A)       d(G,A)
+   9.0340E+06          NAN        NAN        NAN   4.5000E+04   9.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.4210E+06          NAN        NAN        NAN   1.0400E+05   1.2000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.0060E+07          NAN        NAN        NAN   1.3200E+05   2.2000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

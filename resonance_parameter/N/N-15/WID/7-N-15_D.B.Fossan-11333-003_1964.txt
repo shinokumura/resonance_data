@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.B.Fossan 
 #   Institute             : (1USALOK): Lockheed Aircraft Corp., Sunnyvale, CA 
@@ -15,14 +15,14 @@
 # Reaction: 
 #   entry-subent-pointer  :['11333-003-3'] 
 #   EXFOR reaction        :['(7-N-15(N,TOT),,WID)'] 
-#   incident energy       : 9.3000e-01 eV - 2.0200e+00 eV 
+#   incident energy       : 9.3000e+05 eV - 2.0200e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11333.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11333
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.3000E-01 2.0000E-02        1.0        1.0 3.0000E+04 1.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
- 1.1100E+00 2.0000E-02        0.0        1.0 2.0000E+04 1.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
- 1.5700E+00 2.0000E-02        1.0        0.0 1.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.9200E+00 2.0000E-02        1.0        1.0 1.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.0200E+00 2.0000E-02        1.0        0.0 5.5000E+04 2.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.3000E+05   2.0000E+04        1.0        1.0   3.0000E+04   1.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.1100E+06   2.0000E+04        0.0        1.0   2.0000E+04   1.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.5700E+06   2.0000E+04        1.0        0.0   1.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.9200E+06   2.0000E+04        1.0        1.0   1.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.0200E+06   2.0000E+04        1.0        0.0   5.5000E+04   2.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

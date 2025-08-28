@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 41-NB-94 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.R.Serpa 
 #   Institute             : (1USAISU): Idaho State University, Pocatello, ID 
@@ -15,11 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['10404-009-1'] 
 #   EXFOR reaction        :['(41-NB-94(N,EL),,WID/RED)'] 
-#   incident energy       : 1.1580e-05 eV - 2.2780e-05 eV 
+#   incident energy       : 1.1580e+01 eV - 2.2780e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10404.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10404
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.1580E-05        NAN        NAN        0.0        NAN        NAN        NAN        NAN 1.8000E-03 1.0000E-04        NAN        NAN
- 2.2780E-05        NAN        NAN        0.0        NAN        NAN        NAN        NAN 1.9000E-04 2.0000E-05        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.1580E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   1.8000E-03   1.0000E-04          NAN          NAN          NAN          NAN
+   2.2780E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   1.9000E-04   2.0000E-05          NAN          NAN          NAN          NAN

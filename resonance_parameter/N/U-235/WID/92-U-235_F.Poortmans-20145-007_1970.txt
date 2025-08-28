@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 92-U-235 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : F.Poortmans 
 #   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
@@ -15,19 +15,19 @@
 # Reaction: 
 #   entry-subent-pointer  :['20145-007-0'] 
 #   EXFOR reaction        :['(92-U-235(N,TOT),,WID)'] 
-#   incident energy       : 8.7800e-06 eV - 5.6490e-05 eV 
+#   incident energy       : 8.7800e+00 eV - 5.6490e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20145.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20145
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 8.7800E-06        NAN        NAN        NAN 1.3300E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.2390E-05        NAN        NAN        NAN 6.5000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.3610E-05        NAN        NAN        NAN 1.3300E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.2070E-05        NAN        NAN        NAN 1.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.4340E-05        NAN        NAN        NAN 8.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 3.5170E-05        NAN        NAN        NAN 1.6500E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.1260E-05        NAN        NAN        NAN 1.1100E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.5060E-05        NAN        NAN        NAN 1.1000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.5840E-05        NAN        NAN        NAN 1.2900E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.6490E-05        NAN        NAN        NAN 1.4900E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   8.7800E+00          NAN        NAN        NAN   1.3300E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2390E+01          NAN        NAN        NAN   6.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.3610E+01          NAN        NAN        NAN   1.3300E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.2070E+01          NAN        NAN        NAN   1.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.4340E+01          NAN        NAN        NAN   8.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   3.5170E+01          NAN        NAN        NAN   1.6500E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.1260E+01          NAN        NAN        NAN   1.1100E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.5060E+01          NAN        NAN        NAN   1.1000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.5840E+01          NAN        NAN        NAN   1.2900E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.6490E+01          NAN        NAN        NAN   1.4900E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

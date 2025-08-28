@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.Williams 
 #   Institute             : (2UK YRK): University of York, York 
@@ -15,16 +15,16 @@
 # Reaction: 
 #   entry-subent-pointer  :['C2582-002-0'] 
 #   EXFOR reaction        :['(10-NE-22(P,G),,WID/STR)'] 
-#   incident energy       : 1.4900e-01 eV - 1.2220e+00 eV 
+#   incident energy       : 1.4900e+05 eV - 1.2220e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C25/C2582.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2582
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.4900E-01        NAN        NAN        NAN        NAN        NAN 1.7000E-07        NAN        NAN        NAN        NAN        NAN
- 1.8100E-01        NAN        NAN        NAN        NAN        NAN 2.2000E-06 4.0000E-07        NAN        NAN        NAN        NAN
- 2.4800E-01        NAN        NAN        NAN        NAN        NAN 8.5000E-06 1.4000E-06        NAN        NAN        NAN        NAN
- 4.5800E-01        NAN        NAN        NAN        NAN        NAN 4.4000E-01 3.5000E-02        NAN        NAN        NAN        NAN
- 6.1000E-01        NAN        NAN        NAN        NAN        NAN 2.6000E+00 3.0000E-01        NAN        NAN        NAN        NAN
- 6.3200E-01        NAN        NAN        NAN        NAN        NAN 4.6500E-01 2.5000E-02        NAN        NAN        NAN        NAN
- 1.2220E+00        NAN        NAN        NAN        NAN        NAN 1.2200E+01 1.0500E+00        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.4900E+05          NAN        NAN        NAN          NAN          NAN   1.7000E-07          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.8100E+05          NAN        NAN        NAN          NAN          NAN   2.2000E-06   4.0000E-07          NAN          NAN          NAN          NAN          NAN          NAN
+   2.4800E+05          NAN        NAN        NAN          NAN          NAN   8.5000E-06   1.4000E-06          NAN          NAN          NAN          NAN          NAN          NAN
+   4.5800E+05          NAN        NAN        NAN          NAN          NAN   4.4000E-01   3.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   6.1000E+05          NAN        NAN        NAN          NAN          NAN   2.6000E+00   3.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN
+   6.3200E+05          NAN        NAN        NAN          NAN          NAN   4.6500E-01   2.5000E-02          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2220E+06          NAN        NAN        NAN          NAN          NAN   1.2200E+01   1.0500E+00          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-239 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : Yu.G.Abov 
 #   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['41222-003-2'] 
 #   EXFOR reaction        :['(94-PU-239(N,TOT),,WID)'] 
-#   incident energy       : 3.0000e-07 eV 
+#   incident energy       : 3.0000e-01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41222.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41222
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 3.0000E-07 5.0000E-09        NAN        NAN 1.2400E-01 2.0000E-03        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.0000E-01   5.0000E-03        NAN        NAN   1.2400E-01   2.0000E-03          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

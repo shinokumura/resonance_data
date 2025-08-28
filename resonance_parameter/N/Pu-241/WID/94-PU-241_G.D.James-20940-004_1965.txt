@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : G.D.James 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
@@ -15,15 +15,15 @@
 # Reaction: 
 #   entry-subent-pointer  :['20940-004-2'] 
 #   EXFOR reaction        :['(94-PU-241(N,F),,WID)'] 
-#   incident energy       : 1.2840e-05 eV - 1.6700e-05 eV 
+#   incident energy       : 1.2840e+01 eV - 1.6700e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20940.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20940
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.2840E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.6600E-01        NAN
- 1.3450E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 4.2000E-02        NAN
- 1.4040E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.1400E-01        NAN
- 1.4780E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.0500E-01        NAN
- 1.6060E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 3.6000E-01        NAN
- 1.6700E-05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.8000E-01        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.2840E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.6600E-01          NAN          NAN          NAN
+   1.3450E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   4.2000E-02          NAN          NAN          NAN
+   1.4040E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.1400E-01          NAN          NAN          NAN
+   1.4780E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.0500E-01          NAN          NAN          NAN
+   1.6060E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   3.6000E-01          NAN          NAN          NAN
+   1.6700E+01          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.8000E-01          NAN          NAN          NAN

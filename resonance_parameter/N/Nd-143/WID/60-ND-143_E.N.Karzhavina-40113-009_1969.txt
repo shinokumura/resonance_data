@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 60-ND-143 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : E.N.Karzhavina 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,12 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['40113-009-0'] 
 #   EXFOR reaction        :['(60-ND-143(N,TOT),,WID)'] 
-#   incident energy       : 1.2740e-04 eV - 1.8700e-04 eV 
+#   incident energy       : 1.2740e+02 eV - 1.8700e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40113.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40113
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.2740E-04 4.0000E-07        NAN        NAN 4.5000E-01 1.5000E-01        NAN        NAN        NAN        NAN        NAN        NAN
- 1.5900E-04 5.0000E-07        NAN        NAN 1.3000E+00 5.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN
- 1.8700E-04 6.0000E-07        NAN        NAN 1.6000E+00 5.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.2740E+02   4.0000E-01        NAN        NAN   4.5000E-01   1.5000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.5900E+02   5.0000E-01        NAN        NAN   1.3000E+00   5.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.8700E+02   6.0000E-01        NAN        NAN   1.6000E+00   5.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

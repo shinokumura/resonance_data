@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 80-HG-201 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.R.Bird 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
@@ -16,12 +16,12 @@
 #   entry-subent-pointer  :['21014-012-2' '21014-012-3' '21014-012-4'] 
 #   EXFOR reaction        :['(80-HG-201(N,TOT),,WID)' '(80-HG-201(N,EL),,WID)'
  '(80-HG-201(N,G),,WID)'] 
-#   incident energy       : 4.3000e-05 eV - 2.0900e-04 eV 
+#   incident energy       : 4.3000e+01 eV - 2.0900e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21014.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21014
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 4.3000E-05 3.0000E-07        NAN        NAN 2.9000E-01 5.0000E-02 2.9000E-01 5.0000E-02 4.0000E-03        NAN        NAN        NAN
- 7.1000E-05 6.0000E-07        NAN        NAN 3.6000E-01 5.0000E-02 3.5000E-01 5.0000E-02 1.2000E-02 1.0000E-03        NAN        NAN
- 2.0900E-04 3.0000E-06        1.0        NAN 6.5000E-01 7.0000E-02 2.5000E-01 9.0000E-02 4.0000E-01 4.0000E-02        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   4.3000E+01   3.0000E-01        NAN        NAN   2.9000E-01   5.0000E-02   2.9000E-01   5.0000E-02   4.0000E-03          NAN          NAN          NAN          NAN          NAN
+   7.1000E+01   6.0000E-01        NAN        NAN   3.6000E-01   5.0000E-02   3.5000E-01   5.0000E-02   1.2000E-02   1.0000E-03          NAN          NAN          NAN          NAN
+   2.0900E+02   3.0000E+00        1.0        NAN   6.5000E-01   7.0000E-02   2.5000E-01   9.0000E-02   4.0000E-01   4.0000E-02          NAN          NAN          NAN          NAN

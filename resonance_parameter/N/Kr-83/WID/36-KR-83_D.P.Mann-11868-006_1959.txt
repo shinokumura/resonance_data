@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 36-KR-83 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : D.P.Mann 
+#   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
+#   Reference             : (J,PR,116,1516,59) 
+#   Year                  : 1959 
+#   Facility              : (CHOPF): Fast chopper 
+# Target: 
+#   Z                     : 36 
+#   A                     : 83 
+#   Nuclide               : 36-KR-83 
+# Reaction: 
+#   entry-subent-pointer  :['11868-006-2' '11868-006-4'] 
+#   EXFOR reaction        :['(36-KR-83(N,EL),,WID)' '(36-KR-83(N,G),,WID)'] 
+#   incident energy       : 2.7900e+01 eV - 2.3300e+02 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11868.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11868
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.7900E+01   3.0000E-01        NAN        0.0          NAN          NAN   2.2000E-01   6.0000E-02   6.7000E-02   1.0000E-02          NAN          NAN          NAN          NAN
+   2.3300E+02   6.0000E+00        NAN        0.0          NAN          NAN          NAN          NAN   2.9000E-01   4.0000E-02          NAN          NAN          NAN          NAN

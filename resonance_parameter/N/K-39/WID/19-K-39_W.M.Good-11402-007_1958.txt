@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 19-K-39 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.M.Good 
+#   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
+#   Reference             : (J,PR,109,926,1958) 
+#   Year                  : 1958 
+#   Facility              : (VDG): Van de Graaff 
+# Target: 
+#   Z                     : 19 
+#   A                     : 39 
+#   Nuclide               : 19-K-39 
+# Reaction: 
+#   entry-subent-pointer  :['11402-007-2'] 
+#   EXFOR reaction        :['(19-K-39(N,TOT),,WID)'] 
+#   incident energy       : 3.4000e+03 eV - 9.2000e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11402.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11402
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.4000E+03          NAN        NAN        NAN   1.2000E+01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.2000E+03          NAN        NAN        NAN   6.0000E+01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

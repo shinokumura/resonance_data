@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 15-P-31 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : J.F.Wilkerson 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['T0066-023-1' 'T0066-023-2' 'T0066-023-3'] 
 #   EXFOR reaction        :['(15-P-31(P,TOT),,WID)' '(15-P-31(P,EL),,WID)' '(15-P-31(P,A),,WID)'] 
-#   incident energy       : 3.2880e+00 eV 
+#   incident energy       : 3.2880e+06 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T00/T0066.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/T0066
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 3.2880E+00        NAN        0.5        NAN 4.0000E+01 1.5000E+01        NAN        NAN 3.6000E+01 1.6000E+01        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   3.2880E+06          NAN        0.5        NAN   4.0000E+01   1.5000E+01          NAN          NAN   3.6000E+01   1.6000E+01          NAN          NAN   6.5000E+00   2.7000E+00

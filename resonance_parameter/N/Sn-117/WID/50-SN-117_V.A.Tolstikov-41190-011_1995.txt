@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 50-SN-117 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : V.A.Tolstikov 
 #   Institute             : (4RUSFEI): Fiziko-Energeticheskii Institute , Obninsk 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['41190-011-2'] 
 #   EXFOR reaction        :['(50-SN-117(N,G),,WID)'] 
-#   incident energy       : 5.0000e-01 eV 
+#   incident energy       : 5.0000e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41190.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41190
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 5.0000E-01        NAN        NAN        NAN        NAN        NAN 8.0000E-02        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   5.0000E+05          NAN        NAN        NAN          NAN          NAN   8.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN

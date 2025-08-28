@@ -1,0 +1,25 @@
+# Header: 
+#   Title                 : 4-BE-9 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : C.K.Bockelman 
+#   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
+#   Reference             : (J,PR,84,69,51) 
+#   Year                  : 1951 
+#   Facility              : None 
+# Target: 
+#   Z                     : 4 
+#   A                     : 9 
+#   Nuclide               : 4-BE-9 
+# Reaction: 
+#   entry-subent-pointer  :['11048-005-2'] 
+#   EXFOR reaction        :['(4-BE-9(N,TOT),,WID)'] 
+#   incident energy       : 6.2000e+05 eV - 8.1000e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11048.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11048
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   6.2000E+05          NAN        3.0        1.0   3.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.1000E+05          NAN        1.0        1.0   1.1000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

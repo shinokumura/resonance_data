@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : S.Wilmes 
 #   Institute             : (2GERTUE): Universitaet Tuebingen 
@@ -15,12 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['F0741-003-2'] 
 #   EXFOR reaction        :['(7-N-15(A,EL),,WID)'] 
-#   incident energy       : 3.6400e-01 eV - 5.4200e-01 eV 
+#   incident energy       : 3.6400e+05 eV - 5.4200e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0741.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0741
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 3.6400E-01        NAN        3.5        NAN        NAN        NAN        NAN        NAN 2.4000E-08        NAN        NAN        NAN
- 5.3600E-01        NAN        2.5        NAN        NAN        NAN        NAN        NAN 3.2300E-05        NAN        NAN        NAN
- 5.4200E-01        NAN        1.5        NAN        NAN        NAN        NAN        NAN 4.0000E-06        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   3.6400E+05          NAN        3.5        NAN          NAN          NAN          NAN          NAN   2.4000E-08          NAN          NAN          NAN          NAN          NAN
+   5.3600E+05          NAN        2.5        NAN          NAN          NAN          NAN          NAN   3.2300E-05          NAN          NAN          NAN          NAN          NAN
+   5.4200E+05          NAN        1.5        NAN          NAN          NAN          NAN          NAN   4.0000E-06          NAN          NAN          NAN          NAN          NAN

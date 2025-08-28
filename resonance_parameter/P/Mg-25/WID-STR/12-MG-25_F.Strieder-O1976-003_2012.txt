@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 12-MG-25 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : F.Strieder 
 #   Institute             : (2GERBOC): Ruhr-Universitaet Bochum 
@@ -15,12 +15,12 @@
 # Reaction: 
 #   entry-subent-pointer  :['O1976-003-0'] 
 #   EXFOR reaction        :['(12-MG-25(P,G),,WID/STR)'] 
-#   incident energy       : 9.2200e-02 eV - 1.8950e-01 eV 
+#   incident energy       : 9.2200e+04 eV - 1.8950e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1976.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O1976
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 9.2200E-02        NAN        NAN        NAN        NAN        NAN 2.9000E-10 6.0000E-11        NAN        NAN        NAN        NAN
- 1.3000E-01        NAN        NAN        NAN        NAN        NAN 2.5000E-10        NAN        NAN        NAN        NAN        NAN
- 1.8950E-01        NAN        NAN        NAN        NAN        NAN 9.0000E-07 6.0000E-08        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   9.2200E+04          NAN        NAN        NAN          NAN          NAN   2.9000E-10   6.0000E-11          NAN          NAN          NAN          NAN          NAN          NAN
+   1.3000E+05          NAN        NAN        NAN          NAN          NAN   2.5000E-10          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.8950E+05          NAN        NAN        NAN          NAN          NAN   9.0000E-07   6.0000E-08          NAN          NAN          NAN          NAN          NAN          NAN

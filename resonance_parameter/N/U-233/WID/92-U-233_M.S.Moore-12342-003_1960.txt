@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 92-U-233 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : M.S.Moore 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
@@ -20,6 +20,6 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12342.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12342
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 1.5500E+00        NAN        2.0        0.0        NAN        NAN 6.0000E-02        NAN        NAN        NAN 5.6200E-01        NAN
- 4.7500E+00        NAN        2.0        0.0        NAN        NAN 8.0000E-02        NAN        NAN        NAN 7.1800E-01        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   1.5500E+00          NAN        2.0        0.0          NAN          NAN   6.0000E-02          NAN          NAN          NAN   5.6200E-01          NAN          NAN          NAN
+   4.7500E+00          NAN        2.0        0.0          NAN          NAN   8.0000E-02          NAN          NAN          NAN   7.1800E-01          NAN          NAN          NAN

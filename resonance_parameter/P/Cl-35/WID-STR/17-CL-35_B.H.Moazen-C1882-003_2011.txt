@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 17-CL-35 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : B.H.Moazen 
 #   Institute             : (1USATEN): University of Tennessee, Knoxville, TN 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1882-003-0'] 
 #   EXFOR reaction        :['(17-CL-35(P,A),,WID/STR)'] 
-#   incident energy       : 6.1000e-01 eV 
+#   incident energy       : 6.1000e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1882.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1882
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 6.1000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   6.1000E+05          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.2000E-02   2.0000E-03

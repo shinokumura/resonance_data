@@ -1,0 +1,26 @@
+# Header: 
+#   Title                 : 40-ZR-91 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : W.M.Lopez 
+#   Institute             : (1USAGA ): Gulf Energy and Environmental Systems, San Diego, CA 
+#   Reference             : (C,68WASH,,857,1968) 
+#   Year                  : 1968 
+#   Facility              : (LINAC): Linear accelerator 
+# Target: 
+#   Z                     : 40 
+#   A                     : 91 
+#   Nuclide               : 40-ZR-91 
+# Reaction: 
+#   entry-subent-pointer  :['11893-002-2' '11893-002-3'] 
+#   EXFOR reaction        :['(40-ZR-91(N,EL),,WID)' '(40-ZR-91(N,G),,WID)'] 
+#   incident energy       : 2.9200e+02 eV - 1.5370e+03 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11893.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/11893
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.9200E+02          NAN        3.0        NAN          NAN          NAN   1.2000E-01   3.0000E-02   6.3500E-01   4.0000E-02          NAN          NAN          NAN          NAN
+   6.8200E+02          NAN        3.0        NAN          NAN          NAN   1.2000E-01   3.0000E-02   9.5000E-01   2.0000E-01          NAN          NAN          NAN          NAN
+   1.5370E+03          NAN        3.0        NAN          NAN          NAN   2.0000E-01   6.0000E-02   8.1000E+00   6.0000E-01          NAN          NAN          NAN          NAN

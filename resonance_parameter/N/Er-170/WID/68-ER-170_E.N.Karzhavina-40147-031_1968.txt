@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 68-ER-170 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : E.N.Karzhavina 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,11 +15,11 @@
 # Reaction: 
 #   entry-subent-pointer  :['40147-031-0'] 
 #   EXFOR reaction        :['(68-ER-170(N,TOT),,WID)'] 
-#   incident energy       : 9.5300e-05 eV - 2.8500e-04 eV 
+#   incident energy       : 9.5300e+01 eV - 2.8500e+02 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40147.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40147
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.5300E-05 4.0000E-07        NAN        NAN 1.0000E+00        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 2.8500E-04 1.5000E-06        NAN        NAN 8.0000E-01        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.5300E+01   4.0000E-01        NAN        NAN   1.0000E+00          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   2.8500E+02   1.5000E+00        NAN        NAN   8.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

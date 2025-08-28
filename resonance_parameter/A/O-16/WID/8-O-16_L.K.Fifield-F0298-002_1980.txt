@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-16 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : L.K.Fifield 
 #   Institute             : (2UK OXF): University of Oxford, Oxford 
@@ -20,12 +20,12 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F02/F0298.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0298
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(A,TOT)      (A,G)     d(A,G)      (A,EL)   d(A,EL)       (A,F)     d(A,F)
- 4.9690E+06 9.0000E+03        NAN        NAN        NAN        NAN 2.1000E+03 8.0000E+02        NAN        NAN        NAN        NAN
- 5.4770E+06 4.0000E+03        NAN        NAN        NAN        NAN 4.0000E+03        NAN        NAN        NAN        NAN        NAN
- 7.9480E+06 4.0000E+03        NAN        NAN        NAN        NAN 1.0000E+03        NAN        NAN        NAN        NAN        NAN
- 8.1800E+06 5.0000E+03        NAN        NAN        NAN        NAN 1.0000E+03        NAN        NAN        NAN        NAN        NAN
- 8.5350E+06 6.0000E+03        NAN        NAN        NAN        NAN 1.3000E+03 8.0000E+02        NAN        NAN        NAN        NAN
- 8.9940E+06 8.0000E+03        NAN        NAN        NAN        NAN 1.0000E+03        NAN        NAN        NAN        NAN        NAN
- 9.3620E+06 5.0000E+03        NAN        NAN        NAN        NAN 1.0000E+03        NAN        NAN        NAN        NAN        NAN
- 9.4060E+06 4.0000E+03        NAN        NAN        NAN        NAN 1.0000E+03        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (A,TOT)     d(A,TOT)        (A,G)       d(A,G)        (A,EL)     d(A,EL)        (A,F)       d(A,F)        (A,A)       d(A,A)
+   4.9690E+06   9.0000E+03        NAN        NAN          NAN          NAN   2.1000E+03   8.0000E+02          NAN          NAN          NAN          NAN          NAN          NAN
+   5.4770E+06   4.0000E+03        NAN        NAN          NAN          NAN   4.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.9480E+06   4.0000E+03        NAN        NAN          NAN          NAN   1.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.1800E+06   5.0000E+03        NAN        NAN          NAN          NAN   1.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.5350E+06   6.0000E+03        NAN        NAN          NAN          NAN   1.3000E+03   8.0000E+02          NAN          NAN          NAN          NAN          NAN          NAN
+   8.9940E+06   8.0000E+03        NAN        NAN          NAN          NAN   1.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.3620E+06   5.0000E+03        NAN        NAN          NAN          NAN   1.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.4060E+06   4.0000E+03        NAN        NAN          NAN          NAN   1.0000E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN

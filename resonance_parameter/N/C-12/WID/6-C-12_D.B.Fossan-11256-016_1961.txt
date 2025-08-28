@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : D.B.Fossan 
 #   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
@@ -15,20 +15,20 @@
 # Reaction: 
 #   entry-subent-pointer  :['11256-016-0'] 
 #   EXFOR reaction        :['(6-C-12(N,TOT),,WID)'] 
-#   incident energy       : 3.5000e+00 eV - 1.2100e+01 eV 
+#   incident energy       : 3.5000e+06 eV - 1.2100e+07 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11256.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11256
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 3.5000E+00        NAN        NAN        NAN 7.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 4.3000E+00        NAN        NAN        NAN 2.2000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 4.9300E+00        NAN        NAN        NAN 1.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 5.3600E+00        NAN        NAN        NAN 3.0000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 6.2700E+00        NAN        NAN        NAN 6.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.4000E+00        NAN        NAN        NAN 2.5000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 7.7300E+00        NAN        NAN        NAN 2.0000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 8.1000E+00        NAN        NAN        NAN 1.5000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 9.3000E+00        NAN        NAN        NAN 3.7000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.1100E+01        NAN        NAN        NAN 4.5000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
- 1.2100E+01        NAN        NAN        NAN 2.3000E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   3.5000E+06          NAN        NAN        NAN   7.0000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.3000E+06          NAN        NAN        NAN   2.2000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   4.9300E+06          NAN        NAN        NAN   1.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   5.3600E+06          NAN        NAN        NAN   3.0000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   6.2700E+06          NAN        NAN        NAN   6.5000E+04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.4000E+06          NAN        NAN        NAN   2.5000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   7.7300E+06          NAN        NAN        NAN   2.0000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   8.1000E+06          NAN        NAN        NAN   1.5000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   9.3000E+06          NAN        NAN        NAN   3.7000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.1100E+07          NAN        NAN        NAN   4.5000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN
+   1.2100E+07          NAN        NAN        NAN   2.3000E+05          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

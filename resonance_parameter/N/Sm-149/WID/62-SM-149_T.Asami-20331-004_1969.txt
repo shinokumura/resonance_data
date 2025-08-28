@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 62-SM-149 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : T.Asami 
 #   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['20331-004-0'] 
 #   EXFOR reaction        :['(62-SM-149(N,TOT),,WID)'] 
-#   incident energy       : 9.8800e-02 eV 
+#   incident energy       : 9.8800e+04 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20331.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20331
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.8800E-02        NAN        NAN        NAN 5.9500E-02 8.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.8800E+04          NAN        NAN        NAN   5.9500E-02   8.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

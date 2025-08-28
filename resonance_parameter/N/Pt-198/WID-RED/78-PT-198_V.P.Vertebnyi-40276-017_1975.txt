@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 78-PT-198 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : V.P.Vertebnyi 
 #   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
@@ -20,8 +20,8 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40276.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40276
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 9.6100E+01 5.0000E-01        NAN        0.0        NAN        NAN        NAN        NAN 8.0000E-03 1.0000E-03        NAN        NAN
- 7.0400E+02 1.5000E+01        NAN        0.0        NAN        NAN        NAN        NAN 7.8000E-02 1.0000E-02        NAN        NAN
- 8.4000E+02 2.0000E+01        NAN        0.0        NAN        NAN        NAN        NAN 2.1000E-02 3.0000E-03        NAN        NAN
- 1.3400E+03 3.5000E+01        NAN        0.0        NAN        NAN        NAN        NAN 1.3000E-01 5.0000E-02        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   9.6100E+01   5.0000E-01        NAN        0.0          NAN          NAN          NAN          NAN   8.0000E-03   1.0000E-03          NAN          NAN          NAN          NAN
+   7.0400E+02   1.5000E+01        NAN        0.0          NAN          NAN          NAN          NAN   7.8000E-02   1.0000E-02          NAN          NAN          NAN          NAN
+   8.4000E+02   2.0000E+01        NAN        0.0          NAN          NAN          NAN          NAN   2.1000E-02   3.0000E-03          NAN          NAN          NAN          NAN
+   1.3400E+03   3.5000E+01        NAN        0.0          NAN          NAN          NAN          NAN   1.3000E-01   5.0000E-02          NAN          NAN          NAN          NAN

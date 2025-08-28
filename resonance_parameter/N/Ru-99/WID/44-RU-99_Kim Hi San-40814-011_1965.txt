@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 44-RU-99 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : Kim Hi San 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['40814-011-0'] 
 #   EXFOR reaction        :['(44-RU-99(N,TOT),,WID)'] 
-#   incident energy       : 2.5300e-05 eV 
+#   incident energy       : 2.5300e+01 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40814.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40814
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 2.5300E-05 8.0000E-07        NAN        NAN 1.8000E-01 2.0000E-02        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.5300E+01   8.0000E-01        NAN        NAN   1.8000E-01   2.0000E-02          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN

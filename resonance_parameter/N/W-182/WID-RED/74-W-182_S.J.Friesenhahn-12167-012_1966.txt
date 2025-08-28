@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 74-W-182 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : S.J.Friesenhahn 
 #   Institute             : (1USAGA): Gulf Energy and Environmental Systems, San Diego, CA 
@@ -20,5 +20,5 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12167.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12167
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
--3.0700E+01        NAN        NAN        0.0        NAN        NAN        NAN        NAN 2.0000E-02        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+  -3.0700E+01          NAN        NAN        0.0          NAN          NAN          NAN          NAN   2.0000E-02          NAN          NAN          NAN          NAN          NAN

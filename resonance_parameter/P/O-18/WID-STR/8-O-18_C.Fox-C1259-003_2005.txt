@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-18 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : C.Fox 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['C1259-003-0'] 
 #   EXFOR reaction        :['(8-O-18(P,G),,WID/STR)'] 
-#   incident energy       : 1.5082e-01 eV 
+#   incident energy       : 1.5082e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C12/C1259.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1259
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.5082E-01 9.0000E-05        NAN        NAN        NAN        NAN 9.3000E-04 1.0000E-04        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.5082E+05   9.0000E+01        NAN        NAN          NAN          NAN   9.3000E-04   1.0000E-04          NAN          NAN          NAN          NAN          NAN          NAN

@@ -1,0 +1,24 @@
+# Header: 
+#   Title                 : 16-S-32 Resonance Parameter: WID 
+#   Source                : EXFOR 
+#   Date Created          : 2025-08-28 
+# EXFOR Bibliographic Information: 
+#   First Author          : U.N.Singh 
+#   Institute             : (1USACOL): Columbia University, New York, NY 
+#   Reference             : (J,DA/B,33,2753,197212) 
+#   Year                  : 1972 
+#   Facility              : (SYNCY): Synchro cyclotron 
+# Target: 
+#   Z                     : 16 
+#   A                     : 32 
+#   Nuclide               : 16-S-32 
+# Reaction: 
+#   entry-subent-pointer  :['10702-002-4'] 
+#   EXFOR reaction        :['(16-S-32(N,G),,WID)'] 
+#   incident energy       : 2.0005e+05 eV 
+# Links: 
+#   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10702.x4 
+#   nds                   : https://nds.iaea.org/EXFOR/10702
+#
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   2.0005E+05          NAN        0.5        1.0          NAN          NAN   4.9458E+03          NAN          NAN          NAN          NAN          NAN          NAN          NAN

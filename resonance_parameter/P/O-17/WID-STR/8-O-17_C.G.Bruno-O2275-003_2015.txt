@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : C.G.Bruno 
 #   Institute             : (1USAUSA): United States of America 
@@ -15,10 +15,10 @@
 # Reaction: 
 #   entry-subent-pointer  :['O2275-003-0'] 
 #   EXFOR reaction        :['(8-O-17(P,A),,WID/STR)'] 
-#   incident energy       : 1.9480e-01 eV 
+#   incident energy       : 1.9480e+05 eV 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2275.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2275
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 1.9480E-01 3.0000E-04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   1.9480E+05   3.0000E+02        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.6800E-03          NAN

@@ -1,7 +1,7 @@
 # Header: 
 #   Title                 : 94-PU-242 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-08-28 
 # EXFOR Bibliographic Information: 
 #   First Author          : G.F.Auchampaugh 
 #   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
@@ -20,11 +20,11 @@
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10266.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10266
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(N,TOT)      (N,G)     d(N,G)      (N,EL)   d(N,EL)       (N,F)     d(N,F)
- 4.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.0200E+01        NAN
- 5.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 5.8700E+01        NAN
- 6.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 6.4500E+01        NAN
- 7.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 2.6000E+01        NAN
- 8.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 1.1900E+02        NAN
- 9.5000E+04        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 7.9300E+01        NAN
- 1.0500E+05        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN        NAN 8.4400E+01        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (N,TOT)     d(N,TOT)        (N,G)       d(N,G)        (N,EL)     d(N,EL)        (N,F)       d(N,F)        (N,A)       d(N,A)
+   4.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   7.0200E+01          NAN          NAN          NAN
+   5.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   5.8700E+01          NAN          NAN          NAN
+   6.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   6.4500E+01          NAN          NAN          NAN
+   7.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   2.6000E+01          NAN          NAN          NAN
+   8.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   1.1900E+02          NAN          NAN          NAN
+   9.5000E+04          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   7.9300E+01          NAN          NAN          NAN
+   1.0500E+05          NAN        NAN        NAN          NAN          NAN          NAN          NAN          NAN          NAN   8.4400E+01          NAN          NAN          NAN

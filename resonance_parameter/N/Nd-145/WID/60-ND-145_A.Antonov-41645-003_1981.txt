@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 60-ND-145 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41645-003-0 
 #   First Author          : A.Antonov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-81-348,1981) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 60 
 #   A                     : 145 
+#   Isomer                :  
 #   Nuclide               : 60-ND-145 
 # Reaction: 
-#   entry-subent-pointer  :['41645-003-0'] 
-#   EXFOR reaction        :['(60-ND-145(N,A),,WID)'] 
-#   incident energy       : 4.3500e+00 eV - 3.0600e+02 eV 
+#   EXFOR Reaction        : (60-ND-145(N,A),,WID) 
+#   Incident Energy Type   : 4.3500e+00 eV - 3.0600e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/416/41645.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41645

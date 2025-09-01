@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 38-SR-87 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11866-003-1 
 #   First Author          : A.Stolovy 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,108,353,57) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 38 
 #   A                     : 87 
+#   Isomer                :  
 #   Nuclide               : 38-SR-87 
 # Reaction: 
-#   entry-subent-pointer  :['11866-003-1' '11866-003-2'] 
-#   EXFOR reaction        :['(38-SR-87(N,G),,WID)' '(38-SR-87(N,EL),,WID)'] 
-#   incident energy       : 3.5600e+00 eV 
+#   EXFOR Reaction        : (38-SR-87(N,G),,WID) 
+#   Incident Energy Type   : 3.5600e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11866

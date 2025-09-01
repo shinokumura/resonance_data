@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 82-PB-208 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : O1860-007-0 
 #   First Author          : A.Heusler 
 #   Institute             : (2GERMPH): Max-Planck-Institut fuer Kernphysik, Heidelberg 
 #   Reference             : (J,EPJ/A,44,233,2010) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 82 
 #   A                     : 208 
+#   Isomer                :  
 #   Nuclide               : 82-PB-208 
 # Reaction: 
-#   entry-subent-pointer  :['O1860-007-0'] 
-#   EXFOR reaction        :['(82-PB-208(P,EL),,WID)'] 
-#   incident energy       : 1.4920e+07 eV 
+#   EXFOR Reaction        : (82-PB-208(P,EL),,WID) 
+#   Incident Energy Type   : 1.4920e+07 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1860.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O1860

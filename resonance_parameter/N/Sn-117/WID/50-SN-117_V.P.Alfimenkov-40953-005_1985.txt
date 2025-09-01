@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 50-SN-117 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40953-005-0 
 #   First Author          : V.P.Alfimenkov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (C,85SANTA,1,937,198505) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 50 
 #   A                     : 117 
+#   Isomer                :  
 #   Nuclide               : 50-SN-117 
 # Reaction: 
-#   entry-subent-pointer  :['40953-005-0'] 
-#   EXFOR reaction        :['(50-SN-117(N,G),,WID)'] 
-#   incident energy       : 1.3300e+00 eV 
+#   EXFOR Reaction        : (50-SN-117(N,G),,WID) 
+#   Incident Energy Type   : 1.3300e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/409/40953.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40953

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2404-004-2 
 #   First Author          : R.E.Brown 
 #   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 #   Reference             : (J,PR,125,347,1962) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 17 
+#   Isomer                :  
 #   Nuclide               : 8-O-17 
 # Reaction: 
-#   entry-subent-pointer  :['C2404-004-2'] 
-#   EXFOR reaction        :['(8-O-17(P,A),,WID)'] 
-#   incident energy       : 4.8900e+05 eV - 1.2600e+06 eV 
+#   EXFOR Reaction        : (8-O-17(P,A),,WID) 
+#   Incident Energy Type   : 4.8900e+05 eV - 1.2600e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C24/C2404.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2404

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 54-XE-124 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 23211-004-2 
 #   First Author          : G.Noguere 
 #   Institute             : (2FR CAD): CEA/Cadarache 
 #   Reference             : (J,NP/A,870-871,131,2011) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 54 
 #   A                     : 124 
+#   Isomer                :  
 #   Nuclide               : 54-XE-124 
 # Reaction: 
-#   entry-subent-pointer  :['23211-004-2' '23211-004-3'] 
-#   EXFOR reaction        :['(54-XE-124(N,G),,WID)' '(54-XE-124(N,EL),,WID)'] 
-#   incident energy       : 5.0900e+00 eV - 2.5133e+02 eV 
+#   EXFOR Reaction        : (54-XE-124(N,G),,WID) 
+#   Incident Energy Type   : 5.0900e+00 eV - 2.5133e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/232/23211.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23211

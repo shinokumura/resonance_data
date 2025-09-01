@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 32-GE-74 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0050-002-4 
 #   First Author          : R.Massarczyk 
 #   Institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 #   Reference             : (J,PR/C,92,044309,2015) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 32 
 #   A                     : 74 
+#   Isomer                :  
 #   Nuclide               : 32-GE-74 
 # Reaction: 
-#   entry-subent-pointer  :['G0050-002-4'] 
-#   EXFOR reaction        :['(32-GE-74(G,EL),,ARE)'] 
-#   incident energy       : 2.6912e+06 eV - 8.8983e+06 eV 
+#   EXFOR Reaction        : (32-GE-74(G,EL),,ARE) 
+#   Incident Energy Type   : 2.6912e+06 eV - 8.8983e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0050.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0050

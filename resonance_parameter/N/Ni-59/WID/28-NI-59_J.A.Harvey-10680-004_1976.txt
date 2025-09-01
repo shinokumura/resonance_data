@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-59 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10680-004-2 
 #   First Author          : J.A.Harvey 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (P,ORNL-5137,2,197605) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 59 
+#   Isomer                :  
 #   Nuclide               : 28-NI-59 
 # Reaction: 
-#   entry-subent-pointer  :['10680-004-2' '10680-004-3' '10680-004-5'] 
-#   EXFOR reaction        :['(28-NI-59(N,TOT),,WID)' '(28-NI-59(N,EL),,WID)' '(28-NI-59(N,G),,WID)'] 
-#   incident energy       : 2.0340e+02 eV - 1.1530e+04 eV 
+#   EXFOR Reaction        : (28-NI-59(N,TOT),,WID) 
+#   Incident Energy Type   : 2.0340e+02 eV - 1.1530e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10680.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10680

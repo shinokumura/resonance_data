@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 70-YB-172 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10081-012-0 
 #   First Author          : H.I.Liou 
 #   Institute             : (1USACOL): Columbia University, New York, NY 
 #   Reference             : (J,PR/C,7,823,197302) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 70 
 #   A                     : 172 
+#   Isomer                :  
 #   Nuclide               : 70-YB-172 
 # Reaction: 
-#   entry-subent-pointer  :['10081-012-0'] 
-#   EXFOR reaction        :['(70-YB-172(N,G),,WID)'] 
-#   incident energy       : 1.3920e+02 eV - 5.0872e+02 eV 
+#   EXFOR Reaction        : (70-YB-172(N,G),,WID) 
+#   Incident Energy Type   : 1.3920e+02 eV - 5.0872e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/100/10081.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10081

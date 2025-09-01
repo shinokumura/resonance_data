@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 37-RB-87 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13177-005-4 
 #   First Author          : H.Beer 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,AJ,339,962,8904) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 37 
 #   A                     : 87 
+#   Isomer                :  
 #   Nuclide               : 37-RB-87 
 # Reaction: 
-#   entry-subent-pointer  :['13177-005-4' '13177-005-5'] 
-#   EXFOR reaction        :['(37-RB-87(N,G),,WID)' '(37-RB-87(N,TOT),,WID)'] 
-#   incident energy       : 2.6683e+02 eV - 4.6728e+04 eV 
+#   EXFOR Reaction        : (37-RB-87(N,G),,WID) 
+#   Incident Energy Type   : 2.6683e+02 eV - 4.6728e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13177.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13177

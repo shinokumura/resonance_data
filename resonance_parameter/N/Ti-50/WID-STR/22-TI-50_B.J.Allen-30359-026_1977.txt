@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 22-TI-50 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30359-026-2 
 #   First Author          : B.J.Allen 
 #   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 #   Reference             : (R,AAEC/E-402,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 22 
 #   A                     : 50 
+#   Isomer                :  
 #   Nuclide               : 22-TI-50 
 # Reaction: 
-#   entry-subent-pointer  :['30359-026-2'] 
-#   EXFOR reaction        :['(22-TI-50(N,G),,WID/STR)'] 
-#   incident energy       : 1.6990e+04 eV - 2.9030e+05 eV 
+#   EXFOR Reaction        : (22-TI-50(N,G),,WID/STR) 
+#   Incident Energy Type   : 1.6990e+04 eV - 2.9030e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30359.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30359

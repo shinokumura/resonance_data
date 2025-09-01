@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 67-HO-165 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41123-002-2 
 #   First Author          : S.M.Masyanov 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,AE,73,(2),154,199208) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 67 
 #   A                     : 165 
+#   Isomer                :  
 #   Nuclide               : 67-HO-165 
 # Reaction: 
-#   entry-subent-pointer  :['41123-002-2' '41123-002-4'] 
-#   EXFOR reaction        :['(67-HO-165(N,TOT),,WID)' '(67-HO-165(N,G),,WID)'] 
-#   incident energy       : 3.9200e+00 eV - 1.2810e+02 eV 
+#   EXFOR Reaction        : (67-HO-165(N,TOT),,WID) 
+#   Incident Energy Type   : 3.9200e+00 eV - 1.2810e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41123.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41123

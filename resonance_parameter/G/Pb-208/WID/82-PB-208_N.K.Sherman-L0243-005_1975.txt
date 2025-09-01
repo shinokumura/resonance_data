@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 82-PB-208 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : L0243-005-2 
 #   First Author          : N.K.Sherman 
 #   Institute             : (1CANOTC): National Research Council, Ottawa, Ontario 
 #   Reference             : (J,PRL,35,1215,1975) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 82 
 #   A                     : 208 
+#   Isomer                :  
 #   Nuclide               : 82-PB-208 
 # Reaction: 
-#   entry-subent-pointer  :['L0243-005-2'] 
-#   EXFOR reaction        :['(82-PB-208(G,TOT),,WID)'] 
-#   incident energy       : 9.0340e+06 eV - 1.0060e+07 eV 
+#   EXFOR Reaction        : (82-PB-208(G,TOT),,WID) 
+#   Incident Energy Type   : 9.0340e+06 eV - 1.0060e+07 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L02/L0243.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0243

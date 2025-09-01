@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 17-CL-37 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12857-003-4 
 #   First Author          : R.L.Macklin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,29,1996,198406) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 17 
 #   A                     : 37 
+#   Isomer                :  
 #   Nuclide               : 17-CL-37 
 # Reaction: 
-#   entry-subent-pointer  :['12857-003-4'] 
-#   EXFOR reaction        :['(17-CL-37(N,G),,WID)'] 
-#   incident energy       : 8.3030e+03 eV - 1.5070e+05 eV 
+#   EXFOR Reaction        : (17-CL-37(N,G),,WID) 
+#   Incident Energy Type   : 8.3030e+03 eV - 1.5070e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12857.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12857

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 38-SR-88 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1952-003-2 
 #   First Author          : F.Gabbard 
 #   Institute             : (1USATEX): University of Texas, Austin, TX 
 #   Reference             : (J,PR/C,2,2227,1970) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 38 
 #   A                     : 88 
+#   Isomer                :  
 #   Nuclide               : 38-SR-88 
 # Reaction: 
-#   entry-subent-pointer  :['C1952-003-2' 'C1952-003-3'] 
-#   EXFOR reaction        :['(38-SR-88(P,TOT),,WID)' '(38-SR-88(P,EL),,WID)'] 
-#   incident energy       : 5.0560e+06 eV - 7.7980e+06 eV 
+#   EXFOR Reaction        : (38-SR-88(P,TOT),,WID) 
+#   Incident Energy Type   : 5.0560e+06 eV - 7.7980e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1952.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1952

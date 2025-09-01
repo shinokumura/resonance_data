@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 62-SM-152 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12099-004-3 
 #   First Author          : Br.A.Bernabei 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,NSE,12,63,1962) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 62 
 #   A                     : 152 
+#   Isomer                :  
 #   Nuclide               : 62-SM-152 
 # Reaction: 
-#   entry-subent-pointer  :['12099-004-3' '12099-004-4' '12099-004-5'] 
-#   EXFOR reaction        :['(62-SM-152(N,TOT),,WID)' '(62-SM-152(N,G),,WID)'
- '(62-SM-152(N,EL),,WID)'] 
-#   incident energy       : 8.0360e+00 eV 
+#   EXFOR Reaction        : (62-SM-152(N,TOT),,WID) 
+#   Incident Energy Type   : 8.0360e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12099.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12099

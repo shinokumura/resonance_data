@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20502-005-0 
 #   First Author          : U.Fasoli 
 #   Institute             : (2ITYPAD): INFN Laboratori Nazionali di Legnaro, Legnaro, Padova 
 #   Reference             : (J,NP/A,205,305,197304) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 6 
 #   A                     : 12 
+#   Isomer                :  
 #   Nuclide               : 6-C-12 
 # Reaction: 
-#   entry-subent-pointer  :['20502-005-0'] 
-#   EXFOR reaction        :['(6-C-12(N,EL),,WID)'] 
-#   incident energy       : 2.9400e+06 eV - 4.2590e+06 eV 
+#   EXFOR Reaction        : (6-C-12(N,EL),,WID) 
+#   Incident Energy Type   : 2.9400e+06 eV - 4.2590e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/205/20502.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20502

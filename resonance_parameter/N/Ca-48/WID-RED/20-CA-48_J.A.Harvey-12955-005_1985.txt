@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 20-CA-48 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12955-005-2 
 #   First Author          : J.A.Harvey 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,32,1114,1985) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 20 
 #   A                     : 48 
+#   Isomer                :  
 #   Nuclide               : 20-CA-48 
 # Reaction: 
-#   entry-subent-pointer  :['12955-005-2'] 
-#   EXFOR reaction        :['(20-CA-48(N,EL),,WID/RED)'] 
-#   incident energy       : 4.1400e+05 eV - 3.1170e+06 eV 
+#   EXFOR Reaction        : (20-CA-48(N,EL),,WID/RED) 
+#   Incident Energy Type   : 4.1400e+05 eV - 3.1170e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12955.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12955

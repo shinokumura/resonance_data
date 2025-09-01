@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-60 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : E0153-004-1 
 #   First Author          : M.Adachi 
 #   Institute             : (2JPNTIT): Tokyo Institute of Technology, Tokyo 
 #   Reference             : (J,JPJ,36,(5),1266,197405) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 60 
+#   Isomer                :  
 #   Nuclide               : 28-NI-60 
 # Reaction: 
-#   entry-subent-pointer  :['E0153-004-1' 'E0153-004-2'] 
-#   EXFOR reaction        :['(28-NI-60(P,EL),,WID)' '(28-NI-60(P,G),,WID)'] 
-#   incident energy       : 3.7228e+06 eV - 3.7431e+06 eV 
+#   EXFOR Reaction        : (28-NI-60(P,EL),,WID) 
+#   Incident Energy Type   : 3.7228e+06 eV - 3.7431e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E01/E0153.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/E0153

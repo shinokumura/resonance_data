@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 3-LI-7 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11049-004-1 
 #   First Author          : P.H.Stelson 
 #   Institute             : (1USAMIT): Massachusetts Institute of Technology, Cambridge, MA 
 #   Reference             : (J,PR,84,162,51) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 3 
 #   A                     : 7 
+#   Isomer                :  
 #   Nuclide               : 3-LI-7 
 # Reaction: 
-#   entry-subent-pointer  :['11049-004-1'] 
-#   EXFOR reaction        :['(3-LI-7(N,EL),,WID)'] 
-#   incident energy       : 2.5600e+05 eV 
+#   EXFOR Reaction        : (3-LI-7(N,EL),,WID) 
+#   Incident Energy Type   : 2.5600e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/110/11049.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11049

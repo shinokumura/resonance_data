@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 36-KR-86 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : L0178-005-0 
 #   First Author          : R.Schwengner 
 #   Institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 #   Reference             : (J,PR/C,87,024306,2013) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 36 
 #   A                     : 86 
+#   Isomer                :  
 #   Nuclide               : 36-KR-86 
 # Reaction: 
-#   entry-subent-pointer  :['L0178-005-0'] 
-#   EXFOR reaction        :['(36-KR-86(G,EL),,ARE)'] 
-#   incident energy       : 5.5175e+06 eV - 1.0116e+07 eV 
+#   EXFOR Reaction        : (36-KR-86(G,EL),,ARE) 
+#   Incident Energy Type   : 5.5175e+06 eV - 1.0116e+07 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0178.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0178

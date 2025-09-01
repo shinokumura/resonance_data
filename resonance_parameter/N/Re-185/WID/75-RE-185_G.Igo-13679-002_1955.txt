@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 75-RE-185 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13679-002-4 
 #   First Author          : G.Igo 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,100,(5),1338,1955) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 75 
 #   A                     : 185 
+#   Isomer                :  
 #   Nuclide               : 75-RE-185 
 # Reaction: 
-#   entry-subent-pointer  :['13679-002-4' '13679-002-5'] 
-#   EXFOR reaction        :['(75-RE-185(N,TOT),,WID)' '(75-RE-185(N,G),,WID)'] 
-#   incident energy       : 2.1560e+00 eV 
+#   EXFOR Reaction        : (75-RE-185(N,TOT),,WID) 
+#   Incident Energy Type   : 2.1560e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/136/13679.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13679

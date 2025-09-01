@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-14 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0959-004-0 
 #   First Author          : A.K.Val'Ter 
 #   Institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 #   Reference             : (J,IZV,23,839,1959) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 14 
+#   Isomer                :  
 #   Nuclide               : 7-N-14 
 # Reaction: 
-#   entry-subent-pointer  :['F0959-004-0'] 
-#   EXFOR reaction        :['(7-N-14(P,G),,WID)'] 
-#   incident energy       : 1.0540e+06 eV - 2.4780e+06 eV 
+#   EXFOR Reaction        : (7-N-14(P,G),,WID) 
+#   Incident Energy Type   : 1.0540e+06 eV - 2.4780e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F09/F0959.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0959

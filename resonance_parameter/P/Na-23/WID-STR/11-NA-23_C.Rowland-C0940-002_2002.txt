@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 11-NA-23 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C0940-002-0 
 #   First Author          : C.Rowland 
 #   Institute             : (1USAUNC): United Nuclear Corp., Elmsford, NY 
 #   Reference             : (J,PR/C,65,064609,2002) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 11 
 #   A                     : 23 
+#   Isomer                :  
 #   Nuclide               : 11-NA-23 
 # Reaction: 
-#   entry-subent-pointer  :['C0940-002-0'] 
-#   EXFOR reaction        :['(11-NA-23(P,A),,WID/STR)'] 
-#   incident energy       : 3.3800e+05 eV 
+#   EXFOR Reaction        : (11-NA-23(P,A),,WID/STR) 
+#   Incident Energy Type   : 3.3800e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0940.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0940

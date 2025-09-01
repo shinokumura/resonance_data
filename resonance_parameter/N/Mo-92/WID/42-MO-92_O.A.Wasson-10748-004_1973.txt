@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 42-MO-92 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10748-004-6 
 #   First Author          : O.A.Wasson 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,7,1532,1973) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 42 
 #   A                     : 92 
+#   Isomer                :  
 #   Nuclide               : 42-MO-92 
 # Reaction: 
-#   entry-subent-pointer  :['10748-004-6'] 
-#   EXFOR reaction        :['(42-MO-92(N,G),,WID)'] 
-#   incident energy       : 3.4700e+02 eV - 3.1100e+04 eV 
+#   EXFOR Reaction        : (42-MO-92(N,G),,WID) 
+#   Incident Energy Type   : 3.4700e+02 eV - 3.1100e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10748.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10748

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 72-HF-174 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11372-002-2 
 #   First Author          : T.Fuketa 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (P,ORNL-3778,38,6505) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 72 
 #   A                     : 174 
+#   Isomer                :  
 #   Nuclide               : 72-HF-174 
 # Reaction: 
-#   entry-subent-pointer  :['11372-002-2'] 
-#   EXFOR reaction        :['(72-HF-174(N,EL),,WID)'] 
-#   incident energy       : 4.2500e+00 eV - 2.1100e+02 eV 
+#   EXFOR Reaction        : (72-HF-174(N,EL),,WID) 
+#   Incident Energy Type   : 4.2500e+00 eV - 2.1100e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11372.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11372

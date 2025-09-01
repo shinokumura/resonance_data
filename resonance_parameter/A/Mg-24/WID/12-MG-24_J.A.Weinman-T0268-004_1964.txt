@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 12-MG-24 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : T0268-004-4 
 #   First Author          : J.A.Weinman 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR,133,B590,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 12 
 #   A                     : 24 
+#   Isomer                :  
 #   Nuclide               : 12-MG-24 
 # Reaction: 
-#   entry-subent-pointer  :['T0268-004-4' 'T0268-004-5'] 
-#   EXFOR reaction        :['(12-MG-24(A,TOT),,WID)' '(12-MG-24(A,EL),,WID)'] 
-#   incident energy       : 3.2130e+06 eV - 3.8070e+06 eV 
+#   EXFOR Reaction        : (12-MG-24(A,TOT),,WID) 
+#   Incident Energy Type   : 3.2130e+06 eV - 3.8070e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0268.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/T0268

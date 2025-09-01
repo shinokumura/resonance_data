@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 66-DY-163 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 31530-003-3 
 #   First Author          : G.Kim 
 #   Institute             : (3KORPUE): Pohang University of Science and Technology, Pohang 
 #   Reference             : (J,ANE,30,1123,2003) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 66 
 #   A                     : 163 
+#   Isomer                :  
 #   Nuclide               : 66-DY-163 
 # Reaction: 
-#   entry-subent-pointer  :['31530-003-3'] 
-#   EXFOR reaction        :['(66-DY-163(N,G),,WID)'] 
-#   incident energy       : 1.7093e+00 eV - 5.8377e+00 eV 
+#   EXFOR Reaction        : (66-DY-163(N,G),,WID) 
+#   Incident Energy Type   : 1.7093e+00 eV - 5.8377e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/315/31530.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/31530

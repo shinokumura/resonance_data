@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-233 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12342-003-4 
 #   First Author          : M.S.Moore 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 #   Reference             : (J,PR,118,718,1960) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 233 
+#   Isomer                :  
 #   Nuclide               : 92-U-233 
 # Reaction: 
-#   entry-subent-pointer  :['12342-003-4' '12342-003-5'] 
-#   EXFOR reaction        :['(92-U-233(N,G),,WID)' '(92-U-233(N,F),,WID)'] 
-#   incident energy       : 1.5500e+00 eV - 4.7500e+00 eV 
+#   EXFOR Reaction        : (92-U-233(N,G),,WID) 
+#   Incident Energy Type   : 1.5500e+00 eV - 4.7500e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12342.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12342

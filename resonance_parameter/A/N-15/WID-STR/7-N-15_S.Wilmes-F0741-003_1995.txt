@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0741-003-1 
 #   First Author          : S.Wilmes 
 #   Institute             : (2GERTUE): Universitaet Tuebingen 
 #   Reference             : (J,PR/C,52,2823,1995) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 15 
+#   Isomer                :  
 #   Nuclide               : 7-N-15 
 # Reaction: 
-#   entry-subent-pointer  :['F0741-003-1'] 
-#   EXFOR reaction        :['(7-N-15(A,G),,WID/STR)'] 
-#   incident energy       : 3.6400e+05 eV - 5.4200e+05 eV 
+#   EXFOR Reaction        : (7-N-15(A,G),,WID/STR) 
+#   Incident Energy Type   : 3.6400e+05 eV - 5.4200e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0741.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0741

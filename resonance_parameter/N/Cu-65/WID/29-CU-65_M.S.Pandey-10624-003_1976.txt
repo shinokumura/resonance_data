@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 29-CU-65 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10624-003-2 
 #   First Author          : M.S.Pandey 
 #   Institute             : (1USACOL): Columbia University, New York, NY 
 #   Reference             : (J,NSE,60,399,197608) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 29 
 #   A                     : 65 
+#   Isomer                :  
 #   Nuclide               : 29-CU-65 
 # Reaction: 
-#   entry-subent-pointer  :['10624-003-2'] 
-#   EXFOR reaction        :['(29-CU-65(N,EL),,WID)'] 
-#   incident energy       : -1.8000e+02 eV - 4.5810e+04 eV 
+#   EXFOR Reaction        : (29-CU-65(N,EL),,WID) 
+#   Incident Energy Type   : -1.8000e+02 eV - 4.5810e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10624.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10624

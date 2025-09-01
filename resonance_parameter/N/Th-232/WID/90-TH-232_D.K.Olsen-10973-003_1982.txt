@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 90-TH-232 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10973-003-3 
 #   First Author          : D.K.Olsen 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,NSE,82,289,1982) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 90 
 #   A                     : 232 
+#   Isomer                :  
 #   Nuclide               : 90-TH-232 
 # Reaction: 
-#   entry-subent-pointer  :['10973-003-3'] 
-#   EXFOR reaction        :['(90-TH-232(N,G),,WID)'] 
-#   incident energy       : 2.1806e+01 eV - 2.0062e+03 eV 
+#   EXFOR Reaction        : (90-TH-232(N,G),,WID) 
+#   Incident Energy Type   : 2.1806e+01 eV - 2.0062e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10973.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10973

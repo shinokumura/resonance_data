@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 50-SN-117 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11912-019-3 
 #   First Author          : J.A.Harvey 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,99,10,5507) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 50 
 #   A                     : 117 
+#   Isomer                :  
 #   Nuclide               : 50-SN-117 
 # Reaction: 
-#   entry-subent-pointer  :['11912-019-3'] 
-#   EXFOR reaction        :['(50-SN-117(N,EL),,WID/RED)'] 
-#   incident energy       : 3.9400e+01 eV - 4.6000e+02 eV 
+#   EXFOR Reaction        : (50-SN-117(N,EL),,WID/RED) 
+#   Incident Energy Type   : 3.9400e+01 eV - 4.6000e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11912.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11912

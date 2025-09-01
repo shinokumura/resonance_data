@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 91-PA-233 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12263-005-2 
 #   First Author          : F.B.Simpson 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 #   Reference             : (J,NSE,28,133,67) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 91 
 #   A                     : 233 
+#   Isomer                :  
 #   Nuclide               : 91-PA-233 
 # Reaction: 
-#   entry-subent-pointer  :['12263-005-2'] 
-#   EXFOR reaction        :['(91-PA-233(N,EL),,WID/RED)'] 
-#   incident energy       : -1.0000e+00 eV - 1.7000e+01 eV 
+#   EXFOR Reaction        : (91-PA-233(N,EL),,WID/RED) 
+#   Incident Energy Type   : -1.0000e+00 eV - 1.7000e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12263.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12263

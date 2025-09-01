@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-33 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12967-003-4 
 #   First Author          : G.P.Coddens 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,NP/A,469,480,8708) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 33 
+#   Isomer                :  
 #   Nuclide               : 16-S-33 
 # Reaction: 
-#   entry-subent-pointer  :['12967-003-4' '12967-003-6'] 
-#   EXFOR reaction        :['(16-S-33(N,EL),,WID)' '(16-S-33(N,A),,WID)'] 
-#   incident energy       : 1.3450e+01 eV - 2.6092e+02 eV 
+#   EXFOR Reaction        : (16-S-33(N,EL),,WID) 
+#   Incident Energy Type   : 1.3450e+01 eV - 2.6092e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/129/12967.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12967

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-60 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20858-010-0 
 #   First Author          : D.B.Syme 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (C,78HARWELL,319,7809) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 60 
+#   Isomer                :  
 #   Nuclide               : 28-NI-60 
 # Reaction: 
-#   entry-subent-pointer  :['20858-010-0'] 
-#   EXFOR reaction        :['(28-NI-60(N,EL),,WID)'] 
-#   incident energy       : 3.3030e+04 eV - 2.9565e+05 eV 
+#   EXFOR Reaction        : (28-NI-60(N,EL),,WID) 
+#   Incident Energy Type   : 3.3030e+04 eV - 2.9565e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20858.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20858

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 56-BA-135 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30293-002-1 
 #   First Author          : A.R.De L.Musgrove 
 #   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 #   Reference             : (R,AAEC/E-327,1974) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 56 
 #   A                     : 135 
+#   Isomer                :  
 #   Nuclide               : 56-BA-135 
 # Reaction: 
-#   entry-subent-pointer  :['30293-002-1'] 
-#   EXFOR reaction        :['(56-BA-135(N,G),,WID/STR)'] 
-#   incident energy       : 3.0590e+03 eV - 5.9780e+03 eV 
+#   EXFOR Reaction        : (56-BA-135(N,G),,WID/STR) 
+#   Incident Energy Type   : 3.0590e+03 eV - 5.9780e+03 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/302/30293.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30293

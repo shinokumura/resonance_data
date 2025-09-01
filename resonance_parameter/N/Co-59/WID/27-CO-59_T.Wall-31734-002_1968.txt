@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 27-CO-59 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 31734-002-0 
 #   First Author          : T.Wall 
 #   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 #   Reference             : (R,AAEC/TM-466,1968) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 27 
 #   A                     : 59 
+#   Isomer                :  
 #   Nuclide               : 27-CO-59 
 # Reaction: 
-#   entry-subent-pointer  :['31734-002-0'] 
-#   EXFOR reaction        :['(27-CO-59(N,G),,WID)'] 
-#   incident energy       : 1.3200e+02 eV 
+#   EXFOR Reaction        : (27-CO-59(N,G),,WID) 
+#   Incident Energy Type   : 1.3200e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/317/31734.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/31734

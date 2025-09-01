@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 27-CO-59 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0094-003-2 
 #   First Author          : R.Schwengner 
 #   Institute             : (2UK UK): United Kingdom 
 #   Reference             : (J,PR/C,111,014312,2025) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 27 
 #   A                     : 59 
+#   Isomer                :  
 #   Nuclide               : 27-CO-59 
 # Reaction: 
-#   entry-subent-pointer  :['G0094-003-2'] 
-#   EXFOR reaction        :['(27-CO-59(G,EL),,ARE)'] 
-#   incident energy       : 3.1954e+06 eV - 1.0502e+07 eV 
+#   EXFOR Reaction        : (27-CO-59(G,EL),,ARE) 
+#   Incident Energy Type   : 3.1954e+06 eV - 1.0502e+07 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0094.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0094

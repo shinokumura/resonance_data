@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 95-AM-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20415-006-0 
 #   First Author          : H.Derrien 
 #   Institute             : (2FR SAC): CEA/Saclay 
 #   Reference             : (C,75WASH,2,637,1975) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 95 
 #   A                     : 241 
+#   Isomer                :  
 #   Nuclide               : 95-AM-241 
 # Reaction: 
-#   entry-subent-pointer  :['20415-006-0'] 
-#   EXFOR reaction        :['(95-AM-241(N,F),,WID)'] 
-#   incident energy       : 1.2800e+00 eV - 3.9620e+01 eV 
+#   EXFOR Reaction        : (95-AM-241(N,F),,WID) 
+#   Incident Energy Type   : 1.2800e+00 eV - 3.9620e+01 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20415.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20415

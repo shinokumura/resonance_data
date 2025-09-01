@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 17-CL-36 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41596-003-1 
 #   First Author          : Yu.M.Gledenov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : ((C,87KIEV,2,232,1987)=(R,INDC(CCP)-235,232,1987)) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 17 
 #   A                     : 36 
+#   Isomer                :  
 #   Nuclide               : 17-CL-36 
 # Reaction: 
-#   entry-subent-pointer  :['41596-003-1'] 
-#   EXFOR reaction        :['(17-CL-36(N,EL),,WID)'] 
-#   incident energy       : 1.3000e+03 eV - 8.2000e+03 eV 
+#   EXFOR Reaction        : (17-CL-36(N,EL),,WID) 
+#   Incident Energy Type   : 1.3000e+03 eV - 8.2000e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41596.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41596

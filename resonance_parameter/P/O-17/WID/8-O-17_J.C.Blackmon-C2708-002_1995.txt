@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2708-002-2 
 #   First Author          : J.C.Blackmon 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
 #   Reference             : (J,PRL,74,2642,1995) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 17 
+#   Isomer                :  
 #   Nuclide               : 8-O-17 
 # Reaction: 
-#   entry-subent-pointer  :['C2708-002-2'] 
-#   EXFOR reaction        :['(8-O-17(P,A),,WID)'] 
-#   incident energy       : 7.0000e+04 eV 
+#   EXFOR Reaction        : (8-O-17(P,A),,WID) 
+#   Incident Energy Type   : 7.0000e+04 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2708.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2708

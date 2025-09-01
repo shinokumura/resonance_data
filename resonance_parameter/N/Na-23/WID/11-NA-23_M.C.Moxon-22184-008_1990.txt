@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 11-NA-23 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22184-008-4 
 #   First Author          : M.C.Moxon 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (C,90MARSEI,1,(III),32,9004) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 11 
 #   A                     : 23 
+#   Isomer                :  
 #   Nuclide               : 11-NA-23 
 # Reaction: 
-#   entry-subent-pointer  :['22184-008-4'] 
-#   EXFOR reaction        :['(11-NA-23(N,EL),,WID)'] 
-#   incident energy       : -3.8140e+05 eV - 7.8427e+05 eV 
+#   EXFOR Reaction        : (11-NA-23(N,EL),,WID) 
+#   Incident Energy Type   : -3.8140e+05 eV - 7.8427e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/221/22184.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22184

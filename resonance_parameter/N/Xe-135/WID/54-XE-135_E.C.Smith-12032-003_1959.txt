@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 54-XE-135 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12032-003-2 
 #   First Author          : E.C.Smith 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR,115,1693,1959) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 54 
 #   A                     : 135 
+#   Isomer                :  
 #   Nuclide               : 54-XE-135 
 # Reaction: 
-#   entry-subent-pointer  :['12032-003-2' '12032-003-3'] 
-#   EXFOR reaction        :['(54-XE-135(N,EL),,WID)' '(54-XE-135(N,G),,WID)'] 
-#   incident energy       : 8.4150e-02 eV - 8.4720e-02 eV 
+#   EXFOR Reaction        : (54-XE-135(N,EL),,WID) 
+#   Incident Energy Type   : 8.4150e-02 eV - 8.4720e-02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12032.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12032

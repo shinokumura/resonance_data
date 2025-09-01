@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 10-NE-19 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : D0087-003-1 
 #   First Author          : R.D.Page 
 #   Institute             : (3HUNHUN): Hungary 
 #   Reference             : (J,PRL,73,3066,1994) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 10 
 #   A                     : 19 
+#   Isomer                :  
 #   Nuclide               : 10-NE-19 
 # Reaction: 
-#   entry-subent-pointer  :['D0087-003-1' 'D0087-003-2'] 
-#   EXFOR reaction        :['(10-NE-19(P,G),,WID/STR)'] 
-#   incident energy       : 4.4700e+05 eV 
+#   EXFOR Reaction        : (10-NE-19(P,G),,WID/STR) 
+#   Incident Energy Type   : 4.4700e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D00/D0087.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/D0087

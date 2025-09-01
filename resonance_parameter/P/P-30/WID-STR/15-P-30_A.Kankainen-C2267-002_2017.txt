@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 15-P-30 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2267-002-2 
 #   First Author          : A.Kankainen 
 #   Institute             : (2SPNSPN): Spain 
 #   Reference             : (J,PL/B,769,549,2017) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 15 
 #   A                     : 30 
+#   Isomer                :  
 #   Nuclide               : 15-P-30 
 # Reaction: 
-#   entry-subent-pointer  :['C2267-002-2'] 
-#   EXFOR reaction        :['(15-P-30(P,G),,WID/STR)'] 
-#   incident energy       : 8.0000e+06 eV - 4.5250e+08 eV 
+#   EXFOR Reaction        : (15-P-30(P,G),,WID/STR) 
+#   Incident Energy Type   : 8.0000e+06 eV - 4.5250e+08 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C22/C2267.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2267

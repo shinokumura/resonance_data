@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 50-SN-117 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20687-030-6 
 #   First Author          : J.Julien 
 #   Institute             : (2FR SAC): CEA/Saclay 
 #   Reference             : (J,NP/A,132,129,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 50 
 #   A                     : 117 
+#   Isomer                :  
 #   Nuclide               : 50-SN-117 
 # Reaction: 
-#   entry-subent-pointer  :['20687-030-6' '20687-030-7'] 
-#   EXFOR reaction        :['(50-SN-117(N,TOT),,WID)' '(50-SN-117(N,G),,WID)'] 
-#   incident energy       : 3.8900e+01 eV - 1.9700e+02 eV 
+#   EXFOR Reaction        : (50-SN-117(N,TOT),,WID) 
+#   Incident Energy Type   : 3.8900e+01 eV - 1.9700e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20687.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20687

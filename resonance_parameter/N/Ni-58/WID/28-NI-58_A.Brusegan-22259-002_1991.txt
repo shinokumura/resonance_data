@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-58 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22259-002-4 
 #   First Author          : A.Brusegan 
 #   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 #   Reference             : (C,91JUELIC,,71,1991) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 58 
+#   Isomer                :  
 #   Nuclide               : 28-NI-58 
 # Reaction: 
-#   entry-subent-pointer  :['22259-002-4'] 
-#   EXFOR reaction        :['(28-NI-58(N,EL),,WID)'] 
-#   incident energy       : -1.0508e+05 eV - 1.0585e+06 eV 
+#   EXFOR Reaction        : (28-NI-58(N,EL),,WID) 
+#   Incident Energy Type   : -1.0508e+05 eV - 1.0585e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/222/22259.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22259

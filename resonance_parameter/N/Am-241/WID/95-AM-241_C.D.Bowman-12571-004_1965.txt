@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 95-AM-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12571-004-1 
 #   First Author          : C.D.Bowman 
 #   Institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 #   Reference             : (J,PR,137,B326,1965) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 95 
 #   A                     : 241 
+#   Isomer                :  
 #   Nuclide               : 95-AM-241 
 # Reaction: 
-#   entry-subent-pointer  :['12571-004-1' '12571-004-2'] 
-#   EXFOR reaction        :['(95-AM-241(N,F),,WID)' '(95-AM-241(N,TOT),,WID)'] 
-#   incident energy       : 3.1000e-01 eV - 1.2700e+00 eV 
+#   EXFOR Reaction        : (95-AM-241(N,F),,WID) 
+#   Incident Energy Type   : 3.1000e-01 eV - 1.2700e+00 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12571.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12571

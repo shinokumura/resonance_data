@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 26-FE-56 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11724-002-2 
 #   First Author          : J.E.Russell 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
 #   Reference             : (P,A-RPI-62,10,6209) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 26 
 #   A                     : 56 
+#   Isomer                :  
 #   Nuclide               : 26-FE-56 
 # Reaction: 
-#   entry-subent-pointer  :['11724-002-2'] 
-#   EXFOR reaction        :['(26-FE-56(N,G),,WID)'] 
-#   incident energy       : 1.1540e+03 eV 
+#   EXFOR Reaction        : (26-FE-56(N,G),,WID) 
+#   Incident Energy Type   : 1.1540e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11724.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11724

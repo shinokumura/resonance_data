@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 23-V-51 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22597-002-3 
 #   First Author          : M.C.Moxon 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (C,70HELSINKI,2,815,1970) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 23 
 #   A                     : 51 
+#   Isomer                :  
 #   Nuclide               : 23-V-51 
 # Reaction: 
-#   entry-subent-pointer  :['22597-002-3' '22597-002-4'] 
-#   EXFOR reaction        :['(23-V-51(N,EL),,WID)' '(23-V-51(N,G),,WID)'] 
-#   incident energy       : 4.1620e+03 eV - 1.6200e+04 eV 
+#   EXFOR Reaction        : (23-V-51(N,EL),,WID) 
+#   Incident Energy Type   : 4.1620e+03 eV - 1.6200e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/225/22597.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22597

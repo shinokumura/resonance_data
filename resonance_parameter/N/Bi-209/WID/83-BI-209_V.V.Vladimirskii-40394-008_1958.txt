@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 83-BI-209 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40394-008-2 
 #   First Author          : V.V.Vladimirskii 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 #   Reference             : (J,SJA,5,883,1958) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 83 
 #   A                     : 209 
+#   Isomer                :  
 #   Nuclide               : 83-BI-209 
 # Reaction: 
-#   entry-subent-pointer  :['40394-008-2' '40394-008-3' '40394-008-4'] 
-#   EXFOR reaction        :['(83-BI-209(N,TOT),,WID)' '(83-BI-209(N,G),,WID)'
- '(83-BI-209(N,EL),,WID)'] 
-#   incident energy       : 8.0000e+02 eV - 3.1000e+03 eV 
+#   EXFOR Reaction        : (83-BI-209(N,TOT),,WID) 
+#   Incident Energy Type   : 8.0000e+02 eV - 3.1000e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40394.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40394

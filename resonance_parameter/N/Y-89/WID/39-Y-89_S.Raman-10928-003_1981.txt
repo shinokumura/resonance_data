@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 39-Y-89 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10928-003-3 
 #   First Author          : S.Raman 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,23,1979,198105) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 39 
 #   A                     : 89 
+#   Isomer                :  
 #   Nuclide               : 39-Y-89 
 # Reaction: 
-#   entry-subent-pointer  :['10928-003-3'] 
-#   EXFOR reaction        :['(39-Y-89(N,G),,WID)'] 
-#   incident energy       : 2.6000e+03 eV - 9.7430e+03 eV 
+#   EXFOR Reaction        : (39-Y-89(N,G),,WID) 
+#   Incident Energy Type   : 2.6000e+03 eV - 9.7430e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10928.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10928

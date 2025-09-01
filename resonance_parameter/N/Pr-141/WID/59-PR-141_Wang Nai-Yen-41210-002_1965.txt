@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 59-PR-141 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41210-002-3 
 #   First Author          : Wang Nai-Yen 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (J,JET,20,30,1965) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 59 
 #   A                     : 141 
+#   Isomer                :  
 #   Nuclide               : 59-PR-141 
 # Reaction: 
-#   entry-subent-pointer  :['41210-002-3'] 
-#   EXFOR reaction        :['(59-PR-141(N,G),,WID)'] 
-#   incident energy       : 5.0500e+01 eV - 9.4200e+02 eV 
+#   EXFOR Reaction        : (59-PR-141(N,G),,WID) 
+#   Incident Energy Type   : 5.0500e+01 eV - 9.4200e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41210.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41210

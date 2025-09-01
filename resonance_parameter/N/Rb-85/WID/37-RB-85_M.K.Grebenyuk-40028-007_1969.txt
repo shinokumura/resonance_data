@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 37-RB-85 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40028-007-0 
 #   First Author          : M.K.Grebenyuk 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-4357,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 37 
 #   A                     : 85 
+#   Isomer                :  
 #   Nuclide               : 37-RB-85 
 # Reaction: 
-#   entry-subent-pointer  :['40028-007-0'] 
-#   EXFOR reaction        :['(37-RB-85(N,G),,WID)'] 
-#   incident energy       : 5.3000e+02 eV 
+#   EXFOR Reaction        : (37-RB-85(N,G),,WID) 
+#   Incident Energy Type   : 5.3000e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40028.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40028

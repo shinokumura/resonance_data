@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 51-SB-121 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21326-011-3 
 #   First Author          : A.Asami 
 #   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 #   Reference             : (C,68WASH,2,789,1968) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 51 
 #   A                     : 121 
+#   Isomer                :  
 #   Nuclide               : 51-SB-121 
 # Reaction: 
-#   entry-subent-pointer  :['21326-011-3'] 
-#   EXFOR reaction        :['(51-SB-121(N,TOT),,WID)'] 
-#   incident energy       : 6.2330e+00 eV - 1.6710e+02 eV 
+#   EXFOR Reaction        : (51-SB-121(N,TOT),,WID) 
+#   Incident Energy Type   : 6.2330e+00 eV - 1.6710e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21326.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21326

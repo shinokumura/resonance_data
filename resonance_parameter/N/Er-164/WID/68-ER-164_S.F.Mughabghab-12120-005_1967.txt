@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 68-ER-164 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12120-005-2 
 #   First Author          : S.F.Mughabghab 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,162,1130,67) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 68 
 #   A                     : 164 
+#   Isomer                :  
 #   Nuclide               : 68-ER-164 
 # Reaction: 
-#   entry-subent-pointer  :['12120-005-2'] 
-#   EXFOR reaction        :['(68-ER-164(N,EL),,WID)'] 
-#   incident energy       : 7.9200e+00 eV - 2.2520e+02 eV 
+#   EXFOR Reaction        : (68-ER-164(N,EL),,WID) 
+#   Incident Energy Type   : 7.9200e+00 eV - 2.2520e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12120.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12120

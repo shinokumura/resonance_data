@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 66-DY-161 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41276-005-2 
 #   First Author          : A.B.Popov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (J,SNP,32,310,1980) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 66 
 #   A                     : 161 
+#   Isomer                :  
 #   Nuclide               : 66-DY-161 
 # Reaction: 
-#   entry-subent-pointer  :['41276-005-2'] 
-#   EXFOR reaction        :['(66-DY-161(N,G),,WID)'] 
-#   incident energy       : 7.7400e+00 eV - 6.3620e+01 eV 
+#   EXFOR Reaction        : (66-DY-161(N,G),,WID) 
+#   Incident Energy Type   : 7.7400e+00 eV - 6.3620e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41276.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41276

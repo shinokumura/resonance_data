@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 94-PU-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12528-018-2 
 #   First Author          : D.S.Craig 
 #   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 #   Reference             : (J,CJP,42,2384,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 94 
 #   A                     : 241 
+#   Isomer                :  
 #   Nuclide               : 94-PU-241 
 # Reaction: 
-#   entry-subent-pointer  :['12528-018-2'] 
-#   EXFOR reaction        :['(94-PU-241(N,TOT),,WID)'] 
-#   incident energy       : 1.4740e+01 eV - 3.1030e+01 eV 
+#   EXFOR Reaction        : (94-PU-241(N,TOT),,WID) 
+#   Incident Energy Type   : 1.4740e+01 eV - 3.1030e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12528.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12528

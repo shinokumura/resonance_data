@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 27-CO-59 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20316-002-1 
 #   First Author          : Y.Nakajima 
 #   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 #   Reference             : (J,NST,7,7,7001) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 27 
 #   A                     : 59 
+#   Isomer                :  
 #   Nuclide               : 27-CO-59 
 # Reaction: 
-#   entry-subent-pointer  :['20316-002-1' '20316-002-2'] 
-#   EXFOR reaction        :['(27-CO-59(N,EL),,WID)' '(27-CO-59(N,TOT),,WID)'] 
-#   incident energy       : 1.3200e+02 eV 
+#   EXFOR Reaction        : (27-CO-59(N,EL),,WID) 
+#   Incident Energy Type   : 1.3200e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/203/20316.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20316

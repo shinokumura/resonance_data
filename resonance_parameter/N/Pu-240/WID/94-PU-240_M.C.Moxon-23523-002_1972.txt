@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 94-PU-240 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 23523-002-1 
 #   First Author          : M.C.Moxon 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (R,AERE-PR/NP-19,12,1972) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 94 
 #   A                     : 240 
+#   Isomer                :  
 #   Nuclide               : 94-PU-240 
 # Reaction: 
-#   entry-subent-pointer  :['23523-002-1' '23523-002-2'] 
-#   EXFOR reaction        :['(94-PU-240(N,EL),,WID)' '(94-PU-240(N,G),,WID)'] 
-#   incident energy       : 2.0430e+01 eV 
+#   EXFOR Reaction        : (94-PU-240(N,EL),,WID) 
+#   Incident Energy Type   : 2.0430e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/235/23523.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23523

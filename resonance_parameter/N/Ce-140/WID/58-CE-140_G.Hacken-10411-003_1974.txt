@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 58-CE-140 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10411-003-2 
 #   First Author          : G.Hacken 
 #   Institute             : (1USACOL): Columbia University, New York, NY 
 #   Reference             : (P,USNDC-11,79,1974) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 58 
 #   A                     : 140 
+#   Isomer                :  
 #   Nuclide               : 58-CE-140 
 # Reaction: 
-#   entry-subent-pointer  :['10411-003-2'] 
-#   EXFOR reaction        :['(58-CE-140(N,EL),,WID)'] 
-#   incident energy       : 2.5434e+03 eV - 6.2967e+04 eV 
+#   EXFOR Reaction        : (58-CE-140(N,EL),,WID) 
+#   Incident Energy Type   : 2.5434e+03 eV - 6.2967e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/104/10411.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10411

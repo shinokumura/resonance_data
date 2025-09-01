@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 46-PD-102 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41285-005-4 
 #   First Author          : A.B.Popov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-11013,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 46 
 #   A                     : 102 
+#   Isomer                :  
 #   Nuclide               : 46-PD-102 
 # Reaction: 
-#   entry-subent-pointer  :['41285-005-4'] 
-#   EXFOR reaction        :['(46-PD-102(N,EL),,WID/RED)'] 
-#   incident energy       : 1.9070e+02 eV 
+#   EXFOR Reaction        : (46-PD-102(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.9070e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41285.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41285

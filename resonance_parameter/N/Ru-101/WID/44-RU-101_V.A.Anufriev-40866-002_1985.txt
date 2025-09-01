@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 44-RU-101 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40866-002-2 
 #   First Author          : V.A.Anufriev 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,AE,58,279,1985) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 44 
 #   A                     : 101 
+#   Isomer                :  
 #   Nuclide               : 44-RU-101 
 # Reaction: 
-#   entry-subent-pointer  :['40866-002-2' '40866-002-3'] 
-#   EXFOR reaction        :['(44-RU-101(N,TOT),,WID)' '(44-RU-101(N,G),,WID)'] 
-#   incident energy       : 1.3600e+01 eV - 1.7200e+03 eV 
+#   EXFOR Reaction        : (44-RU-101(N,TOT),,WID) 
+#   Incident Energy Type   : 1.3600e+01 eV - 1.7200e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40866

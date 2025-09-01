@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 15-P-31 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0622-004-4 
 #   First Author          : J.Vernotte 
 #   Institute             : (2FR CSN): Centre Sci. Nuclear et Sci. Matiere (CSNSM), Orsay 
 #   Reference             : (J,NP/A,102,449,1967) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 15 
 #   A                     : 31 
+#   Isomer                :  
 #   Nuclide               : 15-P-31 
 # Reaction: 
-#   entry-subent-pointer  :['F0622-004-4'] 
-#   EXFOR reaction        :['(15-P-31(P,TOT),,WID)'] 
-#   incident energy       : 1.4030e+06 eV - 1.8960e+06 eV 
+#   EXFOR Reaction        : (15-P-31(P,TOT),,WID) 
+#   Incident Energy Type   : 1.4030e+06 eV - 1.8960e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0622.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0622

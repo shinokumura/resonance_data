@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 5-B-11 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1630-005-0 
 #   First Author          : L.Van Der Zwan 
 #   Institute             : (1CANOTC): National Research Council, Ottawa, Ontario 
 #   Reference             : (J,NP/A,246,(1),93,1975) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 5 
 #   A                     : 11 
+#   Isomer                :  
 #   Nuclide               : 5-B-11 
 # Reaction: 
-#   entry-subent-pointer  :['C1630-005-0'] 
-#   EXFOR reaction        :['(5-B-11(A,TOT),,WID)'] 
-#   incident energy       : 2.0560e+06 eV - 7.7540e+06 eV 
+#   EXFOR Reaction        : (5-B-11(A,TOT),,WID) 
+#   Incident Energy Type   : 2.0560e+06 eV - 7.7540e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C16/C1630.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1630

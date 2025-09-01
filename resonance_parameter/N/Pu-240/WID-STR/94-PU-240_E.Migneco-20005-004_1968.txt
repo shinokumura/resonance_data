@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 94-PU-240 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20005-004-0 
 #   First Author          : E.Migneco 
 #   Institute             : (2ZZZGEL): EC Joint Research Centre (EC-JRC), Geel 
 #   Reference             : (J,NP/A,112,603,196805) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 94 
 #   A                     : 240 
+#   Isomer                :  
 #   Nuclide               : 94-PU-240 
 # Reaction: 
-#   entry-subent-pointer  :['20005-004-0'] 
-#   EXFOR reaction        :['(94-PU-240(N,F),,WID/STR)'] 
-#   incident energy       : 7.5000e+02 eV - 3.3810e+03 eV 
+#   EXFOR Reaction        : (94-PU-240(N,F),,WID/STR) 
+#   Incident Energy Type   : 7.5000e+02 eV - 3.3810e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/200/20005.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20005

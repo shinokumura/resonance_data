@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 68-ER-167 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12097-012-3 
 #   First Author          : H.B.Moller 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,NSE,8,183,1960) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 68 
 #   A                     : 167 
+#   Isomer                :  
 #   Nuclide               : 68-ER-167 
 # Reaction: 
-#   entry-subent-pointer  :['12097-012-3' '12097-012-4'] 
-#   EXFOR reaction        :['(68-ER-167(N,TOT),,WID)' '(68-ER-167(N,G),,WID)'] 
-#   incident energy       : 4.6000e-01 eV - 5.8400e-01 eV 
+#   EXFOR Reaction        : (68-ER-167(N,TOT),,WID) 
+#   Incident Energy Type   : 4.6000e-01 eV - 5.8400e-01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12097.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12097

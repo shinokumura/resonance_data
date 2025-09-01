@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 31-GA-71 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40026-012-1 
 #   First Author          : Kh.Maletski 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-4152,1968) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 31 
 #   A                     : 71 
+#   Isomer                :  
 #   Nuclide               : 31-GA-71 
 # Reaction: 
-#   entry-subent-pointer  :['40026-012-1'] 
-#   EXFOR reaction        :['(31-GA-71(N,G),,WID)'] 
-#   incident energy       : 9.5800e+01 eV - 3.3110e+03 eV 
+#   EXFOR Reaction        : (31-GA-71(N,G),,WID) 
+#   Incident Energy Type   : 9.5800e+01 eV - 3.3110e+03 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40026.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40026

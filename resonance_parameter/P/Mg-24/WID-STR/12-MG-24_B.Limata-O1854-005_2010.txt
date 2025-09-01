@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 12-MG-24 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : O1854-005-1 
 #   First Author          : B.Limata 
 #   Institute             : (2ITYNAP): University degli Studi di Napoli Federico II + INFN Napoli 
 #   Reference             : (J,PR/C,82,015801,2010) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 12 
 #   A                     : 24 
+#   Isomer                :  
 #   Nuclide               : 12-MG-24 
 # Reaction: 
-#   entry-subent-pointer  :['O1854-005-1' 'O1854-005-2'] 
-#   EXFOR reaction        :['(12-MG-24(P,G),,WID/STR)' '(12-MG-24(P,G),,WID/STR,,,RECOM)'] 
-#   incident energy       : 2.1400e+05 eV 
+#   EXFOR Reaction        : (12-MG-24(P,G),,WID/STR) 
+#   Incident Energy Type   : 2.1400e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O18/O1854.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O1854

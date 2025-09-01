@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 56-BA-130 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10313-010-2 
 #   First Author          : B.L.Berman 
 #   Institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 #   Reference             : (J,PR/C,7,2522,197306) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 56 
 #   A                     : 130 
+#   Isomer                :  
 #   Nuclide               : 56-BA-130 
 # Reaction: 
-#   entry-subent-pointer  :['10313-010-2'] 
-#   EXFOR reaction        :['(56-BA-130(N,EL),,WID)'] 
-#   incident energy       : 4.6400e+01 eV - 2.7750e+03 eV 
+#   EXFOR Reaction        : (56-BA-130(N,EL),,WID) 
+#   Incident Energy Type   : 4.6400e+01 eV - 2.7750e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10313.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10313

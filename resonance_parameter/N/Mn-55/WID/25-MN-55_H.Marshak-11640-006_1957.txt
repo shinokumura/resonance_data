@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 25-MN-55 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11640-006-2 
 #   First Author          : H.Marshak 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,PR,106,110,57) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 25 
 #   A                     : 55 
+#   Isomer                :  
 #   Nuclide               : 25-MN-55 
 # Reaction: 
-#   entry-subent-pointer  :['11640-006-2'] 
-#   EXFOR reaction        :['(25-MN-55(N,EL),,WID)'] 
-#   incident energy       : 2.3600e+03 eV - 3.5100e+04 eV 
+#   EXFOR Reaction        : (25-MN-55(N,EL),,WID) 
+#   Incident Energy Type   : 2.3600e+03 eV - 3.5100e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11640.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11640

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 74-W-182 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12167-012-3 
 #   First Author          : S.J.Friesenhahn 
 #   Institute             : (1USAGA): Gulf Energy and Environmental Systems, San Diego, CA 
 #   Reference             : (J,NSE,26,487,66) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 74 
 #   A                     : 182 
+#   Isomer                :  
 #   Nuclide               : 74-W-182 
 # Reaction: 
-#   entry-subent-pointer  :['12167-012-3'] 
-#   EXFOR reaction        :['(74-W-182(N,EL),,WID/RED)'] 
-#   incident energy       : -3.0700e+01 eV 
+#   EXFOR Reaction        : (74-W-182(N,EL),,WID/RED) 
+#   Incident Energy Type   : -3.0700e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12167.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12167

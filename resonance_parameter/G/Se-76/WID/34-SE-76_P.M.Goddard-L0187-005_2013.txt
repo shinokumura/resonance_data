@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 34-SE-76 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : L0187-005-2 
 #   First Author          : P.M.Goddard 
 #   Institute             : (2GERGER): Germany 
 #   Reference             : (J,PR/C,88,064308,2013) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 34 
 #   A                     : 76 
+#   Isomer                :  
 #   Nuclide               : 34-SE-76 
 # Reaction: 
-#   entry-subent-pointer  :['L0187-005-2'] 
-#   EXFOR reaction        :['(34-SE-76(G,EL),,WID)'] 
-#   incident energy       : 4.6737e+06 eV - 8.9356e+06 eV 
+#   EXFOR Reaction        : (34-SE-76(G,EL),,WID) 
+#   Incident Energy Type   : 4.6737e+06 eV - 8.9356e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0187.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0187

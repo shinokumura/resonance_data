@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 14-SI-30 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : D5017-002-2 
 #   First Author          : A.N.Vodin 
 #   Institute             : (4UKRKFT): Kharkovskii Fiziko-Tekhnicheskii Institute , Kharkov 
 #   Reference             : (J,BAS,69,1802,2005) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 14 
 #   A                     : 30 
+#   Isomer                :  
 #   Nuclide               : 14-SI-30 
 # Reaction: 
-#   entry-subent-pointer  :['D5017-002-2'] 
-#   EXFOR reaction        :['(14-SI-30(P,G),,WID)'] 
-#   incident energy       : 7.6000e+05 eV - 1.5160e+06 eV 
+#   EXFOR Reaction        : (14-SI-30(P,G),,WID) 
+#   Incident Energy Type   : 7.6000e+05 eV - 1.5160e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D50/D5017.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/D5017

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 42-MO-100 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 31603-008-4 
 #   First Author          : T.F.Wang 
 #   Institute             : (3KORKNU): Kyungpook National University, Daegu 
 #   Reference             : (J,NIM/B,266,561,2008) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 42 
 #   A                     : 100 
+#   Isomer                :  
 #   Nuclide               : 42-MO-100 
 # Reaction: 
-#   entry-subent-pointer  :['31603-008-4'] 
-#   EXFOR reaction        :['(42-MO-100(N,G),,WID)'] 
-#   incident energy       : 9.7200e+01 eV 
+#   EXFOR Reaction        : (42-MO-100(N,G),,WID) 
+#   Incident Energy Type   : 9.7200e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/316/31603.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/31603

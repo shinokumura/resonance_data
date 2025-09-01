@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-14 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1045-002-0 
 #   First Author          : R.C.Runkle 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
 #   Reference             : (J,PR/C,66,022801,2002) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 14 
+#   Isomer                :  
 #   Nuclide               : 7-N-14 
 # Reaction: 
-#   entry-subent-pointer  :['C1045-002-0'] 
-#   EXFOR reaction        :['(7-N-14(P,G),,WID/STR)'] 
-#   incident energy       : 1.2700e+05 eV 
+#   EXFOR Reaction        : (7-N-14(P,G),,WID/STR) 
+#   Incident Energy Type   : 1.2700e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C10/C1045.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1045

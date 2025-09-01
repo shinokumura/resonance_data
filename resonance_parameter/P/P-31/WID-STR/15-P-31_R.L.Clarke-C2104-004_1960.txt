@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 15-P-31 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2104-004-5 
 #   First Author          : R.L.Clarke 
 #   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 #   Reference             : (J,NP,14,(3),472,1960) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 15 
 #   A                     : 31 
+#   Isomer                :  
 #   Nuclide               : 15-P-31 
 # Reaction: 
-#   entry-subent-pointer  :['C2104-004-5'] 
-#   EXFOR reaction        :['(15-P-31(P,TOT),,WID/STR)'] 
-#   incident energy       : 1.0240e+06 eV - 3.1190e+06 eV 
+#   EXFOR Reaction        : (15-P-31(P,TOT),,WID/STR) 
+#   Incident Energy Type   : 1.0240e+06 eV - 3.1190e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C21/C2104.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2104

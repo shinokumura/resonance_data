@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-64 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0704-004-1 
 #   First Author          : B.Ja.Guzhovskij 
 #   Institute             : (4RUSEPA): Experimental Physics Institute , Sarov 
 #   Reference             : (J,IZV,33,(1),129,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 64 
+#   Isomer                :  
 #   Nuclide               : 28-NI-64 
 # Reaction: 
-#   entry-subent-pointer  :['F0704-004-1'] 
-#   EXFOR reaction        :['(28-NI-64(P,TOT),,WID)'] 
-#   incident energy       : 3.1230e+06 eV - 7.0860e+06 eV 
+#   EXFOR Reaction        : (28-NI-64(P,TOT),,WID) 
+#   Incident Energy Type   : 3.1230e+06 eV - 7.0860e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0704.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0704

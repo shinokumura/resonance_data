@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 5-B-10 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41272-002-2 
 #   First Author          : A.A.Bergman 
 #   Institute             : (4RUSLEB): Fiz.Institute Lebedev (FIAN), Moskva 
 #   Reference             : (J,ZET,33,(1),9,195707) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 5 
 #   A                     : 10 
+#   Isomer                :  
 #   Nuclide               : 5-B-10 
 # Reaction: 
-#   entry-subent-pointer  :['41272-002-2' '41272-002-3'] 
-#   EXFOR reaction        :['(5-B-10(N,EL),,WID)' '(5-B-10(N,A),,WID)'] 
-#   incident energy       : 2.5000e+05 eV 
+#   EXFOR Reaction        : (5-B-10(N,EL),,WID) 
+#   Incident Energy Type   : 2.5000e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41272.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41272

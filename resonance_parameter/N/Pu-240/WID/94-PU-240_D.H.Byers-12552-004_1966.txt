@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 94-PU-240 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12552-004-2 
 #   First Author          : D.H.Byers 
 #   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
 #   Reference             : (C,66WASH,2,903(F5),1966) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 94 
 #   A                     : 240 
+#   Isomer                :  
 #   Nuclide               : 94-PU-240 
 # Reaction: 
-#   entry-subent-pointer  :['12552-004-2' '12552-004-3' '12552-004-4' '12552-004-5'] 
-#   EXFOR reaction        :['(94-PU-240(N,TOT),,WID)' '(94-PU-240(N,EL),,WID)'
- '(94-PU-240(N,F),,WID)' '(94-PU-240(N,G),,WID)'] 
-#   incident energy       : 3.8280e+01 eV 
+#   EXFOR Reaction        : (94-PU-240(N,TOT),,WID) 
+#   Incident Energy Type   : 3.8280e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12552.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12552

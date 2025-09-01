@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 42-MO-100 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40091-008-3 
 #   First Author          : M.I.Pevzner 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 #   Reference             : (J,JET,17,803,1963) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 42 
 #   A                     : 100 
+#   Isomer                :  
 #   Nuclide               : 42-MO-100 
 # Reaction: 
-#   entry-subent-pointer  :['40091-008-3'] 
-#   EXFOR reaction        :['(42-MO-100(N,EL),,WID/RED)'] 
-#   incident energy       : 9.9500e+01 eV - 1.9360e+03 eV 
+#   EXFOR Reaction        : (42-MO-100(N,EL),,WID/RED) 
+#   Incident Energy Type   : 9.9500e+01 eV - 1.9360e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40091.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40091

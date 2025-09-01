@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 18-AR-36 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11573-002-2 
 #   First Author          : R.E.Chrien 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,125,275,62) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 18 
 #   A                     : 36 
+#   Isomer                :  
 #   Nuclide               : 18-AR-36 
 # Reaction: 
-#   entry-subent-pointer  :['11573-002-2'] 
-#   EXFOR reaction        :['(18-AR-36(N,EL),,WID/RED)'] 
-#   incident energy       : -9.8000e+03 eV 
+#   EXFOR Reaction        : (18-AR-36(N,EL),,WID/RED) 
+#   Incident Energy Type   : -9.8000e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11573.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11573

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 66-DY-160 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40097-007-0 
 #   First Author          : V.P.Vertebny 
 #   Institute             : (4UKRIFU): Institute Fiziki Ukrainskoi A.N., Kiev 
 #   Reference             : (J,UFZ,14,1810,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 66 
 #   A                     : 160 
+#   Isomer                :  
 #   Nuclide               : 66-DY-160 
 # Reaction: 
-#   entry-subent-pointer  :['40097-007-0'] 
-#   EXFOR reaction        :['(66-DY-160(N,EL),,WID/RED)'] 
-#   incident energy       : 1.8800e+00 eV - 8.5000e+01 eV 
+#   EXFOR Reaction        : (66-DY-160(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.8800e+00 eV - 8.5000e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40097.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40097

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 17-CL-36 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13905-003-2 
 #   First Author          : P.E.Koehler 
 #   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
 #   Reference             : (J,PR/C,47,2107,1993) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 17 
 #   A                     : 36 
+#   Isomer                :  
 #   Nuclide               : 17-CL-36 
 # Reaction: 
-#   entry-subent-pointer  :['13905-003-2'] 
-#   EXFOR reaction        :['(17-CL-36(N,TOT),,WID)'] 
-#   incident energy       : 9.0260e+02 eV - 5.8310e+04 eV 
+#   EXFOR Reaction        : (17-CL-36(N,TOT),,WID) 
+#   Incident Energy Type   : 9.0260e+02 eV - 5.8310e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13905.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13905

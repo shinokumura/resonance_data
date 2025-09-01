@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 52-TE-124 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13167-014-0 
 #   First Author          : R.L.Macklin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (R,ORNL-6561,8907) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 52 
 #   A                     : 124 
+#   Isomer                :  
 #   Nuclide               : 52-TE-124 
 # Reaction: 
-#   entry-subent-pointer  :['13167-014-0'] 
-#   EXFOR reaction        :['(52-TE-124(N,TOT),,WID)'] 
-#   incident energy       : 2.8300e+03 eV - 4.0770e+04 eV 
+#   EXFOR Reaction        : (52-TE-124(N,TOT),,WID) 
+#   Incident Energy Type   : 2.8300e+03 eV - 4.0770e+04 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13167.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13167

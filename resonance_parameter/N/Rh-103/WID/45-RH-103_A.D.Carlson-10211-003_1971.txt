@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 45-RH-103 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10211-003-3 
 #   First Author          : A.D.Carlson 
 #   Institute             : (1USAGRT): Gulf Radiation Technology, San Diego, CA 
 #   Reference             : (J,ANS,14,352,1971) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 45 
 #   A                     : 103 
+#   Isomer                :  
 #   Nuclide               : 45-RH-103 
 # Reaction: 
-#   entry-subent-pointer  :['10211-003-3'] 
-#   EXFOR reaction        :['(45-RH-103(N,G),,WID)'] 
-#   incident energy       : 1.2590e+00 eV - 9.8890e+02 eV 
+#   EXFOR Reaction        : (45-RH-103(N,G),,WID) 
+#   Incident Energy Type   : 1.2590e+00 eV - 9.8890e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10211.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10211

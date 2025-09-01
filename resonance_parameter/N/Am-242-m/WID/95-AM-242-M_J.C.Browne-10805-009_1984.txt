@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 95-AM-242-M Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10805-009-2 
 #   First Author          : J.C.Browne 
 #   Institute             : (1USALRL): Lawrence Livermore National Laboratory, Livermore, CA 
 #   Reference             : (J,PR/C,29,2188,1984) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 95 
 #   A                     : 242 
+#   Isomer                : M 
 #   Nuclide               : 95-AM-242-M 
 # Reaction: 
-#   entry-subent-pointer  :['10805-009-2' '10805-009-3'] 
-#   EXFOR reaction        :['(95-AM-242-M(N,EL),,WID)' '(95-AM-242-M(N,F),,WID)'] 
-#   incident energy       : 1.7800e-01 eV - 1.9700e+01 eV 
+#   EXFOR Reaction        : (95-AM-242-M(N,EL),,WID) 
+#   Incident Energy Type   : 1.7800e-01 eV - 1.9700e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10805.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10805

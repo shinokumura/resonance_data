@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 34-SE-74 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11836-004-5 
 #   First Author          : R.E.Cote 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR,136,B703,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 34 
 #   A                     : 74 
+#   Isomer                :  
 #   Nuclide               : 34-SE-74 
 # Reaction: 
-#   entry-subent-pointer  :['11836-004-5'] 
-#   EXFOR reaction        :['(34-SE-74(N,EL),,WID/RED)'] 
-#   incident energy       : 2.7000e+02 eV 
+#   EXFOR Reaction        : (34-SE-74(N,EL),,WID/RED) 
+#   Incident Energy Type   : 2.7000e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11836.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11836

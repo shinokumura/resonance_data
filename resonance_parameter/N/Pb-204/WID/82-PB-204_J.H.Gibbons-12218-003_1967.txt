@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 82-PB-204 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12218-003-2 
 #   First Author          : J.H.Gibbons 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR,153,1356,67) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 82 
 #   A                     : 204 
+#   Isomer                :  
 #   Nuclide               : 82-PB-204 
 # Reaction: 
-#   entry-subent-pointer  :['12218-003-2'] 
-#   EXFOR reaction        :['(82-PB-204(N,EL),,WID)'] 
-#   incident energy       : 6.4900e+03 eV - 5.9000e+04 eV 
+#   EXFOR Reaction        : (82-PB-204(N,EL),,WID) 
+#   Incident Energy Type   : 6.4900e+03 eV - 5.9000e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12218.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12218

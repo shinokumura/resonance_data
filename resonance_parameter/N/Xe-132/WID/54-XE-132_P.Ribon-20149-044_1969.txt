@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 54-XE-132 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20149-044-0 
 #   First Author          : P.Ribon 
 #   Institute             : (2FR SAC): CEA/Saclay 
 #   Reference             : ((R,CEA-N-1149,1969)=(T,RIBON,196912)) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 54 
 #   A                     : 132 
+#   Isomer                :  
 #   Nuclide               : 54-XE-132 
 # Reaction: 
-#   entry-subent-pointer  :['20149-044-0'] 
-#   EXFOR reaction        :['(54-XE-132(N,G),,WID)'] 
-#   incident energy       : 6.4330e+02 eV - 3.8539e+03 eV 
+#   EXFOR Reaction        : (54-XE-132(N,G),,WID) 
+#   Incident Energy Type   : 6.4330e+02 eV - 3.8539e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20149.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20149

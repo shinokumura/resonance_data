@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-238 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11434-007-1 
 #   First Author          : C.T.Hibdon 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (R,ANL-4680,5,1951) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 238 
+#   Isomer                :  
 #   Nuclide               : 92-U-238 
 # Reaction: 
-#   entry-subent-pointer  :['11434-007-1' '11434-007-2'] 
-#   EXFOR reaction        :['(92-U-238(N,EL),,WID)' '(92-U-238(N,G),,WID)'] 
-#   incident energy       : 7.0000e+00 eV 
+#   EXFOR Reaction        : (92-U-238(N,EL),,WID) 
+#   Incident Energy Type   : 7.0000e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/114/11434.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11434

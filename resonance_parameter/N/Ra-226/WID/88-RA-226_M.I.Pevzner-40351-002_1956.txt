@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 88-RA-226 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40351-002-2 
 #   First Author          : M.I.Pevzner 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 #   Reference             : (J,SJA,1,517,1956) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 88 
 #   A                     : 226 
+#   Isomer                :  
 #   Nuclide               : 88-RA-226 
 # Reaction: 
-#   entry-subent-pointer  :['40351-002-2' '40351-002-5'] 
-#   EXFOR reaction        :['(88-RA-226(N,TOT),,WID)' '(88-RA-226(N,EL),,WID)'] 
-#   incident energy       : 5.3700e-01 eV 
+#   EXFOR Reaction        : (88-RA-226(N,TOT),,WID) 
+#   Incident Energy Type   : 5.3700e-01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40351.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40351

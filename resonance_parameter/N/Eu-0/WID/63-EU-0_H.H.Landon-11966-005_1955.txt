@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 63-EU-0 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11966-005-3 
 #   First Author          : H.H.Landon 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,98,1267,5506) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 63 
 #   A                     : 0 
+#   Isomer                :  
 #   Nuclide               : 63-EU-0 
 # Reaction: 
-#   entry-subent-pointer  :['11966-005-3' '11966-005-4'] 
-#   EXFOR reaction        :['(63-EU-0(N,TOT),,WID)' '(63-EU-0(N,G),,WID)'] 
-#   incident energy       : 3.2700e-01 eV - 1.0560e+00 eV 
+#   EXFOR Reaction        : (63-EU-0(N,TOT),,WID) 
+#   Incident Energy Type   : 3.2700e-01 eV - 1.0560e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11966.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11966

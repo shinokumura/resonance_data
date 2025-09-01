@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 48-CD-112 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12152-009-2 
 #   First Author          : R.B.Schwartz 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,BAP,1,187(K3),1956) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 48 
 #   A                     : 112 
+#   Isomer                :  
 #   Nuclide               : 48-CD-112 
 # Reaction: 
-#   entry-subent-pointer  :['12152-009-2'] 
-#   EXFOR reaction        :['(48-CD-112(N,G),,WID)'] 
-#   incident energy       : 6.7000e+01 eV 
+#   EXFOR Reaction        : (48-CD-112(N,G),,WID) 
+#   Incident Energy Type   : 6.7000e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/121/12152.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12152

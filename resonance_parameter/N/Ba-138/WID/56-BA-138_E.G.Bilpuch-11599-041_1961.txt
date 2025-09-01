@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 56-BA-138 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11599-041-2 
 #   First Author          : E.G.Bilpuch 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,AP,14,387,1961) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 56 
 #   A                     : 138 
+#   Isomer                :  
 #   Nuclide               : 56-BA-138 
 # Reaction: 
-#   entry-subent-pointer  :['11599-041-2'] 
-#   EXFOR reaction        :['(56-BA-138(N,EL),,WID)'] 
-#   incident energy       : 3.1700e+04 eV - 1.9200e+05 eV 
+#   EXFOR Reaction        : (56-BA-138(N,EL),,WID) 
+#   Incident Energy Type   : 3.1700e+04 eV - 1.9200e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11599.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11599

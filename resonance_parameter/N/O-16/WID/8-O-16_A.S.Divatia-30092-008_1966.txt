@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-16 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30092-008-0 
 #   First Author          : A.S.Divatia 
 #   Institute             : (3INDTRM): Bhabha Atomic Research Centre (BARC), Trombay, Mumbai 
 #   Reference             : (C,66PARIS,1,233,1966) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 16 
+#   Isomer                :  
 #   Nuclide               : 8-O-16 
 # Reaction: 
-#   entry-subent-pointer  :['30092-008-0'] 
-#   EXFOR reaction        :['(8-O-16(N,EL),,WID)'] 
-#   incident energy       : 4.5300e+06 eV - 6.1100e+06 eV 
+#   EXFOR Reaction        : (8-O-16(N,EL),,WID) 
+#   Incident Energy Type   : 4.5300e+06 eV - 6.1100e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/300/30092.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30092

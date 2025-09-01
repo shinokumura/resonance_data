@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 17-CL-35 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11317-005-3 
 #   First Author          : R.M.Brugger 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 #   Reference             : (J,PR,104,1054,56) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 17 
 #   A                     : 35 
+#   Isomer                :  
 #   Nuclide               : 17-CL-35 
 # Reaction: 
-#   entry-subent-pointer  :['11317-005-3' '11317-005-4'] 
-#   EXFOR reaction        :['(17-CL-35(N,TOT),,WID)' '(17-CL-35(N,EL),,WID)'] 
-#   incident energy       : 4.0500e+02 eV 
+#   EXFOR Reaction        : (17-CL-35(N,TOT),,WID) 
+#   Incident Energy Type   : 4.0500e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/113/11317.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11317

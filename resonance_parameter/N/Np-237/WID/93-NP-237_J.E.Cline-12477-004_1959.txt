@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 93-NP-237 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12477-004-2 
 #   First Author          : J.E.Cline 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 #   Reference             : (J,BAP,4,270(SA3),59) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 93 
 #   A                     : 237 
+#   Isomer                :  
 #   Nuclide               : 93-NP-237 
 # Reaction: 
-#   entry-subent-pointer  :['12477-004-2'] 
-#   EXFOR reaction        :['(93-NP-237(N,TOT),,WID)'] 
-#   incident energy       : 4.8900e-01 eV 
+#   EXFOR Reaction        : (93-NP-237(N,TOT),,WID) 
+#   Incident Energy Type   : 4.8900e-01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12477.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12477

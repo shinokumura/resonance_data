@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 98-CF-249 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10292-003-2 
 #   First Author          : M.G.Silbert 
 #   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
 #   Reference             : (J,NSE,51,376,197308) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 98 
 #   A                     : 249 
+#   Isomer                :  
 #   Nuclide               : 98-CF-249 
 # Reaction: 
-#   entry-subent-pointer  :['10292-003-2'] 
-#   EXFOR reaction        :['(98-CF-249(N,EL),,WID/RED)'] 
-#   incident energy       : 1.6000e+01 eV - 6.9300e+01 eV 
+#   EXFOR Reaction        : (98-CF-249(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.6000e+01 eV - 6.9300e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10292.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10292

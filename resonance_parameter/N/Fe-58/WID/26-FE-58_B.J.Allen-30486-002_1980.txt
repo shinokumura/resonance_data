@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 26-FE-58 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30486-002-3 
 #   First Author          : B.J.Allen 
 #   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 #   Reference             : (J,JP/G,6,381,1980) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 26 
 #   A                     : 58 
+#   Isomer                :  
 #   Nuclide               : 26-FE-58 
 # Reaction: 
-#   entry-subent-pointer  :['30486-002-3'] 
-#   EXFOR reaction        :['(26-FE-58(N,EL),,WID)'] 
-#   incident energy       : 2.2980e+02 eV - 1.9570e+05 eV 
+#   EXFOR Reaction        : (26-FE-58(N,EL),,WID) 
+#   Incident Energy Type   : 2.2980e+02 eV - 1.9570e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/304/30486.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30486

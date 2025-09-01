@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 60-ND-150 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40113-047-0 
 #   First Author          : E.N.Karzhavina 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (J,SNP,8,371,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 60 
 #   A                     : 150 
+#   Isomer                :  
 #   Nuclide               : 60-ND-150 
 # Reaction: 
-#   entry-subent-pointer  :['40113-047-0'] 
-#   EXFOR reaction        :['(60-ND-150(N,EL),,WID/RED)'] 
-#   incident energy       : 7.8900e+01 eV - 3.8430e+03 eV 
+#   EXFOR Reaction        : (60-ND-150(N,EL),,WID/RED) 
+#   Incident Energy Type   : 7.8900e+01 eV - 3.8430e+03 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40113.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40113

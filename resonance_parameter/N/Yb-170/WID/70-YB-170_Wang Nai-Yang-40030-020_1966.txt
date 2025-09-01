@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 70-YB-170 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40030-020-0 
 #   First Author          : Wang Nai-Yang 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (J,YF,3,48,1966) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 70 
 #   A                     : 170 
+#   Isomer                :  
 #   Nuclide               : 70-YB-170 
 # Reaction: 
-#   entry-subent-pointer  :['40030-020-0'] 
-#   EXFOR reaction        :['(70-YB-170(N,TOT),,WID)'] 
-#   incident energy       : 4.0300e+01 eV 
+#   EXFOR Reaction        : (70-YB-170(N,TOT),,WID) 
+#   Incident Energy Type   : 4.0300e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40030.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40030

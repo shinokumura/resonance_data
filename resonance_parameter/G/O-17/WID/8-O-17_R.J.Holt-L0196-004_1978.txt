@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : L0196-004-3 
 #   First Author          : R.J.Holt 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR/C,18,1962,1978) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 17 
+#   Isomer                :  
 #   Nuclide               : 8-O-17 
 # Reaction: 
-#   entry-subent-pointer  :['L0196-004-3'] 
-#   EXFOR reaction        :['(8-O-17(G,EL),,WID)'] 
-#   incident energy       : 5.6900e+06 eV - 6.3540e+06 eV 
+#   EXFOR Reaction        : (8-O-17(G,EL),,WID) 
+#   Incident Energy Type   : 5.6900e+06 eV - 6.3540e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0196.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0196

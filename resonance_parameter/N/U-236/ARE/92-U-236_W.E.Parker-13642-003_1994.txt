@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-236 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13642-003-0 
 #   First Author          : W.E.Parker 
 #   Institute             : (1USALAS): Los Alamos National Laboratory, NM 
 #   Reference             : (J,PR/C,49,672,199402) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 236 
+#   Isomer                :  
 #   Nuclide               : 92-U-236 
 # Reaction: 
-#   entry-subent-pointer  :['13642-003-0'] 
-#   EXFOR reaction        :['(92-U-236(N,F),,ARE)'] 
-#   incident energy       : 1.2800e+03 eV - 1.0400e+04 eV 
+#   EXFOR Reaction        : (92-U-236(N,F),,ARE) 
+#   Incident Energy Type   : 1.2800e+03 eV - 1.0400e+04 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/136/13642.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13642

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 76-OS-187 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41279-003-1 
 #   First Author          : A.B.Popov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-81-19,1981) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 76 
 #   A                     : 187 
+#   Isomer                :  
 #   Nuclide               : 76-OS-187 
 # Reaction: 
-#   entry-subent-pointer  :['41279-003-1'] 
-#   EXFOR reaction        :['(76-OS-187(N,G),,WID)'] 
-#   incident energy       : 9.4700e+00 eV - 6.2100e+01 eV 
+#   EXFOR Reaction        : (76-OS-187(N,G),,WID) 
+#   Incident Energy Type   : 9.4700e+00 eV - 6.2100e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41279.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41279

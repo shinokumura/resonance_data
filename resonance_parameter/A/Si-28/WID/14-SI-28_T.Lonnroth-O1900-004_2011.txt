@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 14-SI-28 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : O1900-004-0 
 #   First Author          : T.Lonnroth 
 #   Institute             : (2SF ABA): Abo Akademi, Turku 
 #   Reference             : (J,JP/G,38,035107,2011) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 14 
 #   A                     : 28 
+#   Isomer                :  
 #   Nuclide               : 14-SI-28 
 # Reaction: 
-#   entry-subent-pointer  :['O1900-004-0'] 
-#   EXFOR reaction        :['(14-SI-28(A,TOT),,WID)'] 
-#   incident energy       : 1.9330e+07 eV - 3.0340e+07 eV 
+#   EXFOR Reaction        : (14-SI-28(A,TOT),,WID) 
+#   Incident Energy Type   : 1.9330e+07 eV - 3.0340e+07 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O19/O1900.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O1900

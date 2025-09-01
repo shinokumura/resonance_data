@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 40-ZR-96 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21710-002-3 
 #   First Author          : C.Coceva 
 #   Institute             : (2ITYBOL): ENEA Centro Ricerche Energia di Bologna 
 #   Reference             : (C,79KNOX,,319,1979) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 40 
 #   A                     : 96 
+#   Isomer                :  
 #   Nuclide               : 40-ZR-96 
 # Reaction: 
-#   entry-subent-pointer  :['21710-002-3' '21710-002-5'] 
-#   EXFOR reaction        :['(40-ZR-96(N,EL),,WID)' '(40-ZR-96(N,G),,WID)'] 
-#   incident energy       : 3.0110e+02 eV - 3.6666e+04 eV 
+#   EXFOR Reaction        : (40-ZR-96(N,EL),,WID) 
+#   Incident Energy Type   : 3.0110e+02 eV - 3.6666e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/217/21710.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21710

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 22-TI-50 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11601-017-2 
 #   First Author          : J.A.Farrell 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,AP,37,367,1966) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 22 
 #   A                     : 50 
+#   Isomer                :  
 #   Nuclide               : 22-TI-50 
 # Reaction: 
-#   entry-subent-pointer  :['11601-017-2'] 
-#   EXFOR reaction        :['(22-TI-50(N,EL),,WID)'] 
-#   incident energy       : 5.5500e+04 eV - 3.0700e+05 eV 
+#   EXFOR Reaction        : (22-TI-50(N,EL),,WID) 
+#   Incident Energy Type   : 5.5500e+04 eV - 3.0700e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11601.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11601

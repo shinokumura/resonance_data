@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 6-C-13 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : O2212-004-1 
 #   First Author          : G.Genard 
 #   Institute             : (2BLGNAM): University "Notre Dame de la Paix", Namur 
 #   Reference             : (J,JP/CS,202,012015,2010) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 6 
 #   A                     : 13 
+#   Isomer                :  
 #   Nuclide               : 6-C-13 
 # Reaction: 
-#   entry-subent-pointer  :['O2212-004-1'] 
-#   EXFOR reaction        :['(6-C-13(P,G),,WID)'] 
-#   incident energy       : 5.1130e+05 eV 
+#   EXFOR Reaction        : (6-C-13(P,G),,WID) 
+#   Incident Energy Type   : 5.1130e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2212.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2212

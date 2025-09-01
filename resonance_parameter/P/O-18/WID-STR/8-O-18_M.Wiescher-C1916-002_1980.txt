@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-18 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1916-002-2 
 #   First Author          : M.Wiescher 
 #   Institute             : (2GERMST): Westfaelische Wilhelms-Universitaet Muenster,Muenster 
 #   Reference             : (J,NP/A,349,(1-2),165,1980) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 18 
+#   Isomer                :  
 #   Nuclide               : 8-O-18 
 # Reaction: 
-#   entry-subent-pointer  :['C1916-002-2'] 
-#   EXFOR reaction        :['(8-O-18(P,G),,WID/STR)'] 
-#   incident energy       : 9.5000e+04 eV - 1.9960e+06 eV 
+#   EXFOR Reaction        : (8-O-18(P,G),,WID/STR) 
+#   Incident Energy Type   : 9.5000e+04 eV - 1.9960e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1916.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1916

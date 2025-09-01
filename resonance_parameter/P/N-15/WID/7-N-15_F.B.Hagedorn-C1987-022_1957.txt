@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1987-022-5 
 #   First Author          : F.B.Hagedorn 
 #   Institute             : (1USACAL): California Institute of Technology, Pasadena, CA 
 #   Reference             : (J,PR,108,(3),735,1957) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 15 
+#   Isomer                :  
 #   Nuclide               : 7-N-15 
 # Reaction: 
-#   entry-subent-pointer  :['C1987-022-5'] 
-#   EXFOR reaction        :['(7-N-15(P,TOT),,WID)'] 
-#   incident energy       : 7.1000e+05 eV - 1.6400e+06 eV 
+#   EXFOR Reaction        : (7-N-15(P,TOT),,WID) 
+#   Incident Energy Type   : 7.1000e+05 eV - 1.6400e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C19/C1987.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1987

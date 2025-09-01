@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 10-NE-22 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : D4330-002-0 
 #   First Author          : F.Cavanna 
 #   Institute             : (2ITYITY): Italy 
 #   Reference             : (J,PRL,115,252501,2015) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 10 
 #   A                     : 22 
+#   Isomer                :  
 #   Nuclide               : 10-NE-22 
 # Reaction: 
-#   entry-subent-pointer  :['D4330-002-0'] 
-#   EXFOR reaction        :['(10-NE-22(P,G),,WID/STR)'] 
-#   incident energy       : 7.1000e+04 eV - 2.5970e+05 eV 
+#   EXFOR Reaction        : (10-NE-22(P,G),,WID/STR) 
+#   Incident Energy Type   : 7.1000e+04 eV - 2.5970e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/D43/D4330.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/D4330

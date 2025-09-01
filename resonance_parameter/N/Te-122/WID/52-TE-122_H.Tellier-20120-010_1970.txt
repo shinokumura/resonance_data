@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 52-TE-122 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20120-010-0 
 #   First Author          : H.Tellier 
 #   Institute             : (2FR SAC): CEA/Saclay 
 #   Reference             : (R,CEA-N-1268,7002) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 52 
 #   A                     : 122 
+#   Isomer                :  
 #   Nuclide               : 52-TE-122 
 # Reaction: 
-#   entry-subent-pointer  :['20120-010-0'] 
-#   EXFOR reaction        :['(52-TE-122(N,TOT),,WID)'] 
-#   incident energy       : 7.2200e+01 eV - 3.1850e+03 eV 
+#   EXFOR Reaction        : (52-TE-122(N,TOT),,WID) 
+#   Incident Energy Type   : 7.2200e+01 eV - 3.1850e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20120.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20120

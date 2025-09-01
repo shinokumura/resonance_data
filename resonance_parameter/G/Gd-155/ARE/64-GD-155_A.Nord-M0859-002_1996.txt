@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 64-GD-155 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : M0859-002-2 
 #   First Author          : A.Nord 
 #   Institute             : (2GERIFS): Institute fuer Strahlenphysik, Stuttgart 
 #   Reference             : (J,PR/C,54,2287,1996) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 64 
 #   A                     : 155 
+#   Isomer                :  
 #   Nuclide               : 64-GD-155 
 # Reaction: 
-#   entry-subent-pointer  :['M0859-002-2'] 
-#   EXFOR reaction        :['(64-GD-155(G,EL),,ARE)'] 
-#   incident energy       : 1.6750e+06 eV - 3.3050e+06 eV 
+#   EXFOR Reaction        : (64-GD-155(G,EL),,ARE) 
+#   Incident Energy Type   : 1.6750e+06 eV - 3.3050e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0859.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0859

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 24-CR-53 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30393-014-4 
 #   First Author          : M.J.Kenny 
 #   Institute             : (3AULAUA): Australian Nuclear Sci.and Techn.Org., Lucas Heights,NSW 
 #   Reference             : (R,AAEC/E-400,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 24 
 #   A                     : 53 
+#   Isomer                :  
 #   Nuclide               : 24-CR-53 
 # Reaction: 
-#   entry-subent-pointer  :['30393-014-4'] 
-#   EXFOR reaction        :['(24-CR-53(N,G),,WID)'] 
-#   incident energy       : 4.1800e+03 eV - 1.6373e+05 eV 
+#   EXFOR Reaction        : (24-CR-53(N,G),,WID) 
+#   Incident Energy Type   : 4.1800e+03 eV - 1.6373e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30393.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30393

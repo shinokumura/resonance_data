@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-235 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41357-003-3 
 #   First Author          : Yu.N.Kopach 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (J,YF,62,900,1999) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 235 
+#   Isomer                :  
 #   Nuclide               : 92-U-235 
 # Reaction: 
-#   entry-subent-pointer  :['41357-003-3' '41357-003-4'] 
-#   EXFOR reaction        :['(92-U-235(N,EL),,WID)' '(92-U-235(N,F),,WID)'] 
-#   incident energy       : -8.8300e+00 eV - 1.9310e+01 eV 
+#   EXFOR Reaction        : (92-U-235(N,EL),,WID) 
+#   Incident Energy Type   : -8.8300e+00 eV - 1.9310e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41357.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41357

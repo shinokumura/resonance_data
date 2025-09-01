@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 27-CO-59 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10716-004-2 
 #   First Author          : J.B.Garg 
 #   Institute             : (1USACOL): Columbia University, New York, NY 
 #   Reference             : (J,NSE,65,76,197801) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 27 
 #   A                     : 59 
+#   Isomer                :  
 #   Nuclide               : 27-CO-59 
 # Reaction: 
-#   entry-subent-pointer  :['10716-004-2'] 
-#   EXFOR reaction        :['(27-CO-59(N,EL),,WID)'] 
-#   incident energy       : -1.0000e+02 eV - 1.3050e+05 eV 
+#   EXFOR Reaction        : (27-CO-59(N,EL),,WID) 
+#   Incident Energy Type   : -1.0000e+02 eV - 1.3050e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10716.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10716

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 10-NE-20 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0518-004-3 
 #   First Author          : L.K.Fifield 
 #   Institute             : (2UK OXF): University of Oxford, Oxford 
 #   Reference             : (J,NP/A,309,77,1978) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 10 
 #   A                     : 20 
+#   Isomer                :  
 #   Nuclide               : 10-NE-20 
 # Reaction: 
-#   entry-subent-pointer  :['F0518-004-3'] 
-#   EXFOR reaction        :['(10-NE-20(A,EL),,WID)'] 
-#   incident energy       : 4.2570e+06 eV - 5.7200e+06 eV 
+#   EXFOR Reaction        : (10-NE-20(A,EL),,WID) 
+#   Incident Energy Type   : 4.2570e+06 eV - 5.7200e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F05/F0518.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0518

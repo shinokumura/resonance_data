@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 9-F-18 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : A0252-002-0 
 #   First Author          : J.S.Graulich 
 #   Institute             : (2BLGLVN): Catholic University of Louvain, Louvain-la-Neuve 
 #   Reference             : (J,NP/A,626,751,1997) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 9 
 #   A                     : 18 
+#   Isomer                :  
 #   Nuclide               : 9-F-18 
 # Reaction: 
-#   entry-subent-pointer  :['A0252-002-0'] 
-#   EXFOR reaction        :['(9-F-18(P,A),,WID/STR)'] 
-#   incident energy       : 3.2400e+05 eV 
+#   EXFOR Reaction        : (9-F-18(P,A),,WID/STR) 
+#   Incident Energy Type   : 3.2400e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A02/A0252.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/A0252

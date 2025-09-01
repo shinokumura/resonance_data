@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 48-CD-114 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 23487-004-2 
 #   First Author          : K.Wisshak 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 #   Reference             : (R,FZKA-6860,2003) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 48 
 #   A                     : 114 
+#   Isomer                :  
 #   Nuclide               : 48-CD-114 
 # Reaction: 
-#   entry-subent-pointer  :['23487-004-2'] 
-#   EXFOR reaction        :['(48-CD-114(N,G),,WID/STR)'] 
-#   incident energy       : 2.8070e+03 eV - 1.0420e+04 eV 
+#   EXFOR Reaction        : (48-CD-114(N,G),,WID/STR) 
+#   Incident Energy Type   : 2.8070e+03 eV - 1.0420e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23487.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23487

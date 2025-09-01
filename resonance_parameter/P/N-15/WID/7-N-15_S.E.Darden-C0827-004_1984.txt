@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-15 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C0827-004-4 
 #   First Author          : S.E.Darden 
 #   Institute             : (1USANOT): University of Notre Dame, Notre Dame, IN 
 #   Reference             : (J,NP/A,429,218,1984) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 15 
+#   Isomer                :  
 #   Nuclide               : 7-N-15 
 # Reaction: 
-#   entry-subent-pointer  :['C0827-004-4' 'C0827-004-5'] 
-#   EXFOR reaction        :['(7-N-15(P,TOT),,WID)' '(7-N-15(P,EL),,WID)'] 
-#   incident energy       : 2.9800e+06 eV - 6.7850e+06 eV 
+#   EXFOR Reaction        : (7-N-15(P,TOT),,WID) 
+#   Incident Energy Type   : 2.9800e+06 eV - 6.7850e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0827.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0827

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 9-F-18 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C0868-005-4 
 #   First Author          : D.W.Bardayan 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,63,065802,2001) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 9 
 #   A                     : 18 
+#   Isomer                :  
 #   Nuclide               : 9-F-18 
 # Reaction: 
-#   entry-subent-pointer  :['C0868-005-4'] 
-#   EXFOR reaction        :['(9-F-18(P,TOT),,WID)'] 
-#   incident energy       : 6.6470e+05 eV 
+#   EXFOR Reaction        : (9-F-18(P,TOT),,WID) 
+#   Incident Energy Type   : 6.6470e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0868.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0868

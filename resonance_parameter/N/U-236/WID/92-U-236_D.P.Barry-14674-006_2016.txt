@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-236 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 14674-006-2 
 #   First Author          : D.P.Barry 
 #   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
 #   Reference             : (J,PNE,86,11,2016) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 236 
+#   Isomer                :  
 #   Nuclide               : 92-U-236 
 # Reaction: 
-#   entry-subent-pointer  :['14674-006-2' '14674-006-3' '14674-006-4'] 
-#   EXFOR reaction        :['(92-U-236(N,G),,WID)' '(92-U-236(N,EL),,WID)' '(92-U-236(N,F),,WID)'] 
-#   incident energy       : -9.7000e+00 eV 
+#   EXFOR Reaction        : (92-U-236(N,G),,WID) 
+#   Incident Energy Type   : -9.7000e+00 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/146/14674.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14674

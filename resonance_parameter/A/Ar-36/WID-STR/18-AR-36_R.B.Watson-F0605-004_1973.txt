@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 18-AR-36 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0605-004-2 
 #   First Author          : R.B.Watson 
 #   Institute             : (3AULCBR): Australian National University, Canberra 
 #   Reference             : (J,NP/A,203,209,1973) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 18 
 #   A                     : 36 
+#   Isomer                :  
 #   Nuclide               : 18-AR-36 
 # Reaction: 
-#   entry-subent-pointer  :['F0605-004-2'] 
-#   EXFOR reaction        :['(18-AR-36(A,TOT),,WID/STR)'] 
-#   incident energy       : 6.5900e+06 eV - 1.3330e+07 eV 
+#   EXFOR Reaction        : (18-AR-36(A,TOT),,WID/STR) 
+#   Incident Energy Type   : 6.5900e+06 eV - 1.3330e+07 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0605.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0605

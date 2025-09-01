@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 82-PB-206 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21392-003-1 
 #   First Author          : R.C.Block 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (R,WASH-1048,71,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 82 
 #   A                     : 206 
+#   Isomer                :  
 #   Nuclide               : 82-PB-206 
 # Reaction: 
-#   entry-subent-pointer  :['21392-003-1'] 
-#   EXFOR reaction        :['(82-PB-206(N,EL),,WID)'] 
-#   incident energy       : 3.3500e+03 eV - 2.5400e+04 eV 
+#   EXFOR Reaction        : (82-PB-206(N,EL),,WID) 
+#   Incident Energy Type   : 3.3500e+03 eV - 2.5400e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/213/21392.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21392

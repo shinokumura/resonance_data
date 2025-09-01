@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 36-KR-86 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12837-002-5 
 #   First Author          : S.Raman 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PR/C,28,602,1983) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 36 
 #   A                     : 86 
+#   Isomer                :  
 #   Nuclide               : 36-KR-86 
 # Reaction: 
-#   entry-subent-pointer  :['12837-002-5'] 
-#   EXFOR reaction        :['(36-KR-86(N,G),,WID/STR)'] 
-#   incident energy       : 5.6090e+03 eV - 3.9690e+05 eV 
+#   EXFOR Reaction        : (36-KR-86(N,G),,WID/STR) 
+#   Incident Energy Type   : 5.6090e+03 eV - 3.9690e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/128/12837.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12837

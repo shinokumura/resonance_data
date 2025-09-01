@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-238 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10674-003-2 
 #   First Author          : F.C.Difilippo 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,NSE,63,153,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 238 
+#   Isomer                :  
 #   Nuclide               : 92-U-238 
 # Reaction: 
-#   entry-subent-pointer  :['10674-003-2'] 
-#   EXFOR reaction        :['(92-U-238(N,F),,ARE)'] 
-#   incident energy       : 7.0850e+02 eV - 1.2700e+03 eV 
+#   EXFOR Reaction        : (92-U-238(N,F),,ARE) 
+#   Incident Energy Type   : 7.0850e+02 eV - 1.2700e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10674.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10674

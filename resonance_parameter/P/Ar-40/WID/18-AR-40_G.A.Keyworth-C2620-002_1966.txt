@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 18-AR-40 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2620-002-4 
 #   First Author          : G.A.Keyworth 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,NP,89,590,1966) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 18 
 #   A                     : 40 
+#   Isomer                :  
 #   Nuclide               : 18-AR-40 
 # Reaction: 
-#   entry-subent-pointer  :['C2620-002-4' 'C2620-002-5' 'C2620-002-6'] 
-#   EXFOR reaction        :['(18-AR-40(P,TOT),,WID)' '(18-AR-40(P,EL),,WID)' '(18-AR-40(P,A),,WID)'] 
-#   incident energy       : 1.6432e+06 eV - 2.6020e+06 eV 
+#   EXFOR Reaction        : (18-AR-40(P,TOT),,WID) 
+#   Incident Energy Type   : 1.6432e+06 eV - 2.6020e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2620.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2620

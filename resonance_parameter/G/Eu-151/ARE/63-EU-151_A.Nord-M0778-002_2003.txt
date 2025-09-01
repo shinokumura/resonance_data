@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 63-EU-151 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : M0778-002-2 
 #   First Author          : A.Nord 
 #   Institute             : (2GERIFS): Institute fuer Strahlenphysik, Stuttgart 
 #   Reference             : (J,PR/C,67,034307,2003) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 63 
 #   A                     : 151 
+#   Isomer                :  
 #   Nuclide               : 63-EU-151 
 # Reaction: 
-#   entry-subent-pointer  :['M0778-002-2'] 
-#   EXFOR reaction        :['(63-EU-151(G,EL),,ARE)'] 
-#   incident energy       : 8.8900e+05 eV - 3.9180e+06 eV 
+#   EXFOR Reaction        : (63-EU-151(G,EL),,ARE) 
+#   Incident Energy Type   : 8.8900e+05 eV - 3.9180e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0778.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0778

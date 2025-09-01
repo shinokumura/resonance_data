@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-13 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : O2025-004-0 
 #   First Author          : P.Decrock 
 #   Institute             : (2BLGLEU): Katholieke University Leuven, Leuven 
 #   Reference             : (J,PR/C,48,2057,1993) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 13 
+#   Isomer                :  
 #   Nuclide               : 7-N-13 
 # Reaction: 
-#   entry-subent-pointer  :['O2025-004-0'] 
-#   EXFOR reaction        :['(7-N-13(P,TOT),,WID)'] 
-#   incident energy       : 5.2600e+05 eV 
+#   EXFOR Reaction        : (7-N-13(P,TOT),,WID) 
+#   Incident Energy Type   : 5.2600e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2025.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2025

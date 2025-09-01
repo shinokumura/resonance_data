@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 77-IR-193 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41124-006-2 
 #   First Author          : S.M.Masyanov 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,AE/T,73,686,1992) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 77 
 #   A                     : 193 
+#   Isomer                :  
 #   Nuclide               : 77-IR-193 
 # Reaction: 
-#   entry-subent-pointer  :['41124-006-2' '41124-006-4'] 
-#   EXFOR reaction        :['(77-IR-193(N,TOT),,WID)' '(77-IR-193(N,G),,WID)'] 
-#   incident energy       : 1.3040e+00 eV - 1.0960e+02 eV 
+#   EXFOR Reaction        : (77-IR-193(N,TOT),,WID) 
+#   Incident Energy Type   : 1.3040e+00 eV - 1.0960e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/411/41124.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41124

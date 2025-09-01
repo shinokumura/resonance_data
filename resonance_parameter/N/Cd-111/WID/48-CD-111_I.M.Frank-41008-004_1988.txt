@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 48-CD-111 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41008-004-3 
 #   First Author          : I.M.Frank 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (C,88MITO,,395,8805) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 48 
 #   A                     : 111 
+#   Isomer                :  
 #   Nuclide               : 48-CD-111 
 # Reaction: 
-#   entry-subent-pointer  :['41008-004-3'] 
-#   EXFOR reaction        :['(48-CD-111(N,TOT),,WID)'] 
-#   incident energy       : 4.5600e+00 eV - 6.9500e+00 eV 
+#   EXFOR Reaction        : (48-CD-111(N,TOT),,WID) 
+#   Incident Energy Type   : 4.5600e+00 eV - 6.9500e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41008.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41008

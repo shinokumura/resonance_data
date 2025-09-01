@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 95-AM-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12476-005-3 
 #   First Author          : B.R.Leonard Jr 
 #   Institute             : (1USAHAN): Hanford Atomic Products, Richland, WA 
 #   Reference             : (J,BAP,4,31(K1),5901) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 95 
 #   A                     : 241 
+#   Isomer                :  
 #   Nuclide               : 95-AM-241 
 # Reaction: 
-#   entry-subent-pointer  :['12476-005-3'] 
-#   EXFOR reaction        :['(95-AM-241(N,F),,WID)'] 
-#   incident energy       : 3.0700e-01 eV - 4.0000e+00 eV 
+#   EXFOR Reaction        : (95-AM-241(N,F),,WID) 
+#   Incident Energy Type   : 3.0700e-01 eV - 4.0000e+00 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/124/12476.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12476

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 62-SM-149 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20173-012-0 
 #   First Author          : Oe.R.Akyuez 
 #   Institute             : (2TUKCNA): Cekmece Nuclear Research Centre, Istanbul 
 #   Reference             : (R,CNAEM-52,6806) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 62 
 #   A                     : 149 
+#   Isomer                :  
 #   Nuclide               : 62-SM-149 
 # Reaction: 
-#   entry-subent-pointer  :['20173-012-0'] 
-#   EXFOR reaction        :['(62-SM-149(N,EL),,WID)'] 
-#   incident energy       : 9.7300e-02 eV - 8.7200e-01 eV 
+#   EXFOR Reaction        : (62-SM-149(N,EL),,WID) 
+#   Incident Energy Type   : 9.7300e-02 eV - 8.7200e-01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20173.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20173

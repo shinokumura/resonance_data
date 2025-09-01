@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-234 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41513-004-0 
 #   First Author          : M.Florek 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (W,Konovalov,20080429) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 234 
+#   Isomer                :  
 #   Nuclide               : 92-U-234 
 # Reaction: 
-#   entry-subent-pointer  :['41513-004-0'] 
-#   EXFOR reaction        :['(92-U-234(N,EL),,WID,,,DERIV)'] 
-#   incident energy       : -3.0000e-03 eV 
+#   EXFOR Reaction        : (92-U-234(N,EL),,WID,,,DERIV) 
+#   Incident Energy Type   : -3.0000e-03 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41513.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41513

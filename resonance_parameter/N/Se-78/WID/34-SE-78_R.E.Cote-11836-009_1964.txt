@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 34-SE-78 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11836-009-3 
 #   First Author          : R.E.Cote 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR,136,B703,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 34 
 #   A                     : 78 
+#   Isomer                :  
 #   Nuclide               : 34-SE-78 
 # Reaction: 
-#   entry-subent-pointer  :['11836-009-3' '11836-009-4'] 
-#   EXFOR reaction        :['(34-SE-78(N,TOT),,WID)' '(34-SE-78(N,EL),,WID)'] 
-#   incident energy       : 3.8100e+02 eV 
+#   EXFOR Reaction        : (34-SE-78(N,TOT),,WID) 
+#   Incident Energy Type   : 3.8100e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11836.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11836

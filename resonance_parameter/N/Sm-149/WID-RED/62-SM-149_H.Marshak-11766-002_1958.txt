@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 62-SM-149 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11766-002-5 
 #   First Author          : H.Marshak 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,109,1219,5802) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 62 
 #   A                     : 149 
+#   Isomer                :  
 #   Nuclide               : 62-SM-149 
 # Reaction: 
-#   entry-subent-pointer  :['11766-002-5'] 
-#   EXFOR reaction        :['(62-SM-149(N,EL),,WID/RED)'] 
-#   incident energy       : 9.7600e-02 eV - 1.7000e+01 eV 
+#   EXFOR Reaction        : (62-SM-149(N,EL),,WID/RED) 
+#   Incident Energy Type   : 9.7600e-02 eV - 1.7000e+01 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/117/11766.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11766

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 91-PA-231 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10929-003-2 
 #   First Author          : S.Plattard 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,PRL,46,633,8103) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 91 
 #   A                     : 231 
+#   Isomer                :  
 #   Nuclide               : 91-PA-231 
 # Reaction: 
-#   entry-subent-pointer  :['10929-003-2'] 
-#   EXFOR reaction        :['(91-PA-231(N,F),,ARE)'] 
-#   incident energy       : 1.2400e+00 eV - 5.7160e+01 eV 
+#   EXFOR Reaction        : (91-PA-231(N,F),,ARE) 
+#   Incident Energy Type   : 1.2400e+00 eV - 5.7160e+01 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10929.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10929

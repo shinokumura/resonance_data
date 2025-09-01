@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 45-RH-103 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20914-003-1 
 #   First Author          : M.C.Moxon 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (R,NP-17644,68) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 45 
 #   A                     : 103 
+#   Isomer                :  
 #   Nuclide               : 45-RH-103 
 # Reaction: 
-#   entry-subent-pointer  :['20914-003-1' '20914-003-2'] 
-#   EXFOR reaction        :['(45-RH-103(N,EL),,WID)' '(45-RH-103(N,G),,WID)'] 
-#   incident energy       : 9.4700e+01 eV - 2.8520e+02 eV 
+#   EXFOR Reaction        : (45-RH-103(N,EL),,WID) 
+#   Incident Energy Type   : 9.4700e+01 eV - 2.8520e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/209/20914.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20914

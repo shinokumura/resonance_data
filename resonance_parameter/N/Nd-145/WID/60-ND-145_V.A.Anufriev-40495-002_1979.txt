@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 60-ND-145 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40495-002-2 
 #   First Author          : V.A.Anufriev 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,SJA,47,851,1979) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 60 
 #   A                     : 145 
+#   Isomer                :  
 #   Nuclide               : 60-ND-145 
 # Reaction: 
-#   entry-subent-pointer  :['40495-002-2'] 
-#   EXFOR reaction        :['(60-ND-145(N,G),,WID)'] 
-#   incident energy       : -2.5000e+00 eV - 3.4200e+02 eV 
+#   EXFOR Reaction        : (60-ND-145(N,G),,WID) 
+#   Incident Energy Type   : -2.5000e+00 eV - 3.4200e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40495.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40495

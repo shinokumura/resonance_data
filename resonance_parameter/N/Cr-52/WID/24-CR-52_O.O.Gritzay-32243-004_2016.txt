@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 24-CR-52 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 32243-004-2 
 #   First Author          : O.O.Gritzay 
 #   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 #   Reference             : (J,YFE,17,411,2016) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 24 
 #   A                     : 52 
+#   Isomer                :  
 #   Nuclide               : 24-CR-52 
 # Reaction: 
-#   entry-subent-pointer  :['32243-004-2'] 
-#   EXFOR reaction        :['(24-CR-52(N,EL),,WID)'] 
-#   incident energy       : 4.9990e+04 eV - 5.0150e+04 eV 
+#   EXFOR Reaction        : (24-CR-52(N,EL),,WID) 
+#   Incident Energy Type   : 4.9990e+04 eV - 5.0150e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/322/32243.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/32243

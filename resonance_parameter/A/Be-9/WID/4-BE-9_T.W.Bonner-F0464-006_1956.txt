@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 4-BE-9 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0464-006-0 
 #   First Author          : T.W.Bonner 
 #   Institute             : (1USARIC): Rice University, Houston, TX 
 #   Reference             : (J,PR,102,1348,195606) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 4 
 #   A                     : 9 
+#   Isomer                :  
 #   Nuclide               : 4-BE-9 
 # Reaction: 
-#   entry-subent-pointer  :['F0464-006-0'] 
-#   EXFOR reaction        :['(4-BE-9(A,TOT),,WID)'] 
-#   incident energy       : 1.9000e+06 eV - 5.0000e+06 eV 
+#   EXFOR Reaction        : (4-BE-9(A,TOT),,WID) 
+#   Incident Energy Type   : 1.9000e+06 eV - 5.0000e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F04/F0464.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0464

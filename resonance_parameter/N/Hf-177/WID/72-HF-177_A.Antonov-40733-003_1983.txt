@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 72-HF-177 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40733-003-2 
 #   First Author          : A.Antonov 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (R,JINR-P3-83-242,1983) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 72 
 #   A                     : 177 
+#   Isomer                :  
 #   Nuclide               : 72-HF-177 
 # Reaction: 
-#   entry-subent-pointer  :['40733-003-2'] 
-#   EXFOR reaction        :['(72-HF-177(N,A),,WID)'] 
-#   incident energy       : 1.0980e+00 eV - 2.3140e+01 eV 
+#   EXFOR Reaction        : (72-HF-177(N,A),,WID) 
+#   Incident Energy Type   : 1.0980e+00 eV - 2.3140e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40733.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40733

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 62-SM-152 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 14458-004-0 
 #   First Author          : W.H.Walker 
 #   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 #   Reference             : (J,CJP,39,1184,1961) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 62 
 #   A                     : 152 
+#   Isomer                :  
 #   Nuclide               : 62-SM-152 
 # Reaction: 
-#   entry-subent-pointer  :['14458-004-0'] 
-#   EXFOR reaction        :['(62-SM-152(N,G),,WID)'] 
-#   incident energy       : 8.0000e+00 eV 
+#   EXFOR Reaction        : (62-SM-152(N,G),,WID) 
+#   Incident Energy Type   : 8.0000e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/144/14458.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14458

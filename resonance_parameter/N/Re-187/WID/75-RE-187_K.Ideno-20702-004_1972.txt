@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 75-RE-187 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20702-004-2 
 #   First Author          : K.Ideno 
 #   Institute             : (2JPNJAE): Japan Atomic Energy Agency (JAEA) 
 #   Reference             : (J,NST,9,(5),261,7205) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 75 
 #   A                     : 187 
+#   Isomer                :  
 #   Nuclide               : 75-RE-187 
 # Reaction: 
-#   entry-subent-pointer  :['20702-004-2'] 
-#   EXFOR reaction        :['(75-RE-187(N,G),,WID)'] 
-#   incident energy       : 4.4200e+00 eV - 1.1620e+02 eV 
+#   EXFOR Reaction        : (75-RE-187(N,G),,WID) 
+#   Incident Energy Type   : 4.4200e+00 eV - 1.1620e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/207/20702.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20702

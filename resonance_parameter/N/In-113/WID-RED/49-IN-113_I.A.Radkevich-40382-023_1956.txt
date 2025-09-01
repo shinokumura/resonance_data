@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 49-IN-113 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40382-023-2 
 #   First Author          : I.A.Radkevich 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 #   Reference             : (J,AE,1,(5),55,1956) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 49 
 #   A                     : 113 
+#   Isomer                :  
 #   Nuclide               : 49-IN-113 
 # Reaction: 
-#   entry-subent-pointer  :['40382-023-2'] 
-#   EXFOR reaction        :['(49-IN-113(N,EL),,WID/RED)'] 
-#   incident energy       : 1.4670e+01 eV - 7.0000e+01 eV 
+#   EXFOR Reaction        : (49-IN-113(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.4670e+01 eV - 7.0000e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40382.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40382

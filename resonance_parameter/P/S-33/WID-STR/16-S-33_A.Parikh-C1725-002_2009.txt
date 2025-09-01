@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-33 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1725-002-2 
 #   First Author          : A.Parikh 
 #   Institute             : (2GERMUN): Technische Universitaet Muenchen 
 #   Reference             : (J,PR/C,80,015802,2009) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 33 
+#   Isomer                :  
 #   Nuclide               : 16-S-33 
 # Reaction: 
-#   entry-subent-pointer  :['C1725-002-2'] 
-#   EXFOR reaction        :['(16-S-33(P,G),,WID/STR)'] 
-#   incident energy       : 1.1000e+04 eV - 8.3700e+05 eV 
+#   EXFOR Reaction        : (16-S-33(P,G),,WID/STR) 
+#   Incident Energy Type   : 1.1000e+04 eV - 8.3700e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C17/C1725.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1725

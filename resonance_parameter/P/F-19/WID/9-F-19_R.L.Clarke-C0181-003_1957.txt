@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 9-F-19 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C0181-003-2 
 #   First Author          : R.L.Clarke 
 #   Institute             : (1CANCRC): A.E.C.L., Chalk River, Ontario 
 #   Reference             : (J,CJP,35,155,1957) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 9 
 #   A                     : 19 
+#   Isomer                :  
 #   Nuclide               : 9-F-19 
 # Reaction: 
-#   entry-subent-pointer  :['C0181-003-2'] 
-#   EXFOR reaction        :['(9-F-19(P,A),,WID)'] 
-#   incident energy       : 1.3580e+06 eV - 2.5800e+06 eV 
+#   EXFOR Reaction        : (9-F-19(P,A),,WID) 
+#   Incident Energy Type   : 1.3580e+06 eV - 2.5800e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C01/C0181.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0181

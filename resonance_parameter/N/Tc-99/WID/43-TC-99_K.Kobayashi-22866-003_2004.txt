@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 43-TC-99 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22866-003-4 
 #   First Author          : K.Kobayashi 
 #   Institute             : (2JPNKTO): Kyoto University , Kyoto 
 #   Reference             : (J,NSE,146,(2),209,2004) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 43 
 #   A                     : 99 
+#   Isomer                :  
 #   Nuclide               : 43-TC-99 
 # Reaction: 
-#   entry-subent-pointer  :['22866-003-4'] 
-#   EXFOR reaction        :['(43-TC-99(N,G),,WID)'] 
-#   incident energy       : -1.7000e+01 eV - 2.0270e+01 eV 
+#   EXFOR Reaction        : (43-TC-99(N,G),,WID) 
+#   Incident Energy Type   : -1.7000e+01 eV - 2.0270e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/228/22866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22866

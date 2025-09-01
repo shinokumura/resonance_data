@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 95-AM-241 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40305-002-2 
 #   First Author          : T.S.Belanova 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,AE,40,(4),303,197604) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 95 
 #   A                     : 241 
+#   Isomer                :  
 #   Nuclide               : 95-AM-241 
 # Reaction: 
-#   entry-subent-pointer  :['40305-002-2'] 
-#   EXFOR reaction        :['(95-AM-241(N,TOT),,WID)'] 
-#   incident energy       : -4.2500e-01 eV - 3.0820e+01 eV 
+#   EXFOR Reaction        : (95-AM-241(N,TOT),,WID) 
+#   Incident Energy Type   : -4.2500e-01 eV - 3.0820e+01 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40305.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40305

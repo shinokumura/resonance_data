@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-33 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1561-002-4 
 #   First Author          : J.R.Vanhoy 
 #   Institute             : (1USATNL): Triangle Universities Nuclear Laboratory , Durham, NC 
 #   Reference             : (J,PR/C,40,1959,1989) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 33 
+#   Isomer                :  
 #   Nuclide               : 16-S-33 
 # Reaction: 
-#   entry-subent-pointer  :['C1561-002-4'] 
-#   EXFOR reaction        :['(16-S-33(P,EL),,WID/RED)'] 
-#   incident energy       : 1.2140e+06 eV - 3.7624e+06 eV 
+#   EXFOR Reaction        : (16-S-33(P,EL),,WID/RED) 
+#   Incident Energy Type   : 1.2140e+06 eV - 3.7624e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1561.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1561

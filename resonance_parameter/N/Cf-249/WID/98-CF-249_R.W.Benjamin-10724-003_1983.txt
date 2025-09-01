@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 98-CF-249 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10724-003-2 
 #   First Author          : R.W.Benjamin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,NSE,85,261,198311) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 98 
 #   A                     : 249 
+#   Isomer                :  
 #   Nuclide               : 98-CF-249 
 # Reaction: 
-#   entry-subent-pointer  :['10724-003-2'] 
-#   EXFOR reaction        :['(98-CF-249(N,F),,WID)'] 
-#   incident energy       : 7.0000e-01 eV - 8.9800e+01 eV 
+#   EXFOR Reaction        : (98-CF-249(N,F),,WID) 
+#   Incident Energy Type   : 7.0000e-01 eV - 8.9800e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10724.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10724

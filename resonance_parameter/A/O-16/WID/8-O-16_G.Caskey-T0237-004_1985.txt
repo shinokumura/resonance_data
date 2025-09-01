@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-16 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : T0237-004-2 
 #   First Author          : G.Caskey 
 #   Institute             : (1USAWIS): University of Wisconsin, Madison, WI 
 #   Reference             : (J,PR/C,31,717,1985) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 16 
+#   Isomer                :  
 #   Nuclide               : 8-O-16 
 # Reaction: 
-#   entry-subent-pointer  :['T0237-004-2'] 
-#   EXFOR reaction        :['(8-O-16(A,TOT),,WID)'] 
-#   incident energy       : 9.2500e+06 eV - 1.3384e+07 eV 
+#   EXFOR Reaction        : (8-O-16(A,TOT),,WID) 
+#   Incident Energy Type   : 9.2500e+06 eV - 1.3384e+07 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0237.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/T0237

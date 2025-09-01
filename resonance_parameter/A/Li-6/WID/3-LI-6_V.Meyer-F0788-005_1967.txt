@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 3-LI-6 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : F0788-005-1 
 #   First Author          : V.Meyer 
 #   Institute             : (2SWTZUR): Zurich 
 #   Reference             : (J,NP/A,101,321,1967) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 3 
 #   A                     : 6 
+#   Isomer                :  
 #   Nuclide               : 3-LI-6 
 # Reaction: 
-#   entry-subent-pointer  :['F0788-005-1'] 
-#   EXFOR reaction        :['(3-LI-6(A,EL),,WID)'] 
-#   incident energy       : 2.6100e+06 eV - 3.5000e+06 eV 
+#   EXFOR Reaction        : (3-LI-6(A,EL),,WID) 
+#   Incident Energy Type   : 2.6100e+06 eV - 3.5000e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F07/F0788.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0788

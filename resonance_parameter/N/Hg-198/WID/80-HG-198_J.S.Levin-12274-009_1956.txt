@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 80-HG-198 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12274-009-3 
 #   First Author          : J.S.Levin 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,101,1328,56) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 80 
 #   A                     : 198 
+#   Isomer                :  
 #   Nuclide               : 80-HG-198 
 # Reaction: 
-#   entry-subent-pointer  :['12274-009-3' '12274-009-4' '12274-009-5'] 
-#   EXFOR reaction        :['(80-HG-198(N,TOT),,WID)' '(80-HG-198(N,G),,WID)'
- '(80-HG-198(N,EL),,WID)'] 
-#   incident energy       : 2.3300e+01 eV 
+#   EXFOR Reaction        : (80-HG-198(N,TOT),,WID) 
+#   Incident Energy Type   : 2.3300e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12274.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12274

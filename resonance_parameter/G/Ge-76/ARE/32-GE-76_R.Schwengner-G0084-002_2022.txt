@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 32-GE-76 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0084-002-4 
 #   First Author          : R.Schwengner 
 #   Institute             : (2GERZFK): Helmholtz-Zentrum Dresden-Rossendorf, Dresden 
 #   Reference             : (J,PR/C,105,024303,2022) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 32 
 #   A                     : 76 
+#   Isomer                :  
 #   Nuclide               : 32-GE-76 
 # Reaction: 
-#   entry-subent-pointer  :['G0084-002-4'] 
-#   EXFOR reaction        :['(32-GE-76(G,EL),,ARE)'] 
-#   incident energy       : 5.6450e+05 eV - 9.5566e+06 eV 
+#   EXFOR Reaction        : (32-GE-76(G,EL),,ARE) 
+#   Incident Energy Type   : 5.6450e+05 eV - 9.5566e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0084.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0084

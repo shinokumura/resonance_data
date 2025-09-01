@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 7-N-14 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-14 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2029-010-3 
 #   First Author          : G.W.Phillips 
 #   Institute             : (1USATEX): University of Texas, Austin, TX 
 #   Reference             : (J,PR/C,5,(2),297,1972) 
@@ -11,14 +12,15 @@
 # Target: 
 #   Z                     : 7 
 #   A                     : 14 
+#   Isomer                :  
 #   Nuclide               : 7-N-14 
 # Reaction: 
-#   entry-subent-pointer  :['C2029-010-3'] 
-#   EXFOR reaction        :['(7-N-14(P,G),,WID)'] 
-#   incident energy       : 4.0000e+00 eV 
+#   EXFOR Reaction        : (7-N-14(P,G),,WID) 
+#   Incident Energy Type   : 4.0000e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2029.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2029
 #
-# E_in(eV)   dE_in(eV)          J          L     (N,TOT)  d(P,TOT)      (P,G)     d(P,G)      (P,EL)   d(P,EL)       (P,F)     d(P,F)
- 4.0000E+00        NAN        0.5        NAN        NAN        NAN 9.0000E-01 4.0000E-01        NAN        NAN        NAN        NAN
+#    E_in(eV)    dE_in(eV)          J          L      (P,TOT)     d(P,TOT)        (P,G)       d(P,G)        (P,EL)     d(P,EL)        (P,F)       d(P,F)        (P,A)       d(P,A)
+   4.0000E+06          NAN        0.5        NAN          NAN          NAN   9.0000E-01   4.0000E-01          NAN          NAN          NAN          NAN          NAN          NAN

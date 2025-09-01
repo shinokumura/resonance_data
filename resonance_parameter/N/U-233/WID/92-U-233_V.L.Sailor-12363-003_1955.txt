@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 92-U-233 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12363-003-2 
 #   First Author          : V.L.Sailor 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,100,1249(I6),55) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 92 
 #   A                     : 233 
+#   Isomer                :  
 #   Nuclide               : 92-U-233 
 # Reaction: 
-#   entry-subent-pointer  :['12363-003-2' '12363-003-5'] 
-#   EXFOR reaction        :['(92-U-233(N,TOT),,WID)' '(92-U-233(N,F),,WID)'] 
-#   incident energy       : 1.7850e+00 eV - 1.0375e+01 eV 
+#   EXFOR Reaction        : (92-U-233(N,TOT),,WID) 
+#   Incident Energy Type   : 1.7850e+00 eV - 1.0375e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/123/12363.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12363

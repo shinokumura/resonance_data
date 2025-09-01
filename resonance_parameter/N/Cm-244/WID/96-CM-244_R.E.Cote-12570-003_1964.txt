@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 96-CM-244 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12570-003-2 
 #   First Author          : R.E.Cote 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR,134,B1281,1964) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 96 
 #   A                     : 244 
+#   Isomer                :  
 #   Nuclide               : 96-CM-244 
 # Reaction: 
-#   entry-subent-pointer  :['12570-003-2' '12570-003-3'] 
-#   EXFOR reaction        :['(96-CM-244(N,EL),,WID)' '(96-CM-244(N,G),,WID)'] 
-#   incident energy       : 7.7300e+00 eV - 7.8000e+02 eV 
+#   EXFOR Reaction        : (96-CM-244(N,EL),,WID) 
+#   Incident Energy Type   : 7.7300e+00 eV - 7.8000e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/125/12570.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12570

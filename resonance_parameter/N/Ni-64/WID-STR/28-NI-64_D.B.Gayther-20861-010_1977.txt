@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 28-NI-64 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20861-010-0 
 #   First Author          : D.B.Gayther 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (C,77GEEL,,547,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 28 
 #   A                     : 64 
+#   Isomer                :  
 #   Nuclide               : 28-NI-64 
 # Reaction: 
-#   entry-subent-pointer  :['20861-010-0'] 
-#   EXFOR reaction        :['(28-NI-64(N,G),,WID/STR)'] 
-#   incident energy       : 9.5710e+03 eV 
+#   EXFOR Reaction        : (28-NI-64(N,G),,WID/STR) 
+#   Incident Energy Type   : 9.5710e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/208/20861.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20861

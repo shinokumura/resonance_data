@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 49-IN-115 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 14712-002-4 
 #   First Author          : S.L.Stephenson 
 #   Institute             : (1USANCS): North Carolina State University, Raleigh, NC 
 #   Reference             : (J,PR/C,61,045501,2000) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 49 
 #   A                     : 115 
+#   Isomer                :  
 #   Nuclide               : 49-IN-115 
 # Reaction: 
-#   entry-subent-pointer  :['14712-002-4'] 
-#   EXFOR reaction        :['(49-IN-115(N,EL),,WID/RED)'] 
-#   incident energy       : 1.4570e+00 eV - 2.6450e+02 eV 
+#   EXFOR Reaction        : (49-IN-115(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.4570e+00 eV - 2.6450e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14712.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14712

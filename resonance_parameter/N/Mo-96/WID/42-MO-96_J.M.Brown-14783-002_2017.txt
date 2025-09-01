@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 42-MO-96 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 14783-002-5 
 #   First Author          : J.M.Brown 
 #   Institute             : (1USAUSA): United States of America 
 #   Reference             : (C,2017QUEBEC,,426,2017) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 42 
 #   A                     : 96 
+#   Isomer                :  
 #   Nuclide               : 42-MO-96 
 # Reaction: 
-#   entry-subent-pointer  :['14783-002-5' '14783-002-6'] 
-#   EXFOR reaction        :['(42-MO-96(N,G),,WID)' '(42-MO-96(N,EL),,WID)'] 
-#   incident energy       : 1.1333e+02 eV - 1.9572e+04 eV 
+#   EXFOR Reaction        : (42-MO-96(N,G),,WID) 
+#   Incident Energy Type   : 1.1333e+02 eV - 1.9572e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14783.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14783

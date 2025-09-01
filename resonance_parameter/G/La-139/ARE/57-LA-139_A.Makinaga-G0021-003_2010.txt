@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 57-LA-139 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : G0021-003-2 
 #   First Author          : A.Makinaga 
 #   Institute             : (2JPNKON): Konan University , Kobe 
 #   Reference             : (J,PR/C,82,024314,2010) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 57 
 #   A                     : 139 
+#   Isomer                :  
 #   Nuclide               : 57-LA-139 
 # Reaction: 
-#   entry-subent-pointer  :['G0021-003-2'] 
-#   EXFOR reaction        :['(57-LA-139(G,EL),,ARE)'] 
-#   incident energy       : 5.3806e+06 eV - 8.5957e+06 eV 
+#   EXFOR Reaction        : (57-LA-139(G,EL),,ARE) 
+#   Incident Energy Type   : 5.3806e+06 eV - 8.5957e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0021.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0021

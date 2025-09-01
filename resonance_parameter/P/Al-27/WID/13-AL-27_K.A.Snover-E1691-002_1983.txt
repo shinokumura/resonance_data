@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 13-AL-27 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : E1691-002-0 
 #   First Author          : K.A.Snover 
 #   Institute             : (1USAWAU): University of Washington, Seattle, WA 
 #   Reference             : (J,PR/C,27,(2),493,198302) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 13 
 #   A                     : 27 
+#   Isomer                :  
 #   Nuclide               : 13-AL-27 
 # Reaction: 
-#   entry-subent-pointer  :['E1691-002-0'] 
-#   EXFOR reaction        :['(13-AL-27(P,G),,WID)'] 
-#   incident energy       : 2.8760e+06 eV - 3.6710e+06 eV 
+#   EXFOR Reaction        : (13-AL-27(P,G),,WID) 
+#   Incident Energy Type   : 2.8760e+06 eV - 3.6710e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E16/E1691.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/E1691

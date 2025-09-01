@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 44-RU-101 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40814-012-0 
 #   First Author          : Kim Hi San 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (C,65ANTWERP,,571(185),1965) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 44 
 #   A                     : 101 
+#   Isomer                :  
 #   Nuclide               : 44-RU-101 
 # Reaction: 
-#   entry-subent-pointer  :['40814-012-0'] 
-#   EXFOR reaction        :['(44-RU-101(N,TOT),,WID)'] 
-#   incident energy       : 1.5800e+01 eV 
+#   EXFOR Reaction        : (44-RU-101(N,TOT),,WID) 
+#   Incident Energy Type   : 1.5800e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40814.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40814

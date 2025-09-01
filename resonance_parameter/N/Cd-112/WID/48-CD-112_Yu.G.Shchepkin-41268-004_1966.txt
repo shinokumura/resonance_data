@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 48-CD-112 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41268-004-2 
 #   First Author          : Yu.G.Shchepkin 
 #   Institute             : (4RUSKUR): National Issl.Tsentr "Kurchatovskii Institut", Moskva 
 #   Reference             : (C,66PARIS,1,93(108),1966) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 48 
 #   A                     : 112 
+#   Isomer                :  
 #   Nuclide               : 48-CD-112 
 # Reaction: 
-#   entry-subent-pointer  :['41268-004-2'] 
-#   EXFOR reaction        :['(48-CD-112(N,EL),,WID)'] 
-#   incident energy       : 6.6700e+01 eV - 1.4500e+03 eV 
+#   EXFOR Reaction        : (48-CD-112(N,EL),,WID) 
+#   Incident Energy Type   : 6.6700e+01 eV - 1.4500e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41268.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41268

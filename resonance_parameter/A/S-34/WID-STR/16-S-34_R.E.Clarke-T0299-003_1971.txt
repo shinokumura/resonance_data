@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-34 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : T0299-003-2 
 #   First Author          : R.E.Clarke 
 #   Institute             : (1USAFLA): University of Florida, Gainesville, FL 
 #   Reference             : (J,NP/A,171,298,1971) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 34 
+#   Isomer                :  
 #   Nuclide               : 16-S-34 
 # Reaction: 
-#   entry-subent-pointer  :['T0299-003-2'] 
-#   EXFOR reaction        :['(16-S-34(A,G),,WID/STR)'] 
-#   incident energy       : 3.3240e+06 eV - 4.2780e+06 eV 
+#   EXFOR Reaction        : (16-S-34(A,G),,WID/STR) 
+#   Incident Energy Type   : 3.3240e+06 eV - 4.2780e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/T02/T0299.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/T0299

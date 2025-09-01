@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 6-C-12 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10248-003-3 
 #   First Author          : R.J.Holt 
 #   Institute             : (1USAYAL): Yale University, New Haven, CT 
 #   Reference             : (J,NP/A,213,147,1973) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 6 
 #   A                     : 12 
+#   Isomer                :  
 #   Nuclide               : 6-C-12 
 # Reaction: 
-#   entry-subent-pointer  :['10248-003-3'] 
-#   EXFOR reaction        :['(6-C-12(N,TOT),,WID)'] 
-#   incident energy       : -1.2700e+06 eV - 3.5000e+06 eV 
+#   EXFOR Reaction        : (6-C-12(N,TOT),,WID) 
+#   Incident Energy Type   : -1.2700e+06 eV - 3.5000e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10248.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10248

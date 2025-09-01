@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 52-TE-126 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11988-006-2 
 #   First Author          : H.H.Bolotin 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,BAP,5,18(E4),60) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 52 
 #   A                     : 126 
+#   Isomer                :  
 #   Nuclide               : 52-TE-126 
 # Reaction: 
-#   entry-subent-pointer  :['11988-006-2'] 
-#   EXFOR reaction        :['(52-TE-126(N,EL),,WID)'] 
-#   incident energy       : 2.0100e+02 eV 
+#   EXFOR Reaction        : (52-TE-126(N,EL),,WID) 
+#   Incident Energy Type   : 2.0100e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11988.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11988

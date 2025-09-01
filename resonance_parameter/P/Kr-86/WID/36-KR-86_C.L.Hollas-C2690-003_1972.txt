@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 36-KR-86 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2690-003-4 
 #   First Author          : C.L.Hollas 
 #   Institute             : (1USATEX): University of Texas, Austin, TX 
 #   Reference             : (J,PR/C,5,1641,1972) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 36 
 #   A                     : 86 
+#   Isomer                :  
 #   Nuclide               : 36-KR-86 
 # Reaction: 
-#   entry-subent-pointer  :['C2690-003-4'] 
-#   EXFOR reaction        :['(36-KR-86(P,TOT),,WID)'] 
-#   incident energy       : 5.3480e+06 eV - 8.8930e+06 eV 
+#   EXFOR Reaction        : (36-KR-86(P,TOT),,WID) 
+#   Incident Energy Type   : 5.3480e+06 eV - 8.8930e+06 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2690.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2690

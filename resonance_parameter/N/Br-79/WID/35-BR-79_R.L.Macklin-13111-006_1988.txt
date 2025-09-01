@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 35-BR-79 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13111-006-3 
 #   First Author          : R.L.Macklin 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (J,NSE,99,133,8806) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 35 
 #   A                     : 79 
+#   Isomer                :  
 #   Nuclide               : 35-BR-79 
 # Reaction: 
-#   entry-subent-pointer  :['13111-006-3'] 
-#   EXFOR reaction        :['(35-BR-79(N,TOT),,WID)'] 
-#   incident energy       : 3.5800e+01 eV - 9.0010e+03 eV 
+#   EXFOR Reaction        : (35-BR-79(N,TOT),,WID) 
+#   Incident Energy Type   : 3.5800e+01 eV - 9.0010e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13111.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13111

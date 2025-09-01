@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 12-MG-24 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C1142-004-0 
 #   First Author          : D.C.Powell 
 #   Institute             : (1USANCA): University of North Carolina, Chapel Hill, NC 
 #   Reference             : (J,NP/A,660,349,1999) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 12 
 #   A                     : 24 
+#   Isomer                :  
 #   Nuclide               : 12-MG-24 
 # Reaction: 
-#   entry-subent-pointer  :['C1142-004-0'] 
-#   EXFOR reaction        :['(12-MG-24(P,TOT),,WID)'] 
-#   incident energy       : 2.2300e+05 eV - 4.1900e+05 eV 
+#   EXFOR Reaction        : (12-MG-24(P,TOT),,WID) 
+#   Incident Energy Type   : 2.2300e+05 eV - 4.1900e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C11/C1142.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1142

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 50-SN-120 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12252-002-3 
 #   First Author          : J.A.Harvey 
 #   Institute             : (1USAORL): Oak Ridge National Laboratory, Oak Ridge, TN 
 #   Reference             : (C,65ANTWERP,,527,196507) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 50 
 #   A                     : 120 
+#   Isomer                :  
 #   Nuclide               : 50-SN-120 
 # Reaction: 
-#   entry-subent-pointer  :['12252-002-3'] 
-#   EXFOR reaction        :['(50-SN-120(N,EL),,WID)'] 
-#   incident energy       : 4.2600e+02 eV - 1.7260e+03 eV 
+#   EXFOR Reaction        : (50-SN-120(N,EL),,WID) 
+#   Incident Energy Type   : 4.2600e+02 eV - 1.7260e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12252.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12252

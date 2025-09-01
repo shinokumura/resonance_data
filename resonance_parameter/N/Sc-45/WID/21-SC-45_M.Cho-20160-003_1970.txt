@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 21-SC-45 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20160-003-1 
 #   First Author          : M.Cho 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 #   Reference             : (C,70HELSINKI,1,619,1970) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 21 
 #   A                     : 45 
+#   Isomer                :  
 #   Nuclide               : 21-SC-45 
 # Reaction: 
-#   entry-subent-pointer  :['20160-003-1'] 
-#   EXFOR reaction        :['(21-SC-45(N,EL),,WID)'] 
-#   incident energy       : 1.9170e+04 eV - 1.0570e+05 eV 
+#   EXFOR Reaction        : (21-SC-45(N,EL),,WID) 
+#   Incident Energy Type   : 1.9170e+04 eV - 1.0570e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20160.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20160

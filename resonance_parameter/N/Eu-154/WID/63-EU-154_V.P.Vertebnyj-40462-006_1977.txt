@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 63-EU-154 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40462-006-2 
 #   First Author          : V.P.Vertebnyj 
 #   Institute             : (4UKRIJD): Institute Yadernyh Doslidzhen, N.A.N.Ukraini, Kyiv 
 #   Reference             : (J,SNP,26,601,1977) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 63 
 #   A                     : 154 
+#   Isomer                :  
 #   Nuclide               : 63-EU-154 
 # Reaction: 
-#   entry-subent-pointer  :['40462-006-2'] 
-#   EXFOR reaction        :['(63-EU-154(N,G),,WID)'] 
-#   incident energy       : -1.0000e+00 eV - 1.3700e+01 eV 
+#   EXFOR Reaction        : (63-EU-154(N,G),,WID) 
+#   Incident Energy Type   : -1.0000e+00 eV - 1.3700e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/404/40462.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40462

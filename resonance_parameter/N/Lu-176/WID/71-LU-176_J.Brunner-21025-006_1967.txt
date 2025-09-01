@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 71-LU-176 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21025-006-1 
 #   First Author          : J.Brunner 
 #   Institute             : (2SWTWUR): Eidgenossisches Institute fuer Reakt.Forsch., Wuerenlingen 
 #   Reference             : (R,EIR-123,1967) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 71 
 #   A                     : 176 
+#   Isomer                :  
 #   Nuclide               : 71-LU-176 
 # Reaction: 
-#   entry-subent-pointer  :['21025-006-1'] 
-#   EXFOR reaction        :['(71-LU-176(N,G),,WID)'] 
-#   incident energy       : 1.4130e-01 eV - 1.5630e+00 eV 
+#   EXFOR Reaction        : (71-LU-176(N,G),,WID) 
+#   Incident Energy Type   : 1.4130e-01 eV - 1.5630e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21025.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21025

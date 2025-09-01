@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 60-ND-143 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20688-022-3 
 #   First Author          : R.N.Alves 
 #   Institute             : (2FR SAC): CEA/Saclay 
 #   Reference             : (J,NP/A,134,118,1969) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 60 
 #   A                     : 143 
+#   Isomer                :  
 #   Nuclide               : 60-ND-143 
 # Reaction: 
-#   entry-subent-pointer  :['20688-022-3' '20688-022-4'] 
-#   EXFOR reaction        :['(60-ND-143(N,EL),,WID)' '(60-ND-143(N,TOT),,WID)'] 
-#   incident energy       : 5.5290e+01 eV - 6.5770e+02 eV 
+#   EXFOR Reaction        : (60-ND-143(N,EL),,WID) 
+#   Incident Energy Type   : 5.5290e+01 eV - 6.5770e+02 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20688.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20688

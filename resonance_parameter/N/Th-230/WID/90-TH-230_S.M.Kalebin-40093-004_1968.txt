@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 90-TH-230 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40093-004-2 
 #   First Author          : S.M.Kalebin 
 #   Institute             : (4RUSITE): Institute Teoret. + Experiment. Fiziki, Moskva 
 #   Reference             : (J,AE,24,243,1968) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 90 
 #   A                     : 230 
+#   Isomer                :  
 #   Nuclide               : 90-TH-230 
 # Reaction: 
-#   entry-subent-pointer  :['40093-004-2' '40093-004-3'] 
-#   EXFOR reaction        :['(90-TH-230(N,G),,WID)' '(90-TH-230(N,EL),,WID)'] 
-#   incident energy       : -7.5000e-02 eV - 5.6300e+02 eV 
+#   EXFOR Reaction        : (90-TH-230(N,G),,WID) 
+#   Incident Energy Type   : -7.5000e-02 eV - 5.6300e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40093.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40093

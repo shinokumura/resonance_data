@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 47-AG-110-M Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 40622-006-4 
 #   First Author          : V.A.Anufriev 
 #   Institute             : (4RUSNIR): NIIAR Dimitrovgrad 
 #   Reference             : (J,AE,53,29,1982) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 47 
 #   A                     : 110 
+#   Isomer                : M 
 #   Nuclide               : 47-AG-110-M 
 # Reaction: 
-#   entry-subent-pointer  :['40622-006-4'] 
-#   EXFOR reaction        :['(47-AG-110-M(N,TOT),,WID)'] 
-#   incident energy       : 1.1540e+01 eV - 1.5200e+02 eV 
+#   EXFOR Reaction        : (47-AG-110-M(N,TOT),,WID) 
+#   Incident Energy Type   : 1.1540e+01 eV - 1.5200e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40622.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40622

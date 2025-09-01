@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 53-I-127 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 41287-008-2 
 #   First Author          : Zo In Ok 
 #   Institute             : (4ZZZDUB): Joint Institute for Nuclear Research (JINR), Dubna 
 #   Reference             : (C,82ANTWER,,758,1982) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 53 
 #   A                     : 127 
+#   Isomer                :  
 #   Nuclide               : 53-I-127 
 # Reaction: 
-#   entry-subent-pointer  :['41287-008-2'] 
-#   EXFOR reaction        :['(53-I-127(N,G),,WID)'] 
-#   incident energy       : 2.0380e+01 eV - 2.7140e+02 eV 
+#   EXFOR Reaction        : (53-I-127(N,G),,WID) 
+#   Incident Energy Type   : 2.0380e+01 eV - 2.7140e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41287.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41287

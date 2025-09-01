@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 78-PT-195 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11866-013-2 
 #   First Author          : A.Stolovy 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,108,353,57) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 78 
 #   A                     : 195 
+#   Isomer                :  
 #   Nuclide               : 78-PT-195 
 # Reaction: 
-#   entry-subent-pointer  :['11866-013-2' '11866-013-3' '11866-013-4'] 
-#   EXFOR reaction        :['(78-PT-195(N,TOT),,WID)' '(78-PT-195(N,EL),,WID)'
- '(78-PT-195(N,G),,WID)'] 
-#   incident energy       : 1.1900e+01 eV - 1.5300e+02 eV 
+#   EXFOR Reaction        : (78-PT-195(N,TOT),,WID) 
+#   Incident Energy Type   : 1.1900e+01 eV - 1.5300e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11866

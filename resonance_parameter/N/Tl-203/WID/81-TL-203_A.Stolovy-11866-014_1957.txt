@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 81-TL-203 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11866-014-3 
 #   First Author          : A.Stolovy 
 #   Institute             : (1USABNL): Brookhaven National Laboratory, Upton, NY 
 #   Reference             : (J,PR,108,353,57) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 81 
 #   A                     : 203 
+#   Isomer                :  
 #   Nuclide               : 81-TL-203 
 # Reaction: 
-#   entry-subent-pointer  :['11866-014-3'] 
-#   EXFOR reaction        :['(81-TL-203(N,TOT),,WID)'] 
-#   incident energy       : 2.3800e+02 eV 
+#   EXFOR Reaction        : (81-TL-203(N,TOT),,WID) 
+#   Incident Energy Type   : 2.3800e+02 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11866

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 62-SM-147 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10114-005-3 
 #   First Author          : J.W.Codding Jr 
 #   Institute             : (1USAMTR): Idaho Nuclear Corp., Idaho Falls, ID 
 #   Reference             : (J,NSE,43,58,197101) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 62 
 #   A                     : 147 
+#   Isomer                :  
 #   Nuclide               : 62-SM-147 
 # Reaction: 
-#   entry-subent-pointer  :['10114-005-3'] 
-#   EXFOR reaction        :['(62-SM-147(N,G),,WID)'] 
-#   incident energy       : 3.3900e+00 eV - 5.8300e+01 eV 
+#   EXFOR Reaction        : (62-SM-147(N,G),,WID) 
+#   Incident Energy Type   : 3.3900e+00 eV - 5.8300e+01 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/101/10114.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10114

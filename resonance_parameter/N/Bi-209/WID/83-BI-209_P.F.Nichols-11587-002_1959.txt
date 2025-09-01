@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 83-BI-209 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 11587-002-2 
 #   First Author          : P.F.Nichols 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,AP,8,250,59) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 83 
 #   A                     : 209 
+#   Isomer                :  
 #   Nuclide               : 83-BI-209 
 # Reaction: 
-#   entry-subent-pointer  :['11587-002-2'] 
-#   EXFOR reaction        :['(83-BI-209(N,EL),,WID)'] 
-#   incident energy       : 1.2000e+04 eV - 1.3400e+05 eV 
+#   EXFOR Reaction        : (83-BI-209(N,EL),,WID) 
+#   Incident Energy Type   : 1.2000e+04 eV - 1.3400e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11587.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11587

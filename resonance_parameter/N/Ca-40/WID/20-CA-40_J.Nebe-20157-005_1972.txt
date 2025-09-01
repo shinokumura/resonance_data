@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 20-CA-40 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20157-005-0 
 #   First Author          : J.Nebe 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 #   Reference             : (J,NP/A,185,113,1972) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 20 
 #   A                     : 40 
+#   Isomer                :  
 #   Nuclide               : 20-CA-40 
 # Reaction: 
-#   entry-subent-pointer  :['20157-005-0'] 
-#   EXFOR reaction        :['(20-CA-40(N,EL),,WID)'] 
-#   incident energy       : 5.7000e+05 eV - 1.4330e+06 eV 
+#   EXFOR Reaction        : (20-CA-40(N,EL),,WID) 
+#   Incident Energy Type   : 5.7000e+05 eV - 1.4330e+06 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20157.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20157

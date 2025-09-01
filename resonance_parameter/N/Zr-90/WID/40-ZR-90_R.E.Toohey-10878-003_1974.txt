@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 40-ZR-90 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10878-003-4 
 #   First Author          : R.E.Toohey 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (J,PR/C,9,346,1974) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 40 
 #   A                     : 90 
+#   Isomer                :  
 #   Nuclide               : 40-ZR-90 
 # Reaction: 
-#   entry-subent-pointer  :['10878-003-4'] 
-#   EXFOR reaction        :['(40-ZR-90(N,EL),,WID)'] 
-#   incident energy       : 3.8600e+03 eV - 2.2030e+05 eV 
+#   EXFOR Reaction        : (40-ZR-90(N,EL),,WID) 
+#   Incident Energy Type   : 3.8600e+03 eV - 2.2030e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/108/10878.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10878

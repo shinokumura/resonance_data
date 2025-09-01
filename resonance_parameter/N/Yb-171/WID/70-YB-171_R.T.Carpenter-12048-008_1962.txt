@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 70-YB-171 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12048-008-2 
 #   First Author          : R.T.Carpenter 
 #   Institute             : (1USAANL): Argonne National Laboratory, Argonne, IL 
 #   Reference             : (R,ANL-6589,62) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 70 
 #   A                     : 171 
+#   Isomer                :  
 #   Nuclide               : 70-YB-171 
 # Reaction: 
-#   entry-subent-pointer  :['12048-008-2'] 
-#   EXFOR reaction        :['(70-YB-171(N,TOT),,WID)'] 
-#   incident energy       : 1.3500e+01 eV 
+#   EXFOR Reaction        : (70-YB-171(N,TOT),,WID) 
+#   Incident Energy Type   : 1.3500e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/120/12048.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12048

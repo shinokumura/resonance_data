@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 41-NB-93 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 30591-008-2 
 #   First Author          : M.Adib 
 #   Institute             : (3EGYCAI): Atomic Energy Authority (AEA), Cairo 
 #   Reference             : (R,INDC(EGY)-2,198109) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 41 
 #   A                     : 93 
+#   Isomer                :  
 #   Nuclide               : 41-NB-93 
 # Reaction: 
-#   entry-subent-pointer  :['30591-008-2'] 
-#   EXFOR reaction        :['(41-NB-93(N,G),,WID)'] 
-#   incident energy       : -1.0000e+01 eV 
+#   EXFOR Reaction        : (41-NB-93(N,G),,WID) 
+#   Incident Energy Type   : -1.0000e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/305/30591.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30591

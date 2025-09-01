@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-34 Resonance Parameter: WID/RED 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 12683-003-5 
 #   First Author          : F.T.Seibel Jr 
 #   Institute             : (1USADKE): Duke University, Durham, NC 
 #   Reference             : (J,DA/B,30,339,6907) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 34 
+#   Isomer                :  
 #   Nuclide               : 16-S-34 
 # Reaction: 
-#   entry-subent-pointer  :['12683-003-5'] 
-#   EXFOR reaction        :['(16-S-34(N,EL),,WID/RED)'] 
-#   incident energy       : 1.2000e+05 eV - 4.6600e+05 eV 
+#   EXFOR Reaction        : (16-S-34(N,EL),,WID/RED) 
+#   Incident Energy Type   : 1.2000e+05 eV - 4.6600e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/126/12683.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12683

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 61-PM-147 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 10258-005-1 
 #   First Author          : G.J.Kirouac 
 #   Institute             : (1USAKAP): Knolls Atomic Power Laboratory, Schenectady, NY 
 #   Reference             : (J,NSE,52,310,1973) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 61 
 #   A                     : 147 
+#   Isomer                :  
 #   Nuclide               : 61-PM-147 
 # Reaction: 
-#   entry-subent-pointer  :['10258-005-1' '10258-005-2'] 
-#   EXFOR reaction        :['(61-PM-147(N,TOT),,WID)' '(61-PM-147(N,G),,WID)'] 
-#   incident energy       : 5.3600e+00 eV - 6.9200e+00 eV 
+#   EXFOR Reaction        : (61-PM-147(N,TOT),,WID) 
+#   Incident Energy Type   : 5.3600e+00 eV - 6.9200e+00 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10258.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10258

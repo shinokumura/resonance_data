@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 67-HO-165 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 13725-014-2 
 #   First Author          : Y.Danon 
 #   Institute             : (1USARPI): Rensselaer Polytechnic Institute, Troy, NY 
 #   Reference             : (J,NSE,128,61,1998) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 67 
 #   A                     : 165 
+#   Isomer                :  
 #   Nuclide               : 67-HO-165 
 # Reaction: 
-#   entry-subent-pointer  :['13725-014-2' '13725-014-3'] 
-#   EXFOR reaction        :['(67-HO-165(N,G),,WID)' '(67-HO-165(N,EL),,WID)'] 
-#   incident energy       : -1.0900e+01 eV - 2.1194e+01 eV 
+#   EXFOR Reaction        : (67-HO-165(N,G),,WID) 
+#   Incident Energy Type   : -1.0900e+01 eV - 2.1194e+01 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13725.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13725

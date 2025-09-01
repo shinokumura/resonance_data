@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 26-FE-58 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21831-003-3 
 #   First Author          : F.Kaeppler 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 #   Reference             : (J,NSE,84,234,8301) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 26 
 #   A                     : 58 
+#   Isomer                :  
 #   Nuclide               : 26-FE-58 
 # Reaction: 
-#   entry-subent-pointer  :['21831-003-3' '21831-003-4'] 
-#   EXFOR reaction        :['(26-FE-58(N,G),,WID)' '(26-FE-58(N,EL),,WID)'] 
-#   incident energy       : 1.0400e+04 eV - 9.7900e+04 eV 
+#   EXFOR Reaction        : (26-FE-58(N,G),,WID) 
+#   Incident Energy Type   : 1.0400e+04 eV - 9.7900e+04 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21831.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21831

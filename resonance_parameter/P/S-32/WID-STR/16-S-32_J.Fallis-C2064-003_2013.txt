@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 16-S-32 Resonance Parameter: WID/STR 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : C2064-003-0 
 #   First Author          : J.Fallis 
 #   Institute             : (2SPNSPN): Spain 
 #   Reference             : (J,PR/C,88,045801,2013) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 16 
 #   A                     : 32 
+#   Isomer                :  
 #   Nuclide               : 16-S-32 
 # Reaction: 
-#   entry-subent-pointer  :['C2064-003-0'] 
-#   EXFOR reaction        :['(16-S-32(P,G),,WID/STR)'] 
-#   incident energy       : 1.8300e+05 eV - 3.9900e+05 eV 
+#   EXFOR Reaction        : (16-S-32(P,G),,WID/STR) 
+#   Incident Energy Type   : 1.8300e+05 eV - 3.9900e+05 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C20/C2064.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2064

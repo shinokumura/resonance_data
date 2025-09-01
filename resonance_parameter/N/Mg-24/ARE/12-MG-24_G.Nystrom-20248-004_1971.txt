@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 12-MG-24 Resonance Parameter: ARE 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 20248-004-0 
 #   First Author          : G.Nystrom 
 #   Institute             : (2SWDFOA): Research Institute for National Defence, Stockholm 
 #   Reference             : (J,PS,4,95,1971) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 12 
 #   A                     : 24 
+#   Isomer                :  
 #   Nuclide               : 12-MG-24 
 # Reaction: 
-#   entry-subent-pointer  :['20248-004-0'] 
-#   EXFOR reaction        :['(12-MG-24(N,G),,ARE)'] 
-#   incident energy       : 4.4900e+04 eV - 8.6600e+04 eV 
+#   EXFOR Reaction        : (12-MG-24(N,G),,ARE) 
+#   Incident Energy Type   : 4.4900e+04 eV - 8.6600e+04 eV 
+#   Resonance Energy      : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20248.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20248

@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 21-SC-45 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 21280-005-1 
 #   First Author          : N.J.Pattenden 
 #   Institute             : (2UK HAR): Atomic Energy Research Establishment (AERE), Harwell 
 #   Reference             : (J,PPS/A,68,104,55) 
@@ -11,11 +12,12 @@
 # Target: 
 #   Z                     : 21 
 #   A                     : 45 
+#   Isomer                :  
 #   Nuclide               : 21-SC-45 
 # Reaction: 
-#   entry-subent-pointer  :['21280-005-1' '21280-005-3'] 
-#   EXFOR reaction        :['(21-SC-45(N,TOT),,WID)' '(21-SC-45(N,G),,WID)'] 
-#   incident energy       : -1.3000e+02 eV - 3.6000e+03 eV 
+#   EXFOR Reaction        : (21-SC-45(N,TOT),,WID) 
+#   Incident Energy Type   : -1.3000e+02 eV - 3.6000e+03 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/212/21280.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21280

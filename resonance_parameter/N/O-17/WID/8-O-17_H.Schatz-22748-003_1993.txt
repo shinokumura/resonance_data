@@ -1,8 +1,9 @@
 # Header: 
 #   Title                 : 8-O-17 Resonance Parameter: WID 
 #   Source                : EXFOR 
-#   Date Created          : 2025-08-28 
+#   Date Created          : 2025-09-01 
 # EXFOR Bibliographic Information: 
+#   Entry-Subent-Pointer  : 22748-003-2 
 #   First Author          : H.Schatz 
 #   Institute             : (2GERKFK): Karlsruhe Institute of Technology (KIT) 
 #   Reference             : (J,AJ,413,750,1993) 
@@ -11,12 +12,12 @@
 # Target: 
 #   Z                     : 8 
 #   A                     : 17 
+#   Isomer                :  
 #   Nuclide               : 8-O-17 
 # Reaction: 
-#   entry-subent-pointer  :['22748-003-2' '22748-003-3' '22748-003-4' '22748-003-5'] 
-#   EXFOR reaction        :['(8-O-17(N,TOT),,WID)' '(8-O-17(N,EL),,WID)' '(8-O-17(N,A),,WID)'
- '(8-O-17(N,G),,WID)'] 
-#   incident energy       : -7.0000e+03 eV - 2.3800e+05 eV 
+#   EXFOR Reaction        : (8-O-17(N,TOT),,WID) 
+#   Incident Energy Type   : -7.0000e+03 eV - 2.3800e+05 eV 
+#   Resonance Energy      : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/227/22748.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22748

@@ -16,8 +16,8 @@
 #   Nuclide               : 49-IN-115 
 # Reaction: 
 #   EXFOR Reaction        : (49-IN-115(N,EL),,WID/RED) 
-#   Incident Energy Type   : 1.4570e+00 eV - 2.6450e+02 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.4570e+00 eV - 2.6450e+02 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14712.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14712

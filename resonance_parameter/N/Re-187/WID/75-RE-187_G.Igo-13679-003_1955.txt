@@ -16,8 +16,8 @@
 #   Nuclide               : 75-RE-187 
 # Reaction: 
 #   EXFOR Reaction        : (75-RE-187(N,TOT),,WID) 
-#   Incident Energy Type   : 4.4160e+00 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 4.4160e+00 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/136/13679.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13679

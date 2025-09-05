@@ -16,8 +16,8 @@
 #   Nuclide               : 44-RU-101 
 # Reaction: 
 #   EXFOR Reaction        : (44-RU-101(N,TOT),,WID) 
-#   Incident Energy Type   : 1.3600e+01 eV - 1.7200e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.3600e+01 eV - 1.7200e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/408/40866.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40866

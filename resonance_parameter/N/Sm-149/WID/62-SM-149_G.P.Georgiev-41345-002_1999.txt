@@ -16,8 +16,8 @@
 #   Nuclide               : 62-SM-149 
 # Reaction: 
 #   EXFOR Reaction        : (62-SM-149(N,G),,WID) 
-#   Incident Energy Type   : 1.5850e+01 eV - 2.7280e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.5850e+01 eV - 2.7280e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41345.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41345

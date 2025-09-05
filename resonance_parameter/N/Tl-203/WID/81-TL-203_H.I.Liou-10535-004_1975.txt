@@ -16,8 +16,8 @@
 #   Nuclide               : 81-TL-203 
 # Reaction: 
 #   EXFOR Reaction        : (81-TL-203(N,TOT),,WID) 
-#   Incident Energy Type   : 2.0235e+04 eV - 1.0380e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.0235e+04 eV - 1.0380e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/105/10535.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10535

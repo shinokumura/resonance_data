@@ -16,8 +16,8 @@
 #   Nuclide               : 24-CR-50 
 # Reaction: 
 #   EXFOR Reaction        : (24-CR-50(P,EL),,WID) 
-#   Incident Energy Type   : 1.8091e+06 eV - 3.2906e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.8091e+06 eV - 3.2906e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2706.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2706

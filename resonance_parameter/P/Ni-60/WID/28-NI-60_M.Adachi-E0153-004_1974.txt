@@ -16,8 +16,8 @@
 #   Nuclide               : 28-NI-60 
 # Reaction: 
 #   EXFOR Reaction        : (28-NI-60(P,EL),,WID) 
-#   Incident Energy Type   : 3.7228e+06 eV - 3.7431e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 3.7228e+06 eV - 3.7431e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E01/E0153.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/E0153

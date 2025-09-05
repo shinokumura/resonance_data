@@ -16,8 +16,8 @@
 #   Nuclide               : 16-S-32 
 # Reaction: 
 #   EXFOR Reaction        : (16-S-32(N,TOT),,WID) 
-#   Incident Energy Type   : 3.7500e+05 eV - 7.0000e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.7500e+05 eV - 7.0000e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/115/11558.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11558

@@ -16,8 +16,8 @@
 #   Nuclide               : 26-FE-58 
 # Reaction: 
 #   EXFOR Reaction        : (26-FE-58(N,G),,WID) 
-#   Incident Energy Type   : 1.0400e+04 eV - 9.7900e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.0400e+04 eV - 9.7900e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/218/21831.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21831

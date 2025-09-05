@@ -16,8 +16,8 @@
 #   Nuclide               : 54-XE-129 
 # Reaction: 
 #   EXFOR Reaction        : (54-XE-129(N,A),,WID) 
-#   Incident Energy Type   : 9.4000e+00 eV - 1.2580e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 9.4000e+00 eV - 1.2580e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40304.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40304

@@ -16,8 +16,8 @@
 #   Nuclide               : 21-SC-45 
 # Reaction: 
 #   EXFOR Reaction        : (21-SC-45(N,EL),,WID) 
-#   Incident Energy Type   : 1.9170e+04 eV - 1.0570e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.9170e+04 eV - 1.0570e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/201/20160.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20160

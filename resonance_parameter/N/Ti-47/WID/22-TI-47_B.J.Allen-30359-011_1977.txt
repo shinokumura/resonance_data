@@ -16,8 +16,8 @@
 #   Nuclide               : 22-TI-47 
 # Reaction: 
 #   EXFOR Reaction        : (22-TI-47(N,EL),,WID) 
-#   Incident Energy Type   : 3.0900e+03 eV - 7.4750e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.0900e+03 eV - 7.4750e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30359.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30359

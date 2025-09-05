@@ -16,8 +16,8 @@
 #   Nuclide               : 51-SB-121 
 # Reaction: 
 #   EXFOR Reaction        : (51-SB-121(N,G),,WID,,,DERIV) 
-#   Incident Energy Type   : 6.2370e+00 eV - 1.4990e+02 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 6.2370e+00 eV - 1.4990e+02 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/234/23490.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23490

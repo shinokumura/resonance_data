@@ -16,8 +16,8 @@
 #   Nuclide               : 24-CR-50 
 # Reaction: 
 #   EXFOR Reaction        : (24-CR-50(N,G),,WID) 
-#   Incident Energy Type   : 5.5000e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.5000e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/406/40684.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40684

@@ -16,8 +16,8 @@
 #   Nuclide               : 76-OS-192 
 # Reaction: 
 #   EXFOR Reaction        : (76-OS-192(N,EL),,WID) 
-#   Incident Energy Type   : 2.0450e+01 eV - 5.0500e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.0450e+01 eV - 5.0500e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40551.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40551

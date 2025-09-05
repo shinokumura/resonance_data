@@ -16,8 +16,8 @@
 #   Nuclide               : 36-KR-86 
 # Reaction: 
 #   EXFOR Reaction        : (36-KR-86(G,EL),,ARE) 
-#   Incident Energy Type   : 5.5175e+06 eV - 1.0116e+07 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 5.5175e+06 eV - 1.0116e+07 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0178.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0178

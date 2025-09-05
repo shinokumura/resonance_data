@@ -16,8 +16,8 @@
 #   Nuclide               : 95-AM-241 
 # Reaction: 
 #   EXFOR Reaction        : (95-AM-241(N,F),,ARE) 
-#   Incident Energy Type   : -5.0000e-01 eV - 1.5680e+01 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : -5.0000e-01 eV - 1.5680e+01 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/415/41573.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41573

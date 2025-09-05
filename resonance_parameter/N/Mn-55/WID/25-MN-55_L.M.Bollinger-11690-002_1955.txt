@@ -16,8 +16,8 @@
 #   Nuclide               : 25-MN-55 
 # Reaction: 
 #   EXFOR Reaction        : (25-MN-55(N,TOT),,WID) 
-#   Incident Energy Type   : 3.3700e+02 eV - 2.3600e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.3700e+02 eV - 2.3600e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/116/11690.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11690

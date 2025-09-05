@@ -16,8 +16,8 @@
 #   Nuclide               : 37-RB-87 
 # Reaction: 
 #   EXFOR Reaction        : (37-RB-87(N,G),,WID) 
-#   Incident Energy Type   : 2.6683e+02 eV - 4.6728e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.6683e+02 eV - 4.6728e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13177.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13177

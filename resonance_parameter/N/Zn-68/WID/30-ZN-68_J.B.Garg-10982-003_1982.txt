@@ -16,8 +16,8 @@
 #   Nuclide               : 30-ZN-68 
 # Reaction: 
 #   EXFOR Reaction        : (30-ZN-68(N,G),,WID) 
-#   Incident Energy Type   : 3.8010e+03 eV - 3.8018e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.8010e+03 eV - 3.8018e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/109/10982.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10982

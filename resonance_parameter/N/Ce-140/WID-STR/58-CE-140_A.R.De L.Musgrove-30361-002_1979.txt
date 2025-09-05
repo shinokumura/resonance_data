@@ -16,8 +16,8 @@
 #   Nuclide               : 58-CE-140 
 # Reaction: 
 #   EXFOR Reaction        : (58-CE-140(N,G),,WID/STR) 
-#   Incident Energy Type   : 5.6400e+03 eV - 6.2992e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.6400e+03 eV - 6.2992e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30361.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30361

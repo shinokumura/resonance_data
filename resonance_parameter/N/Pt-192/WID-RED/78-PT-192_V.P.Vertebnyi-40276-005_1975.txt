@@ -16,8 +16,8 @@
 #   Nuclide               : 78-PT-192 
 # Reaction: 
 #   EXFOR Reaction        : (78-PT-192(N,EL),,WID/RED) 
-#   Incident Energy Type   : 2.1650e+01 eV - 8.9700e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.1650e+01 eV - 8.9700e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/402/40276.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40276

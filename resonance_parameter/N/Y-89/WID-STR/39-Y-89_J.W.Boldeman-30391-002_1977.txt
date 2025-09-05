@@ -16,8 +16,8 @@
 #   Nuclide               : 39-Y-89 
 # Reaction: 
 #   EXFOR Reaction        : (39-Y-89(N,G),,WID/STR) 
-#   Incident Energy Type   : 2.5990e+03 eV - 4.6070e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.5990e+03 eV - 4.6070e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30391.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30391

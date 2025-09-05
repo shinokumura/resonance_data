@@ -16,8 +16,8 @@
 #   Nuclide               : 34-SE-80 
 # Reaction: 
 #   EXFOR Reaction        : (34-SE-80(N,TOT),,WID) 
-#   Incident Energy Type   : 2.0000e+03 eV - 5.3000e+03 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.0000e+03 eV - 5.3000e+03 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/118/11833.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11833

@@ -16,8 +16,8 @@
 #   Nuclide               : 42-MO-92 
 # Reaction: 
 #   EXFOR Reaction        : (42-MO-92(P,EL),,WID) 
-#   Incident Energy Type   : 5.3220e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.3220e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2621.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2621

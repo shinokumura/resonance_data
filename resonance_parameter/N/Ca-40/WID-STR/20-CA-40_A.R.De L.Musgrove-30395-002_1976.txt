@@ -16,8 +16,8 @@
 #   Nuclide               : 20-CA-40 
 # Reaction: 
 #   EXFOR Reaction        : (20-CA-40(N,G),,WID/STR) 
-#   Incident Energy Type   : 2.8810e+03 eV - 2.9600e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.8810e+03 eV - 2.9600e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/303/30395.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30395

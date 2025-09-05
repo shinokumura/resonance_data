@@ -16,8 +16,8 @@
 #   Nuclide               : 46-PD-107 
 # Reaction: 
 #   EXFOR Reaction        : (46-PD-107(N,G),,WID) 
-#   Incident Energy Type   : 6.8340e+00 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 6.8340e+00 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10666.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10666

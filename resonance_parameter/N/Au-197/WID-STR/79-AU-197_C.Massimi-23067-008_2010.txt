@@ -16,8 +16,8 @@
 #   Nuclide               : 79-AU-197 
 # Reaction: 
 #   EXFOR Reaction        : (79-AU-197(N,G),,WID/STR) 
-#   Incident Energy Type   : 4.9050e+00 eV - 4.8288e+03 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 4.9050e+00 eV - 4.8288e+03 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/230/23067.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/23067

@@ -16,8 +16,8 @@
 #   Nuclide               : 96-CM-248 
 # Reaction: 
 #   EXFOR Reaction        : (96-CM-248(N,F),,ARE) 
-#   Incident Energy Type   : 7.2500e+00 eV - 7.5600e+01 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 7.2500e+00 eV - 7.5600e+01 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/127/12788.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12788

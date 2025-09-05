@@ -16,8 +16,8 @@
 #   Nuclide               : 7-N-14 
 # Reaction: 
 #   EXFOR Reaction        : (7-N-14(P,EL),,WID) 
-#   Incident Energy Type   : -5.0700e+05 eV - 5.0000e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : -5.0700e+05 eV - 5.0000e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/A09/A0945.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/A0945

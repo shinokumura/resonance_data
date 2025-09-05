@@ -16,8 +16,8 @@
 #   Nuclide               : 63-EU-153 
 # Reaction: 
 #   EXFOR Reaction        : (63-EU-153(G,EL),,ARE) 
-#   Incident Energy Type   : 1.1560e+06 eV - 2.8910e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.1560e+06 eV - 2.8910e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0778.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0778

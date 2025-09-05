@@ -16,8 +16,8 @@
 #   Nuclide               : 29-CU-65 
 # Reaction: 
 #   EXFOR Reaction        : (29-CU-65(N,G),,WID) 
-#   Incident Energy Type   : 3.1420e+03 eV - 5.0926e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.1420e+03 eV - 5.0926e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/107/10726.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10726

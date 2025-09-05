@@ -16,8 +16,8 @@
 #   Nuclide               : 19-K-38 
 # Reaction: 
 #   EXFOR Reaction        : (19-K-38(P,G),,WID/STR) 
-#   Incident Energy Type   : 2.1000e+07 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.1000e+07 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C23/C2386.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2386

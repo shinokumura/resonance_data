@@ -16,8 +16,8 @@
 #   Nuclide               : 93-NP-237 
 # Reaction: 
 #   EXFOR Reaction        : (93-NP-237(N,F),,WID) 
-#   Incident Energy Type   : 3.8700e+00 eV - 5.0410e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.8700e+00 eV - 5.0410e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/413/41358.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41358

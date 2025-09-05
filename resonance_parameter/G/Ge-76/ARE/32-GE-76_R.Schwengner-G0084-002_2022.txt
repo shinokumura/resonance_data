@@ -16,8 +16,8 @@
 #   Nuclide               : 32-GE-76 
 # Reaction: 
 #   EXFOR Reaction        : (32-GE-76(G,EL),,ARE) 
-#   Incident Energy Type   : 5.6450e+05 eV - 9.5566e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.6450e+05 eV - 9.5566e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0084.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0084

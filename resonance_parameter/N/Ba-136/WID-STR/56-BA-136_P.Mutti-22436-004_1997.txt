@@ -16,8 +16,8 @@
 #   Nuclide               : 56-BA-136 
 # Reaction: 
 #   EXFOR Reaction        : (56-BA-136(N,G),,WID/STR) 
-#   Incident Energy Type   : 4.4800e+02 eV - 5.9402e+04 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 4.4800e+02 eV - 5.9402e+04 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/224/22436.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22436

@@ -16,8 +16,8 @@
 #   Nuclide               : 92-U-235 
 # Reaction: 
 #   EXFOR Reaction        : (92-U-235(G,EL),,ARE) 
-#   Incident Energy Type   : 1.6563e+06 eV - 2.7547e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.6563e+06 eV - 2.7547e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0161.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0161

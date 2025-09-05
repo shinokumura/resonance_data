@@ -16,8 +16,8 @@
 #   Nuclide               : 67-HO-165 
 # Reaction: 
 #   EXFOR Reaction        : (67-HO-165(N,TOT),,WID) 
-#   Incident Energy Type   : 3.9100e+00 eV - 1.0630e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.9100e+00 eV - 1.0630e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40032.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40032

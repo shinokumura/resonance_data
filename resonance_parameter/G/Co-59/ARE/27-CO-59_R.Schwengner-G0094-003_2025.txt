@@ -16,8 +16,8 @@
 #   Nuclide               : 27-CO-59 
 # Reaction: 
 #   EXFOR Reaction        : (27-CO-59(G,EL),,ARE) 
-#   Incident Energy Type   : 3.1954e+06 eV - 1.0502e+07 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.1954e+06 eV - 1.0502e+07 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0094.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0094

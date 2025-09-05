@@ -16,8 +16,8 @@
 #   Nuclide               : 17-CL-36 
 # Reaction: 
 #   EXFOR Reaction        : (17-CL-36(N,TOT),,WID) 
-#   Incident Energy Type   : 9.0260e+02 eV - 5.8310e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 9.0260e+02 eV - 5.8310e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/139/13905.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13905

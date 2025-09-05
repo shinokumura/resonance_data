@@ -16,8 +16,8 @@
 #   Nuclide               : 10-NE-0 
 # Reaction: 
 #   EXFOR Reaction        : (10-NE-0(N,TOT),,WID) 
-#   Incident Energy Type   : 1.9400e+06 eV - 2.0000e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.9400e+06 eV - 2.0000e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20202.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20202

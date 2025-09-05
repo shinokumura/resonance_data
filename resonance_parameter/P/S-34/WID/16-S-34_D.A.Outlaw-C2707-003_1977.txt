@@ -16,8 +16,8 @@
 #   Nuclide               : 16-S-34 
 # Reaction: 
 #   EXFOR Reaction        : (16-S-34(P,EL),,WID) 
-#   Incident Energy Type   : 1.4673e+06 eV - 2.8109e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.4673e+06 eV - 2.8109e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C27/C2707.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2707

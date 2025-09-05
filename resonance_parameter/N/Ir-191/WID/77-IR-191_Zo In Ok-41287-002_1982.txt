@@ -16,8 +16,8 @@
 #   Nuclide               : 77-IR-191 
 # Reaction: 
 #   EXFOR Reaction        : (77-IR-191(N,G),,WID) 
-#   Incident Energy Type   : 1.0400e+01 eV - 8.2000e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.0400e+01 eV - 8.2000e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/412/41287.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41287

@@ -16,8 +16,8 @@
 #   Nuclide               : 8-O-16 
 # Reaction: 
 #   EXFOR Reaction        : (8-O-16(A,G),,WID/STR) 
-#   Incident Energy Type   : 5.0600e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.0600e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C09/C0911.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0911

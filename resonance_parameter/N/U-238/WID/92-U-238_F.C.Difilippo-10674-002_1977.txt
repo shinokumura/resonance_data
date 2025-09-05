@@ -16,8 +16,8 @@
 #   Nuclide               : 92-U-238 
 # Reaction: 
 #   EXFOR Reaction        : (92-U-238(N,F),,WID) 
-#   Incident Energy Type   : 5.7150e+03 eV - 5.7400e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.7150e+03 eV - 5.7400e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/106/10674.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10674

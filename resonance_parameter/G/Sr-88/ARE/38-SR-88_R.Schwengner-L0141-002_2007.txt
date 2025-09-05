@@ -16,8 +16,8 @@
 #   Nuclide               : 38-SR-88 
 # Reaction: 
 #   EXFOR Reaction        : (38-SR-88(G,EL),,ARE) 
-#   Incident Energy Type   : 1.8359e+06 eV - 1.2026e+07 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.8359e+06 eV - 1.2026e+07 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/L01/L0141.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/L0141

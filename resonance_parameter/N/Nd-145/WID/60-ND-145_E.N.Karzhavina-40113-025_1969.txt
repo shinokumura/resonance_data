@@ -16,8 +16,8 @@
 #   Nuclide               : 60-ND-145 
 # Reaction: 
 #   EXFOR Reaction        : (60-ND-145(N,G),,WID) 
-#   Incident Energy Type   : 2.4250e+02 eV - 6.4100e+02 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.4250e+02 eV - 6.4100e+02 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40113.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40113

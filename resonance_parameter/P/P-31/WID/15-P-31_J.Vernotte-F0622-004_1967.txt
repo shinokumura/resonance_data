@@ -16,8 +16,8 @@
 #   Nuclide               : 15-P-31 
 # Reaction: 
 #   EXFOR Reaction        : (15-P-31(P,TOT),,WID) 
-#   Incident Energy Type   : 1.4030e+06 eV - 1.8960e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.4030e+06 eV - 1.8960e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F06/F0622.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F0622

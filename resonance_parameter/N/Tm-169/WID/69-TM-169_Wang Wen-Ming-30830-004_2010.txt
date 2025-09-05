@@ -16,8 +16,8 @@
 #   Nuclide               : 69-TM-169 
 # Reaction: 
 #   EXFOR Reaction        : (69-TM-169(N,G),,WID) 
-#   Incident Energy Type   : -2.0160e+01 eV - 9.5600e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : -2.0160e+01 eV - 9.5600e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/308/30830.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/30830

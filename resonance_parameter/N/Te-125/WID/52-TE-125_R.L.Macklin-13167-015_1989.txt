@@ -16,8 +16,8 @@
 #   Nuclide               : 52-TE-125 
 # Reaction: 
 #   EXFOR Reaction        : (52-TE-125(N,TOT),,WID) 
-#   Incident Energy Type   : 2.7400e+03 eV - 2.8460e+03 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.7400e+03 eV - 2.8460e+03 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13167.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13167

@@ -16,8 +16,8 @@
 #   Nuclide               : 63-EU-151 
 # Reaction: 
 #   EXFOR Reaction        : (63-EU-151(N,EL),,WID/RED) 
-#   Incident Energy Type   : -2.0000e-02 eV - 1.8300e+00 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : -2.0000e-02 eV - 1.8300e+00 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/204/20489.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20489

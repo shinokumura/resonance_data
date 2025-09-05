@@ -16,8 +16,8 @@
 #   Nuclide               : 73-TA-181 
 # Reaction: 
 #   EXFOR Reaction        : (73-TA-181(N,TOT),,WID) 
-#   Incident Energy Type   : 2.0200e+01 eV - 9.8800e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.0200e+01 eV - 9.8800e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/210/21015.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/21015

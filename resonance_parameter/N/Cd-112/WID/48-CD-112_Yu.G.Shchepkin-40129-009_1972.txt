@@ -16,8 +16,8 @@
 #   Nuclide               : 48-CD-112 
 # Reaction: 
 #   EXFOR Reaction        : (48-CD-112(N,G),,WID) 
-#   Incident Energy Type   : 6.6910e+01 eV - 3.0130e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 6.6910e+01 eV - 3.0130e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/401/40129.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40129

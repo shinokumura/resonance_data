@@ -16,8 +16,8 @@
 #   Nuclide               : 50-SN-117 
 # Reaction: 
 #   EXFOR Reaction        : (50-SN-117(N,G),,WID) 
-#   Incident Energy Type   : -2.9200e+01 eV - 1.4885e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : -2.9200e+01 eV - 1.4885e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/137/13748.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13748

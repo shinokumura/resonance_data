@@ -16,8 +16,8 @@
 #   Nuclide               : 32-GE-72 
 # Reaction: 
 #   EXFOR Reaction        : (32-GE-72(N,G),,WID) 
-#   Incident Energy Type   : 2.6140e+03 eV - 3.6500e+03 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.6140e+03 eV - 3.6500e+03 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40023.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40023

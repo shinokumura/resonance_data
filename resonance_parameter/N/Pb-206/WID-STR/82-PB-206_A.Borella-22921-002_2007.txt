@@ -16,8 +16,8 @@
 #   Nuclide               : 82-PB-206 
 # Reaction: 
 #   EXFOR Reaction        : (82-PB-206(N,G),,WID/STR) 
-#   Incident Energy Type   : 1.0864e+04 eV - 8.0888e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.0864e+04 eV - 8.0888e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/229/22921.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22921

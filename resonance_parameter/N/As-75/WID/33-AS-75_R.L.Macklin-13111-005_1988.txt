@@ -16,8 +16,8 @@
 #   Nuclide               : 33-AS-75 
 # Reaction: 
 #   EXFOR Reaction        : (33-AS-75(N,TOT),,WID) 
-#   Incident Energy Type   : 2.6760e+03 eV - 1.1960e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.6760e+03 eV - 1.1960e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/131/13111.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/13111

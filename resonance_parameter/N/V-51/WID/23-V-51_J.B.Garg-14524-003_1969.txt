@@ -16,8 +16,8 @@
 #   Nuclide               : 23-V-51 
 # Reaction: 
 #   EXFOR Reaction        : (23-V-51(N,EL),,WID) 
-#   Incident Energy Type   : 4.1480e+03 eV - 5.2970e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 4.1480e+03 eV - 5.2970e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/145/14524.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14524

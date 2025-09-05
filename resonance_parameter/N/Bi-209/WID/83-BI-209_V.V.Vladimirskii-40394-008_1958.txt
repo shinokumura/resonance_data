@@ -16,8 +16,8 @@
 #   Nuclide               : 83-BI-209 
 # Reaction: 
 #   EXFOR Reaction        : (83-BI-209(N,TOT),,WID) 
-#   Incident Energy Type   : 8.0000e+02 eV - 3.1000e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 8.0000e+02 eV - 3.1000e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/403/40394.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40394

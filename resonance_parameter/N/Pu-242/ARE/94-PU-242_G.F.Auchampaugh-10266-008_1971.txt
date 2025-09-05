@@ -16,8 +16,8 @@
 #   Nuclide               : 94-PU-242 
 # Reaction: 
 #   EXFOR Reaction        : (94-PU-242(N,F),,ARE) 
-#   Incident Energy Type   : 4.5000e+04 eV - 1.0500e+05 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 4.5000e+04 eV - 1.0500e+05 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/102/10266.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10266

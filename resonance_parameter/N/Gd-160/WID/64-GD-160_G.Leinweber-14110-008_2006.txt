@@ -16,8 +16,8 @@
 #   Nuclide               : 64-GD-160 
 # Reaction: 
 #   EXFOR Reaction        : (64-GD-160(N,EL),,WID) 
-#   Incident Energy Type   : 2.2222e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.2222e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/141/14110.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14110

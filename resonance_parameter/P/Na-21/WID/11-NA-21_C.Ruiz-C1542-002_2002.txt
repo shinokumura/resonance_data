@@ -16,8 +16,8 @@
 #   Nuclide               : 11-NA-21 
 # Reaction: 
 #   EXFOR Reaction        : (11-NA-21(P,EL),,WID) 
-#   Incident Energy Type   : 8.3000e+05 eV - 1.3110e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 8.3000e+05 eV - 1.3110e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1542.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1542

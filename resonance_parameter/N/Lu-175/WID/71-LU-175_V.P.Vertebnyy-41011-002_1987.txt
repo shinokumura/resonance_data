@@ -16,8 +16,8 @@
 #   Nuclide               : 71-LU-175 
 # Reaction: 
 #   EXFOR Reaction        : (71-LU-175(N,G),,WID) 
-#   Incident Energy Type   : 2.6020e+00 eV - 1.5330e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.6020e+00 eV - 1.5330e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/410/41011.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41011

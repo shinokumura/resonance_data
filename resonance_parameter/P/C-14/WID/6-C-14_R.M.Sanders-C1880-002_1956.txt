@@ -16,8 +16,8 @@
 #   Nuclide               : 6-C-14 
 # Reaction: 
 #   EXFOR Reaction        : (6-C-14(P,TOT),,WID) 
-#   Incident Energy Type   : 1.1620e+06 eV - 2.9080e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.1620e+06 eV - 2.9080e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C18/C1880.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1880

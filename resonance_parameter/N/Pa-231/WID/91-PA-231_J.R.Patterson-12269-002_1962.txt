@@ -16,8 +16,8 @@
 #   Nuclide               : 91-PA-231 
 # Reaction: 
 #   EXFOR Reaction        : (91-PA-231(N,G),,WID) 
-#   Incident Energy Type   : 4.0000e-01 eV - 3.4800e+00 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 4.0000e-01 eV - 3.4800e+00 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/122/12269.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/12269

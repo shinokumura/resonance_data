@@ -16,8 +16,8 @@
 #   Nuclide               : 66-DY-164 
 # Reaction: 
 #   EXFOR Reaction        : (66-DY-164(N,EL),,WID) 
-#   Incident Energy Type   : 1.4600e+02 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.4600e+02 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/400/40052.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40052

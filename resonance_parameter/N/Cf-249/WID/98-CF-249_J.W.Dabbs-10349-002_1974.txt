@@ -16,8 +16,8 @@
 #   Nuclide               : 98-CF-249 
 # Reaction: 
 #   EXFOR Reaction        : (98-CF-249(N,F),,WID) 
-#   Incident Energy Type   : 7.0800e-01 eV - 1.6820e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 7.0800e-01 eV - 1.6820e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/103/10349.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/10349

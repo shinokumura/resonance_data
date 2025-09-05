@@ -16,8 +16,8 @@
 #   Nuclide               : 18-AR-40 
 # Reaction: 
 #   EXFOR Reaction        : (18-AR-40(N,EL),,WID/RED,,,DERIV) 
-#   Incident Energy Type   : -1.0000e+02 eV - 7.6486e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : -1.0000e+02 eV - 7.6486e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/414/41422.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/41422

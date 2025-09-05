@@ -16,8 +16,8 @@
 #   Nuclide               : 13-AL-27 
 # Reaction: 
 #   EXFOR Reaction        : (13-AL-27(P,G),,WID) 
-#   Incident Energy Type   : 2.8760e+06 eV - 3.6710e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.8760e+06 eV - 3.6710e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/E16/E1691.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/E1691

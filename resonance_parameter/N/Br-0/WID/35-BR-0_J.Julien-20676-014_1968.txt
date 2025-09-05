@@ -16,8 +16,8 @@
 #   Nuclide               : 35-BR-0 
 # Reaction: 
 #   EXFOR Reaction        : (35-BR-0(N,EL),,WID) 
-#   Incident Energy Type   : 3.5780e+01 eV - 1.9678e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.5780e+01 eV - 1.9678e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/206/20676.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20676

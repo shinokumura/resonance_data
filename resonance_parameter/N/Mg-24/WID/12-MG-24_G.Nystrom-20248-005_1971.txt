@@ -16,8 +16,8 @@
 #   Nuclide               : 12-MG-24 
 # Reaction: 
 #   EXFOR Reaction        : (12-MG-24(N,G),,WID) 
-#   Incident Energy Type   : 8.6600e+04 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 8.6600e+04 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/202/20248.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/20248

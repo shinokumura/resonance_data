@@ -16,8 +16,8 @@
 #   Nuclide               : 55-CS-133 
 # Reaction: 
 #   EXFOR Reaction        : (55-CS-133(N,G),,WID) 
-#   Incident Energy Type   : 6.2313e+02 eV - 1.9547e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 6.2313e+02 eV - 1.9547e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/147/14709.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/14709

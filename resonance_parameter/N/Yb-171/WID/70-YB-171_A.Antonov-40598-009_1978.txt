@@ -16,8 +16,8 @@
 #   Nuclide               : 70-YB-171 
 # Reaction: 
 #   EXFOR Reaction        : (70-YB-171(N,A),,WID) 
-#   Incident Energy Type   : 7.9100e+00 eV - 5.2870e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 7.9100e+00 eV - 5.2870e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/405/40598.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40598

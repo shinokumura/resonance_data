@@ -16,8 +16,8 @@
 #   Nuclide               : 8-O-18 
 # Reaction: 
 #   EXFOR Reaction        : (8-O-18(P,EL),,WID) 
-#   Incident Energy Type   : 3.4790e+06 eV - 6.0630e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.4790e+06 eV - 6.0630e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O20/O2048.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2048

@@ -16,8 +16,8 @@
 #   Nuclide               : 10-NE-22 
 # Reaction: 
 #   EXFOR Reaction        : (10-NE-22(P,G),,WID/STR) 
-#   Incident Energy Type   : 4.3600e+05 eV - 1.2790e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 4.3600e+05 eV - 1.2790e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/O22/O2284.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/O2284

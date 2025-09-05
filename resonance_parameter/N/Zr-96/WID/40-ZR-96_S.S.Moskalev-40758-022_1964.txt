@@ -16,8 +16,8 @@
 #   Nuclide               : 40-ZR-96 
 # Reaction: 
 #   EXFOR Reaction        : (40-ZR-96(N,EL),,WID) 
-#   Incident Energy Type   : 3.0270e+08 eV - 5.5100e+09 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 3.0270e+08 eV - 5.5100e+09 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/407/40758.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/40758

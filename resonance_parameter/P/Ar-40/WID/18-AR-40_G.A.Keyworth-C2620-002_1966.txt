@@ -16,8 +16,8 @@
 #   Nuclide               : 18-AR-40 
 # Reaction: 
 #   EXFOR Reaction        : (18-AR-40(P,TOT),,WID) 
-#   Incident Energy Type   : 1.6432e+06 eV - 2.6020e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.6432e+06 eV - 2.6020e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2620.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2620

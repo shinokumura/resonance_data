@@ -16,8 +16,8 @@
 #   Nuclide               : 14-SI-28 
 # Reaction: 
 #   EXFOR Reaction        : (14-SI-28(A,G),,WID/STR) 
-#   Incident Energy Type   : 1.7700e+06 eV - 3.8100e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.7700e+06 eV - 3.8100e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C08/C0876.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C0876

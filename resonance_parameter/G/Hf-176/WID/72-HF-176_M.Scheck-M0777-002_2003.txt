@@ -16,8 +16,8 @@
 #   Nuclide               : 72-HF-176 
 # Reaction: 
 #   EXFOR Reaction        : (72-HF-176(G,EL),,WID) 
-#   Incident Energy Type   : 1.6430e+06 eV - 3.9160e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.6430e+06 eV - 3.9160e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M07/M0777.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0777

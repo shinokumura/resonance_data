@@ -16,8 +16,8 @@
 #   Nuclide               : 53-I-129 
 # Reaction: 
 #   EXFOR Reaction        : (53-I-129(N,G),,WID/STR) 
-#   Incident Energy Type   : 4.1400e+01 eV - 1.0015e+03 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 4.1400e+01 eV - 1.0015e+03 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/226/22686.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/22686

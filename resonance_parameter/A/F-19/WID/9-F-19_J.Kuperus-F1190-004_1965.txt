@@ -16,8 +16,8 @@
 #   Nuclide               : 9-F-19 
 # Reaction: 
 #   EXFOR Reaction        : (9-F-19(A,TOT),,WID) 
-#   Incident Energy Type   : 1.3180e+06 eV - 2.5200e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.3180e+06 eV - 2.5200e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/F11/F1190.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/F1190

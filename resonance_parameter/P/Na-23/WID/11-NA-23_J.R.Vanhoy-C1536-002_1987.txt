@@ -16,8 +16,8 @@
 #   Nuclide               : 11-NA-23 
 # Reaction: 
 #   EXFOR Reaction        : (11-NA-23(P,EL),,WID) 
-#   Incident Energy Type   : 1.0870e+06 eV - 4.1240e+06 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 1.0870e+06 eV - 4.1240e+06 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C15/C1536.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C1536

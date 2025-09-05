@@ -16,8 +16,8 @@
 #   Nuclide               : 80-HG-198 
 # Reaction: 
 #   EXFOR Reaction        : (80-HG-198(N,TOT),,WID) 
-#   Incident Energy Type   : 2.3300e+01 eV - 9.1100e+01 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 2.3300e+01 eV - 9.1100e+01 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/119/11922.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11922

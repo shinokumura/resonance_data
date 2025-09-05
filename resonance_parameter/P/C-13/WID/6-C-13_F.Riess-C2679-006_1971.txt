@@ -16,8 +16,8 @@
 #   Nuclide               : 6-C-13 
 # Reaction: 
 #   EXFOR Reaction        : (6-C-13(P,TOT),,WID) 
-#   Incident Energy Type   : 2.0000e+03 eV 
-#   Resonance Energy      : EN-RES 
+#   Incident Energy       : 2.0000e+03 eV 
+#   Resonance Energy Type : EN-RES 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/C26/C2679.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/C2679

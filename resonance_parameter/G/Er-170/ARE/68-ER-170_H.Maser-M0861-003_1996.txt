@@ -16,8 +16,8 @@
 #   Nuclide               : 68-ER-170 
 # Reaction: 
 #   EXFOR Reaction        : (68-ER-170(G,EL),,ARE) 
-#   Incident Energy Type   : 1.8250e+06 eV - 3.6950e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 1.8250e+06 eV - 3.6950e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/M08/M0861.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/M0861

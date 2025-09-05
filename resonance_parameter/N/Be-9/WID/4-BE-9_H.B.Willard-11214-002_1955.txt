@@ -16,8 +16,8 @@
 #   Nuclide               : 4-BE-9 
 # Reaction: 
 #   EXFOR Reaction        : (4-BE-9(N,TOT),,WID) 
-#   Incident Energy Type   : 6.2000e+05 eV - 8.1000e+05 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 6.2000e+05 eV - 8.1000e+05 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/112/11214.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/11214

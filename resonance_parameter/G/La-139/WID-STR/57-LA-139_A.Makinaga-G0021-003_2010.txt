@@ -16,8 +16,8 @@
 #   Nuclide               : 57-LA-139 
 # Reaction: 
 #   EXFOR Reaction        : (57-LA-139(G,EL),,WID/STR) 
-#   Incident Energy Type   : 5.3806e+06 eV - 8.5957e+06 eV 
-#   Resonance Energy      : EN 
+#   Incident Energy       : 5.3806e+06 eV - 8.5957e+06 eV 
+#   Resonance Energy Type : EN 
 # Links: 
 #   git                   : https://github.com/IAEA-NDS/exfor_master/blob/main/exforall/G00/G0021.x4 
 #   nds                   : https://nds.iaea.org/EXFOR/G0021

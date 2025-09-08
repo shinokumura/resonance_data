@@ -21,5 +21,5 @@
 
 ## RIPL3 Data
 # ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L
-RIPL-3 Gg           A.V. Ignatyuk           2009          NAN          NAN   1.0500E+05   1.0000E+04        0.0
-RIPL-3 Gg1          A.V. Ignatyuk           2009          NAN          NAN   1.2500E+05   2.0000E+04        1.0
+RIPL-3 Gg           A.V. Ignatyuk           2009          NAN          NAN   1.0500E-01   1.0000E-02        0.0
+RIPL-3 Gg1          A.V. Ignatyuk           2009          NAN          NAN   1.2500E-01   2.0000E-02        1.0

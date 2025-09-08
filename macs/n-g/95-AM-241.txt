@@ -1,28 +1,86 @@
 # Header: 
 #   title: 95-AM-241(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 95 
 #   A: 241 
 #   Nuclide: 95-AM-241 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0030e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-08 MeV - 3.0050e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.32710E+00  |           NAN   (N = 1)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   AV Simple Mean            |  Simple Stdev        : 2.71913E+00  |   2.36089E-01   (N = 3)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.66081E+02  |   2.55622E+02  (N = 21)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.25790E+02 +/-  1.66888E+00  (N = 21)
+#   AV Simple Mean            |  Simple Stdev        : 6.16790E+02  |           NAN   (N = 1)
+#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 4.43308E+02  |   3.26393E+02  (N = 13)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.07965E+02 +/-  3.35730E+00  (N = 13)
+#   MXW/FCT Simple Mean       |  Simple Stdev        : 6.09000E+02  |           NAN   (N = 1)
+#   MXW/FCT Weighted Mean    +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 3.26418E+02  |   3.16134E+02  (N = 10)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.00004E-04 +/-  5.00000E-05  (N = 10)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-21978-003-0         G.Vanpraet              1986   3.0030E-02   0.0000E+00   2.3271E+00   0.0000E+00                
-21978-002-0         G.Vanpraet              1986   2.5000E-02   0.0000E+00   2.4530E+00   0.0000E+00      AV        
-14209-005-0         M.Jandel                2008   2.8250E-02   0.0000E+00   2.8010E+00   4.7300E-01      AV        
-23237-008-0         K.Fraval                2014   2.9205E-02   0.0000E+00   2.9034E+00   0.0000E+00      AV        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10317-002-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   8.3800E+01   2.6000E+00                
+10317-003-0         R.M.Harbour             1973   2.5300E-08   0.0000E+00   7.4800E+02   2.0000E+01                
+40305-006-2         T.S.Belanova            1976   2.5300E-08   0.0000E+00   6.2400E+02   2.0000E+01                
+40467-010-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   7.8000E+02   5.0000E+01                
+40467-011-0         V.D.Gavrilov            1976   2.5300E-08   0.0000E+00   7.3000E+01   1.4000E+01                
+22346-002-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   6.0900E+01   2.6000E+00                
+22346-003-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   7.3600E+02   3.1000E+01                
+22346-004-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   7.9700E+02   3.1000E+01                
+22727-002-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   8.5700E+01   6.3000E+00                
+22727-003-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   7.6800E+02   5.8000E+01                
+22727-004-0         N.Shinohara             1997   2.5300E-08   0.0000E+00   8.5400E+02   5.8000E+01                
+31518-002-0         N.L.Maidana             2001   2.5300E-08   0.0000E+00   6.0200E+02   9.0000E+00                
+22998-002-0         Shoji Nakamura          2007   2.5300E-08   0.0000E+00   6.2800E+02   2.2000E+01                
+14209-002-0         M.Jandel                2008   2.5300E-08   0.0000E+00   6.6500E+02   3.3000E+01                
+22941-014-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   7.0000E+02   2.3000E+01                
+31720-002-0         T.Belgya                2012   2.5300E-08   0.0000E+00   5.4000E+02   3.2000E+01                
+23172-003-0         H.Harada                2014   3.0009E-08   0.0000E+00   5.8139E+02   0.0000E+00                
+23264-002-1         C.Genreith              2014   2.5300E-08   0.0000E+00   6.6300E+02   2.8800E+01                
+23264-002-2         C.Genreith              2014   2.5300E-08   0.0000E+00   6.4990E+02   2.8200E+01                
+23445-003-0         K.Terada                2018   3.0008E-08   0.0000E+00   6.1423E+02   2.4300E+01                
+23620-002-0         G.Rovira                2024   3.0050E-08   0.0000E+00   6.3379E+02   2.0155E+01                
+14209-005-0         M.Jandel                2008   2.9986E-08   0.0000E+00   6.1679E+02   1.7720E+01      AV        
+11885-009-0         H.Pomerance             1955   2.5300E-08   0.0000E+00   6.2500E+02   3.5000E+01     MXW        
+12573-002-0         R.A.Deal                1964   2.5300E-08   0.0000E+00   7.7000E+02   0.0000E+00     MXW        
+12566-002-0         D.H.White               1965   2.5300E-08   0.0000E+00   1.0000E-05   0.0000E+00     MXW        
+40822-002-0         B.N.Markov              1965   2.5300E-08   0.0000E+00   3.0000E-04   0.0000E+00     MXW        
+41560-004-1         A.G.Dovbenko            1969   2.5300E-08   0.0000E+00   5.7300E+02   1.0300E+02     MXW        
+41560-004-2         A.G.Dovbenko            1969   2.5300E-08   0.0000E+00   7.4000E+01   1.5000E+01     MXW        
+41560-004-3         A.G.Dovbenko            1969   2.5300E-08   0.0000E+00   6.4700E+02   1.0400E+02     MXW        
+22462-002-0         G.Fioni                 1998   2.5300E-08   0.0000E+00   6.9500E+02   3.0000E+01     MXW        
+22696-002-0         G.Fioni                 2001   2.5300E-08   0.0000E+00   6.9600E+02   4.8000E+01     MXW        
+22696-006-0         G.Fioni                 2001   2.5300E-08   0.0000E+00   6.3600E+02   4.6000E+01     MXW        
+22696-007-0         G.Fioni                 2001   2.5300E-08   0.0000E+00   6.0000E+01   4.0000E+00     MXW        
+41514-002-0         E.F.Fomushkin           2007   2.5000E-08   0.0000E+00   8.3600E+02   3.2000E+01     MXW        
+41514-006-0         E.F.Fomushkin           2007   2.5000E-08   0.0000E+00   1.5100E+02   7.5000E+00     MXW        
+22941-013-0         A.Letourneau            2009   2.5300E-08   0.0000E+00   6.0900E+02   2.0000E+01 MXW/FCT        
+12576-002-0         G.T.Seaborg             1946   2.5300E-08   0.0000E+00   5.6000E+02   8.4000E+01     SPA        
+12576-003-0         G.T.Seaborg             1946   2.5300E-08   0.0000E+00   8.0000E+02   0.0000E+00     SPA        
+12581-002-0         K.Street Jr             1950   2.5300E-08   0.0000E+00   1.0000E+02   0.0000E+00     SPA        
+12583-002-0         K.Street Jr             1952   2.5300E-08   0.0000E+00   5.0000E+01   0.0000E+00     SPA        
+12583-003-0         K.Street Jr             1952   2.5300E-08   0.0000E+00   3.0000E+02   0.0000E+00     SPA        
+12578-002-0         R.W.Hoff                1959   2.5300E-08   0.0000E+00   6.2000E+02   6.5000E+01     SPA        
+12578-003-0         R.W.Hoff                1959   2.5300E-08   0.0000E+00   1.2000E+02   0.0000E+00     SPA        
+20181-002-0         C.Wagemans              1967   2.5300E-08   0.0000E+00   1.3000E-04   0.0000E+00     SPA        
+41640-002-2         Yu.P.Gangrskiy          1969   2.5300E-08   0.0000E+00   1.0000E-04   5.0000E-05     SPA        
+22941-003-0         A.Letourneau            2009   2.5000E-08   0.0000E+00   7.1418E+02   2.3340E+01     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+23237-002-0         K.Fraval                2014   2.5300E-08   0.0000E+00   6.7800E+02   6.8000E+01           DERIV
+23264-003-1         C.Genreith              2014   2.5300E-08   0.0000E+00   7.2540E+02   3.4400E+01           DERIV
+23264-003-2         C.Genreith              2014   2.5300E-08   0.0000E+00   7.1110E+02   3.3900E+01           DERIV
+23445-005-0         K.Terada                2018   2.5300E-08   0.0000E+00   7.0700E+02   2.9000E+01           DERIV
+23620-003-0         G.Rovira                2024   2.5300E-08   0.0000E+00   7.0800E+02   2.2000E+01           DERIV
+20881-011-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   7.7500E+02   0.0000E+00     SPA   DERIV
+20881-012-0         H.Ihle                  1972   2.5000E-08   0.0000E+00   9.5000E+01   0.0000E+00     SPA   DERIV

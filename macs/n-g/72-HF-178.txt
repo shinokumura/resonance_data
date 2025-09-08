@@ -1,39 +1,38 @@
 # Header: 
 #   title: 72-HF-178(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 72 
 #   A: 178 
 #   Nuclide: 72-HF-178 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.9900e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.08475E-01  |   1.79805E-01   (N = 4)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.61206E-01 +/-  1.55984E-02   (N = 4)
-#   AV Simple Mean            |  Simple Stdev        : 3.07000E-01  |   1.41421E-03   (N = 2)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
-#   MXW Simple Mean           |  Simple Stdev        : 3.19000E-01  |           NAN   (N = 1)
-#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 7.67500E+01  |   9.19239E-01   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 7.65860E+01 +/-  1.34518E+00   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 4.37500E+01  |   3.07503E+01   (N = 4)
+#   MXW Weighted Mean        +/- Weighted Error      : 6.00006E-06 +/-  5.00000E-06   (N = 4)
+#   SPA Simple Mean           |  Simple Stdev        : 1.01000E-04  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-30248-011-0         K.Siddappa               nan   2.5000E-02   0.0000E+00   2.1700E-01   2.7000E-02                
-22360-032-1         M.C.Moxon               1974   2.9878E-02   0.0000E+00   4.2550E-01   3.6000E-02                
-22360-032-2         M.C.Moxon               1974   2.9878E-02   0.0000E+00   6.4540E-01   4.1000E-02                
-41225-022-0         M.V.Bokhovko            1993   3.0000E-02   0.0000E+00   3.4600E-01   2.7000E-02                
-12755-007-0         H.Beer                  1982   2.5000E-02   0.0000E+00   3.0600E-01   0.0000E+00      AV        
-22926-016-0         K.Wisshak               2006   2.7500E-02   0.0000E+00   3.0800E-01   0.0000E+00      AV        
-22926-021-0         K.Wisshak               2006   3.0000E-02   0.0000E+00   3.1900E-01   0.0000E+00     MXW        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22360-018-0         M.C.Moxon               1974   2.5300E-08   0.0000E+00   7.7400E+01   2.2000E+00                
+40464-007-0         E.A.Pavlenko            1976   2.9900E-08   0.0000E+00   7.6100E+01   1.7000E+00                
+11507-087-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   7.2000E+01   1.0800E+01     MXW        
+31467-003-0         K.F.Alexander           1962   2.5300E-08   0.0000E+00   5.0000E+01   1.5000E+01     MXW        
+21403-010-0         A.Foglio Para           1967   2.5300E-08   0.0000E+00   5.3000E+01   6.0000E+00     MXW        
+14562-002-0         K.S.Krane               2019   2.5300E-08   0.0000E+00   6.0000E-06   5.0000E-06     MXW        
+32249-002-0         V.A.Zheltonozhsky       2019   2.5300E-08   0.0000E+00   1.0100E-04   8.0000E-06     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-41177-066-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   3.2700E-01   2.0000E-02     MXW   DERIV
-V0102-405-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.1400E-01   1.0000E-02     MXW   RECOM
-V0102-406-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.1900E-01   3.0000E-03     MXW   RECOM
-V1002-374-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.1600E-01   3.0000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-371-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   8.4000E+01   4.0000E+00           RECOM
+V1002-371-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.3000E+01   6.0000E+00           RECOM

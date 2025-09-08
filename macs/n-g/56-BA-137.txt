@@ -1,39 +1,27 @@
 # Header: 
 #   title: 56-BA-137(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 56 
 #   A: 137 
 #   Nuclide: 56-BA-137 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4819e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 7.56100E-02  |           NAN   (N = 1)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   AV Simple Mean            |  Simple Stdev        : 6.42500E-02  |   6.01041E-03   (N = 2)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
-#   MXW Simple Mean           |  Simple Stdev        : 7.06000E-02  |   1.09119E-02   (N = 3)
-#   MXW Weighted Mean        +/- Weighted Error      : 7.61373E-02 +/-  2.00881E-03   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 4.90000E+00  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-13695-005-0         P.E.Koehler             1998   2.7480E-02   0.0000E+00   7.5610E-02   2.4760E-03                
-30328-015-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   6.0000E-02   1.0000E-02      AV        
-22307-019-0         F.Voss                  1994   2.7500E-02   0.0000E+00   6.8500E-02   0.0000E+00      AV        
-30328-017-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   5.8000E-02   1.0000E-02     MXW        
-22307-023-0         F.Voss                  1994   3.0000E-02   0.0000E+00   7.6900E-02   2.9000E-03     MXW        
-22337-005-0         K.Wisshak               1994   3.0000E-02   1.0000E-03   7.6900E-02   2.9000E-03     MXW        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11507-071-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   4.9000E+00   3.9200E-01     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-22307-027-0         F.Voss                  1994   3.0000E-02   0.0000E+00   7.6900E-02   3.3000E-03     MXW   DERIV
-13695-002-0         P.E.Koehler             1998   3.0000E-02   0.0000E+00   7.5700E-02   2.5000E-03     MXW   DERIV
-V0012-066-2         B.Strohmaier            1978   2.4819E-02   0.0000E+00   8.3704E-02   0.0000E+00            EVAL
-V0102-297-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   7.6300E-02   2.4000E-03     MXW   RECOM
-V1002-104-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   5.8000E-02   1.0000E-02     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-102-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.6000E+00   2.0000E-01           RECOM

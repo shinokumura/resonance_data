@@ -1,12 +1,13 @@
 # Header: 
 #   title: 57-LA-139(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 57 
 #   A: 139 
 #   Nuclide: 57-LA-139 
 # Reaction: 
+#   Type: N,G 
 #   Type: N,G 
 #   Incident energy       : 4.0000e-07 MeV - 5.0000e-01 MeV 
 # Residual: 
@@ -21,7 +22,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 31753-007-0         K.F.Alexander           1964   5.0000E-07   0.0000E+00   1.2000E+01   1.0000E+00                
 10085-004-0         H.A.O'Brien Jr          1967   5.4000E-07   0.0000E+00   1.1200E+01   6.0000E-01                
 20633-007-0         E.Orvini                1968   5.5000E-07   0.0000E+00   1.0800E+01   4.0000E-01                
@@ -38,7 +39,7 @@
 40799-006-0         V.A.Konks               1964   7.3000E-04   0.0000E+00   9.0000E-01   1.0000E-01     RNV        
 20791-015-0         T.B.Ryves               1971   5.0000E-07   0.0000E+00   7.5000E+00   0.0000E+00     RNV        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 20646-009-0         F.De Corte              1971   5.0000E-07   0.0000E+00   1.1000E+01   0.0000E+00           DERIV
 22930-005-0         R.Terlizzi              2007   5.0000E-01   0.0000E+00   1.0800E+01   1.0000E+00           DERIV
 V1002-117-0         S.F.Mughabghab          2006   1.3009E-02   0.0000E+00   1.2100E+01   6.0000E-01     LIM   RECOM

@@ -1,80 +1,56 @@
 # Header: 
 #   title: 83-BI-209(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 83 
 #   A: 209 
 #   Nuclide: 83-BI-209 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4000e-02 MeV - 3.4900e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.20000E-03  |   9.79796E-04   (N = 4)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.89317E-03 +/-  6.55750E-04   (N = 4)
-#   AV Simple Mean            |  Simple Stdev        : 3.78460E-03  |   1.53386E-03   (N = 2)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
-#   MXW Simple Mean           |  Simple Stdev        : 2.40500E-03  |   3.84144E-04   (N = 4)
-#   MXW Weighted Mean        +/- Weighted Error      : 2.16060E-03 +/-  6.87933E-05   (N = 4)
-#   MXW/RAW Simple Mean       |  Simple Stdev        : 2.54000E-03  |   1.12694E-04   (N = 3)
-#   MXW/RAW Weighted Mean    +/- Weighted Error      : 2.54000E-03 +/-  5.77350E-05   (N = 3)
-#   SPA Simple Mean           |  Simple Stdev        : 2.08114E-03  |   4.12378E-04  (N = 21)
-#   SPA Weighted Mean        +/- Weighted Error      : 2.22501E-03 +/-  1.64097E-05  (N = 21)
-#   SPA/AV Simple Mean        |  Simple Stdev        : 1.65000E-03  |           NAN   (N = 1)
-#   SPA/AV Weighted Mean     +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.74000E-02  |   1.06957E-02   (N = 8)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.40805E-02 +/-  4.17722E-04   (N = 8)
+#   MXW Simple Mean           |  Simple Stdev        : 2.06967E-02  |   8.46055E-03   (N = 6)
+#   MXW Weighted Mean        +/- Weighted Error      : 2.32910E-02 +/-  3.41709E-04   (N = 6)
+#   SPA Simple Mean           |  Simple Stdev        : 1.95833E-02  |   6.86073E-03   (N = 6)
+#   SPA Weighted Mean        +/- Weighted Error      : 2.04280E-02 +/-  6.83708E-04   (N = 6)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-11429-032-0         R.Booth                 1958   2.4000E-02   5.0000E-03   1.8000E-03   7.0000E-04                
-11329-072-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.0000E-03   4.0000E-03                
-40072-017-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   3.0000E-03   3.0000E-03                
-40072-035-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   3.0000E-03   3.0000E-03                
-10610-006-0         R.Macklin               1976   3.0000E-02   0.0000E+00   4.8692E-03   0.0000E+00      AV        
-22848-002-0         K.Saito                 2004   3.0000E-02   0.0000E+00   2.7000E-03   1.3000E-04      AV        
-22400-003-0         P.Mutti                 1998   3.0000E-02   0.0000E+00   2.5400E-03   4.8000E-04     MXW        
-22883-010-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.5400E-03   1.5000E-04     MXW        
-22883-019-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.7000E-03   1.6000E-04     MXW        
-31780-004-0         A.Shor                  2017   3.0000E-02   0.0000E+00   1.8400E-03   9.0000E-05     MXW        
-22883-015-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.6100E-03   1.0000E-04 MXW/RAW        
-22883-016-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.4100E-03   1.0000E-04 MXW/RAW        
-22883-017-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.6000E-03   1.0000E-04 MXW/RAW        
-22836-002-0         K.Saito                 2003   3.0000E-02   0.0000E+00   1.9400E-03   3.9000E-04     SPA        
-22836-003-0         K.Saito                 2003   3.0000E-02   0.0000E+00   6.5000E-04   4.0000E-04     SPA        
-22883-006-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.4600E-03   1.0000E-04     SPA        
-22883-007-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.2700E-03   1.0000E-04     SPA        
-22883-008-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.4500E-03   1.0000E-04     SPA        
-23051-002-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2790E-03   4.7403E-05     SPA        
-23051-002-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2230E-03   4.5127E-05     SPA        
-23051-002-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.1970E-03   1.2325E-04     SPA        
-23051-002-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2030E-03   8.1291E-05     SPA        
-23051-003-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2300E-03   7.0000E-05     SPA        
-23051-004-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2700E-03   7.0000E-05     SPA        
-23051-009-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2790E-03   4.7000E-05     SPA        
-23051-009-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2230E-03   4.5000E-05     SPA        
-23051-009-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.1970E-03   1.2300E-04     SPA        
-23051-009-0         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.2030E-03   8.1000E-05     SPA        
-23051-010-2         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.3700E-03   7.0000E-05     SPA        
-23051-011-2         S.Bisterzo              2007   2.5000E-02   5.0000E-04   2.4100E-03   7.0000E-05     SPA        
-31780-002-1         A.Shor                  2017   3.4900E-02   0.0000E+00   1.6700E-03   7.0000E-05     SPA        
-31780-002-2         A.Shor                  2017   3.4900E-02   0.0000E+00   1.5500E-03   1.4000E-04     SPA        
-31780-002-3         A.Shor                  2017   3.4900E-02   0.0000E+00   1.8000E-03   3.0000E-04     SPA        
-23778-004-0         K.Al-Khasawneh          2021   2.5000E-02   0.0000E+00   1.8300E-03   0.0000E+00     SPA        
-31780-003-0         A.Shor                  2017   3.4900E-02   0.0000E+00   1.6500E-03   7.0000E-05  SPA/AV        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+20638-065-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   3.6000E-02   4.0000E-03                
+31552-005-0         A.Borella               2011   2.5300E-08   0.0000E+00   3.9600E-02   1.0000E-03                
+31552-006-0         A.Borella               2011   2.5300E-08   0.0000E+00   1.8200E-02   7.0000E-04                
+31552-007-0         A.Borella               2011   2.5300E-08   0.0000E+00   2.1400E-02   8.0000E-04                
+23778-002-0         K.Al-Khasawneh          2021   2.5300E-08   0.0000E+00   1.6200E-02   0.0000E+00                
+31849-002-1         A.Shor                  2022   2.5300E-08   0.0000E+00   2.1600E-02   1.1000E-03                
+31849-002-2         A.Shor                  2022   2.5300E-08   0.0000E+00   2.2300E-02   2.8000E-03                
+31849-002-3         A.Shor                  2022   2.5300E-08   0.0000E+00   4.3900E-02   3.0000E-03                
+21362-007-0         F.C.W.Colmer            1950   2.5300E-08   0.0000E+00   2.0500E-02   1.5000E-03     MXW        
+41648-014-0         Yu.A.Prokhorov          1956   2.5300E-08   0.0000E+00   1.0000E-02   0.0000E+00     MXW        
+20853-015-0         M.Takiue                1978   2.5300E-08   0.0000E+00   2.4200E-02   4.0000E-04     MXW        
+23377-002-0         A.Letourneau            2002   2.5300E-08   0.0000E+00   3.5000E-02   1.7500E-03     MXW        
+22918-002-0         A.Letourneau            2006   2.5300E-08   0.0000E+00   1.6080E-02   1.8000E-03     MXW        
+22918-003-0         A.Letourneau            2006   2.5300E-08   0.0000E+00   1.8400E-02   9.0000E-04     MXW        
+11447-131-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.5000E-02   3.0000E-03     SPA        
+23520-002-0         D.J.Littler             1953   2.5300E-08   0.0000E+00   3.0800E-02   2.2000E-03     SPA        
+23520-003-1         D.J.Littler             1953   2.5300E-08   0.0000E+00   2.0500E-02   1.5000E-03     SPA        
+23520-004-0         D.J.Littler             1953   2.5300E-08   0.0000E+00   2.0400E-02   1.6000E-03     SPA        
+23520-005-0         D.J.Littler             1953   2.5300E-08   0.0000E+00   2.0500E-02   1.1000E-03     SPA        
+23520-006-0         D.J.Littler             1953   2.5300E-08   0.0000E+00   1.0300E-02   2.5000E-03     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-22944-003-0         C.Domingo-Pardo         2006   2.5000E-02   0.0000E+00   2.8900E-03   5.0000E-04     MXW   DERIV
-23051-005-0         S.Bisterzo              2007   3.0000E-02   0.0000E+00   2.1600E-03   7.0000E-05     MXW   DERIV
-23051-006-0         S.Bisterzo              2007   3.0000E-02   0.0000E+00   2.2000E-03   7.0000E-05     MXW   DERIV
-23051-012-0         S.Bisterzo              2007   3.0000E-02   0.0000E+00   2.1600E-03   7.0000E-05     MXW   DERIV
-23051-013-0         S.Bisterzo              2007   3.0000E-02   0.0000E+00   2.3100E-03   7.0000E-05     MXW   DERIV
-23778-005-0         K.Al-Khasawneh          2021   2.5000E-02   0.0000E+00   2.1200E-03   0.0000E+00     MXW   DERIV
-V0102-489-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.7000E-03   4.8000E-04     MXW   RECOM
-V0102-490-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.5600E-03   3.0000E-04     MXW   RECOM
-V0102-491-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.3200E-03   1.4000E-04     MXW   RECOM
-V0102-492-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.2300E-03   7.0000E-05     MXW   RECOM
-V1002-539-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   2.7000E-03   4.8000E-04     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+22944-004-0         C.Domingo-Pardo         2006   2.5300E-08   0.0000E+00   2.3600E-02   9.0000E-04           DERIV
+23377-004-1         A.Letourneau            2002   2.5300E-08   0.0000E+00   1.7900E-02   2.0000E-03     MXW   DERIV
+23377-004-2         A.Letourneau            2002   2.5300E-08   0.0000E+00   1.7100E-02   2.0000E-03     MXW   DERIV
+22918-004-0         A.Letourneau            2006   2.5300E-08   0.0000E+00   1.7900E-02   8.0000E-04     MXW   DERIV
+V1002-537-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.2400E-02   7.0000E-04           RECOM
+V1002-537-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.6500E-02   7.0000E-04           RECOM
+V1002-537-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.7700E-02   7.0000E-04           RECOM

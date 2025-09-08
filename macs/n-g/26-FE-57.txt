@@ -1,41 +1,33 @@
 # Header: 
 #   title: 26-FE-57(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 26 
 #   A: 57 
 #   Nuclide: 26-FE-57 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 7.00000E-02  |           NAN   (N = 1)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   AV Simple Mean            |  Simple Stdev        : 7.62000E-02  |           NAN   (N = 1)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   MXW Simple Mean           |  Simple Stdev        : 3.07500E-02  |   5.58614E-03   (N = 2)
-#   MXW Weighted Mean        +/- Weighted Error      : 3.30046E-02 +/-  2.03832E-03   (N = 2)
-#   RAW Simple Mean           |  Simple Stdev        : 3.74060E-02  |           NAN   (N = 1)
-#   RAW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   SPA Simple Mean           |  Simple Stdev        : 3.71700E-02  |           NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 2.40000E+00  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 2.50000E+00  |           NAN   (N = 1)
 #   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-11575-011-0         R.L.Macklin             1964   3.0000E-02   0.0000E+00   7.0000E-02   4.0000E-03                
-30424-004-0         B.J.Allen               1977   2.5000E-02   0.0000E+00   7.6200E-02   1.0700E-02      AV        
-30424-005-0         B.J.Allen               1977   3.0000E-02   0.0000E+00   3.4700E-02   2.3000E-03     MXW        
-23734-035-0         G.Giubrone              2014   3.0000E-02   0.0000E+00   2.6800E-02   4.4000E-03     MXW        
-20374-014-0         H.Beer                  1975   2.9970E-02   0.0000E+00   3.7406E-02   5.7605E-03     RAW        
-23103-003-0         T.Wang                  2010   3.0000E-02   0.0000E+00   3.7170E-02   1.4500E-03     SPA        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11507-024-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   2.4000E+00   2.8800E-01     MXW        
+23372-005-0         W.Michaelis             1969   2.5300E-08   0.0000E+00   2.5000E+00   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-20374-028-0         H.Beer                  1975   3.0000E-02   0.0000E+00   2.8000E-02   0.0000E+00     MXW   DERIV
-23103-005-0         T.Wang                  2010   3.0000E-02   0.0000E+00   4.4480E-02   7.5600E-03     MXW   DERIV
-V0102-078-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   4.0000E-02   4.0000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+32234-010-1         L.L.Litvinskij          1994   2.5300E-08   0.0000E+00   1.3800E+00   0.0000E+00           DERIV
+32234-010-2         L.L.Litvinskij          1994   2.5300E-08   0.0000E+00   1.2000E+00   0.0000E+00           DERIV
+23734-034-0         G.Giubrone              2014   2.5300E-08   0.0000E+00   9.4300E-01   1.0300E-03           DERIV
+V1001-205-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.4800E+00   3.0000E-01           RECOM

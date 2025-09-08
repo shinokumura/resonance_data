@@ -1,48 +1,66 @@
 # Header: 
 #   title: 27-CO-59(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 27 
 #   A: 59 
 #   Nuclide: 27-CO-59 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4000e-02 MeV - 3.0060e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.34800E-02  |   3.56021E-02   (N = 5)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 9.29599E-03 +/-  7.43002E-04   (N = 5)
-#   MXW Simple Mean           |  Simple Stdev        : 3.90333E-02  |   1.70392E-03   (N = 3)
-#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
-#   RAW Simple Mean           |  Simple Stdev        : 7.50670E-02  |   3.97295E-02   (N = 2)
-#   RAW Weighted Mean        +/- Weighted Error      : 6.77100E-02 +/-  6.45502E-03   (N = 2)
-#   SPA Simple Mean           |  Simple Stdev        : 4.08667E-02  |   2.85715E-03   (N = 3)
-#   SPA Weighted Mean        +/- Weighted Error      : 3.97628E-02 +/-  6.86244E-04   (N = 3)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.37650E+01  |   9.15698E+00  (N = 12)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 3.73520E+01 +/-  9.71998E-02  (N = 12)
+#   AV Simple Mean            |  Simple Stdev        : 2.48500E+01  |   1.08382E+01   (N = 3)
+#   AV Weighted Mean         +/- Weighted Error      : 2.49898E+01 +/-  1.25390E-01   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 2.95933E+01  |   1.14317E+01  (N = 15)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.56762E+01 +/-  1.00683E-01  (N = 15)
+#   SPA Simple Mean           |  Simple Stdev        : 2.87000E+01  |   9.89949E+00   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-13028-002-0         C.Kimball               1953   2.4000E-02   0.0000E+00   7.7000E-03   2.3100E-03                
-40244-127-0         A.I.Leipunskiy          1958   2.5000E-02   0.0000E+00   7.7000E-03   8.0000E-04                
-11329-012-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   8.8000E-02   3.0000E-02                
-30506-007-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   4.8000E-02   5.0000E-03                
-31712-002-0         M.Sriramachandra Murty    1973   2.4000E-02   5.0000E-03   6.6000E-02   7.0000E-03                
-20555-004-0         R.R.Spencer             1976   3.0000E-02   0.0000E+00   3.8000E-02   0.0000E+00     MXW        
-22928-003-0         M.Heil                  2005   3.0000E-02   0.0000E+00   4.1000E-02   2.0000E-03     MXW        
-31817-007-0         L.Weissman              2019   3.0000E-02   0.0000E+00   3.8100E-02   0.0000E+00     MXW        
-20555-002-0         R.R.Spencer             1976   2.6150E-02   0.0000E+00   4.6974E-02   8.1265E-03     RAW        
-20555-003-0         R.R.Spencer             1976   3.0060E-02   0.0000E+00   1.0316E-01   1.0625E-02     RAW        
-22996-003-0         M.Heil                  2008   2.5000E-02   0.0000E+00   4.1100E-02   1.5000E-03     SPA        
-22996-013-0         M.Heil                  2008   2.5000E-02   0.0000E+00   4.3600E-02   1.5000E-03     SPA        
-31817-004-2         L.Weissman              2019   2.8000E-02   0.0000E+00   3.7900E-02   9.0000E-04     SPA        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+20638-012-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   3.8200E+01   7.0000E-01                
+11028-010-0         J.W.Meadows             1961   2.5300E-08   0.0000E+00   3.6300E+01   6.0000E-01                
+30073-006-0         Al.Stefanescu           1961   2.5300E-08   0.0000E+00   3.8400E+01   9.9000E-01                
+20658-008-0         J.C.Carre               1966   2.5300E-08   0.0000E+00   3.8000E+01   3.0000E-01                
+21472-002-0         M.G.Silk                1970   2.5300E-08   0.0000E+00   3.7240E+01   1.1000E-01                
+20182-002-0         J.P.Deworm              1972   2.5300E-08   0.0000E+00   3.7700E+01   4.0000E-01                
+22234-003-0         I.Celenk                1991   2.5300E-08   0.0000E+00   4.6940E+01   0.0000E+00                
+23266-041-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   2.0400E+01   0.0000E+00                
+23266-041-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   2.1000E+01   0.0000E+00                
+23266-045-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   3.7160E+01   0.0000E+00                
+23266-045-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   3.7140E+01   0.0000E+00                
+23266-047-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   1.6700E+01   0.0000E+00                
+23266-040-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   2.0700E+01   5.0000E-01      AV        
+23266-044-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   3.7150E+01   2.0000E-01      AV        
+23266-046-0         F.Farina Arbocco        2013   2.5300E-08   0.0000E+00   1.6700E+01   1.7000E-01      AV        
+11447-025-0         L.Seren                 1947   2.5300E-08   0.0000E+00   6.6000E-01   1.3200E-01     MXW        
+11047-021-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   3.4200E+01   1.7100E+00     MXW        
+11743-002-0         L.Yaffe                 1951   2.5300E-08   0.0000E+00   3.4200E+01   1.4000E+00     MXW        
+21415-003-0         J.Ailloud               1952   2.5300E-08   0.0000E+00   3.5400E+01   1.0000E+00     MXW        
+11736-002-0         N.Moss                  1953   2.5300E-08   0.0000E+00   1.8300E+01   1.7000E+00     MXW        
+20651-005-0         G.Wolf                  1960   2.5300E-08   0.0000E+00   3.8000E+01   5.0000E-01     MXW        
+12635-003-0         J.R.Berreth             1962   2.5300E-08   0.0000E+00   3.9100E+01   0.0000E+00     MXW        
+11748-002-0         B.Keisch                1963   2.5300E-08   0.0000E+00   2.0000E+01   2.0000E+00     MXW        
+21255-002-0         R.Vaninbroukx           1966   2.5300E-08   0.0000E+00   3.7400E+01   3.0000E-01     MXW        
+11738-003-0         J.S.Merritt             1968   2.5300E-08   0.0000E+00   3.7140E+01   2.7000E-01     MXW        
+20656-002-0         J.I.Kim                 1968   2.5300E-08   0.0000E+00   3.6600E+01   5.0000E-01     MXW        
+11687-005-0         R.P.Schuman             1969   2.5300E-08   0.0000E+00   3.8000E+01   2.0000E+00     MXW        
+20625-009-0         E.M.Gryntakis           1976   2.5300E-08   0.0000E+00   1.8800E+01   1.5000E+00     MXW        
+20625-010-0         E.M.Gryntakis           1976   2.5300E-08   0.0000E+00   1.8650E+01   1.7000E+00     MXW        
+20625-011-0         E.M.Gryntakis           1976   2.5300E-08   0.0000E+00   3.7450E+01   4.5000E-01     MXW        
+11447-026-0         L.Seren                 1947   2.5300E-08   0.0000E+00   2.1700E+01   4.3400E+00     SPA        
+11528-013-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   3.5700E+01   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-20374-029-0         H.Beer                  1975   3.0000E-02   0.0000E+00   7.2000E-02   0.0000E+00     MXW   DERIV
-22996-008-0         M.Heil                  2008   3.0000E-02   0.0000E+00   3.9600E-02   0.0000E+00     MXW   DERIV
-22996-018-0         M.Heil                  2008   3.0000E-02   0.0000E+00   4.2100E-02   0.0000E+00     MXW   DERIV
-V0102-082-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.8000E-02   4.0000E-03     MXW   RECOM
-V0102-083-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.9600E-02   2.7000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11745-002-0         S.Bernstein             1952   2.5300E-08   0.0000E+00   3.8700E+01   0.0000E+00           DERIV
+V1001-216-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   3.7180E+01   6.0000E-02           RECOM
+V1001-216-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.0400E+01   8.0000E-01           RECOM

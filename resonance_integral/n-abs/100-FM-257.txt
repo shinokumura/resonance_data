@@ -1,12 +1,13 @@
 # Header: 
 #   title: 100-FM-257(N,ABS) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 100 
 #   A: 257 
 #   Nuclide: 100-FM-257 
 # Reaction: 
+#   Type: N,ABS 
 #   Type: N,ABS 
 #   Incident energy       : 5.0000e-07 MeV 
 # Residual: 
@@ -19,5 +20,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 10650-003-0         C.E.Bemis Jr            1970   5.0000E-07   0.0000E+00   5.0000E+03   0.0000E+00                

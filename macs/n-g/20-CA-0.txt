@@ -1,24 +1,28 @@
 # Header: 
 #   title: 20-CA-0(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 20 
 #   A: 0 
 #   Nuclide: 20-CA-0 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.15000E-02  |   2.12132E-03   (N = 2)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.00297E-02 +/-  9.95037E-04   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 4.00000E-01  |   4.24264E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 4.00000E-01 +/-  2.82843E-02   (N = 2)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-40374-005-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   1.3000E-02   1.0000E-02                
-11331-010-0         R.L.Macklin             1963   3.0000E-02   7.0000E-03   1.0000E-02   1.0000E-03                
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+12616-007-0         J.Coltman               1946   2.5300E-08   0.0000E+00   3.7000E-01   4.0000E-02     MXW        
+10168-008-0         F.P.Cranston            1971   2.5000E-08   0.0000E+00   4.3000E-01   4.0000E-02     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1001-128-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.3000E-01   2.0000E-02           RECOM

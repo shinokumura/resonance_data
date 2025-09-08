@@ -1,12 +1,13 @@
 # Header: 
 #   title: 55-CS-133(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 55 
 #   A: 133 
 #   Nuclide: 55-CS-133 
 # Reaction: 
+#   Type: N,G 
 #   Type: N,G 
 #   Incident energy       : 4.0000e-07 MeV - 1.0000e+01 MeV 
 # Residual: 
@@ -21,7 +22,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 12006-003-0         A.Baerg                 1960   5.0000E-07   0.0000E+00   3.4400E+01   1.9000E+00                
 12022-003-0         F.Brown                 1961   5.0000E-07   0.0000E+00   3.7000E+02   5.0000E+01                
 11658-014-0         G.H.E.Sims              1968   5.0000E-07   0.0000E+00   4.9500E+02   1.7000E+01                
@@ -46,7 +47,7 @@
 22469-004-0         S.Nakamura              1999   5.0000E-07   0.0000E+00   2.2000E+01   1.7000E+00     RNV        
 22469-006-0         S.Nakamura              1999   5.0000E-07   0.0000E+00   2.6300E+02   1.5000E+01     RNV        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 14528-020-0         R.C.Block               2019   1.0000E+01   0.0000E+00   4.6000E+02   1.0000E+01           DERIV
 V1002-077-1         S.F.Mughabghab          2006   2.9937E-03   0.0000E+00   4.3700E+02   2.6000E+01     LIM   RECOM
 V1002-077-2         S.F.Mughabghab          2006   2.9937E-03   0.0000E+00   2.9000E+01   1.1000E+00     LIM   RECOM

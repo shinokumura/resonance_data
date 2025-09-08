@@ -1,25 +1,37 @@
 # Header: 
 #   title: 68-ER-0(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 68 
 #   A: 0 
 #   Nuclide: 68-ER-0 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.9500e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 3.3000e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.14000E-01  |   1.26760E-01   (N = 3)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 8.73007E-01 +/-  6.79465E-02   (N = 3)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.60267E+02  |   9.03401E+00   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.64881E+02 +/-  4.06867E+00   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 1.66000E+02  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-11329-047-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   9.6000E-01   8.6400E-02                
-11329-056-0         J.H.Gibbons             1961   2.9500E-02   0.0000E+00   7.5000E-01   0.0000E+00                
-30233-008-0         J.R.D.Lepine            1972   3.0000E-02   6.0000E-03   7.3200E-01   1.1000E-01                
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11944-004-0         E.Haddad                1963   3.0900E-08   0.0000E+00   1.5000E+02   0.0000E+00                
+40061-027-0         V.P.Vertebny            1968   2.5300E-08   0.0000E+00   1.6700E+02   7.0000E+00                
+10501-026-0         S.S.Malik               1970   3.3000E-08   0.0000E+00   1.6380E+02   5.0000E+00                
+11047-053-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   1.6600E+02   1.6600E+01     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30224-012-0         R.L.Zimmerman           1967   2.5300E-08   0.0000E+00   1.5000E+02   8.0000E+00           DERIV
+10501-028-0         S.S.Malik               1970   2.5300E-08   0.0000E+00   1.7500E+02   7.0000E+00           DERIV
+22450-032-1         K.Knopf                 1997   2.5300E-08   0.0000E+00          NAN   0.0000E+00           DERIV
+22450-032-2         K.Knopf                 1997   2.5300E-08   0.0000E+00   1.4500E+02   2.0000E+00           DERIV
+13725-020-0         Y.Danon                 1998   2.5300E-08   0.0000E+00   1.5510E+02   2.4000E+00           DERIV
+V1002-300-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.5640E+02   3.0000E+00           RECOM

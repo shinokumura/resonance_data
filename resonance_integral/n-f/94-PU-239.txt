@@ -1,12 +1,13 @@
 # Header: 
 #   title: 94-PU-239(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 94 
 #   A: 239 
 #   Nuclide: 94-PU-239 
 # Reaction: 
+#   Type: N,F 
 #   Type: N,F 
 #   Incident energy       : 1.5000e-07 MeV - 1.5750e-02 MeV 
 # Residual: 
@@ -25,7 +26,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 12367-005-0         F.W.Cornish             1957   5.0000E-07   0.0000E+00   4.3400E+02   1.8000E+01                
 23370-004-0         C.G.Campbell            1958   5.3300E-07   0.0000E+00   3.1600E+02   0.0000E+00                
 23370-004-0         C.G.Campbell            1958   6.7000E-07   0.0000E+00   2.8200E+02   0.0000E+00                

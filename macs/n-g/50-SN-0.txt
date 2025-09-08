@@ -1,36 +1,43 @@
 # Header: 
 #   title: 50-SN-0(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 50 
 #   A: 0 
 #   Nuclide: 50-SN-0 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4000e-02 MeV - 3.0400e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.26250E-01  |   2.21859E-02   (N = 8)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.24130E-01 +/-  3.23229E-03   (N = 8)
-#   AV Simple Mean            |  Simple Stdev        : 1.16000E-01  |           NAN   (N = 1)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   SPA Simple Mean           |  Simple Stdev        : 9.30000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 6.15500E-01  |   1.48492E-02   (N = 2)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 6.24765E-01 +/-  8.73128E-03   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 5.55000E-01  |   3.53553E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      : 5.67414E-01 +/-  2.50859E-02   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 7.20000E-01  |           NAN   (N = 1)
 #   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-40374-013-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   1.1200E-01   5.0000E-03                
-11329-033-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   8.8000E-02   1.5000E-02                
-11380-009-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   1.2400E-01   2.9760E-02                
-40072-011-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2800E-01   9.0000E-03                
-40072-029-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2500E-01   1.6000E-02                
-40072-029-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.6600E-01   1.0000E-02                
-40072-029-3         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.4000E-01   1.1000E-02                
-40072-029-4         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.2700E-01   8.0000E-03                
-40960-010-0         V.M.Timokhov            1988   3.0000E-02   0.0000E+00   1.1600E-01   9.0000E-03      AV        
-11958-002-0         R.L.Macklin             1962   3.0400E-02   1.6000E-02   9.3000E-02   2.0000E-02     SPA        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+20638-034-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   6.2600E-01   9.0000E-03                
+30073-004-0         Al.Stefanescu           1961   2.5300E-08   0.0000E+00   6.0500E-01   3.6000E-02                
+12616-017-0         J.Coltman               1946   2.5300E-08   0.0000E+00   5.3000E-01   5.0000E-02     MXW        
+11047-042-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   5.8000E-01   2.9000E-02     MXW        
+11528-029-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   7.2000E-01   3.6000E-02     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30592-003-0         R.E.Mayer               1981   2.5300E-08   0.0000E+00   6.9000E-01   1.0000E-02           DERIV
+22451-017-0         K.Knopf                 1997   2.5300E-08   0.0000E+00   5.6900E-01   5.0000E-03           DERIV
+22451-019-1         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.7000E+00   3.0000E-01           DERIV
+22451-019-2         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.8000E+00   6.0000E-01           DERIV
+22451-019-3         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.7000E+00   4.0000E-01           DERIV
+22451-019-4         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.7000E+00   4.0000E-01           DERIV
+22451-019-5         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.8000E+00   6.0000E-01           DERIV
+22451-021-0         K.Knopf                 1997   2.5300E-08   0.0000E+00   3.8000E+00   8.0000E-01           DERIV
+V1001-506-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   6.0300E-01   9.0000E-03           RECOM

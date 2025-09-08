@@ -1,52 +1,41 @@
 # Header: 
 #   title: 28-NI-62(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 28 
 #   A: 62 
 #   Nuclide: 28-NI-62 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0020e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.92400E-02  |           NAN   (N = 1)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   AV Simple Mean            |  Simple Stdev        : 2.43000E-02  |           NAN   (N = 1)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   MXW Simple Mean           |  Simple Stdev        : 2.69667E-02  |   5.57949E-03   (N = 6)
-#   MXW Weighted Mean        +/- Weighted Error      : 2.96456E-02 +/-  1.37863E-03   (N = 6)
-#   RAW Simple Mean           |  Simple Stdev        : 1.20190E-02  |           NAN   (N = 1)
-#   RAW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   SPA Simple Mean           |  Simple Stdev        : 2.84000E-02  |   6.01199E-03   (N = 6)
-#   SPA Weighted Mean        +/- Weighted Error      : 2.61319E-02 +/-  2.48122E-03   (N = 6)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.41333E+01  |   1.15470E-01   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 1.46250E+01  |   6.13052E-01   (N = 4)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.54166E+01 +/-  6.66768E-01   (N = 4)
+#   SPA Simple Mean           |  Simple Stdev        : 1.64225E+01  |   3.14844E+00   (N = 4)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.55343E+01 +/-  3.91909E-01   (N = 4)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-14164-002-0         A.M.Alpizar-Vicente     2008   2.9012E-02   1.1355E-03   4.9240E-02   8.5100E-03                
-22894-002-0         A.Tomyo                 2005   3.0000E-02   0.0000E+00   2.4300E-02   1.4000E-03      AV        
-22959-002-0         H.Nassar                2005   2.5000E-02   5.0000E-04   2.8400E-02   2.8000E-03     MXW        
-22959-003-0         H.Nassar                2005   2.5000E-02   5.0000E-04   2.5700E-02   2.6000E-03     MXW        
-23086-002-0         Y.Nagai                 2008   3.0000E-02   0.0000E+00   3.7500E-02   2.5000E-03     MXW        
-23064-004-0         I.Dillmann              2010   3.0000E-02   0.0000E+00   2.3400E-02   4.6000E-03     MXW        
-23064-008-0         I.Dillmann              2010   3.0000E-02   0.0000E+00   2.4600E-02   4.8000E-03     MXW        
-23195-005-0         C.Lederer               2014   3.0000E-02   0.0000E+00   2.2200E-02   0.0000E+00     MXW        
-20374-017-0         H.Beer                  1975   3.0020E-02   0.0000E+00   1.2019E-02   6.6465E-03     RAW        
-23064-002-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.4800E-02   9.8000E-03     SPA        
-23064-002-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   2.2600E-02   5.6000E-03     SPA        
-23064-003-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   2.5200E-02   4.9000E-03     SPA        
-23064-006-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   3.7000E-02   1.0200E-02     SPA        
-23064-006-0         I.Dillmann              2010   2.5000E-02   5.0000E-04   2.4000E-02   5.6000E-03     SPA        
-23064-007-2         I.Dillmann              2010   2.5000E-02   5.0000E-04   2.6800E-02   5.2000E-03     SPA        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+41262-004-0         E.Doilnitsyn            1965   2.5000E-08   0.0000E+00   1.4000E+01   0.0000E+00                
+10608-007-0         G.H.E.Sims              1970   2.5300E-08   0.0000E+00   1.4200E+01   0.0000E+00                
+14164-002-0         A.M.Alpizar-Vicente     2008   2.5290E-08   2.3290E-10   1.4200E+01   9.6100E-01                
+11507-029-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   1.4600E+01   2.1900E+00     MXW        
+10608-006-0         G.H.E.Sims              1970   2.5300E-08   0.0000E+00   1.4200E+01   0.0000E+00     MXW        
+10676-004-0         A.F.M.Ishaq             1977   2.5300E-08   0.0000E+00   1.4200E+01   0.0000E+00     MXW        
+31489-018-0         L.Venturini             1997   2.5000E-08   0.0000E+00   1.5500E+01   7.0000E-01     MXW        
+12620-002-0         C.Mcmullen              1956   2.5300E-08   0.0000E+00   2.1000E+01   2.0000E+00     SPA        
+12619-002-0         D.Horrocks              1962   2.5300E-08   0.0000E+00   1.4000E+01   1.0000E+00     SPA        
+20301-006-0         H.Ishikawa              1973   2.5300E-08   0.0000E+00   1.5890E+01   5.2000E-01     SPA        
+20660-002-0         H.Michael               1974   2.5300E-08   0.0000E+00   1.4800E+01   8.0000E-01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-20374-033-0         H.Beer                  1975   3.0000E-02   0.0000E+00   2.6000E-02   0.0000E+00     MXW   DERIV
-22894-003-0         A.Tomyo                 2005   3.0000E-02   0.0000E+00   3.7000E-02   3.2000E-03     MXW   DERIV
-14164-003-0         A.M.Alpizar-Vicente     2008   3.0000E-02   0.0000E+00   2.5800E-02   1.8000E-03     MXW   DERIV
-V0102-089-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.2500E-02   4.0000E-03     MXW   RECOM
-V0102-090-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   2.2300E-02   1.6000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1001-232-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4900E+01   3.0000E-01           RECOM

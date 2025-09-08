@@ -1,35 +1,37 @@
 # Header: 
 #   title: 64-GD-154(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 64 
 #   A: 154 
 #   Nuclide: 64-GD-154 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.18000E+00  |           NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 8.50000E+01  |           NAN   (N = 1)
 #   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   AV Simple Mean            |  Simple Stdev        : 9.61945E-01  |   7.05864E-02   (N = 3)
-#   AV Weighted Mean         +/- Weighted Error      : 1.03156E+00 +/-  1.28619E-02   (N = 3)
-#   MXW Simple Mean           |  Simple Stdev        : 8.80000E-01  |           NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 2.30000E+01  |           NAN   (N = 1)
 #   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 1.58333E+02  |   8.03638E+01   (N = 3)
+#   SPA Weighted Mean        +/- Weighted Error      : 1.00849E+02 +/-  4.93588E+00   (N = 3)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-40222-004-0         V.S.Shorin              1974   2.9800E-02   0.0000E+00   1.1800E+00   1.4000E-01                
-12964-003-0         H.Beer                  1988   2.5000E-02   0.0000E+00   9.1400E-01   0.0000E+00      AV        
-22386-009-0         K.Wisshak               1995   2.7500E-02   0.0000E+00   1.0430E+00   1.3559E-02      AV        
-23459-003-0         A.Mazzone               2020   2.8383E-02   0.0000E+00   9.2884E-01   4.0636E-02      AV        
-23459-006-0         A.Mazzone               2020   3.0000E-02   0.0000E+00   8.8000E-01   5.0000E-02     MXW        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+20637-006-0         R.Dobrozemsky           1971   2.5300E-08   0.0000E+00   8.5000E+01   1.2000E+01                
+11938-002-0         P.M.Lantz               1965   2.5300E-08   0.0000E+00   2.3000E+01   0.0000E+00     MXW        
+12127-010-0         W.H.Walker              1956   2.5300E-08   0.0000E+00   2.5000E+02   1.2000E+02     SPA        
+41244-006-0         E.I.Grishanin           1967   2.5300E-08   0.0000E+00   1.0000E+02   5.0000E+00     SPA        
+41244-007-0         E.I.Grishanin           1967   2.5300E-08   0.0000E+00   1.2500E+02   3.2000E+01     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-22386-015-0         K.Wisshak               1995   3.0000E-02   0.0000E+00   1.0280E+00   1.2000E-02     MXW   DERIV
-V0102-353-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.0280E+00   1.2000E-02     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+14110-041-1         G.Leinweber             2006   2.5300E-08   0.0000E+00   8.5800E+01   0.0000E+00           DERIV
+V1002-238-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   8.5000E+01   1.2000E+01           RECOM
+V1002-238-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.9000E-02   1.5000E-02           RECOM

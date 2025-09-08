@@ -1,33 +1,35 @@
 # Header: 
 #   title: 36-KR-82(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 36 
 #   A: 82 
 #   Nuclide: 36-KR-82 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 9.63000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.80000E+01  |           NAN   (N = 1)
 #   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   MXW Simple Mean           |  Simple Stdev        : 1.08000E-01  |   2.66766E-02   (N = 3)
-#   MXW Weighted Mean        +/- Weighted Error      : 9.25724E-02 +/-  4.09391E-03   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 2.00000E+01  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   SPA Simple Mean           |  Simple Stdev        : 2.40000E+01  |   2.96985E+01   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      : 3.18584E+00 +/-  9.97785E-01   (N = 2)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-21913-008-0         G.Walter                1984   3.0000E-02   0.0000E+00   9.6300E-02   1.6000E-02                
-21856-004-0         B.Leugers               1979   3.0000E-02   0.0000E+00   1.3880E-01   0.0000E+00     MXW        
-22692-002-0         P.Mutti                 2002   3.0000E-02   0.0000E+00   9.2200E-02   5.6000E-03     MXW        
-22908-003-0         P.Mutti                 2004   3.0000E-02   0.0000E+00   9.3000E-02   6.0000E-03     MXW        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21563-009-0         M.Lucas                 1977   2.5300E-08   0.0000E+00   1.8000E+01   4.0000E+00                
+11883-005-0         E.Kondaiah              1968   2.5300E-08   0.0000E+00   2.0000E+01   3.5000E+00     MXW        
+11858-011-0         J.Macnamara             1950   2.5300E-08   0.0000E+00   4.5000E+01   1.5000E+01     SPA        
+11855-002-0         S.L.Ruby                1965   2.5300E-08   0.0000E+00   3.0000E+00   1.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-21913-009-0         G.Walter                1984   3.0000E-02   0.0000E+00   8.7000E-02   6.0000E-03     MXW   DERIV
-V0102-137-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   9.0000E-02   6.0000E-03     MXW   RECOM
-V1001-320-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   9.3000E-02   6.0000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1001-318-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.5100E+01   2.7000E+00           RECOM
+V1001-318-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.9000E+01   4.0000E+00           RECOM

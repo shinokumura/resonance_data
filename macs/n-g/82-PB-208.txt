@@ -1,49 +1,33 @@
 # Header: 
 #   title: 82-PB-208(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 82 
 #   A: 208 
 #   Nuclide: 82-PB-208 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4000e-02 MeV - 3.5000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.23333E-03  |   3.69504E-03   (N = 3)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.02669E-04 +/-  2.11731E-05   (N = 3)
-#   MXW Simple Mean           |  Simple Stdev        : 3.75000E-04  |   1.10950E-04   (N = 6)
-#   MXW Weighted Mean        +/- Weighted Error      : 3.24194E-04 +/-  1.12451E-05   (N = 6)
-#   SPA Simple Mean           |  Simple Stdev        : 2.89444E-04  |   1.60788E-05   (N = 9)
-#   SPA Weighted Mean        +/- Weighted Error      : 2.87071E-04 +/-  4.93895E-06   (N = 9)
+#   MXW Simple Mean           |  Simple Stdev        : 9.00000E-03  |   1.27279E-02   (N = 2)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
+#   SPA Simple Mean           |  Simple Stdev        : 4.73500E-04  |   1.90919E-05   (N = 2)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-30079-042-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   6.5000E-03   1.0000E-03                
-22852-002-0         H.Beer                  2003   3.0000E-02   5.0000E-03   9.7000E-05   2.9000E-05                
-22852-004-2         H.Beer                  2003   3.0000E-02   5.0000E-03   1.0300E-04   3.1000E-05                
-10693-003-0         R.L.Macklin             1977   3.0000E-02   0.0000E+00   6.0000E-04   0.0000E+00     MXW        
-22852-003-0         H.Beer                  2003   2.5000E-02   0.0000E+00   3.3000E-04   7.0000E-05     MXW        
-22852-005-0         H.Beer                  2003   2.5000E-02   0.0000E+00   3.5000E-04   7.0000E-05     MXW        
-22883-009-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   3.1000E-04   2.0000E-05     MXW        
-22883-018-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   3.3000E-04   2.0000E-05     MXW        
-31779-003-0         L.Weissman              2017   3.0000E-02   0.0000E+00   3.3000E-04   2.0000E-05     MXW        
-22883-002-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.6500E-04   1.5000E-05     SPA        
-22883-003-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.9200E-04   1.6000E-05     SPA        
-22883-004-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.9200E-04   1.5000E-05     SPA        
-22883-005-0         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.6900E-04   1.2000E-05     SPA        
-22883-011-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.8100E-04   1.6000E-05     SPA        
-22883-012-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   3.1000E-04   1.7000E-05     SPA        
-22883-013-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   3.1000E-04   1.5000E-05     SPA        
-22883-014-2         U.Ratzel                2004   2.5000E-02   0.0000E+00   2.8600E-04   1.2000E-05     SPA        
-31779-002-0         L.Weissman              2017   3.5000E-02   0.0000E+00   3.0000E-04   2.0000E-05     SPA        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11507-102-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   0.0000E+00   0.0000E+00     MXW        
+21513-002-0         R.Vidal                 1963   2.5300E-08   0.0000E+00   1.8000E-02   1.0000E-02     MXW        
+13859-002-0         D.J.Hughes              1949   2.5300E-08   0.0000E+00   4.6000E-04   0.0000E+00     SPA        
+12632-003-0         J.F.Emery               1968   2.5300E-08   0.0000E+00   4.8700E-04   3.0000E-05     SPA        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-22442-006-0         H.Beer                  1997   3.0000E-02   0.0000E+00   3.5600E-04   3.8000E-05     MXW   DERIV
-V0102-488-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.6000E-04   3.0000E-05     MXW   RECOM
-V1002-535-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.6000E-04   4.0000E-05     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+13846-004-0         J.C.Blackmon            2002   2.5300E-08   0.0000E+00   2.3000E-04   1.2000E-05     MXW   DERIV
+V1002-533-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.3000E-04   2.0000E-05           RECOM

@@ -1,45 +1,35 @@
 # Header: 
 #   title: 42-MO-0(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 42 
 #   A: 0 
 #   Nuclide: 42-MO-0 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.4000e-02 MeV - 3.2100e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.80571E-01  |   2.76731E-02  (N = 14)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.83766E-01 +/-  4.10535E-03  (N = 14)
-#   AV Simple Mean            |  Simple Stdev        : 1.91500E-01  |   2.12132E-03   (N = 2)
-#   AV Weighted Mean         +/- Weighted Error      : 1.91500E-01 +/-  1.76777E-02   (N = 2)
-#   SDT Simple Mean           |  Simple Stdev        : 1.65503E-01  |   3.46121E-02   (N = 3)
-#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.66667E+00  |   5.77350E-02   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.66444E+00 +/-  2.98142E-02   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 2.46667E+00  |   2.08167E-01   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 2.38244E+00 +/-  4.19058E-02   (N = 3)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-11329-024-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.4000E-01   1.2600E-02                
-11380-007-0         R.L.Macklin             1963   3.0000E-02   0.0000E+00   1.4100E-01   3.2430E-02                
-40072-007-0         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.9200E-01   1.2000E-02                
-40072-025-1         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.9100E-01   1.9000E-02                
-40072-025-2         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.2000E-01   1.9000E-02                
-40072-025-3         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.0400E-01   1.2000E-02                
-40072-025-4         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.7800E-01   2.3000E-02                
-40072-025-5         T.S.Belanova            1965   2.4000E-02   0.0000E+00   2.1200E-01   1.2000E-02                
-40072-025-6         T.S.Belanova            1965   2.4000E-02   0.0000E+00   1.9000E-01   1.2000E-02                
-40074-003-0         V.P.Koroleva            1965   2.4000E-02   1.5000E-03   1.8800E-01   1.5000E-02                
-40717-005-0         T.S.Belanova            1966   2.4000E-02   0.0000E+00   1.9200E-01   3.0000E-02                
-20358-005-0         D.Kompe                 1969   3.0300E-02   0.0000E+00   1.6100E-01   1.6100E-02                
-10049-002-0         M.P.Fricke              1970   3.0120E-02   0.0000E+00   1.2900E-01   1.6770E-02                
-30506-005-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   1.9000E-01   1.6000E-02                
-30357-023-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   1.9300E-01   2.5000E-02      AV        
-30357-046-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   1.9000E-01   2.5000E-02      AV        
-40663-003-0         S.V.Kapchigashev        1963   3.2000E-02   0.0000E+00   1.8000E-01   0.0000E+00     SDT        
-40663-010-0         S.V.Kapchigashev        1963   3.2100E-02   1.2326E-06   1.9051E-01   0.0000E+00     SDT        
-21324-003-0         F.Mitzel                1964   2.8600E-02   0.0000E+00   1.2600E-01   0.0000E+00     SDT        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+21376-007-0         P.A.Egelstaff           1950   2.5300E-08   0.0000E+00   2.7000E+00   1.0000E-01                
+20638-022-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   2.7000E+00   4.0000E-02                
+20658-016-0         J.C.Carre               1966   2.5300E-08   0.0000E+00   2.6000E+00   5.0000E-02                
+12616-016-0         J.Coltman               1946   2.5300E-08   0.0000E+00   2.3000E+00   5.0000E-02     MXW        
+11047-035-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   2.4000E+00   1.2000E-01     MXW        
+41648-010-0         Yu.A.Prokhorov          1956   2.5300E-08   0.0000E+00   2.7000E+00   1.0000E-01     MXW        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+30413-003-0         F.Kropff Moreno         1978   2.5300E-08   0.0000E+00   2.5000E+00   5.0000E-02           DERIV
+V1001-387-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.5200E+00   4.0000E-02           RECOM

@@ -1,12 +1,13 @@
 # Header: 
 #   title: 19-K-41(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 19 
 #   A: 41 
 #   Nuclide: 19-K-41 
 # Reaction: 
+#   Type: N,G 
 #   Type: N,G 
 #   Incident energy       : 5.0000e-07 MeV - 7.5200e-02 MeV 
 # Residual: 
@@ -21,7 +22,7 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 20654-003-0         W.Koehler               1967   6.8000E-07   0.0000E+00   9.6000E-01   3.0000E-02                
 30368-003-0         Vichai Hayodom          1969   5.0000E-07   0.0000E+00   8.3000E-01   5.8100E-02                
 20643-008-1         R.Van Der Linden        1972   5.5000E-07   0.0000E+00   1.3500E+00   6.0000E-02                
@@ -31,6 +32,6 @@
 31722-003-0         F.A.Ferreira Jr         2012   5.5000E-07   0.0000E+00   1.0200E+00   4.0000E-02                
 20789-009-0         T.B.Ryves               1970   5.0000E-07   0.0000E+00   7.7000E-01   0.0000E+00     RNV        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 20646-002-0         F.De Corte              1971   5.0000E-07   0.0000E+00   9.8000E-01   0.0000E+00           DERIV
 V1001-127-0         S.F.Mughabghab          2006   7.5200E-02   0.0000E+00   1.4200E+00   6.0000E-02     LIM   RECOM

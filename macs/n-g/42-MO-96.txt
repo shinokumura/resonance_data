@@ -1,37 +1,27 @@
 # Header: 
 #   title: 42-MO-96(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 42 
 #   A: 96 
 #   Nuclide: 42-MO-96 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.02667E-01  |   2.30940E-03   (N = 3)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.04000E-01 +/-  1.02899E-02   (N = 3)
-#   AV Simple Mean            |  Simple Stdev        : 1.27000E-01  |   1.41421E-03   (N = 2)
-#   AV Weighted Mean         +/- Weighted Error      : 1.27000E-01 +/-  1.41421E-02   (N = 2)
-#   MXW Simple Mean           |  Simple Stdev        : 1.11000E-01  |   1.41421E-03   (N = 2)
-#   MXW Weighted Mean        +/- Weighted Error      : 1.11991E-01 +/-  9.97785E-04   (N = 2)
+#   MXW Simple Mean           |  Simple Stdev        : 1.20000E+00  |           NAN   (N = 1)
+#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-41233-003-0         S.P.Kapchigashev        1964   3.0000E-02   0.0000E+00   1.0000E-01   0.0000E+00                
-30506-010-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   1.0400E-01   1.2000E-02                
-30506-014-0         D.B.Stroud              1972   3.0000E-02   0.0000E+00   1.0400E-01   2.0000E-02                
-30357-013-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   1.2800E-01   2.0000E-02      AV        
-30357-042-0         A.R.De L.Musgrove       1976   2.5000E-02   0.0000E+00   1.2600E-01   2.0000E-02      AV        
-30357-025-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   1.1000E-01   1.5000E-02     MXW        
-30357-032-0         A.R.De L.Musgrove       1976   3.0000E-02   0.0000E+00   1.1200E-01   1.0000E-03     MXW        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+11507-052-0         H.Pomerance             1952   2.5300E-08   0.0000E+00   1.2000E+00   6.0000E-01     MXW        
 #   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-V0102-174-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1200E-01   8.0000E-03     MXW   RECOM
-V1001-398-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.1200E-01   6.0000E-03     MXW   RECOM
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1001-396-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   5.0000E-01   2.0000E-01           RECOM

@@ -1,33 +1,38 @@
 # Header: 
 #   title: 28-NI-0(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 28 
 #   A: 0 
 #   Nuclide: 28-NI-0 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-02 MeV - 3.5000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV - 3.3000e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.35060E-02  |   1.61877E-02   (N = 5)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.51639E-02 +/-  9.11235E-04   (N = 5)
-#   AV Simple Mean            |  Simple Stdev        : 4.83000E-02  |           NAN   (N = 1)
-#   AV Weighted Mean         +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   SDT Simple Mean           |  Simple Stdev        : 1.60000E-02  |           NAN   (N = 1)
-#   SDT Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.34000E+00  |   4.50333E-01   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 4.34000E+00 +/-  5.77350E-02   (N = 3)
+#   MXW Simple Mean           |  Simple Stdev        : 4.86667E+00  |   6.35085E-01   (N = 3)
+#   MXW Weighted Mean        +/- Weighted Error      : 4.53555E+00 +/-  8.98922E-02   (N = 3)
+#   SPA Simple Mean           |  Simple Stdev        : 4.37000E+00  |           NAN   (N = 1)
+#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-40374-008-0         T.S.Belanova            1958   2.5000E-02   4.0000E-03   5.0000E-02   1.0000E-03                
-11329-013-0         J.H.Gibbons             1961   3.0000E-02   7.0000E-03   1.6000E-02   4.0000E-03                
-40641-003-0         Yu.Ya.Stavisskii        1962   3.5000E-02   0.0000E+00   3.2000E-02   0.0000E+00                
-30114-002-0         L.M.Spitz               1968   2.9400E-02   0.0000E+00   5.0000E-02   7.0000E-03                
-20572-009-0         C.Le Rigoleur           1976   2.9880E-02   1.5000E-04   1.9530E-02   2.8700E-03                
-20572-010-0         C.Le Rigoleur           1976   2.7500E-02   0.0000E+00   4.8300E-02   2.6900E-03      AV        
-40663-009-0         S.V.Kapchigashev        1963   3.2000E-02   0.0000E+00   1.6000E-02   0.0000E+00     SDT        
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+20638-013-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   4.6000E+00   1.0000E-01                
+20658-010-0         J.C.Carre               1966   2.5300E-08   0.0000E+00   4.6000E+00   1.0000E-01                
+10501-014-0         S.S.Malik               1970   3.3000E-08   0.0000E+00   3.8200E+00   1.0000E-01                
+12616-012-0         J.Coltman               1946   2.5300E-08   0.0000E+00   5.6000E+00   5.0000E-01     MXW        
+11047-022-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   4.5000E+00   2.2500E-01     MXW        
+41648-008-0         Yu.A.Prokhorov          1956   2.5300E-08   0.0000E+00   4.5000E+00   1.0000E-01     MXW        
+11528-014-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   4.3700E+00   0.0000E+00     SPA        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+10501-016-0         S.S.Malik               1970   2.5300E-08   0.0000E+00   4.2700E+00   1.6000E-01           DERIV
+V1001-222-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.4900E+00   1.6000E-01           RECOM

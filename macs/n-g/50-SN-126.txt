@@ -1,21 +1,26 @@
 # Header: 
 #   title: 50-SN-126(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 50 
 #   A: 126 
 #   Nuclide: 50-SN-126 
 # Reaction: 
 #   Type: N,G 
-#   Incident energy       : 3.0000e-02 MeV 
+#   Type: N,G 
+#   Incident energy       : 2.5300e-08 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
+# Statistics:
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 3.93333E-01  |   1.95021E-01   (N = 3)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.48112E-01 +/-  3.51694E-02   (N = 3)
 #
 # Data Table
-#   Recom./Eval./Deriv./Calc. Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
-14557-003-0         B.Manning               2019   3.0000E-02   0.0000E+00   5.9450E-05   7.0988E-06           DERIV
-V0102-247-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.0000E-02   4.0000E-03     MXW   RECOM
+#   Experimental Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+31631-002-0         Sheng-Dong Zhang        2006   2.5300E-08   0.0000E+00   3.9000E-01   1.0000E-01                
+31631-003-0         Sheng-Dong Zhang        2006   2.5300E-08   0.0000E+00   2.0000E-01   3.9000E-02                
+31631-004-0         Sheng-Dong Zhang        2006   2.5300E-08   0.0000E+00   5.9000E-01   1.4000E-01                

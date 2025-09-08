@@ -1,0 +1,21 @@
+# Header: 
+#   title: 71-LU-173(N,G) macs cross section 
+#   source: EXFOR 
+#   date created: 2025-09-08 
+# Target: 
+#   Z: 71 
+#   A: 173 
+#   Nuclide: 71-LU-173 
+# Reaction: 
+#   Type: N,G 
+#   Type: N,G 
+#   Incident energy       : 3.0145e-08 MeV 
+# Residual: 
+#   Z:  
+#   A:  
+#   Nuclide: 
+#
+# Data Table
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+14410-004-0         A.Ebran                 2019   3.0145E-08   0.0000E+00   3.9248E+01   0.0000E+00           DERIV

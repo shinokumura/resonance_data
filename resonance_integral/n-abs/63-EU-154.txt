@@ -1,12 +1,13 @@
 # Header: 
 #   title: 63-EU-154(N,ABS) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-03-21 
+#   date created: 2025-09-08 
 # Target: 
 #   Z: 63 
 #   A: 154 
 #   Nuclide: 63-EU-154 
 # Reaction: 
+#   Type: N,ABS 
 #   Type: N,ABS 
 #   Incident energy       : 1.3744e-05 MeV 
 # Residual: 
@@ -19,5 +20,5 @@
 #
 # Data Table
 #   Experimental Data
-# EXFOR ID          First Author            Year   En_inc       dEn_inc      Data         dData         sf8    sf9
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 40484-005-3         V.A.Anufriev            1979   1.3744E-05   0.0000E+00   1.6200E+03   2.4000E+02                

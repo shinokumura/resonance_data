@@ -1,7 +1,7 @@
 # Header: 
 #   title: 69-TM-169(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 69 
 #   A: 169 
@@ -9,40 +9,19 @@
 # Reaction: 
 #   Type: N,G 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-08 MeV - 3.0360e-08 MeV 
+#   Incident energy       : 2.3000e-02 MeV - 3.0000e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.04778E+02  |   4.43074E+00   (N = 5)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 9.69034E+01 +/-  2.91506E-01   (N = 5)
-#   MXW Simple Mean           |  Simple Stdev        : 9.89500E+01  |   3.68536E+01   (N = 8)
-#   MXW Weighted Mean        +/- Weighted Error      : 7.91100E+01 +/-  1.08007E+00   (N = 8)
-#   SPA Simple Mean           |  Simple Stdev        : 1.06000E+02  |           NAN   (N = 1)
-#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.56400E+00  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
 #
 # Data Table
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-10608-019-0         G.H.E.Sims              1970   2.5300E-08   0.0000E+00   1.0600E+02   0.0000E+00                
-23488-076-0         F.De Corte              1988   2.5300E-08   0.0000E+00   1.0700E+02   0.0000E+00                
-30841-002-0         S.Y.Lee                 2010   3.0360E-08   0.0000E+00   9.6890E+01   2.9170E-01                
-23260-123-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   1.0700E+02   8.0000E+00                
-23260-124-0         F.Farina Arbocco        2014   2.5300E-08   0.0000E+00   1.0700E+02   0.0000E+00                
-11447-108-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.0600E+02   2.1200E+01     MXW        
-11047-066-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   1.1800E+02   5.9000E+00     MXW        
-10259-002-0         J.H.Gillette            1967   2.5300E-08   0.0000E+00   1.1600E+02   3.0000E+00     MXW        
-23494-002-0         A.Andreeff              1967   2.5300E-08   0.0000E+00   1.0000E+01   2.0000E+00     MXW        
-10608-018-0         G.H.E.Sims              1970   2.5300E-08   0.0000E+00   1.2700E+02   0.0000E+00     MXW        
-20094-002-0         J.Alstad                1972   2.5300E-08   0.0000E+00   1.0500E+02   3.0000E+00     MXW        
-20853-012-0         M.Takiue                1978   2.5300E-08   0.0000E+00   1.0500E+02   2.0000E+00     MXW        
-30688-002-0         Luo Dexing              1984   2.5300E-08   0.0000E+00   1.0460E+02   3.1000E+00     MXW        
-12866-164-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   1.0600E+02   5.0000E+00     SPA        
+30248-010-0         K.Siddappa               nan   2.3000E-02   0.0000E+00   1.5640E+00   2.3500E-01                
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-30224-015-0         R.L.Zimmerman           1967   2.5300E-08   0.0000E+00   1.0600E+02   3.0000E+00           DERIV
-22002-012-0         L.Koester               1986   2.5300E-08   0.0000E+00   1.0000E+02   2.0000E+00           DERIV
-13725-026-0         Y.Danon                 1998   2.5300E-08   0.0000E+00   1.0900E+02   1.6000E+00           DERIV
-V1002-316-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0500E+02   2.0000E+00           RECOM
-V1002-316-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   8.2000E+00   1.7000E+00           RECOM
+V0102-379-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.1290E+00   5.6000E-02     MXW   RECOM

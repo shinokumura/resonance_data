@@ -1,7 +1,7 @@
 # Header: 
 #   title: 50-SN-116(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 50 
 #   A: 116 

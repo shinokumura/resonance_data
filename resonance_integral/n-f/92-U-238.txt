@@ -1,7 +1,7 @@
 # Header: 
 #   title: 92-U-238(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 92 
 #   A: 238 
@@ -9,7 +9,7 @@
 # Reaction: 
 #   Type: N,F 
 #   Type: N,F 
-#   Incident energy       : 5.0000e-02 MeV 
+#   Incident energy       : 5.0003e-03 MeV - 5.0000e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
@@ -22,3 +22,6 @@
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 10567-003-0         R.E.Slovacek            1977   5.0000E-02   0.0000E+00   1.3000E-03   1.5000E-04                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-596-2         S.F.Mughabghab          2006   5.0003E-03   0.0000E+00   1.6300E-03   1.6000E-04     LIM    CALC

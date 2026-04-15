@@ -1,7 +1,7 @@
 # Header: 
 #   title: 96-CM-244(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 96 
 #   A: 244 
@@ -31,3 +31,4 @@
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 41524-006-0         A.A.Alekseev            2010   1.0000E+01   0.0000E+00   1.3820E+01   5.6000E-01     LIM   DERIV
+V1002-668-2         S.F.Mughabghab          2006   4.8600E-04   0.0000E+00   1.2500E+01   2.5000E+00     LIM   RECOM

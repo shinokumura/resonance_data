@@ -1,7 +1,7 @@
 # Header: 
 #   title: 99-ES-254(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 99 
 #   A: 254 
@@ -23,3 +23,6 @@
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 12933-003-0         J.Halperin              1985   5.0000E-07   0.0000E+00   1.8200E+01   1.5000E+00                
 40951-005-0         V.A.Adaev               1986   5.0000E-07   0.0000E+00   0.0000E+00   0.0000E+00                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-711-1         S.F.Mughabghab          2006   5.0000E-07   0.0000E+00   1.8200E+01   1.5000E+00     LIM   RECOM

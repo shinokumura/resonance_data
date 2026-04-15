@@ -1,7 +1,7 @@
 # Header: 
 #   title: 63-EU-0(N,SCT) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 63 
 #   A: 0 

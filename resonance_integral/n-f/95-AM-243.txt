@@ -1,7 +1,7 @@
 # Header: 
 #   title: 95-AM-243(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 95 
 #   A: 243 
@@ -29,3 +29,6 @@
 22032-004-0         H.Knitter               1988   5.4000E+00   0.0000E+00   3.8000E+00   2.0000E-01     LIM        
 22032-004-0         H.Knitter               1988   1.0400E+01   0.0000E+00   5.4000E+00   3.0000E-01     LIM        
 41578-005-0         A.A.Alekseev            2011   5.5002E-03   0.0000E+00   2.4600E+00   0.0000E+00     LIM        
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-655-3         S.F.Mughabghab          2006   1.2510E-04   0.0000E+00   8.5000E+00   5.0000E-01     LIM   RECOM

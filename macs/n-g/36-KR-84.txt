@@ -1,7 +1,7 @@
 # Header: 
 #   title: 36-KR-84(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 36 
 #   A: 84 
@@ -9,27 +9,31 @@
 # Reaction: 
 #   Type: N,G 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-08 MeV - 2.5300e-08 MeV 
+#   Incident energy       : 2.5000e-02 MeV - 3.0000e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   MXW Simple Mean           |  Simple Stdev        : 8.75000E-02  |   3.53553E-03   (N = 2)
-#   MXW Weighted Mean        +/- Weighted Error      : 8.58780E-02 +/-  5.44776E-03   (N = 2)
-#   SPA Simple Mean           |  Simple Stdev        : 3.96000E-01  |   5.67024E-01   (N = 3)
-#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 3)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 5.70000E-02  |           NAN   (N = 1)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
+#   MXW Simple Mean           |  Simple Stdev        : 2.20250E-02  |   8.29866E-03   (N = 6)
+#   MXW Weighted Mean        +/- Weighted Error      : 1.86145E-02 +/-  4.89640E-04   (N = 6)
 #
 # Data Table
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-11883-006-0         E.Kondaiah              1968   2.5300E-08   0.0000E+00   9.0000E-02   1.3000E-02     MXW        
-21896-003-0         R.D.Penzhorn            1983   2.5000E-08   0.0000E+00   8.5000E-02   6.0000E-03     MXW        
-11858-013-0         J.Macnamara             1950   2.5300E-08   0.0000E+00   1.0500E+00   0.0000E+00     SPA        
-11887-003-0         E.Hoagland              1951   2.5300E-08   0.0000E+00   9.6000E-02   0.0000E+00     SPA        
-11849-003-0         T.Eastwood              1963   2.5300E-08   0.0000E+00   4.2000E-02   4.2000E-03     SPA        
+30501-002-0         B.V.Thirumala Rao       1972   2.5000E-02   5.0000E-03   5.7000E-02   1.0000E-02                
+21896-002-0         R.D.Penzhorn            1983   2.5000E-02   0.0000E+00   2.1600E-02   1.6000E-03     MXW        
+21896-002-0         R.D.Penzhorn            1983   2.5000E-02   0.0000E+00   2.1100E-02   1.6000E-03     MXW        
+22253-007-0         H.Beer                  1991   2.5000E-02   0.0000E+00   2.0000E-02   8.0000E-04     MXW        
+31837-011-0         M.Tessler               2021   3.0000E-02   0.0000E+00   3.4700E-02   2.8000E-03     MXW        
+31837-012-0         M.Tessler               2021   3.0000E-02   0.0000E+00   2.5600E-02   1.3000E-03     MXW        
+31837-014-0         M.Tessler               2021   3.0000E-02   0.0000E+00   9.1500E-03   9.5000E-04     MXW        
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-V1001-324-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   9.0000E-02   1.3000E-02           RECOM
-V1001-324-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   4.2000E-02   4.0000E-03           RECOM
-V1001-324-3         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.1000E-01   1.5000E-02           RECOM
+22145-005-0         F.Kaeppeler             1987   3.0000E-02   0.0000E+00   1.6700E-02   1.2000E-03     MXW   DERIV
+22145-010-0         F.Kaeppeler             1987   3.0000E-02   0.0000E+00   1.8400E-02   1.2000E-03     MXW   DERIV
+V0102-139-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   3.8000E-02   4.0000E-03     MXW   RECOM
+V0102-140-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.7800E-02   8.0000E-04     MXW   RECOM
+V1001-326-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   3.6300E-02   2.0000E-03     MXW   RECOM

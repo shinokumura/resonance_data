@@ -1,7 +1,7 @@
 # Header: 
 #   title: 92-U-236(N,G) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 92 
 #   A: 236 
@@ -28,7 +28,8 @@
 12466-002-0         N.P.Baumann             1968   5.0000E-07   0.0000E+00   4.1700E+02   2.5000E+01                
 14565-006-0         E.J.Hennelly            1968   5.0000E-07   0.0000E+00   4.0000E+02   4.0000E+01                
 11687-010-0         R.P.Schuman             1969   5.0000E-07   0.0000E+00   3.8100E+02   2.0000E+01                
-40579-011-0         L.N.Jurova              1984   5.0000E-07   0.0000E+00   3.4000E+02   1.5000E+01                
+40579-011-0         L.N.Yurova              1984   5.0000E-07   0.0000E+00   3.4000E+02   1.5000E+01                
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 14674-007-0         D.P.Barry               2016   1.0000E+01   0.0000E+00   3.3000E+02   5.0000E+00           DERIV
+V1002-590-1         S.F.Mughabghab          2006   2.0898E-03   0.0000E+00   3.4500E+02   1.5000E+01     LIM   RECOM

@@ -1,7 +1,7 @@
 # Header: 
 #   title: 98-CF-252(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 98 
 #   A: 252 
@@ -9,7 +9,7 @@
 # Reaction: 
 #   Type: N,F 
 #   Type: N,F 
-#   Incident energy       : 5.4000e-08 MeV 
+#   Incident energy       : 5.4000e-08 MeV - 4.9200e-04 MeV 
 # Residual: 
 #   Z:  
 #   A:  
@@ -22,3 +22,6 @@
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 10222-003-0         J.Halperin              1971   5.4000E-08   0.0000E+00   1.1000E+02   3.0000E+01                
+#   Recom./Eval./Deriv./Calc. Data
+# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
+V1002-701-2         S.F.Mughabghab          2006   4.9200E-04   0.0000E+00   1.1000E+02   3.0000E+01     LIM   RECOM

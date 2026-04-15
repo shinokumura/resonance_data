@@ -1,7 +1,7 @@
 # Header: 
 #   title: 92-U-235(N,F) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 92 
 #   A: 235 
@@ -130,3 +130,4 @@
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
 20938-015-0         F.D.Brooks              1966   5.0225E-05   0.0000E+00   2.0850E+02   0.0000E+00           DERIV
+V1002-588-2         S.F.Mughabghab          2006   2.5044E-04   0.0000E+00   2.7500E+02   5.0000E+00     LIM   RECOM

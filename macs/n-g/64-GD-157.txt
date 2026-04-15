@@ -1,7 +1,7 @@
 # Header: 
 #   title: 64-GD-157(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 64 
 #   A: 157 
@@ -9,33 +9,14 @@
 # Reaction: 
 #   Type: N,G 
 #   Type: N,G 
-#   Incident energy       : 2.5300e-08 MeV - 2.9955e-08 MeV 
+#   Incident energy       : 3.0000e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
-# Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 2.42869E+05  |   1.84602E+04   (N = 3)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 2.41254E+05 +/-  2.44930E+03   (N = 3)
-#   MXW Simple Mean           |  Simple Stdev        : 2.13000E+05  |           NAN   (N = 1)
-#   MXW Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 1)
-#   SPA Simple Mean           |  Simple Stdev        : 4.22500E+04  |   2.43952E+04   (N = 2)
-#   SPA Weighted Mean        +/- Weighted Error      :         NAN +/-          NAN   (N = 2)
 #
 # Data Table
-#   Experimental Data
-# EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-21325-021-0         N.J.Pattenden           1958   2.5300E-08   0.0000E+00   2.6400E+05   4.5000E+03                
-23607-008-0         A.Kimura                2023   2.9955E-08   0.0000E+00   2.3473E+05   4.7920E+03                
-23607-009-0         A.Kimura                2023   2.9955E-08   0.0000E+00   2.2988E+05   3.6820E+03                
-20638-080-0         R.B.Tattersall          1960   2.5300E-08   0.0000E+00   2.1300E+05   2.0000E+03     MXW        
-12106-004-0         M.G.Inghram             1950   2.5300E-08   0.0000E+00   5.9500E+04   0.0000E+00     SPA        
-12127-013-0         W.H.Walker              1956   2.5300E-08   0.0000E+00   2.5000E+04   0.0000E+00     SPA        
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-14110-047-1         G.Leinweber             2006   2.5300E-08   0.0000E+00   2.2600E+05   0.0000E+00           DERIV
-31746-007-0         H.D.Choi                2014   2.5300E-08   0.0000E+00   2.3900E+05   6.0000E+03           DERIV
-23400-011-0         M.Mastromarco           2019   2.5300E-08   0.0000E+00   2.3980E+05   8.4000E+03           DERIV
-23607-011-0         A.Kimura                2023   2.5300E-08   0.0000E+00   2.5020E+05   5.0000E+03           DERIV
-23607-011-0         A.Kimura                2023   2.5300E-08   0.0000E+00   2.4740E+05   3.9000E+03           DERIV
-V1002-248-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   2.5400E+05   8.1500E+02           RECOM
+V0102-356-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   1.3690E+00   1.5000E-02     MXW   RECOM
+V1002-251-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   1.3550E+00   3.9000E-02     MXW   RECOM

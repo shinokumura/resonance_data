@@ -1,7 +1,7 @@
 # Header: 
 #   title: 45-RH-103(N,G) macs cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 45 
 #   A: 103 
@@ -9,40 +9,27 @@
 # Reaction: 
 #   Type: N,G 
 #   Type: N,G 
-#   Incident energy       : 2.5000e-08 MeV - 3.0730e-08 MeV 
+#   Incident energy       : 2.4000e-02 MeV - 3.0000e-02 MeV 
 # Residual: 
 #   Z:  
 #   A:  
 #   Nuclide: 
 # Statistics:
-#   Maxwellian Average Simple Mean  |  Simple Stdev        : 1.19374E+02  |   4.96433E+01   (N = 7)
-#   Maxwellian Average Weighted Mean +/- Weighted Error      : 1.34938E+02 +/-  7.59607E-01   (N = 7)
-#   MXW Simple Mean           |  Simple Stdev        : 9.89333E+01  |   6.81524E+01   (N = 6)
-#   MXW Weighted Mean        +/- Weighted Error      : 2.43983E+01 +/-  7.17980E-01   (N = 6)
-#   SPA Simple Mean           |  Simple Stdev        : 9.14000E+01  |   1.13986E+02   (N = 2)
-#   SPA Weighted Mean        +/- Weighted Error      : 1.15808E+01 +/-  5.98545E-01   (N = 2)
+#   Maxwellian Average Simple Mean  |  Simple Stdev        : 4.68143E-01  |   3.97839E-01   (N = 7)
+#   Maxwellian Average Weighted Mean +/- Weighted Error      : 6.40799E-02 +/-  5.65441E-03   (N = 7)
 #
 # Data Table
 #   Experimental Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-13845-005-0         G.A.Fink                1936   2.5300E-08   0.0000E+00   1.3000E+02   5.0000E+00                
-20275-003-0         T.Fuketa                1960   2.5300E-08   0.0000E+00   1.6400E+02   1.1000E+01                
-23488-041-1         F.De Corte              1988   2.5300E-08   0.0000E+00   1.1000E+01   0.0000E+00                
-23488-041-2         F.De Corte              1988   2.5300E-08   0.0000E+00   1.3400E+02   0.0000E+00                
-22828-002-0         S.Lee                   2003   2.5300E-08   0.0000E+00   1.3300E+02   9.3000E-01                
-22828-003-0         S.Lee                   2003   3.0730E-08   0.0000E+00   1.2112E+02   3.4466E+00                
-22906-003-0         A.Brusegan              2004   2.5300E-08   0.0000E+00   1.4250E+02   1.5000E+00                
-11447-062-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.3700E+02   1.3700E+01     MXW        
-11447-063-0         L.Seren                 1947   2.5300E-08   0.0000E+00   1.1600E+01   1.1600E+00     MXW        
-11047-037-0         H.Pomerance             1951   2.5300E-08   0.0000E+00   1.5000E+02   7.5000E+00     MXW        
-21469-007-0         J.D.Cummins             1957   2.5300E-08   0.0000E+00   1.4900E+02   4.0000E+00     MXW        
-11917-002-0         W.H.Walker              1966   2.5300E-08   0.0000E+00   1.1000E+01   1.0000E+00     MXW        
-11917-004-0         W.H.Walker              1966   2.5300E-08   0.0000E+00   1.3500E+02   3.0000E+00     MXW        
-11528-026-0         S.P.Harris              1950   2.5300E-08   0.0000E+00   1.7200E+02   8.6000E+00     SPA        
-12866-086-0         R.E.Heft                1978   2.5000E-08   0.0000E+00   1.0800E+01   6.0000E-01     SPA        
+11010-009-0         V.Hummel                1951   2.4000E-02   0.0000E+00   2.0000E-01   3.0000E-02                
+11331-021-0         R.L.Macklin             1963   3.0000E-02   7.0000E-03   8.5000E-01   7.6500E-02                
+30079-019-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   5.5000E-02   2.5000E-02                
+30079-020-0         A.K.Chaubey             1966   2.4000E-02   0.0000E+00   4.5500E-01   4.5000E-02                
+30234-014-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   4.5000E-02   6.0000E-03                
+30234-015-0         A.Lakshmana Rao         1972   2.5000E-02   5.0000E-03   6.0000E-01   9.0000E-02                
+10875-021-0         R.L.Macklin             1980   3.0000E-02   0.0000E+00   1.0720E+00   0.0000E+00                
 #   Recom./Eval./Deriv./Calc. Data
 # EXFOR ID          First Author            Year   En_inc [MeV] dEn_inc      Data [B]     dData         sf8    sf9
-20965-010-0         W.Dilg                  1974   2.5300E-08   0.0000E+00   1.4480E+02   7.0000E-01           DERIV
-22906-005-0         A.Brusegan              2004   2.5300E-08   0.0000E+00   1.4520E+02   0.0000E+00     MXW   DERIV
-V1001-435-1         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.0600E+01   3.0000E-01           RECOM
-V1001-435-2         S.F.Mughabghab          2006   2.5300E-08   0.0000E+00   1.4350E+02   1.5000E+00           RECOM
+41177-119-0         M.V.Bokhovko            1991   3.0000E-02   0.0000E+00   7.4100E-01   3.7000E-02     MXW   DERIV
+V0102-191-0         Z.Y.Bao                 2000   3.0000E-02   0.0000E+00   8.1100E-01   1.4000E-02     MXW   RECOM
+V1001-437-0         S.F.Mughabghab          2006   3.0000E-02   0.0000E+00   7.4100E-01   3.7000E-02     MXW   RECOM

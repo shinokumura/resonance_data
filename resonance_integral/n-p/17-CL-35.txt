@@ -1,7 +1,7 @@
 # Header: 
 #   title: 17-CL-35(N,P) resonance_integral cross section 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 17 
 #   A: 35 

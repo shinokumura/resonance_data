@@ -1,7 +1,7 @@
 # Header: 
 #   title: 58-CE-136(N,0) Level Spacing (SF6='D' in EXFOR) 
 #   source: EXFOR 
-#   date created: 2025-09-08 
+#   date created: 2026-04-15 
 # Target: 
 #   Z: 58 
 #   A: 136 
@@ -17,6 +17,6 @@
 
 
 ## RIPL3 Data
-# ID                First Author            Year   En_min[MeV]  En_max [MeV] Data [eV]    dData [eV]        Momentum L
+# ID                First Author            Year   En_min[MeV]  En_max [MeV]  Data [eV]   dData [eV]        Momentum L
 RIPL-3 D0           A.V. Ignatyuk           2009          NAN          NAN   6.0000E+01   2.0000E+01        0.0
 RIPL-3 D1           A.V. Ignatyuk           2009          NAN          NAN          NAN          NAN        1.0
